@@ -42,11 +42,11 @@ class ScholarStat:
         current_year = 2021
         scholar_labels = ['machine_learning', 'deep_learning', 'artificial_intelligence', 'manual', 'natural_language_processing', 'nlp', 'computational_linguistics', 'data_mining', 'information_retrieval', 'computer_vision', 'robotics']
 
-        ml_conf_dict = self.get_conf_dict('conf/machine_learning_conf.txt')
-        cv_conf_dict = self.get_conf_dict('conf/computer_vision_conf.txt')
-        nlp_conf_dict = self.get_conf_dict('conf/natural_language_processing_conf.txt')
-        dm_ir_conf_dict = self.get_conf_dict('conf/data_mining_and_information_retrieval_conf.txt')
-        robotics_conf_dict = self.get_conf_dict('conf/robotics_conf.txt')
+        ml_conf_dict = self.get_conf_dict('conf_stat/machine_learning_conf.txt')
+        cv_conf_dict = self.get_conf_dict('conf_stat/computer_vision_conf.txt')
+        nlp_conf_dict = self.get_conf_dict('conf_stat/natural_language_processing_conf.txt')
+        dm_ir_conf_dict = self.get_conf_dict('conf_stat/data_mining_and_information_retrieval_conf.txt')
+        robotics_conf_dict = self.get_conf_dict('conf_stat/robotics_conf.txt')
         scholar_dict, conf_dict = {}, {}
         for scholar_label in scholar_labels:
             scholar_f = open('scholar_list/' + scholar_label + '.txt', 'r')
