@@ -1,0 +1,252 @@
+A Capsule Network for Recommendation and Explaining What You Like and Dislike
+Chenliang Li, Cong Quan, Peng Li, Yunwei Qi, Yuming Deng and Libing Wu
+Recommendation Systems | User Reviews | Deep Learning
+A Collaborative Session-based Recommendation Approach with Parallel Memory Modules
+Meirui Wang, Pengjie Ren, Lei Mei, Zhumin Chen, Jun Ma and Maarten de Rijke
+Collaborative modeling | Session-based recommendation | Memory network
+A General Framework for Counterfactual Learning-to-Rank
+Aman Agarwal, Kenta Takatsu, Ivan Zaitsev and Thorsten Joachims
+Unbiased learning to rank | Discounted Cumulative Gain | counterfactual inference
+A Neural Influence Diffusion Model for Social Recommendation
+Le Wu, Peijie Sun, Richang Hong, Yanjie Fu, Xiting Wang and Meng Wang
+social diffusion | social recommendation | influence propagation
+Accelerated Query Processing Via Similarity Score Prediction
+Matthias Petri, Alistair Moffat, Joel Mackenzie, Shane Culpepper and Daniel Beck
+inverted index | query processing | dynamic pruning | WAND processing | efficiency | web search
+Adaptive Multi-Attention Network Incorporating Answer Information for Duplicate Question Detection
+Di Liang, Fubao Zhang, Weidong Zhang, Qi Zhang, Jinlan Fu, Minlong Peng, Tao Gui and Xuanjing Huang
+duplicate question detection | adaptive multi-attention | community-based question answer
+Adversarial Mahalanobis Distance-based Attentive Song Recommender for Automatic Playlist Continuation
+Thanh Tran, Renee Sweeney and Kyumin Lee
+recommendation | memory metric based attention | automatic playlist continuation | mahalanobis distance | adversarial learning
+An Efficient Adaptive Transfer Neural Network for Social-aware Recommendation
+Chong Chen, Min Zhang, Chenyang Wang, Weizhi Ma, Minming Li, Yiqun Liu and Shaoping Ma
+Recommender Systems | Adaptive Transfer Learning | Whole-data based Learning | Social Connections | Implicit Feedback
+Answering Complex Questions by Joining Multi-Document Evidence with Quasi Knowledge Graphs
+Xiaolu Lu, Soumajit Pramanik, Rishiraj Saha Roy, Abdalghani Abujabal, Yafang Wang and Gerhard Weikum
+Question answering from the Web | Direct answers | Complex questions | Group Steiner Trees
+Asking Clarifying Questions in Open-Domain Information-Seeking Conversations
+Mohammad Aliannejadi, Hamed Zamani, Fabio Crestani and Bruce Croft
+conversational search | clarifying questions | ad-hoc retrieval
+Bayesian Personalized Feature Interaction Selection for Factorization Machines
+Yifan Chen, Pengjie Ren, Yang Wang and Maarten de Rijke
+Personalized Feature Interaction Selection | Bayesian Variable Selection | Factorization Machines | Recommender Systems
+Bridging Gaps: Predicting User and Task Characteristics from Partial User Information
+Matthew Mitsui and Chirag Shah
+task prediction | task classification | interactive information retrieval | task type | user behavior | structure learning | bayesian networks
+Compositional Coding for Collaborative Filtering
+Chenghao Liu, Tao Lu, Xin Wang, Zhiyong Cheng, Jianling Sun and Steven C.H. Hoi
+collaborative filtering | hashing | compositional coding
+Context Attentive Document Ranking and Query Suggestion
+Wasi Ahmad, Kai-Wei Chang and Hongning Wang
+Search tasks | document ranking | query suggestion | neural IR models
+Context-Aware Intent Identification in Email Conversations
+Wei Wang, Saghar Hosseini, Ahmed Hassan Awadallah, Paul Bennett and Chris Quirk
+Email Intent Understanding | Actionable Intents | Context Augmented Classification
+Controlling Risk of Web Question Answering
+Lixin Su, Jiafeng Guo, Yixing Fan, Yanyan Lan and Xueqi Cheng
+Web QA | Question Answering | Machine Reading Comprehension
+Cross-Modal Interaction Networks for Query-Based Moment Retrieval in Videos
+Zhu Zhang, Zhijie Lin, Zhou Zhao and Zhenxin Xiao
+Query-Based Moment Retrieval | Syntactic GCN | Multi-Head Self-Attention | Multi-Stage Cross-Modal Interaction
+CROSS: Cross-platform Recommendation for Social E-Commerce
+Tzu-Heng Lin, Chen Gao and Yong Li
+Recommender Systems | Collaborative Filtering | Social Media
+CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation
+Ting Bai, Lixin Zou, Xin Zhao, Pan Du, Weidong Liu, Jian-Yun Nie and Ji-Rong Wen
+Continuous-Time Recommendation | Long-Short Demands | Demand-Aware Hawkes Process | Self-Attentive Mechanism
+DivGraphPointer: A Graph Pointer Network for Extracting Diverse Keyphrases
+Zhiqing Sun, Jian Tang, Pan Du, Zhi-Hong Deng and Jian-Yun Nie
+graph neural networks | keyphrase extraction | diversified pointer network | document-level word salience
+Document Gated Reader for Open Domain Question Answering
+Bingning Wang, Zhixing Tian, Kang Liu, Jun Zhao, Ting Yao, Qi Zhang and Jingfang Xu
+Question Answering | Open Domain Question Answering | Machine Comprehension
+Domain Adaptation for Enterprise Search
+Brandon Tran, Maryam Karimzadehgan, Rama Pasumarthi, Michael Bendersky and Donald Metzler
+Enterprise Search | Domain Adaptation | Learning-to-rank
+Effects of User Negative Experience in Mobile News Streaming
+Hongyu Lu, Min Zhang, Wezhi Ma, Ce Wang, Feng Xia, Yiqun Liu, Leyu Lin and Shaoping Ma
+Negative Experience | News Streaming | User Behavior Modeling | User Satisfaction | Log Analysis
+EnsembleGAN: Adversarial Learning for Retrieval-Generation Ensemble Model on Short-Text Conversation
+Jiayi Zhang, Chongyang Tao, Zhenjing Xu, Qiaojing Xie, Wei Chen and Rui Yan
+Retrieval-based dialogue systems | Generative-based dialogue systems | Ensemble model
+ENT Rank: Retrieving Entities for Topical Information Needs through Entity-Neighbor-Text Relations
+Laura Dietz
+entity retrieval | learning to rank | joint text-entity retrieval
+Fast Approximate Filtering of Search Results Sorted by Attribute
+Roberto Trani, Franco Maria Nardini and Rossano Venturini
+Relevance-aware Filtering | Approximation Algorithm | Efficiency-Effectiveness trade-off
+Finding Camouflaged Needle in a Haystack? Pornographic Products Detection via Berrypicking Tree Model
+Guoxiu He, Yangyang Kang, Zhe Gao, Zhuoren Jiang, Changlong Sun, Xiaozhong Liu, Wei Lu, Qiong Zhang and Luo Si
+Spam Detection | Information Seeking | User Behavior | Query Log Analysis | Deep Neural Network
+Generic Intent Representation in Web Search
+Hongfei Zhang, Xia Song, Chenyan Xiong, Corby Rosset, Paul Bennett, Nick Craswell and Saurabh Tiwary
+Generic Intent Encoding | Query Embedding | User Intent Understanding
+Harvesting Drug Effectiveness from Social Media
+Zi Chai, Xiaojun Wan, Zhao Zhang and Minjie Li
+Drug effectiveness discovery | Relation extraction | Social media mining | Graph-based Information Transfers Over Time
+Hate Speech Detection is Not as Easy as You May Think: A Closer Look at Model Validation
+Aymé Arango, Jorge Perez and Barbara Poblete
+hate speech detection | hate speech classification | experimental validation | benchmark datasets | deep learning | social media
+Health Cards for Consumer Health Search
+Jimmy Jimmy, Guido Zuccon, Bevan Koopman and Gianluca Demartini
+Health cards | Consumer health search | User study
+Hierarchical Matching Network for Crime Classification
+Pengfei Wang, Yu Fan, Yongfeng Zhang, Shuzi Niu, Ze Yang and Jiafeng Guo
+Hierarchical multi-label classification | Crime Classification | Hierarchical Matching Network
+Hot Topic-Aware Retweet Prediction with Masked Self-attentive Model
+Renfeng Ma, Qi Zhang, Xiangkun Hu, Xuanjing Huang and Yu-Gang Jiang
+Retweet prediction | Hot topics | Social Medias
+Human Behavior Inspired Machine Reading Comprehension
+Yukun Zheng, Jiaxin Mao, Yiqun Liu, Zixin Ye, Min Zhang and Shaoping Ma
+Reading comprehension | Reading behavior model | User behavior analysis | Eye tracking
+Identifying Entity Properties from Text with Zero-shot Learning
+Wiradee Imrattanatrai, Makoto P. Kato and Masatoshi Yoshikawa
+Sentence classification | Property identification | Property embedding
+Improving the Accuracy of System Performance Estimation by Using Shards
+Nicola Ferro and Mark Sanderson
+effectiveness model | ANOVA | multiple comparison
+Information Needs, Queries, and Query Performance Prediction
+Oleg Zendel, Anna Shtok, Fiana Raiber, Oren Kurland and Shane Culpepper
+query-performance prediction | query variations | reference queries
+Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation
+Lucas Vinh Tran, Tuan-Anh Nguyen Pham, Yi Tay, Yiding Liu, Gao Cong and Xiaoli Li
+Recommender Systems | Group Recommendation | Collaborative Filtering | Neural Attention Mechanism
+Interpretable Fashion Matching with Rich Attributes
+Xun Yang, Xiangnan He, Xiang Wang, Yunshan Ma, Fuli Feng, Meng Wang and Tat-Seng Chua
+Fashion matching | Information Retrieval | Multimedia Recommendation
+Intervention Harvesting for Context-Dependent Examination-Bias Estimation
+Zhichong Fang, Aman Agarwal and Thorsten Joachims
+propensity estimation | unbiased learning to rank | counterfactual learning
+Investigating Passage-level Relevance and Its Role in Document-level Relevance Judgment
+Zhijing Wu, Jiaxin Mao, Yiqun Liu, Min Zhang and Shaoping Ma
+relevance judgment | passage relevance aggregation | relevance model
+Jointly Modeling Relevance and Sensitivity for Search Among Sensitive Content
+Mahmoud F. Sayed and Douglas W. Oard
+Learning to rank | Sensitivity review | Evaluation
+Knowledge Tracing with Sequential Key-Value Memory Network
+Ghodai Abdelrahman and Qing Wang
+Knowledge | Memory | Neural | Fuzzy | Sequence | Education | Learning | Tracing | Augmented
+Learning from Fact-checkers: Analysis and Generation of Fact-checking Language
+Nguyen Vo and Kyumin Lee
+fake news | fact-checking | misinformation
+Legal Intelligence for E-commerce: Multi-task Learning by Leveraging Multiview Dispute Representation
+Xin Zhou, Yating Zhang, Xiaozhong Liu, Changlong Sun and Luo Si
+Legal Intelligence | E-Commerce | Multiview Dispute Representation | Multi-task Learning
+Lifelong Sequential Modeling with Personalized Memorization for User Response Prediction
+Kan Ren, Jiarui Qin, Yuchen Fang, Weinan Zhang, Lei Zheng, Weijie Bian, Guorui Zhou, Jian Xu, Yong Yu, Xiaoqiang Zhu and Kun Gai
+User Response Prediction | Lifelong Sequential Modeling | Memory Network
+Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning
+Tao Gui, Peng Liu, Qi Zhang, Liang Zhu, Minlong Peng, Yunhua Zhou and Xuanjing Huang
+Social Media | Mention Recommendation | Reinforcement Learning
+Multi-view Embedding-based Synonyms for Email Search
+Cheng Li, Mingyang Zhang, Michael Bendersky, Hongbo Deng, Donald Metzler and Marc Najork
+embedding | synonym expansion | email search
+Neural Graph Collaborative Filtering
+Xiang Wang, Xiangnan He, Meng Wang, Fuli Feng and Tat-Seng Chua
+Collaborative Filtering | Recommendation | Higher-order Connectivity | Embedding Propagation | Neural Recommender Model
+Neural-Network Lexical Translation for Cross-lingual IR from Text and Speech
+Rabih Zbib, Lingjun Zhao, Damianos Karakos, William Hartmann, Jay DeYoung, Zhongqiang Huang, Zhuolin Jiang, Noah Rivkin, Le Zhang, Richard Schwartz and John Makhoul
+information retrieval | neural networks | machine translation | automatic speech recognition
+Noise Contrastive Estimation for One-Class Collaborative Filtering
+Ga Wu, Maksims Volkovs, Chee Loong Soon, Scott Sanner and Himanshu Rai
+Linear Recommendation System | Collaborative Filtering | Noise Contrastive Estimation
+One-Class Order Embedding Learning for Dependency Relation Prediction
+Meng-Fen Chiang, Ee-Peng Lim, Wang-Chien Lee, Xavier Jayaraj Siddarth Ashok and Philips Kokoh Prasetyo
+Vector-based Order Embedding | Negative Sampling Strategy | Dependency Relation Prediction | Knowledge Base Completion
+Online Multi-modal Hashing with Dynamic Query-adaption
+Xu Lu, Lei Zhu, Zhiyong Cheng, Liqiang Nie and Huaxiang Zhang
+Online multi-modal hashing | Efficient discrete optimization | Dynamic query-adaption | Self-weighted
+Online User Representation Learning Across Heterogeneous Social Networks
+Weiqing Wang, Hongzhi Yin, Xingzhong Du, Wen Hua, Yongjun Li and Quoc Viet Hung Nguyen
+user modelling | user linkage | social networks
+Optimal Freshness Crawl Under Politeness Constraints
+Andrey Kolobov, Yuval Peres, Eyal Lubetzky and Eric Horvitz
+politeness constraints | crawl scheduling | convex optimization | index freshness
+Outline Generation: Understanding the Inherent Content Structure of Documents
+Ruqing Zhang, Jiafeng Guo, Yixing Fan, Yanyan Lan and Xueqi Cheng
+Outline generation | Coherence | Hierarchical structured prediction
+Personal Knowledge Base Construction from Text-based Lifelogs
+An-Zi Yen, Hen-Hsen Huang and Hsin-Hsi Chen
+Lifelogging | Life event detection | Personal knowledge base construction | Social media
+Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network
+Xu Chen, Hanxiong Chen, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Hongyuan Zha and Zheng Qin
+Recommender system | Fashion recommendation | Collaborative filtering
+Privacy-aware Document Ranking with Neural Signals
+Jinjin Shao, Shiyu Ji and Tao Yang
+Neural ranking models | Privacy and relevance tradeoffs | Top K document search | Learning-to-rank tree ensembles
+Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching
+Xianjing Han, Xuemeng Song, Jianhua Yin, Yinglong Wang and Liqiang Nie
+Compatibility modeling | Fashion analysis | Neural networks | Interpretable representation
+PSGAN: A Minimax Game for Personalized Search with Limited and Noisy Click Data
+Shuqi Lu, Zhicheng Dou, Jun Xu, Jian-Yun Nie and Ji-Rong Wen
+search results personalization | generative adversarial networks | personalize search
+Quantifying and Alleviating the Language Prior Problem in Visual Question Answering
+Yangyang Guo, Zhiyong Cheng, Liqiang Nie, Yibing Liu, Yinglong Wang and Mohan Kankanhalli
+Visual Question Answering | Language Prior | Evaluation Metric
+Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
+Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo and Yongfeng Zhang
+Recommendation System | Reinforcement Learning | KnowledgeGraphs | Explainability
+Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation
+Xin Xin, Xiangnan He, Yongfeng Zhang, Yongdong Zhang and Joemon Jose
+Collaborative Filtering | Attention | Relation Learning
+Revisiting Online Personal Search Metrics with the User in Mind
+Azin Ashkan and Donald Metzler
+Online quality metrics | Information retrieval evaluation | Personal search | Online experiments
+Scalable Deep Multimodal Learning for Cross-Modal Retrieval
+Peng Hu, Liangli Zhen, Dezhong Peng and Pei Liu
+cross-modal retrieval | multimodal learning | representation learning
+Similarity-Based Synthetic Document Representations for Meta-Feature Generation in Text Classification
+Sergio Canuto, Thiago Salles, Thierson Couto Rosa and Marcos Goncalves
+Meta-Features | Text Classification | Synthetic Documents
+Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors
+Julián Urbano, Harlley de Lima and Alan Hanjalic
+Evaluation | Statistical significance | Student's t-test | Wilcoxon test | Sign test | Bootstrap test | Permutation test | Simulation | Type I and Type II errors
+Supervised Hierarchical Cross-Modal Hashing
+Changchang Sun, Xuemeng Song, Fuli Feng, Wayne Xin Zhao, Hao Zhang and Liqiang Nie
+Cross-modal Retrieval | Hashing | Hierarchy | Discriminant analysis
+Task Completion Detection
+Ryen White, Ahmed Hassan Awadallah and Robert Sim
+Tasks | Task completion | Intelligent assistants
+Teach Machine How to Read: Reading Behavior Inspired Relevance Estimation
+Xiangsheng Li, Jiaxin Mao, Chao Wang, Yiqun Liu, Min Zhang and Shaoping Ma
+Reading behavior | Retrieval model | Reinforcement learning
+The FacT: Taming Latent Factor Models for Explainability with Factorization Trees
+Yiyi Tao, Yiling Jia, Nan Wang, Aobo Yang and Hongning Wang
+Explainable Recommendation | Decision Tree | Sentiment Analysis | Latent Factor Models
+To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions
+Rolf Jagerman, Harrie Oosterhuis and Maarten de Rijke
+learning to rank | online learning | counterfactual learning | unbiased learning to rank
+Transparent, Scrutable and Explainable User Models for Personalized Recommendation
+Krisztian Balog, Filip Radlinski and Shushan Arakelyan
+Recommendation | Transparency | Scrutability
+Triple-to-Text: Converting RDF Triples into High Quality Natural Languages via Optimizing an Inverse KL Divergence
+Yaoming Zhu, Juncheng Wan, Zhiming Zhou, Liheng Chen, Lin Qiu, Weinan Zhang, Xin Jiang and Yong Yu
+Natural Language Generation | Knowledge Representation | Knowledge Bases
+Unified Collaborative Filtering over Graph Embeddings
+Pengfei Wang, Hanxiong Chen, Yadong Zhu, Huawei Shen and Yongfeng Zhang
+Sequential Recommendation Path | Attention Mechanism | Model Selection
+Unsupervised Neural Generative Semantic Hashing
+Casper Hansen, Christian Hansen, Jakob Grue Simonsen, Stephen Alstrup and Christina Lioma
+Unsupervised semantic hashing | Deep learning | Generative model | Document ranking
+User Attention-guided Multimodal Dialog Systems
+Chen Cui, Wenjie Wang, Xuemeng Song, Minlie Huang, Xin-Shun Xu and Liqiang Nie
+Multimodal Dialog Systems | Multimodal Response Generation | Multimodal Utterance Encoder | Taxonomy-attribute Combined Tree | Attribute-level User Attention
+Variance Reduction in Gradient Exploration for Online Learning to Rank
+Huazheng Wang, Sonwoo Kim, Eric McCord-Snook, Qingyun Wu and Hongning Wang
+Online Learning to Rank | Dueling Bandit | Variance Reduction
+Video Dialog via Multi-Grained Convolutional Self-Attention Context Networks
+Weike Jin, Zhou Zhao, Mao Gu, Jun Yu, Jun Xiao and Yueting Zhuang
+video dialog | multi-grained self-attention | conversation | convolution
+Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings
+Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang and Qing He
+CTR Prediction | Online Advertising | Cold-Start | Meta-Learning
+Which Diversity Evaluation Measures Are ``Good''?
+Tetsuya Sakai and Zhaohao Zeng
+evaluation measures | search result diversification | user preferences
+Why do Users Issue Good Queries? Neural Correlates of Term Specificity
+Lauri Kangassalo, Michiel Sovijärvi-Spaṕe, Giulio Jacucci and Tuukka Ruotsalo
+Term specificity | Neurophysiological signals | EEG
+π-Net: A Parallel Information-sharing Network for Cross-domain Shared-account Sequential Recommendations
+Muyang Ma, Pengjie Ren, Yujie Lin, Zhumin Chen, Jun Ma and Maarten de Rijke
+Cross-domain recommendation | Shared-account recommendation | Sequential recommendation | Transfer modeling

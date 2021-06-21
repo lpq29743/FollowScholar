@@ -1,0 +1,162 @@
+		Armita Afsharinejad, Neil Hurley:
+Performance Analysis of a Privacy Constrained kNN Recommendation Using Data Sketches. 10-18
+		Nazanin Alipourfard, Peter G. Fennell, Kristina Lerman:
+Can you Trust the Trend?: Discovering Simpson's Paradoxes in Social Data. 19-27
+		Saeid Balaneshin Kordan, Alexander Kotov:
+Deep Neural Architecture for Multi-Modal Retrieval based on Joint Embedding Space for Text and Images. 28-36
+		Austin R. Benson, Ravi Kumar, Andrew Tomkins:
+A Discrete Choice Model for Subset Selection. 37-45
+		Alex Beutel, Paul Covington, Sagar Jain, Can Xu, Jia Li, Vince Gatto, Ed H. Chi:
+Latent Cross: Making Use of Context in Recurrent Recommender Systems. 46-54
+		Roman Budylin, Alexey Drutsa, Ilya Katsev, Valeriya Tsoy:
+Consistent Transformation of Ratio Metrics for Efficient Online Controlled Experiments. 55-63
+		Thang D. Bui, Sujith Ravi, Vivek Ramavajjala:
+Neural Graph Learning: Training Neural Networks Using Graphs. 64-71
+		Marc Bury, Chris Schwiegelshohn, Mara Sorella:
+Sketch 'Em All: Fast Approximate Similarity Search for Dynamic Data Streams. 72-80
+		Matteo Ceccarello, Andrea Pietracaprina, Geppino Pucci:
+Fast Coreset-based Diversity Maximization under Matroid Constraints. 81-89
+		Harshal A. Chaudhari, John W. Byers, Evimaria Terzi:
+Putting Data in the Driver's Seat: Optimizing Earnings for On-Demand Ride-Hailing. 90-98
+		Long Chen, Fajie Yuan, Joemon M. Jose, Weinan Zhang:
+Improving Negative Sampling for Word Representation using Self-embedded Features. 99-107
+		Xu Chen, Hongteng Xu, Yongfeng Zhang, Jiaxi Tang, Yixin Cao, Zheng Qin, Hongyuan Zha:
+Sequential Recommendation with User Memory Networks. 108-116
+		Sreyasi Nag Chowdhury, Niket Tandon, Hakan Ferhatosmanoglu, Gerhard Weikum:
+VISIR: Visual and Semantic Image Label Refinement. 117-125
+		Zhuyun Dai, Chenyan Xiong, Jamie Callan, Zhiyuan Liu:
+Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search. 126-134
+		Djellel Eddine Difallah, Elena Filatova, Panos Ipeirotis:
+Demographics and Dynamics of Mechanical Turk Workers. 135-143
+		Kamran Ghasedi Dizaji, Yanhua Yang, Heng Huang:
+Joint Generative-Discriminative Aggregation Model for Multi-Option Crowd Labels. 144-152
+		Samaneh Ebrahimi, Hossein Vahabi, Matthew Prockup, Oriol Nieto:
+Predicting Audio Advertisement Quality. 153-161
+		Carsten Eickhoff:
+Cognitive Biases in Crowdsourcing. 162-170
+		Golnoosh Farnadi, Jie Tang, Martine De Cock, Marie-Francine Moens:
+User Profiling through Deep Multimodal Fusion. 171-179
+		Zachary Friggstad, Sreenivas Gollapudi, Kostas Kollias, Tamás Sarlós, Chaitanya Swamy, Andrew Tomkins:
+Orienteering Algorithms for Generating Travel Itineraries. 180-188
+		Iftah Gamzu, Liane Lewin-Eytan, Natalia Silberstein:
+Unsubscription: A Simple Way to Ease Overload in Email. 189-197
+		Alexandre Gilotte, Clément Calauzènes, Thomas Nedelec, Alexandre Abraham, Simon Dollé:
+Offline A/B Testing for Recommender Systems. 198-206
+		Ido Guy, Alexander Nus, Dan Pelleg, Idan Szpektor:
+Care to Share?: Learning to Rank Personal Photos for Public Sharing. 207-215
+		Ido Guy, Victor Makarenkov, Niva Hazon, Lior Rokach, Bracha Shapira:
+Identifying Informational vs. Conversational Questions on Community Question Answering Archives. 216-224
+		Ming He, Jiuling Zhang, Peng Yang, Kaisheng Yao:
+Robust Transfer Learning for Cross-domain Collaborative Filtering Using Multiple Rating Patterns Approximation. 225-233
+		Tom Hope, Dafna Shahaf:
+Ballpark Crowdsourcing: The Wisdom of Rough Group Comparisons. 234-242
+		Jun Hu, Ping Li:
+Collaborative Filtering via Additive Ordinal Regression. 243-251
+		Wenjian Hu, Krishna Kumar Singh, Fanyi Xiao, Jinyoung Han, Chen-Nee Chuah, Yong Jae Lee:
+Who Will Share My Image?: Predicting the Content Diffusion Path in Online Social Networks. 252-260
+		Ziniu Hu, Weiqing Liu, Jiang Bian, Xuanzhe Liu, Tie-Yan Liu:
+Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction. 261-269
+		Xiao Huang, Qingquan Song, Jundong Li, Xia Hu:
+Exploring Expert Cognition for Attributed Network Embedding. 270-278
+		Kai Hui, Andrew Yates, Klaus Berberich, Gerard de Melo:
+Co-PACRR: A Context-Aware Neural IR Model for Ad-hoc Retrieval. 279-287
+		Zhengshen Jiang, Hongzhi Liu, Bin Fu, Zhonghai Wu, Tao Zhang:
+Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking. 288-296
+		Saehan Jo, Jaemin Yoo, U Kang:
+Fast and Scalable Distributed Loopy Belief Propagation on Real-World Graphs. 297-305
+		Parisa Kaghazgaran, James Caverlee, Anna Cinzia Squicciarini:
+Combating Crowdsourced Review Manipulators: A Neighborhood-Based Approach. 306-314
+		Noriaki Kawamae:
+Topic Chronicle Forest for Topic Discovery and Tracking. 315-323
+		Jooyeon Kim, Behzad Tabibian, Alice Oh, Bernhard Schölkopf, Manuel Gomez-Rodriguez:
+Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation. 324-332
+		Srijan Kumar, Bryan Hooi, Disha Makhija, Mohit Kumar, Christos Faloutsos, V. S. Subrahmanian:
+REV2: Fraudulent User Prediction in Rating Platforms. 333-341
+		Katrien Laenen, Susana Zoghbi, Marie-Francine Moens:
+Web Search of Fashion Items with Multimodal Querying. 342-350
+		Preethi Lahoti, Kiran Garimella, Aristides Gionis:
+Joint Non-negative Matrix Factorization for Learning Ideological Leaning on Twitter. 351-359
+		Dan Li, Evangelos Kanoulas:
+Bayesian Optimization for Optimizing Retrieval Systems. 360-368
+		Jundong Li, Kewei Cheng, Liang Wu, Huan Liu:
+Streaming Link Prediction on Dynamic Attributed Networks. 369-377
+		Zhaoyang Liu, Yanyan Shen, Yanmin Zhu:
+Inferring Dockless Shared Bike Distribution in New Cities. 378-386
+		Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin:
+Multi-Dimensional Network Embedding with Hierarchical Structure. 387-395
+		Joel Mackenzie, J. Shane Culpepper, Roi Blanco, Matt Crane, Charles L. A. Clarke, Jimmy Lin:
+Query Driven Algorithm Selection in Early Stage Retrieval. 396-404
+		Alistair Moffat, Matthias Petri:
+Index Compression Using Byte-Aligned ANS Coding and Two-Dimensional Contexts. 405-413
+		Sharad Nandanwar, Aayush Moroney, M. Narasimha Murty:
+Fusing Diversity in Recommendations in Heterogeneous Information Networks. 414-422
+		Wei Niu, James Caverlee, Haokai Lu:
+Neural Personalized Ranking for Image Recommendation. 423-431
+		Kien Pham, Aécio S. R. Santos, Juliana Freire:
+Learning to Discover Domain-Specific Web Content. 432-440
+		Yashoteja Prabhu, Anil Kag, Shilpa Gopinath, Kunal Dahiya, Shrutendra Harsola, Rahul Agrawal, Manik Varma:
+Extreme Multi-label Learning with Label Features for Warm-start Tagging, Ranking & Recommendation. 441-449
+		Yuqiu Qian, Conghui Tan, Nikos Mamoulis, David W. Cheung:
+DSANLS: Accelerating Distributed Nonnegative Matrix Factorization via Sketching. 450-458
+		Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, Jie Tang:
+Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec. 459-467
+		Meng Qu, Jian Tang, Jiawei Han:
+Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning. 468-476
+		Suhas Ranganath, Ghazaleh Beigi, Huan Liu:
+Leveraging Implicit Contribution Amounts to Facilitate Microfinancing Requests. 477-485
+		Mojtaba Rezvani, Qing Wang, Weifa Liang:
+FACH: Fast Algorithm for Detecting Cohesive Hierarchies of Communities in Large Networks. 486-494
+		Farig Sadeque, Dongfang Xu, Steven Bethard:
+Measuring the Latency of Depression Detection in Social Media. 495-503
+		Ahmet Erdem Sariyüce, Ali Pinar:
+Peeling Bipartite Networks for Dense Subgraph Discovery. 504-512
+		Tobias Schnabel, Paul N. Bennett, Susan T. Dumais, Thorsten Joachims:
+Short-Term Satisfaction and Long-Term Coverage: Understanding How Users Tolerate Algorithmic Exploration. 513-521
+		Kai Shu, Suhang Wang, Jiliang Tang, Yilin Wang, Huan Liu:
+CrossFire: Cross Media Joint Friend and Item Recommendations. 522-530
+		Moumita Sinha, Vishwa Vinay, Harvineet Singh:
+Modeling Time to Open of Emails with a Latent State for User Engagement Level. 531-539
+		Stergios Stergiou, Dipen Rughwani, Kostas Tsioutsiouliklis:
+Shortcutting Label Propagation for Distributed Connected Components. 540-546
+		Ning Su, Jiyin He, Yiqun Liu, Min Zhang, Shaoping Ma:
+User Intent, Behaviour, and Perceived Satisfaction in Product Search. 547-555
+		Mingming Sun, Xu Li, Xin Wang, Miao Fan, Yue Feng, Ping Li:
+Logician: A Unified End-to-End Neural Approach for Open-Domain Information Extraction. 556-564
+		Jiaxi Tang, Ke Wang:
+Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding. 565-573
+		Md. Mehrab Tanjim, Muhammad Abdullah Adnan:
+sSketch: A Scalable Sketching Technique for PCA in the Cloud. 574-582
+		Yi Tay, Luu Anh Tuan, Siu Cheung Hui:
+Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering. 583-591
+		Hongwei Wang, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu:
+SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction. 592-600
+		Sheng Wang, Zhifeng Bao, Shixun Huang, Rui Zhang:
+A Unified Processing Paradigm for Interactive Location-based Web Search. 601-609
+		Xuanhui Wang, Nadav Golbandi, Michael Bendersky, Donald Metzler, Marc Najork:
+Position Bias Estimation for Unbiased Learning to Rank in Personal Search. 610-618
+		Zihan Wang, Ziheng Jiang, Zhaochun Ren, Jiliang Tang, Dawei Yin:
+A Path-constrained Framework for Discriminating Substitutable and Complementary Products in E-commerce. 619-627
+		Yu Ting Wen, Pei-Wen Yeh, Tzu-Hao Tsai, Wen-Chih Peng, Hong-Han Shuai:
+Customer Purchase Behavior Prediction from Payment Datasets. 628-636
+		Liang Wu, Huan Liu:
+Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate. 637-645
+		Zeqiu Wu, Xiang Ren, Frank F. Xu, Ji Li, Jiawei Han:
+Indirect Supervision for Relation Extraction using Question-Answer Pairs. 646-654
+		Xiaohui Xie, Yiqun Liu, Maarten de Rijke, Jiyin He, Min Zhang, Shaoping Ma:
+Why People Search for Images using Web Search Engines. 655-663
+		Longqi Yang, Eugene Bagdasaryan, Joshua Gruenstein, Cheng-Kang Hsieh, Deborah Estrin:
+OpenRec: A Modular Framework for Extensible and Adaptable Recommendation Algorithms. 664-672
+		Zijun Yao, Yifan Sun, Weicong Ding, Nikhil Rao, Hui Xiong:
+Dynamic Word Embeddings for Evolving Semantic Discovery. 673-681
+		Jianfei Yu, Minghui Qiu, Jing Jiang, Jun Huang, Shuangyong Song, Wei Chu, Haiqing Chen:
+Modelling Domain Relationships for Transfer Learning on Retrieval-based Question Answering Systems in E-commerce. 682-690
+		Qian Yu, Wai Lam:
+Review-Aware Answer Prediction for Product-Related Questions Incorporating Aspects. 691-699
+		Hamed Zamani, Bhaskar Mitra, Xia Song, Nick Craswell, Saurabh Tiwary:
+Neural Ranking Models with Multiple Document Fields. 700-708
+		Yan Zhang, Hongzhi Yin, Zi Huang, Xingzhong Du, Guowu Yang, Defu Lian:
+Discrete Deep Learning for Fast Content-Aware Recommendation. 717-726
+		Meizi Zhou, Zhuoye Ding, Jiliang Tang, Dawei Yin:
+Micro Behaviors: A New Perspective in E-commerce Recommender Systems. 727-735
+		Xian Zhou, Yanyan Shen, Yanmin Zhu, Linpeng Huang:
+Predicting Multi-step Citywide Passenger Demands Using Attention-based Neural Networks. 736-744

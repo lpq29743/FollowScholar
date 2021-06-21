@@ -1,0 +1,438 @@
+		Ningyu Zhang, Shumin Deng, Zhanlin Sun, Jiaoyan Chen, Wei Zhang, Huajun Chen:
+Relation Adversarial Network for Low Resource Knowledge Graph Completion. 1-12
+		Wenbo Zheng, Chao Gou, Lan Yan, Shaocong Mo:
+Learning to Classify: A Flow-Based Relation Network for Encrypted Traffic Classification. 13-22
+		Xi Chen, Hang Li, Chenyi Zhou, Xue Liu, Di Wu, Gregory Dudek:
+FiDo: Ubiquitous Fine-Grained WiFi-based Localization for Unlabelled Users via Domain Adaptation. 23-33
+		Bertil Chapuis, Olamide Omolola, Mauro Cherubini, Mathias Humbert, Kévin Huguenin:
+An Empirical Study of the Use of Integrity Verification Mechanisms for Web Subresources. 34-45
+		Wanyue Xu, Yibin Sheng, Zuobai Zhang, Haibin Kan, Zhongzhi Zhang:
+Power-Law Graphs Have Minimal Scaling of Kemeny Constant for Random Walks. 46-56
+		Furong Xu, Wei Zhang, Yuan Cheng, Wei Chu:
+Metric Learning with Equidistant and Equidistributed Triplet-based Loss for Product Image Search. 57-65
+		Tong Li, Mingyang Zhang, Hancheng Cao, Yong Li, Sasu Tarkoma, Pan Hui:
+"What Apps Did You Use?": Understanding the Long-term Evolution of Mobile App Usage. 66-76
+		Yusan Lin, Maryam Moosaei, Hao Yang:
+OutfitNet: Fashion Outfit Recommendation with Attention-Based Multiple Instance Learning. 77-87
+		Suining He, Kang G. Shin:
+Towards Fine-grained Flow Forecasting: A Graph Attention Approach for Bike Sharing Systems. 88-98
+		Xiang Wang, Yaokun Xu, Xiangnan He, Yixin Cao, Meng Wang, Tat-Seng Chua:
+Reinforced Negative Sampling over Knowledge Graph for Recommendation. 99-109
+		Yao Zhou, Arun Reddy Nelakurthi, Ross Maciejewski, Wei Fan, Jingrui He:
+Crowd Teaching with Imperfect Labels. 110-121
+		Xueqi Li, Wenjun Jiang, Weiguang Chen, Jie Wu, Guojun Wang, Kenli Li:
+Directional and Explainable Serendipity Recommendation. 122-132
+		Suining He, Kang G. Shin:
+Dynamic Flow Distribution Prediction for Urban Dockless E-Scooter Sharing Reconfiguration. 133-143
+		Liang Yang, Fan Wu, Junhua Gu, Chuan Wang, Xiaochun Cao, Di Jin, Yuanfang Guo:
+Graph Attention Topic Modeling Network. 144-154
+		Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu:
+Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network. 155-166
+		David Zeber, Sarah Bird, Camila Oliveira, Walter Rudametkin, Ilana Segall, Fredrik Wollsén, Martin Lopatka:
+The Representativeness of Automated Web Crawls as a Surrogate for Human Browsing. 167-178
+		Kijin An, Eli Tilevich:
+Client Insourcing: Bringing Ops In-House for Seamless Re-engineering of Full-Stack JavaScript Applications. 179-189
+		Christian Meurisch, Bekir Bayrak, Max Mühlhäuser:
+Privacy-preserving AI Services Through Data Decentralization. 190-200
+		Hongming Zhang, Xin Liu, Haojie Pan, Yangqiu Song, Cane Wing-Ki Leung:
+ASER: A Large-scale Eventuality Knowledge Graph. 201-211
+		Chris Xiaoxuan Lu, Yang Li, Yuanbo Xiangli, Zhengxiong Li:
+Nowhere to Hide: Cross-modal Identity Leakage between Biometrics and Devices. 212-223
+		Márcio Silva, Lucas Santos de Oliveira, Athanasios Andreou, Pedro Olmo Stancioli Vaz de Melo, Oana Goga, Fabrício Benevenuto:
+Facebook Ads Monitor: An Independent Auditing System for Political Ads on Facebook. 224-234
+		Yuxuan Shi, Gong Cheng, Evgeny Kharlamov:
+Keyword Search over Knowledge Graphs via Static and Dynamic Hub Labelings. 235-245
+		Meng Ma, Jingmin Xu, Yuan Wang, Pengfei Chen, Zonghua Zhang, Ping Wang:
+AutoMAP: Diagnose Your Microservice-based Web Applications Automatically. 246-258
+		Zhen Peng, Wenbing Huang, Minnan Luo, Qinghua Zheng, Yu Rong, Tingyang Xu, Junzhou Huang:
+Graph Representation Learning via Graphical Mutual Information Maximization. 259-270
+		Syed Suleman Ahmad, Muhammad Daniyal Dar, Muhammad Fareed Zaffar, Narseo Vallina-Rodriguez, Rishab Nithyanand:
+Apophanies or Epiphanies? How Crawlers Impact Our Understanding of the Web. 271-280
+		Jianxing Yu, Xiaojun Quan, Qinliang Su, Jian Yin:
+Generating Multi-hop Reasoning Questions to Improve Machine Reading Comprehension. 281-291
+		Mengyue Yang, Qingyang Li, Zhiwei Qin, Jieping Ye:
+Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation. 292-302
+		Fajie Yuan, Xiangnan He, Haochuan Jiang, Guibing Guo, Jian Xiong, Zhezhao Xu, Yilin Xiong:
+Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation. 303-313
+		Adithya Kumar, Iyswarya Narayanan, Timothy Zhu, Anand Sivasubramaniam:
+The Fast and The Frugal: Tail Latency Aware Provisioning for Coping with Load Variations. 314-326
+		Daniele Rama, Yelena Mejova, Michele Tizzoni, Kyriaki Kalimeri, Ingmar Weber:
+Facebook Ads as a Demographic Tool to Measure the Urban-Rural Divide. 327-338
+		Zi Chen, Long Yuan, Xuemin Lin, Lu Qin, Jianye Yang:
+Efficient Maximal Balanced Clique Enumeration in Signed Networks. 339-349
+		Ping Wang, Tian Shi, Chandan K. Reddy:
+Text-to-SQL Generation for Question Answering on Electronic Medical Records. 350-361
+		Han Xiao, Bruno Ordozgoiti, Aristides Gionis:
+Searching for polarization in signed graphs: a local spectral approach. 362-372
+		David Carmel, Elad Haramaty, Arnon Lazerson, Liane Lewin-Eytan:
+Multi-Objective Ranking Optimization for Product Search Using Stochastic Label Aggregation. 373-383
+		Ermei Cao, Difeng Wang, JiaCheng Huang, Wei Hu:
+Open Knowledge Enrichment for Long-tail Entities. 384-394
+		Iskander Sánchez-Rola, Davide Balzarotti, Christopher Kruegel, Giovanni Vigna, Igor Santos:
+Dirty Clicks: A Study of the Usability and Security Implications of Click-related Behaviors on the Web. 395-406
+		Shuguang Han, Michael Bendersky, Przemek Gajda, Sergey Novikov, Marc Najork, Bernhard Brodowsky, Alexandrin Popescul:
+Adversarial Bandits Policy for Crawling Commercial Web Content. 407-417
+		Hamed Zamani, Susan T. Dumais, Nick Craswell, Paul N. Bennett, Gord Lueck:
+Generating Clarifying Questions for Information Retrieval. 418-428
+		Jing Li, Shuo Shang, Ling Shao:
+MetaNER: Named Entity Recognition with Meta-Learning. 429-440
+		Linyi Yang, Tin Lok James Ng, Barry Smyth, Ruihai Dong:
+HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction. 441-451
+		Ekta Gujral, Ravdeep Pasricha, Evangelos E. Papalexakis:
+Beyond Rank-1: Discovering Rich Community Structure in Multi-Aspect Graphs. 452-462
+		Jiaqi Ma, Zhe Zhao, Xinyang Yi, Ji Yang, Minmin Chen, Jiaxi Tang, Lichan Hong, Ed H. Chi:
+Off-policy Learning in Two-stage Recommender Systems. 463-473
+		Kaitao Zhang, Chenyan Xiong, Zhenghao Liu, Zhiyuan Liu:
+Selective Weak Supervision for Neural Information Retrieval. 474-485
+		Jiaming Shen, Zhihong Shen, Chenyan Xiong, Chi Wang, Kuansan Wang, Jiawei Han:
+TaxoExpan: Self-supervised Taxonomy Expansion with Position-Enhanced Graph Neural Network. 486-497
+		Ye Yuan, Xin Luo, Mingsheng Shang, Di Wu:
+A Generalized and Fast-converging Non-negative Latent Factor Model for Predicting User Preferences in Recommender Systems. 498-507
+		Kai Zhao, Ting Bai, Bin Wu, Bai Wang, Youjie Zhang, Yuanyu Yang, Jian-Yun Nie:
+Deep Adversarial Completion for Sparse Heterogeneous Information Network Embedding. 508-518
+		Farhan Khawar, Leonard K. M. Poon, Nevin L. Zhang:
+Learning the Structure of Auto-Encoding Recommenders. 519-529
+		Junyi Gao, Cao Xiao, Yasha Wang, Wen Tang, Lucas M. Glass, Jimeng Sun:
+StageNet: Stage-Aware Neural Networks for Health Risk Prediction. 530-540
+		Siddharth Biswal, Cao Xiao, Lucas Glass, M. Brandon Westover, Jimeng Sun:
+Clinical Report Auto-completion. 541-550
+		Huafeng Liu, Liping Jing, Jingxuan Wen, Zhicheng Wu, Xiaoyi Sun, Jiaqi Wang, Lin Xiao, Jian Yu:
+Deep Global and Local Generative Model for Recommendation. 551-561
+		Austin Hounsel, Kevin Borgolte, Paul Schmitt, Jordan Holland, Nick Feamster:
+Comparing the Effects of DNS, DoT, and DoH on Web Performance. 562-572
+		Digvijay Boob, Yu Gao, Richard Peng, Saurabh Sawlani, Charalampos E. Tsourakakis, Di Wang, Junxing Wang:
+Flowless: Extracting Densest Subgraphs Without Flow Computations. 573-583
+		Zhihan Fang, Guang Wang, Shuai Wang, Chaoji Zuo, Fan Zhang, Desheng Zhang:
+CellRep: Usage Representativeness Modeling and Correction Based on Multiple City-Scale Cellular Networks. 584-595
+		Renato Paes Leme, Balasubramanian Sivan, Yifeng Teng:
+Why Do Competitive Markets Converge to First-Price Auctions? 596-605
+		Katherine Van Koevering, Austin R. Benson, Jon M. Kleinberg:
+Frozen Binomials on the Web: Word Ordering and Language Conventions in Online Text. 606-616
+		Zhengjie Miao, Yuliang Li, Xiaolan Wang, Wang-Chiew Tan:
+Snippext: Semi-supervised Opinion Mining with Augmented Data. 617-628
+		Huajie Shao, Dachun Sun, Jiahao Wu, Zecheng Zhang, Aston Zhang, Shuochao Yao, Shengzhong Liu, Tianshi Wang, Chao Zhang, Tarek F. Abdelzaher:
+paper2repo: GitHub Repository Recommendation for Academic Papers. 629-639
+		Zheng Fang, Yanan Cao, Ren Li, Zhenyu Zhang, Yanbing Liu, Shi Wang:
+High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking. 640-650
+		Shuangyin Li, Yu Zhang, Rong Pan, Kaixiang Mo:
+Adaptive Probabilistic Word Embedding. 651-661
+		Xiaoying Zhang, Hong Xie, Hang Li, John C. S. Lui:
+Conversational Contextual Bandit: Algorithm and Application. 662-672
+		Yiwei Sun, Suhang Wang, Xianfeng Tang, Tsung-Yu Hsieh, Vasant G. Honavar:
+Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach. 673-683
+		Khoa D. Doan, Chandan K. Reddy:
+Efficient Implicit Unsupervised Text Hashing using Adversarial Autoencoder. 684-694
+		Defu Lian, Haoyu Wang, Zheng Liu, Jianxun Lian, Enhong Chen, Xing Xie:
+LightRec: A Memory and Search-Efficient Recommender System. 695-705
+		Ilya Amburg, Nate Veldt, Austin R. Benson:
+Clustering in graphs and hypergraphs with categorical edge labels. 706-717
+		Zhuoyi Wang, Yigong Wang, Yu Lin, Evan Delord, Latifur Khan:
+Few-Sample and Adversarial Representation Learning for Continual Stream Mining. 718-728
+		Feiyang Pan, Xiang Ao, Pingzhong Tang, Min Lu, Dapeng Liu, Lei Xiao, Qing He:
+Field-aware Calibration: A Simple and Empirically Strong Method for Reliable Probabilistic Predictions. 729-739
+		Gaole He, Junyi Li, Wayne Xin Zhao, Peiju Liu, Ji-Rong Wen:
+Mining Implicit Entity Preference from User-Item Interaction Data for Knowledge Graph Completion via Adversarial Learning. 740-751
+		Xiangyu Zhao, Longbiao Wang, Ruifang He, Ting Yang, Jinxin Chang, Ruifang Wang:
+Multiple Knowledge Syncretic Transformer for Natural Dialogue Generation. 752-762
+		Moumena Chaqfeh, Yasir Zaki, Jacinta Hu, Lakshmi Subramanian:
+JSCleaner: De-Cluttering Mobile Webpages Through JavaScript Cleanup. 763-773
+		Yen-Hao Huang, Ting-Wei Liu, Ssu-Rui Lee, Fernando Henrique Calderon Alvarado, Yi-Shin Chen:
+Conquering Cross-source Failure for News Credibility: Learning Generalizable Representations beyond Content Embedding. 774-784
+		Qiwei Zhong, Yang Liu, Xiang Ao, Binbin Hu, Jinghua Feng, Jiayu Tang, Qing He:
+Financial Defaulter Detection on Online Credit Payment via Multi-view Attributed Heterogeneous Information Network. 785-795
+		Yiyan Qi, Pinghui Wang, Yuanming Zhang, Junzhou Zhao, Guangjian Tian, Xiaohong Guan:
+Fast Generating A Large Number of Gumbel-Max Variables. 796-807
+		Vikas Mishra, Pierre Laperdrix, Antoine Vastel, Walter Rudametkin, Romain Rouvoy, Martin Lopatka:
+Don't Count Me Out: On the Relevance of IP Address in the Tracking Ecosystem. 808-815
+		Rolf van Wegberg, Fieke Miedema, Ugur Akyazi, Arman Noroozian, Bram Klievink, Michel van Eeten:
+Go See a Specialist? Predicting Cybercrime Sales on Online Anonymous Markets from Vendor and Product Characteristics. 816-826
+		Xiang Li, Chao Wang, Jiwei Tan, Xiaoyi Zeng, Dan Ou, Bo Zheng:
+Adversarial Multimodal Representation Learning for Click-Through Rate Prediction. 827-836
+		Peijie Sun, Le Wu, Kun Zhang, Yanjie Fu, Richang Hong, Meng Wang:
+Dual Learning for Explainable Recommendation: Towards Unifying User Preference Prediction and Review Generation. 837-847
+		Aviad Elyashar, Sagi Uziel, Abigail Paradise, Rami Puzis:
+The Chameleon Attack: Manipulating Content Display in Online Social Media. 848-859
+		Sheng Tian, Tao Xiong:
+A Generic Solver Combining Unsupervised Learning and Representation Learning for Breaking Text-Based Captchas. 860-871
+		Idan Szpektor, Deborah Cohen, Gal Elidan, Michael Fink, Avinatan Hassidim, Orgad Keller, Sayali Kulkarni, Eran Ofek, Sagie Pudinsky, Asaf Revach, Shimi Salant, Yossi Matias:
+Dynamic Composition for Conversational Domain Exploration. 872-883
+		Ammar Tahir, Muhammad Tahir Munir, Shaiq Munir Malik, Zafar Ayyub Qazi, Ihsan Ayyub Qazi:
+Deconstructing Google's Web Light Service. 884-893
+		Arvind Narayanan, Eman Ramadan, Jason Carpenter, Qingxu Liu, Yu Liu, Feng Qian, Zhi-Li Zhang:
+A First Look at Commercial 5G Performance on Smartphones. 894-905
+		Qinyong Wang, Hongzhi Yin, Tong Chen, Zi Huang, Hao Wang, Yanchang Zhao, Nguyen Quoc Viet Hung:
+Next Point-of-Interest Recommendation on Resource-Constrained Mobile Devices. 906-916
+		Jia Li, Honglei Zhang, Zhichao Han, Yu Rong, Hong Cheng, Junzhou Huang:
+Adversarial Attack on Community Detection by Hiding Individuals. 917-927
+		Yongchun Zhu, Dongbo Xi, Bowen Song, Fuzhen Zhuang, Shuai Chen, Xi Gu, Qing He:
+Modeling Users' Behavior Sequences with Hierarchical Explainable Network for Cross-domain Fraud Detection. 928-938
+		Pubali Datta, Prabuddha Kumar, Tristan Morris, Michael Grace, Amir Rahmati, Adam Bates:
+Valve: Securing Function Workflows on Serverless Computing Platforms. 939-950
+		Wenhao Yu, Wei Peng, Yu Shu, Qingkai Zeng, Meng Jiang:
+Experimental Evidence Extraction System in Data Science with Hybrid Table Features and Ensemble Learning. 951-961
+		Wenhao Yu, Mengxia Yu, Tong Zhao, Meng Jiang:
+Identifying Referential Intention with Heterogeneous Contexts. 962-972
+		Jiangwei Zhang, Y. C. Tay:
+PG2S+: Stack Distance Construction Using Popularity, Gap and Machine Learning. 973-983
+		Amr Azzam, Javier D. Fernández, Maribel Acosta, Martin Beno, Axel Polleres:
+SMART-KG: Hybrid Shipping for SPARQL Querying on the Web. 984-994
+		Xian Wu, Suleyman Cetintas, Deguang Kong, Miao Lu, Jian Yang, Nitesh V. Chawla:
+Learning from Cross-Modal Behavior Dynamics with Graph-Regularized Neural Contextual Bandit. 995-1005
+		Faysal Hossain Shezan, Hang Hu, Jiamin Wang, Gang Wang, Yuan Tian:
+Read Between the Lines: An Empirical Measurement of Sensitive Applications of Voice Personal Assistant Systems. 1006-1017
+		Nir Rosenfeld, Aron Szanto, David C. Parkes:
+A Kernel of Truth: Determining Rumor Veracity on Twitter by Diffusion Pattern Alone. 1018-1028
+		Xingyao Zhang, Cao Xiao, Lucas Glass, Jimeng Sun:
+Patient-Trial Matching with Deep Embedding and Entailment Prediction. 1029-1037
+		Amin Javari, Zhankui He, Zijie Huang, Jeetu Raj, Kevin Chen-Chuan Chang:
+Weakly Supervised Attention for Hashtag Recommendation using Graph Data. 1038-1048
+		Gromit Yeuk-Yin Chan, Fan Du, Ryan A. Rossi, Anup B. Rao, Eunyee Koh, Cláudio T. Silva, Juliana Freire:
+Real-Time Clustering for Large Sparse Online Visitor Data. 1049-1059
+		Rachid Guerraoui, Anne-Marie Kermarrec, Olivier Ruas, François Taïani:
+Smaller, Faster & Lighter KNN Graph Constructions. 1060-1070
+		Harrisen Scells, Guido Zuccon, Bevan Koopman, Justin Clark:
+Automatic Boolean Query Formulation for Systematic Review Literature Search. 1071-1081
+		Xiaoyang Wang, Yao Ma, Yiqi Wang, Wei Jin, Xin Wang, Jiliang Tang, Caiyan Jia, Jian Yu:
+Traffic Flow Prediction via Spatial Temporal Graph Neural Network. 1082-1092
+		Defu Lian, Qi Liu, Enhong Chen:
+Personalized Ranking with Importance Sampling. 1093-1103
+		Yu Liu, Quanming Yao, Yong Li:
+Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases. 1104-1114
+		Caleb Belth, Xinyi Zheng, Jilles Vreeken, Danai Koutra:
+What is Normal, What is Strange, and What is Missing in a Knowledge Graph: Unified Characterization via Inductive Summarization. 1115-1126
+		Xueliang Guo, Chongyang Shi, Chuanming Liu:
+Intention Modeling from Ordered and Unordered Facets for Sequential Recommendation. 1127-1137
+		Shen Gao, Xiuying Chen, Chang Liu, Li Liu, Dongyan Zhao, Rui Yan:
+Learning to Respond with Stickers: A Framework of Unifying Multi-Modality in Multi-Turn Dialog. 1138-1148
+		Junshuang Wu, Richong Zhang, Yongyi Mao, Hongyu Guo, Masoumeh Soflaei, Jinpeng Huai:
+Dynamic Graph Convolutional Networks for Entity Linking. 1149-1159
+		Corbin Rosset, Chenyan Xiong, Xia Song, Daniel Campos, Nick Craswell, Saurabh Tiwary, Paul N. Bennett:
+Leading Conversational Search by Suggesting Useful Questions. 1160-1170
+		Marc Anthony Warrior, Yunming Xiao, Matteo Varvello, Aleksandar Kuzmanovic:
+De-Kodi: Understanding the Kodi Ecosystem. 1171-1181
+		Weiping Pei, Arthur Mayer, Kaylynn Tu, Chuan Yue:
+Attention Please: Your Attention Check Questions in Survey Studies Can Be Automatically Answered. 1182-1193
+		Gourab K. Patro, Arpita Biswas, Niloy Ganguly, Krishna P. Gummadi, Abhijnan Chakraborty:
+FairRec: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms. 1194-1204
+		Chen Zhao, Chenyan Xiong, Xin Qian, Jordan L. Boyd-Graber:
+Complex Factoid Question Answering with a Free-Text Knowledge Graph. 1205-1216
+		Rhys Biddle, Aditya Joshi, Shaowu Liu, Cécile Paris, Guandong Xu:
+Leveraging Sentiment Distributions to Distinguish Figurative From Literal Health Reports on Twitter. 1217-1227
+		Carlos Toxtli, Angela Richmond-Fuller, Saiph Savage:
+Reputation Agent: Prompting Fair Reviews in Gig Markets. 1228-1240
+		Saiph Savage, Chun-Wei Chiang, Susumu Saito, Carlos Toxtli, Jeffrey P. Bigham:
+Becoming the Super Turker: Increasing Wages via a Strategy from High Earning Workers. 1241-1252
+		Nikhil Goyal, Harsh Vardhan Jain, Sayan Ranu:
+GraphGen: A Scalable Approach to Domain-agnostic Labeled Graph Generation. 1253-1263
+		Fuqiang Yu, Lizhen Cui, Wei Guo, Xudong Lu, Qingzhong Li, Hua Lu:
+A Category-Aware Deep Model for Successive POI Recommendation on Sparse Check-in Data. 1264-1274
+		Tobias Urban, Martin Degeling, Thorsten Holz, Norbert Pohlmann:
+Beyond the Front Page: Measuring Third Party Dynamics in the Field. 1275-1286
+		Adam Breuer, Roee Eilat, Udi Weinsberg:
+Friend or Faux: Graph-Based Early Detection of Fake Accounts on Social Networks. 1287-1297
+		Shuo Zhang, Edgar Meij, Krisztian Balog, Ridho Reinanda:
+Novel Entity Discovery from Web Tables. 1298-1308
+		Wei-Fan Chen, Shahbaz Syed, Benno Stein, Matthias Hagen, Martin Potthast:
+Abstractive Snippet Generation. 1309-1319
+		Benjamin Eriksson, Andrei Sabelfeld:
+AutoNav: Evaluation and Automatization of Web Navigation Policies. 1320-1331
+		Sebastian Arnold, Betty van Aken, Paul Grundmann, Felix A. Gers, Alexander Löser:
+Learning Contextualized Document Representations for Healthcare Answer Retrieval. 1332-1343
+		Roland Aydin, Lars Klein, Arnaud Miribel, Robert West:
+Broccoli: Sprinkling Lightweight Vocabulary Learning into Everyday Information Diets. 1344-1354
+		Tianfu He, Jie Bao, Ruiyuan Li, Sijie Ruan, Yanhua Li, Li Song, Hui He, Yu Zheng:
+What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities. 1355-1365
+		Brit Youngmann, Elad Yom-Tov, Ran Gilad-Bachrach, Danny Karmon:
+The Automated Copywriter: Algorithmic Rephrasing of Health-Related Advertisements to Improve their Performance. 1366-1377
+		Bruno Ordozgoiti, Antonis Matakos, Aristides Gionis:
+Finding large balanced subgraphs in signed networks. 1378-1388
+		Han Zhang, Wenhao Zheng, Charley Chen, Kevin Gao, Yao Hu, Ling Huang, Wei Xu:
+Modeling Heterogeneous Statistical Patterns in High-dimensional Data by Adversarial Distributions: An Unsupervised Generative Framework. 1389-1399
+		Deyu Bo, Xiao Wang, Chuan Shi, Meiqi Zhu, Emiao Lu, Peng Cui:
+Structural Deep Clustering Network. 1400-1410
+		Weili Chen, Tuo Zhang, Zhiguang Chen, Zibin Zheng, Yutong Lu:
+Traveling the token world: A graph analysis of Ethereum ERC20 token ecosystem. 1411-1421
+		Zhihao Wang, Qiang Li, Jinke Song, Haining Wang, Limin Sun:
+Towards IP-based Geolocation via Fine-grained and Stable Webcam Landmarks. 1422-1432
+		Panagiotis Papadopoulos, Peter Snyder, Dimitrios Athanasakis, Benjamin Livshits:
+Keeping out the Masses: Understanding the Popularity and Implications of Internet Paywalls. 1433-1444
+		André Greiner-Petter, Moritz Schubotz, Fabian Müller, Corinna Breitinger, Howard S. Cohl, Akiko Aizawa, Bela Gipp:
+Discovering Mathematical Objects of Interest - A Study of Mathematical Notations. 1445-1456
+		Man Wu, Shirui Pan, Chuan Zhou, Xiaojun Chang, Xingquan Zhu:
+Unsupervised Domain Adaptive Graph Convolutional Networks. 1457-1467
+		David García-Soriano, Konstantin Kutzkov, Francesco Bonchi, Charalampos E. Tsourakakis:
+Query-Efficient Correlation Clustering. 1468-1478
+		Pushkal Agarwal, Sagar Joglekar, Panagiotis Papadopoulos, Nishanth Sastry, Nicolas Kourtellis:
+Stop tracking me Bro! Differential Tracking of User Demographics on Hyper-Partisan Websites. 1479-1490
+		Simon S. Woo:
+How Do We Create a Fantabulous Password? 1491-1501
+		Jichuan Zeng, Jing Li, Yulan He, Cuiyun Gao, Michael R. Lyu, Irwin King:
+What Changed Your Mind: The Roles of Dynamic Topics and Discourse in Argumentation Process. 1502-1513
+		Minje Choi, Luca Maria Aiello, Krisztián Zsolt Varga, Daniele Quercia:
+Ten Social Dimensions of Conversations and Relationships. 1514-1525
+		Giovanni Quattrone, Antonino Nocera, Licia Capra, Daniele Quercia:
+Social Interactions or Business Transactions?What customer reviews disclose about Airbnb marketplace. 1526-1536
+		Jiaoyan Chen, Xi Chen, Ian Horrocks, Erik B. Myklebust, Ernesto Jiménez-Ruiz:
+Correcting Knowledge Base Assertions. 1537-1547
+		Binny Mathew, Sandipan Sikdar, Florian Lemmerich, Markus Strohmaier:
+The POLAR Framework: Polar Opposites Enable Interpretability of Pre-Trained Word Embeddings. 1548-1558
+		Safwan Hossain, Andjela Mladenovic, Nisarg Shah:
+Designing Fairly Fair Classifiers Via Economic Fairness Notions. 1559-1569
+		Medina Andresel, Julien Corman, Magdalena Ortiz, Juan L. Reutter, Ognjen Savkovic, Mantas Simkus:
+Stable Model Semantics for Recursive SHACL. 1570-1580
+		Zhuoren Jiang, Zheng Gao, Jinjiong Lan, Hongxia Yang, Yao Lu, Xiaozhong Liu:
+Task-Oriented Genetic Activation for Large-Scale Complex Heterogeneous Graph Embedding. 1581-1591
+		Shan Jiang, Simon Baumgartner, Abe Ittycheriah, Cong Yu:
+Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles. 1592-1603
+		Yuanxing Liu, Zhaochun Ren, Wei-Nan Zhang, Wanxiang Che, Ting Liu, Dawei Yin:
+Keywords Generation Improves E-Commerce Session-based Recommendation. 1604-1614
+		Dongmin Park, Hwanjun Song, Minseok Kim, Jae-Gil Lee:
+TRAP: Two-level Regularized Autoencoder-based Embedding for Power-law Distributed Data. 1615-1624
+		Vasudevan Nagendra, Arani Bhattacharya, Vinod Yegneswaran, Amir Rahmati, Samir Ranjan Das:
+An Intent-Based Automation Framework for Securing Dynamic Consumer IoT Infrastructures. 1625-1636
+		Mingzhou Yang, Yanhua Li, Xun Zhou, Hui Lu, Zhihong Tian, Jun Luo:
+Inferring Passengers' Interactive Choices on Public Transits via MA-AL: Multi-Agent Apprenticeship Learning. 1637-1647
+		Chao Wang, Hengshu Zhu, Chen Zhu, Xi Zhang, Enhong Chen, Hui Xiong:
+Personalized Employee Training Course Recommendation with Career Development Awareness. 1648-1659
+		Quanming Yao, Xiangning Chen, James T. Kwok, Yong Li, Cho-Jui Hsieh:
+Efficient Neural Interaction Function Search for Collaborative Filtering. 1660-1670
+		Tobias Hatt, Stefan Feuerriegel:
+Early Detection of User Exits from Clickstream Data: A Markov Modulated Marked Point Process Model. 1671-1681
+		Alexander Sjösten, Peter Snyder, Antonio Pastor, Panagiotis Papadopoulos, Benjamin Livshits:
+Filter List Generation for Underserved Regions. 1682-1692
+		Rohail Syed, Kevyn Collins-Thompson, Paul N. Bennett, Mengqiu Teng, Shane Williams, Wendy W. Tay, Shamsi T. Iqbal:
+Improving Learning Outcomes with Gaze Tracking and Automatic Question Generation. 1693-1703
+		Rahul Duggal, Scott Freitas, Cao Xiao, Duen Horng Chau, Jimeng Sun:
+REST: Robust and Efficient Neural Networks for Sleep Monitoring in the Wild. 1704-1714
+		Tianming Liu, Haoyu Wang, Li Li, Xiapu Luo, Feng Dong, Yao Guo, Liu Wang, Tegawendé F. Bissyandé, Jacques Klein:
+MadDroid: Characterizing and Detecting Devious Ad Contents for Android Apps. 1715-1726
+		Yangyu Hu, Haoyu Wang, Ren He, Li Li, Gareth Tyson, Ignacio Castro, Yao Guo, Lei Wu, Guoai Xu:
+Mobile App Squatting. 1727-1738
+		Benjamin Coleman, Anshumali Shrivastava:
+Sub-linear RACE Sketches for Approximate Kernel Density Estimation on Streaming Data. 1739-1749
+		Niklas Kolbe, Pierre-Yves Vandenbussche, Sylvain Kubler, Yves Le Traon:
+LOVBench: Ontology Ranking Benchmark. 1750-1760
+		Jacopo Urbani, Ceriel J. H. Jacobs:
+Adaptive Low-level Storage of Very Large Knowledge Graphs. 1761-1772
+		Xiaotao Gu, Yuning Mao, Jiawei Han, Jialu Liu, You Wu, Cong Yu, Daniel Finnie, Hongkun Yu, Jiaqi Zhai, Nicholas Zukoski:
+Generating Representative Headlines for News Stories. 1773-1784
+		Lu Wang, Wenchao Yu, Xiaofeng He, Wei Cheng, Martin Renqiang Ren, Wei Wang, Bo Zong, Haifeng Chen, Hongyuan Zha:
+Adversarial Cooperative Imitation Learning for Dynamic Treatment Regimes✱. 1785-1795
+		Yuan Deng, Sébastien Lahaie, Vahab S. Mirrokni, Song Zuo:
+A Data-Driven Metric of Incentive Compatibility. 1796-1806
+		Alexander Braylan, Matthew Lease:
+Modeling and Aggregation of Complex Annotations via Annotation Distances. 1807-1818
+		Udit Paul, Alexander Ermakov, Michael Nekrasov, Vivek Adarsh, Elizabeth M. Belding:
+#Outage: Detecting Power and Communication Outages from Social Networks. 1819-1829
+		Tom Harting, Sepideh Mesbah, Christoph Lofi:
+LOREM: Language-consistent Open Relation Extraction from Unstructured Text. 1830-1838
+		Wen Wang, Han Zhao, Honglei Zhuang, Nirav Shah, Rema Padman:
+DyCRS: Dynamic Interpretable Postoperative Complication Risk Scoring. 1839-1850
+		Ines Arous, Jie Yang, Mourad Khayati, Philippe Cudré-Mauroux:
+OpenCrowd: A Human-AI Collaborative Approach for Finding Social Influencers via Open-Ended Answers Aggregation. 1851-1862
+		Zohreh Ovaisi, Ragib Ahsan, Yifan Zhang, Kathryn Vasilaky, Elena Zheleva:
+Correcting for Selection Bias in Learning-to-rank Systems. 1863-1873
+		Janith Weerasinghe, Bailey Flanigan, Aviel J. Stein, Damon McCoy, Rachel Greenstadt:
+The Pod People: Understanding Manipulation of Social Media Popularity via Reciprocity Abuse. 1874-1884
+		Paolo Rosso, Dingqi Yang, Philippe Cudré-Mauroux:
+Beyond Triplets: Hyper-Relational Knowledge Graph Embedding for Link Prediction. 1885-1896
+		Zhuyun Dai, Jamie Callan:
+Context-Aware Document Term Weighting for Ad-Hoc Search. 1897-1907
+		Jingbo Shang, Xinyang Zhang, Liyuan Liu, Sha Li, Jiawei Han:
+NetTaxo: Automated Topic Taxonomy Construction from Text-Rich Network. 1908-1919
+		Ang Li, Alice Wang, Zahra Nazari, Praveen Chandar, Benjamin A. Carterette:
+Do podcasts and music compete with one another? Understanding users' audio streaming habits. 1920-1931
+		Yu Chen, Sampath Kannan, Sanjeev Khanna:
+Near-Perfect Recovery in the One-Dimensional Latent Space Model. 1932-1942
+		Vinayshekhar Bannihatti Kumar, Roger Iyengar, Namita Nisal, Yuanyuan Feng, Hana Habib, Peter Story, Sushain Cherivirala, Margaret Hagan, Lorrie Faith Cranor, Shomir Wilson, Florian Schaub, Norman M. Sadeh:
+Finding a Choice in a Haystack: Automatic Extraction of Opt-Out Statements from Privacy Policy Text. 1943-1954
+		Ramnath Kumar, Shweta Yadav, Raminta Daniulaityte, Francois R. Lamy, Krishnaprasad Thirunarayan, Usha Lokala, Amit P. Sheth:
+eDarkFind: Unsupervised Multi-view Learning for Sybil Account Detection. 1955-1965
+		Shweta Jain, C. Seshadhri:
+Provably and Efficiently Approximating Near-cliques using the Turán Shadow: PEANUTS. 1966-1976
+		Daniele Dell'Aglio, Abraham Bernstein:
+Differentially Private Stream Processing for the Semantic Web. 1977-1987
+		Qiaoyu Tan, Ninghao Liu, Xing Zhao, Hongxia Yang, Jingren Zhou, Xia Hu:
+Learning to Hash with Graph Neural Networks for Recommender Systems. 1988-1998
+		Chun Lo, Emilie de Longueau, Ankan Saha, Shaunak Chatterjee:
+Edge formation in Social Networks to Nurture Content Creators. 1999-2008
+		Nikhita Vedula, Nedim Lipka, Pranav Maneriker, Srinivasan Parthasarathy:
+Open Intent Extraction from Natural Language Interactions. 2009-2020
+		Hui-Ju Hung, Wang-Chien Lee, De-Nian Yang, Chih-Ya Shen, Zhen Lei, Sy-Miin Chow:
+Efficient Algorithms towards Network Intervention. 2021-2031
+		Bang Liu, Haojie Wei, Di Niu, Haolan Chen, Yancheng He:
+Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus. 2032-2043
+		Emaad Manzoor, Rui Li, Dhananjay Shrouty, Jure Leskovec:
+Expanding Taxonomies with Implicit Edge Semantics. 2044-2054
+		Danaja Maldeniya, Ceren Budak, Lionel P. Robert Jr., Daniel M. Romero:
+Herding a Deluge of Good Samaritans: How GitHub Projects Respond to Increased Attention. 2055-2065
+		Jonathan P. Chang, Justin Cheng, Cristian Danescu-Niculescu-Mizil:
+Don't Let Me Be Misunderstood: Comparing Intentions and Perceptions in Online Discussions. 2066-2077
+		Yuxin Xiao, Adit Krishnan, Hari Sundaram:
+Discovering Strategic Behaviors for Collaborative Content-Production in Social Networks. 2078-2088
+		Ana-Andreea Stoica, Jessy Xinyi Han, Augustin Chaintreau:
+Seeding Network Influence in Biased Networks and the Benefits of Diversity. 2089-2098
+		Geoffrey Ramseyer, Ashish Goel, David Mazières:
+Liquidity in Credit Networks with Constrained Agents. 2099-2108
+		Brown Farinholt, Mohammad Rezaeirad, Damon McCoy, Kirill Levchenko:
+Dark Matter: Uncovering the DarkComet RAT Ecosystem. 2109-2120
+		Yu Meng, Jiaxin Huang, Guangyuan Wang, Zihan Wang, Chao Zhang, Yu Zhang, Jiawei Han:
+Discriminative Topic Mining via Category-Name Guided Text Embedding. 2121-2132
+		Natã M. Barbosa, Emily Sun, Judd Antin, Paolo Parigi:
+Designing for Trust: A Behavioral Framework for Sharing Economy Platforms. 2133-2143
+		Pengyang Wang, Jiaping Gui, Zhengzhang Chen, Junghwan Rhee, Haifeng Chen, Yanjie Fu:
+A Generic Edge-Empowered Graph Convolutional Network via Node-Edge Mutual Enhancement. 2144-2154
+		Ashton Anderson, Lucas Maystre, Ian Anderson, Rishabh Mehrotra, Mounia Lalmas:
+Algorithmic Effects on the Diversity of Consumption on Spotify. 2155-2165
+		Wenxuan Zhou, Hongtao Lin, Bill Yuchen Lin, Ziqi Wang, Junyi Du, Leonardo Neves, Xiang Ren:
+NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction. 2166-2176
+		Jyun-Yu Jiang, Patrick H. Chen, Cho-Jui Hsieh, Wei Wang:
+Clustering and Constructing User Coresets to Accelerate Large-scale Top-K Recommender Systems. 2177-2187
+		Jiaxin Huang, Yiqing Xie, Yu Meng, Jiaming Shen, Yunyi Zhang, Jiawei Han:
+Guiding Corpus-based Set Expansion by Auxiliary Sets Generation and Co-Expansion. 2188-2198
+		Jibang Wu, Renqin Cai, Hongning Wang:
+Déjà vu: A Contextualized Temporal Attention Mechanism for Sequential Recommendation. 2199-2209
+		Chang Wang, Bang Wang:
+An End-to-end Topic-Enhanced Self-Attention Network for Social Emotion Classification. 2210-2219
+		Zhe Xu, Chang Men, Peng Li, Bicheng Jin, Ge Li, Yue Yang, Chunyang Liu, Ben Wang, Xiaohu Qie:
+When Recommender Systems Meet Fleet Management: Practical Study in Online Driver Repositioning System. 2220-2229
+		Dawei Zhou, Lecheng Zheng, Yada Zhu, Jianbo Li, Jingrui He:
+Domain Adaptive Multi-Modality Neural Attention Network for Financial Forecasting. 2230-2240
+		Qi Zhu, Hao Wei, Bunyamin Sisman, Da Zheng, Christos Faloutsos, Xin Luna Dong, Jiawei Han:
+Collective Multi-type Entity Alignment Between Knowledge Graphs. 2241-2252
+		Alexander Spangher, Gireeja Ranade, Besmira Nushi, Adam Fourney, Eric Horvitz:
+Characterizing Search-Engine Traffic to Internet Research Agency Web Properties. 2253-2263
+		Wenjie Hu, Yang Yang, Jianbo Wang, Xuanwen Huang, Ziqiang Cheng:
+Understanding Electricity-Theft Behavior via Multi-Source Data. 2264-2274
+		Kevin Borgolte, Nick Feamster:
+Understanding the Performance Costs and Benefits of Privacy-focused Browser Extensions. 2275-2286
+		Shaogang Ren, Dingcheng Li, Zhixin Zhou, Ping Li:
+Estimate the Implicit Likelihoods of GANs with Application to Anomaly Detection. 2287-2297
+		Jing Yao, Zhicheng Dou, Jun Xu, Ji-Rong Wen:
+RLPer: A Reinforcement Learning Model for Personalized Search. 2298-2308
+		Wei Ye, Rui Xie, Jinglei Zhang, Tianxiang Hu, Xiaoyin Wang, Shikun Zhang:
+Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning. 2309-2319
+		Xian Wu, Chao Huang, Chuxu Zhang, Nitesh V. Chawla:
+Hierarchically Structured Transformer Networks for Fine-Grained Spatial Event Forecasting. 2320-2330
+		Xinyu Fu, Jiani Zhang, Ziqiao Meng, Irwin King:
+MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding. 2331-2341
+		Christof Naumzik, Patrick Zoechbauer, Stefan Feuerriegel:
+Mining Points-of-Interest for Explaining Urban Phenomena: A Scalable Variational Inference Approach. 2342-2353
+		Le Zhang, Tong Xu, Hengshu Zhu, Chuan Qin, Qingxin Meng, Hui Xiong, Enhong Chen:
+Large-Scale Talent Flow Embedding for Company Competitive Analysis. 2354-2364
+		Tiziano Piccardi, Miriam Redi, Giovanni Colavizza, Robert West:
+Quantifying Engagement with Citations on Wikipedia. 2365-2376
+		Xinyan Zhao, Feng Xiao, Haoming Zhong, Jun Yao, Huanhuan Chen:
+Condition Aware and Revise Transformer for Question Answering. 2377-2387
+		Zhen Guo, Zhe Zhang, Munindar P. Singh:
+In Opinion Holders' Shoes: Modeling Cumulative Influence for View Change in Online Argumentation. 2388-2399
+		Chong Chen, Min Zhang, Weizhi Ma, Yiqun Liu, Shaoping Ma:
+Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation. 2400-2410
+		Payam Karisani, Joyce C. Ho, Eugene Agichtein:
+Domain-Guided Task Decomposition with Self-Training for Detecting Personal Events in Social Media. 2411-2420
+		Zhijing Wu, Jiaxin Mao, Yiqun Liu, Jingtao Zhan, Yukun Zheng, Min Zhang, Shaoping Ma:
+Leveraging Passage-level Cumulative Gain for Document Ranking. 2421-2431
+		Anthony Z. Liu, Santiago Guerra, Isaac Fung, Gabriel Matute, Ece Kamar, Walter S. Lasecki:
+Towards Hybrid Human-AI Workflows for Unknown Unknown Detection. 2432-2442
+		Kai Wei, Yu-Ru Lin, Muheng Yan:
+Examining Protest as An Intervention to Reduce Online Prejudice: A Case Study of Prejudice Against Immigrants. 2443-2454

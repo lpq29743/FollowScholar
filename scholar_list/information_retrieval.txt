@@ -1,0 +1,60 @@
+/citations?hl=zh-TW&user=NMS69lQAAAAJ	Jeff Dean	Google Senior Fellow & SVP, Google Research and Health	175334
+/citations?hl=zh-TW&user=x8dED5cAAAAJ	Susan Dumais	Technical Fellow, Microsoft Research	83136
+/citations?hl=zh-TW&user=5tk1PV8AAAAJ	Thorsten Joachims	Professor of Computer Science, Cornell University	70267
+/citations?hl=zh-TW&user=ArV74ZMAAAAJ	W. Bruce Croft	Distinguished Professor Emeritus, University of Massachusetts Amherst	56613
+/citations?hl=zh-TW&user=MlZq4XwAAAAJ	Yiming Yang	Professor, Carnegie Mellon University	38704
+/citations?hl=zh-TW&user=YU-baPIAAAAJ	ChengXiang Zhai	University of Illinois at Urbana-Champaign	35414
+/citations?hl=zh-TW&user=CQ1cqKkAAAAJ	Jianfeng Gao	Microsoft Research, Redmond	30716
+/citations?hl=zh-TW&user=Nh832fgAAAAJ	Tie-Yan Liu	Assistant Managing Director, Microsoft Research Asia	28657
+/citations?hl=zh-TW&user=AVDkgFIAAAAJ	Maarten de Rijke	University of Amsterdam	28005
+/citations?hl=zh-TW&user=vIqWvgwAAAAJ	Dragomir Radev	Professor, Computer Science, Yale University	22744
+/citations?hl=zh-TW&user=AyZ7A7MAAAAJ	Zheng Chen	Principle Researcher of Microsoft Research Asia	22326
+/citations?hl=zh-TW&user=nTl5mSwAAAAJ	Hang Li	Bytedance Technology	21813
+/citations?hl=zh-TW&user=-bLGeg0AAAAJ	James Allan	University of Massachusetts Amherst	20525
+/citations?hl=zh-TW&user=0EWw1z8AAAAJ	Jimmy Lin	University of Waterloo	19051
+/citations?hl=zh-TW&user=pJIZd3EAAAAJ	Vaibhav Kumar	Carnegie Mellon University	18288
+/citations?hl=zh-TW&user=tbxCHJgAAAAJ	Ji-Rong Wen	Renmin University of China	16205
+/citations?hl=zh-TW&user=U69fiZMAAAAJ	Ryen W. White	Partner Research Area Manager, Microsoft	16203
+/citations?hl=zh-TW&user=Un5KXJ4AAAAJ	Jamie Callan	Professor, Language Technologies Institute, Carnegie Mellon University	13600
+/citations?hl=zh-TW&user=55FnA9wAAAAJ	Yonghui Wu	Google Brain	13405
+/citations?hl=zh-TW&user=NXNZbEsAAAAJ	Nick Craswell	Microsoft	12829
+/citations?hl=zh-TW&user=W7uYg0UAAAAJ	Jian-Yun Nie	university of montreal	11334
+/citations?hl=zh-TW&user=rFaxB20AAAAJ	Patrick Gallinari	Sorbonne University	11207
+/citations?hl=zh-TW&user=MK9U6d4AAAAJ	Ye Zhang	Google Brain	11107
+/citations?hl=zh-TW&user=GCAVWqgAAAAJ	Benno Stein	Professor of Computer Science, Bauhaus-Universität Weimar	10838
+/citations?hl=zh-TW&user=wyKGVKUAAAAJ	Aixin Sun 孙爱欣	NTU Singapore	10687
+/citations?hl=zh-TW&user=wIE1tY4AAAAJ	Jun Wang	Professor, Computer Science, University College London	10257
+/citations?hl=zh-TW&user=yywVMhUAAAAJ	Liqiang Nie	Shandong University	9665
+/citations?hl=zh-TW&user=bmXpOd8AAAAJ	Donald Metzler	Google	9593
+/citations?hl=zh-TW&user=7HeAnjwAAAAJ	Marc Najork	Google	9411
+/citations?hl=zh-TW&user=RGsMgZA4H78C	Huang Xuanjing	Professor of Computer Science, Fudan University	7863
+/citations?hl=zh-TW&user=xqEfATIAAAAJ	Luo Si	Alibaba Group Inc, Purdue Univ, Carnegie Mellon University	7807
+/citations?hl=zh-TW&user=LB1dq_sAAAAJ	James Caverlee	Professor, Computer Science and Engineering, Texas A&M University	7747
+/citations?hl=zh-TW&user=nD0I3PUAAAAJ	Jiafeng Guo	CAS	7041
+/citations?hl=zh-TW&user=CRth4q4AAAAJ	Hsin-Hsi Chen	Professor of Computer Science, National Taiwan University	7012
+/citations?hl=zh-TW&user=tvWB_yUAAAAJ	Yang Song	Google Research - Machine Intelligence	6949
+/citations?hl=zh-TW&user=a0W8R-cAAAAJ	Martin Potthast	Leipzig University	6769
+/citations?hl=zh-TW&user=dUPre_sAAAAJ	Filip Radlinski	Google	6508
+/citations?hl=zh-TW&user=drEkR50AAAAJ	Yi Chang	Jilin University	6082
+/citations?hl=zh-TW&user=MNqdSZcAAAAJ	Elad Yom-Tov	Microsoft Research	5982
+/citations?hl=zh-TW&user=AIncPrIAAAAJ	Paul N. Bennett	Partner Research Manager, Microsoft Research	5840
+/citations?hl=zh-TW&user=212SLn0AAAAJ	Fernando Diaz	Google	5807
+/citations?hl=zh-TW&user=1z918TYAAAAJ	Krisztian Balog	Professor of Computer Science, University of Stavanger	5654
+/citations?hl=zh-TW&user=ybfAUpsAAAAJ	Anthony Tomasic	Consultant, Carnegie Mellon University	5310
+/citations?hl=zh-TW&user=DJon7w4AAAAJ	Alessandro Sordoni	Microsoft Research	5287
+/citations?hl=zh-TW&user=tDajnHEAAAAJ	Bin Wang	Xiaomi Inc.	4859
+/citations?hl=zh-TW&user=6HNd_9gAAAAJ	Xuanhui Wang	Google	4121
+/citations?hl=zh-TW&user=mNfCP3gAAAAJ	Yanyan Lan	Chinese Academy of Sciences	4020
+/citations?hl=zh-TW&user=y7tlR6UAAAAJ	Kareem Darwish	Qatar Computing Research Institute, Qatar Foundation	3816
+/citations?hl=zh-TW&user=ocmAN4YAAAAJ	Emine Yilmaz	University College London	3636
+/citations?hl=zh-TW&user=8R0hla4AAAAJ	Fuzheng Zhang	Meituan	3583
+/citations?hl=zh-TW&user=DLx8WAYAAAAJ	Vassilis Plachouras	Facebook, London	3461
+/citations?hl=zh-TW&user=s2D24-QAAAAJ	Qifan Wang	PhD, Purdue University	3452
+/citations?hl=zh-TW&user=vkX6VV4AAAAJ	Cornelia Caragea	University of Illinois at Chicago	3338
+/citations?hl=zh-TW&user=aEVHhC8AAAAJ	Guido Zuccon	Associate Professor at the University of Queensland	3336
+/citations?hl=zh-TW&user=8VY7ZDcAAAAJ	Xianglong Liu	Beihang University	3269
+/citations?hl=zh-TW&user=XfqR3yYAAAAJ	Qi Zhang (张奇)	Professor of Computer Science, Fudan University	3231
+/citations?hl=zh-TW&user=EmTFUdQAAAAJ	Ben He	Professor, University of Chinese Academy of Sciences	3205
+/citations?hl=zh-TW&user=0HybxV4AAAAJ	Evangelos Kanoulas	University of Amsterdam	3163
+/citations?hl=zh-TW&user=A66WefUAAAAJ	Yongfeng Zhang	Rutgers University, Department of Computer Science	3049
+/citations?hl=zh-TW&user=PFMB5SsAAAAJ	Bhaskar Mitra	Principal Applied Scientist, Microsoft	3047

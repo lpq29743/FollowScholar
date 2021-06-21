@@ -1,0 +1,331 @@
+From Greedy Selection to Exploratory Decision-Making: Diverse Ranking with Policy-Value Networks
+	
+Yue Feng (Institute of Computing Technology, Chinese Academy of Sciences); Jun Xu (Institute of Computing Technology, Chinese Academy of Sciences); Yanyan Lan (Institute of Computing Technology, Chinese Academy of Sciences); Jiafeng Guo (Institute of Computing Technology, Chinese Academy of Sciences); Zeng Wei (Institute of Computing Technology, Chinese Academy of Sciences); Xueqi Cheng (Institute of Computing Technology, Chinese Academy of Sciences)
+
+Modeling Diverse Relevance Patterns in Ad-hoc Retrieval
+
+Yixing Fan (ict); Jiafeng Guo (ict); Yanyan Lan (ict); Jun Xu (ict); Chengxiang Zhai (Department of Computer Science University of Illinois at Urbana-Champaign); Xueqi Cheng (ict)
+
+Adversarial Personalized Ranking for Recommendation
+
+Xiangnan He (National University of Singapore); Zhankui He (Fudan University); Xiaoyu Du (University of Science and Technology of China); Tat-Seng Chua (National University of Singapore)
+
+Towards Better Text Understanding and Retrieval through Kernel Entity Salience Modeling
+
+Chenyan Xiong (Carnegie Mellon University); Zhengzhong Liu (Carnegie Mellon University); Jamie Callan (Carnegie Mellon University); Tie-Yan Liu (Microsoft)
+
+Intent-aware fQuery Obfuscation for Privacy Protection in Personalized Web Search
+
+Wasi Ahmad (University of California, Los Angeles); Kai-Wei Chang (University of Virginia); Hongning Wang (University of Virginia)
+
+Structuring Wikipedia Articles with Section Recommendations
+
+Tiziano Piccardi (Ecole Polytechnique Fédérale de Lausanne); Michele Catasta (Stanford University); Leila Zia (Wikimedia Foundation); Robert West (Ecole Polytechnique Fédérale de Lausanne)
+
+Learning a Deep Listwise Context Model for Ranking Refinement
+
+Qingyao Ai (University of Massachusetts Amherst); Keping Bi (University of Massachusetts Amherst); Jiafeng Guo (Institute of Computing Technology, Chinese Academy of Sciences); W. Bruce Croft (University of Massachusetts Amherst)
+
+Unbiased Learning to Rank with Unbiased Propensity Estimation
+
+Qingyao Ai (University of Massachusetts Amherst); Keping Bi (University of Massachusetts Amherst); Cheng Luo (Tsinghua University); Jiafeng Guo (Institute of Computing Technology, Chinese Academy of Sciences); W. Bruce Croft (University of Massachusetts Amherst)
+
+BiNE: Bipartite Network Embedding
+
+Ming Gao (East China Normal University); Leihui Chen (East China Normal University); Xiangnan He (National University of Singapore); Aoying Zhou (East China Normal University)
+
+On-the-fly Table Generation
+
+Shuo Zhang (University of Stavanger); Krisztian Balog (University of Stavanger)
+
+Torch: A Search Engine for Trajectory Data
+
+Sheng Wang (RMIT University); Zhifeng Bao (RMIT University); J. Shane Culpepper (RMIT University); Zizhe Xie (Nanjing University); Qizhi Liu (Nanjing University); Xiaolin Qin (Nanjing University of Aeronautics and Astronautics)
+
+Constructing an Interaction Behavior Model for Web Image Search
+
+Xiaohui Xie (Tsinghua University); Jiaxin Mao (Tsinghua University); Maarten de Rijke (University of Amsterdam); Ruizhe Zhang (Tsinghua University); Min Zhang (Tsinghua University); Shaoping Ma (Tsinghua University)
+
+Collaborative Memory Network for Recommendation Systems
+
+Travis Ebesu (Santa Clara University); Bin Shen (Google); Yi Fang (Santa Clara University)
+
+Ranking for Relevance and Display Preferences in Complex Presentation Layouts
+
+Harrie Oosterhuis (University of Amsterdam); Maarten de Rijke (University of Amsterdam)
+
+Turning Clicks into Purchases: Revenue Optimization for Product Search in E-Commerce
+
+Liang Wu (Arizona State University); Diane Hu (Etsy); Liangjie Hong (Etsy Inc.); Huan Liu (Arizona State University)
+
+Seed-driven Document Ranking for Systematic Reviews in Evidence-Based Medicine
+
+Grace E. Lee (Nanyang Technological University); Aixin Sun (Nanyang Technological University)
+
+A Personal Privacy Preserving Framework: I Let You Know Who Can See What
+
+Xuemeng Song (Shandong University); Xiang Wang (National University of Singapore); Liqiang Nie (Shandong University); Xiangnan He (National University of Singapore); Zhumin Chen (Shandong University); Wei Liu (Tencent AI Lab)
+
+Neural Compatibility Modeling with Attentive Knowledge Distillation
+
+Xuemeng Song (Shandong University); Fuli Feng (National University of Singapore); Xianjing Han (Shandong University); Xin Yang (Shandong University); Wei Liu (Tencent AI Lab); Liqiang Nie (Shandong University)
+
+Dialogue Act Recognition via CRF-Attentive Structured Network
+
+Zheqian Chen (Zhejiang University); Rongqin Yang (Zhejiang University); Zhou Zhao (Zhejiang University); Deng Cai (Zhejiang University); Xiaofei He (Zhejiang University)
+
+Attentive Group Recommendation
+
+Da Cao (Hunan University); Xiangnan He (National University of Singapore); Lianhai Miao (Hunan University); Yahui An (University of Science and Technology of China); Chao Yang (Hunan University); Richang Hong (Hefei University of Technology)
+
+Deep Domain Adaptation Hashing with Adversarial Learning
+
+Fuchen Long (University of Science and Technology of China); Ting Yao (Microsoft); Qi Dai (Microsoft); Xinmei Tian (University of Science and Technology of China); Jiebo Luo (University of Rochester); Tao Mei (Microsoft)
+
+Enriching Taxonomies With Functional Domain Knowledge
+
+Nikhita Vedula (The Ohio State University); Patrick K. Nicholson (Nokia Bell Labs); Deepak Ajwani (Nokia Bell Labs); Sourav Dutta (Nokia Bell Labs); Alessandra Sala (Nokia Bell Labs); Srinivasan Parthasarathy (The Ohio State University)
+
+Calendar-Aware Proactive Email Recommendation
+
+Qian Zhao (University of Minnesota); Paul Bennett (Microsoft); Adam Fourney (Microsoft); Anne Thompson (Microsoft); Shane Williams (Microsoft); Adam D. Troy (Microsoft); Susan Dumais (Microsoft)
+
+Towards Conversational Recommender System
+
+Yueming Sun (University of California, Santa Cruz); Yi Zhang (University of California, Santa Cruz)
+
+Attentive Moment Retrieval in Videos
+
+Meng Liu (Shandong University); Xiang Wang (National University of Singapore); Liqiang Nie (Shandong University); Xiangnan He (National University of Singapore); Baoquan Chen (Shandong University); Tat-Seng Chua (National University of Singapore)
+
+A Click Sequence Model for Web Search
+
+Alexey Borisov (University of Amsterdam); Martijn Wardenaar (University of Amsterdam); Ilya Markov (University of Amsterdam); Maarten de Rijke (University of Amsterdam)
+
+Dynamic Shard Cutoff Prediction for Selective Search
+
+Hafeezul Rahman Mohammad (Carnegie Mellon University); Keyang Xu (Petuum Inc.); Jamie Callan (Carnegie Mellon University); J. Shane Culpepper (RMIT University)
+
+Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks
+
+Guokun Lai (Carnegie Mellon University); Wei-Cheng Chang (Carnegie Mellon University); Yiming Yang (Carnegie Mellon University); Hanxiao Liu (Carnegie Mellon University)
+
+Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading
+
+Hongyu Lu (Tsinghua University); Min Zhang (Tsinghua University); Shaoping Ma (Tsinghua University)
+
+SynTF: Synthetic and Differentially Private Term Frequency Vectors for Privacy-Preserving Text Mining
+
+Benjamin Weggenmann (SAP SE); Florian Kerschbaum (University of Waterloo)
+
+Multihop Attention Networks for Question Answer Matching
+
+Nam Khanh Tran (L3S Research Centre); Claudia Niederée (L3S Research Centre)
+
+Explainable Recommendation via Multi-Task Learning in Opinionated Text Data
+
+Nan Wang (Shanghai Jiao Tong University); Hongning Wang (University of Virginia); Yiling Jia (University of Virginia); Yue Yin (University of Virginia)
+
+Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems
+
+Liu Yang (University of Massachusetts Amherst); Minghui Qiu (Alibaba Group); Chen Qu (University of Massachusetts Amherst); Jiafeng Guo (Institute of Computing Technology); Yongfeng Zhang (Rutgers University); Bruce Croft (University of Massachusetts Amherst); Jun Huang (Alibaba Group); Haiqing Chen (Alibaba Group)
+
+Ranking Robustness under Adversarial Document Manipulations
+
+Gregory Goren (Technion); Fiana Raiber (Yahoo Research); Moshe Tennenholtz (Technion); Oren Kurland (Technion)
+
+Natural Language Interfaces with Fine-Grained User Interaction: A Case Study on Web APIs
+
+Yu Su (University of California Santa Barbara); Ahmed Hassan Awadallah (Microsoft); Miaosen Wang (Microsoft); Ryen White (Microsoft)
+
+Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems
+
+Rocío Cañamares (Universidad Autnoma de Madrid – Information Retrieval Group); Pablo Castells (Universidad Autnoma de Madrid)
+
+A Dataset and an Examination of Identifying Passages for Due Diligence
+
+Adam Roegiest (Kira Systems); Alexander Hudek (Kira Systems); Anne McNulty (Kira Sytems)
+
+Streaming Ranking Based Recommender Systems
+
+Weiqing Wang (The University of Queensland); Hongzhi Yin (The University of Queensland); Zi Huang (The University of Queensland); Qinyong Wang (The University of Queensland); Xingzhong Du (The University of Queensland); Quoc Viet Hung Nguyen (Griffith University)
+
+Improving Sequential Recommendation with Knowledge-enhanced Memory Networks
+
+Jin Huang (School of Information, Renmin University of China); Wayne Xin Zhao (School of Information, Renmin University of China); Hongjian Dou (School of Information, Renmin University of China); Ji-Rong Wen (School of Information, Renmin University of China); Edward Y. Chang (Research & Innovation, HTC)
+
+Update Delivery Mechanisms for Prospective Information Needs: An Analysis of Attention in Mobile Users
+
+Jimmy Lin (University of Waterloo); Salman Mohammed (University of Waterloo); Royal Sequiera (University of Waterloo); Luchen Tan (University of Waterloo)
+
+CAN: Enhancing Sentence Similarity Modeling with Collaborative and Adversarial Network
+
+Qin Chen (East China Normal University); Qinmin Hu (East China Normal University); Jimmy Huang (University of York); Liang He (East China Normal University)
+
+Generating Better Queries for Systematic Reviews
+
+Harrisen Scells (Queensland University of Technology); Guido Zuccon (Queensland University of Technology)
+
+Automated Comparative Table Generation for Facilitating Human Intervention in Multi-Entity Resolution
+
+Jiacheng Huang (Nanjing University); Wei Hu (Nanjing University); Haoxuan Li (Nanjing University); Yuzhong Qu (Nanjing University)
+
+Privacy-aware Ranking with Tree Ensembles on the Cloud
+
+Shiyu Ji (University of California, Santa Barbara); Daniel Agun (University of California, Santa Barbara); Jinjin Shao (University of California, Santa Barbara); Tao Yang (University of California, Santa Barbara)
+
+Attentive Recurrent Social Recommendation
+
+Peijie Sun (Hefei University of Technology); Le Wu (Hefei University of Technology); Meng Wang (Hefei University of Technology)
+
+An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric
+
+Enrique Amigó (UNED); Damiano Spina (RMIT University); Jorge Carrillo-De-Albornoz (UNED)
+
+Enhancing Person-Job Fit for Talent Recruitment: An Ability-aware Neural Network Approach
+
+Chuan Qin (University of Science and Technology of China); Hengshu Zhu (Talent Intelligence Center, Baidu, inc.); Tong Xu (University of Science and Technology of China); Chen Zhu (Talent Intelligence Center, Baidu, inc.); Liang Jiang (University of Science and Technology of China); Enhong Chen (University of Science and Technology of China); Hui Xiong (Rutgers University)
+
+Mention Recommendation for Multimodal Microblog with Cross-attention Memory Network
+
+Renfeng Ma (Fudan University); Qi Zhang (Fudan University); Jiawen Wang (Fudan University); Lizhen Cui (Shandong Univerisity); Xuanjing Huang (Fudan University)
+
+Measuring the Utility of Search Engine Result Pages
+
+Leif Azzopardi (University of Strathclyde); Paul Thomas (Microsoft); Nick Craswell (Microsoft)
+
+Ranking Documents by Answer-Passage Quality
+
+Evi Yulianti (RMIT University); Ruey-Cheng Chen (RMIT University); Falk Scholer (RMIT University); Bruce Croft (University of Massachusetts Amherst); Mark Sanderson (RMIT University)
+
+On Link Prediction in Knowledge Bases: Max-K Criterion and Prediction Protocols
+
+Jiajie Mei (Beihang University); Richong Zhang (Beihang University); Yongyi Mao (University of Ottawa); Ting Deng (Beihang University)
+
+Identifying Sub-events and Summarizing Information during Disasters
+
+Koustav Rudra (Indian Institute of Technology, Kharagpur); Pawan Goyal (IIT Kharagpur); Niloy Ganguly (Indian Institute of Technology Kharagpur); Prasenjit Mitra (The Pennsylvania State University); Muhammad Imran (Qatar Computing Research Institute)
+
+Weakly-supervised Contextualization of Knowledge Graph Facts
+
+Nikos Voskarides (University of Amsterdam); Edgar Meij (Bloomberg L.P.); Ridho Reinanda (Bloomberg L.P.); Abhinav Khaitan (Bloomberg L.P.); Miles Osborne (Bloomberg L.P.); Giorgio Stefanoni (Bloomberg L.P.); Prabhanjan Kambadur (Bloomberg L.P.); Maarten de Rijke (University of Amsterdam)
+
+Cross-language Citation Recommendation via Hierarchical Representation Learning on Heterogeneous Graph
+
+Zhuoren Jiang (Sun Yat-sen University); Yue Yin (Beijing Normal University); Liangcai Gao (Peking University); Yao Lu (Sun Yat-sen University); Xiaozhong Liu (Indiana University Bloomington)
+
+What Can Rationales behind Relevance Judgments Tell Us About Assessor Disagreement?
+
+Mucahid Kutlu (Qatar University); Tyler McDonnell (The University of Texas at Austin); Yassmine Barkallah (Qatar University); Tamer Elsayed (Qatar University); Matthew Lease (The University of Texas at Austin)
+
+Automatic Ground Truth Expansion for Timeline Evaluation	
+Richard Mccreadie (University of Glasgow); Craig Macdonald (University of Glasgow); Iadh Ounis (University of Glasgow)
+
+Fast Scalable Supervised Hashing	 Xin Luo (Shandong University); Liqiang Nie (Shandong University); Xiangnan He (National University of Singapore); Ye Wu (Shandong University); Zhen-Duo Chen (Shandong University); Xin-Shun Xu (Shandong University)
+Cross-modal retrieval in the cooking context: Learning semantic text-image embeddings
+
+ Micael Carvalho (Sorbonne Université); Remi Cadene (Sorbonne Université); David Picard (Sorbonne Université); Laure Soulier (Sorbonne Université); Nicolas Thome (Conservatoire national des arts et métiers); Matthieu Cord (Sorbonne Université)
+ The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News	
+Nguyen Vo (Worcester Polytechnic Institute); Kyumin Lee (Worcester Polytechnic Institute)
+
+ Top-k Route Search through Submodularity Modeling of Recurrent POI Features	 Hongwei Liang (Simon Fraser University); Ke Wang (Simon Fraser University)
+Target Apps Selection: Towards a Unified Search Framework for Mobile Devices	
+Mohammad Alian Nejadi (Università della Svizzera italiana); Hamed Zamani (University of Massachusetts Amherst); Fabio Crestani (Università della Svizzera italiana); W. Bruce Croft (University of Massachusetts Amherst)
+
+Identify Shifts of Word Semantics through Bayesian Surprise
+
+Zhuofeng Wu (Zhejiang University); Cheng Li (University of Michigan); Zhe Zhao (University of Michigan); Fei Wu (Zhejiang University); Qiaozhu Mei (University of Michigan)
+
+Neural Query Performance Prediction using Weak Supervision from Multiple Signals	
+Hamed Zamani (University of Massachusetts Amherst); Bruce Croft (University of Massachusetts Amherst); J. Shane Culpepper (RMIT University)
+
+Contextual Attention Recurrent Architecture for Context-aware Venue Recommendation
+
+Jarana Manotumruksa (University of Glasgow); Craig Macdonald (University of Glasgow); Iadh Ounis (University of Glasgow)
+
+ Stochastic Simulation of Test Collections: Evaluation Scores	
+Julián Urbano (Delft University of Technology); Thomas Nagler (Technical University of Munich)
+
+Learning Geo-Social User Topical Profiles with Bayesian Hierarchical User Factorization
+
+Haokai Lu (Texas A&M University); Wei Niu (Texas A&M University); James Caverlee (Texas A&M University)
+
+Efficient Exploration of Gradient Space for Online Learning to Rank
+
+Huazheng Wang (University of Virginia); Ramsey Langley (University of Virginia); Sonwoo Kim (University of Virginia); Eric McCord-Snook (University of Virginia); Hongning Wang (University of Virginia)
+
+Characterizing and Supporting Question Answering in Human-to-Human Communication
+
+Xiao Yang (The Pennsylvania State University); Ahmed Hassan Awadallah (Microsoft); Madian Khabsa (Apple); Wei Wang (Microsoft); Miaosen Wang (Microsoft)
+
+The effects of manipulating task determinability on search behaviors and outcomes
+
+Robert Capra (The University of North Carolina at Chapel Hill); Jaime Arguello (The University of North Carolina at Chapel Hill); Heather O’Brien (The University of British Columbia); Yuan Li (The University of North Carolina at Chapel Hill); Bogeum Choi (The University of North Carolina at Chapel Hill)
+
+Selective Gradient Boosting for Effective Learning to Rank
+
+Claudio Lucchese (ISTI-CNR); Franco Maria Nardini (ISTI-CNR); Raffaele Perego (ISTI-CNR); Salvatore Orlando (Università Ca’ Foscari Venezia); Salvatore Trani (ISTI CNR, Pisa)
+
+Understanding and Evaluating User Satisfaction with Music Discovery
+
+Jean Garcia-Gathright (Spotify); Brian St. Thomas (Spotify); Christine Hosey (Spotify); Zahra Nazari (Spotify); Fernando Diaz (Spotify)
+
+Offline Comparative Evaluation with Incremental, Minimally-Invasive Online Feedback
+
+Ben Carterette (University of Delaware); Praveen Chandar (Spotify Research)
+
+Learning Contextual Bandits in a Non-stationary Environment
+
+Qingyun Wu (University of Virginia); Naveen Iyer (University of Virginia); Hongning Wang (University of Virginia)
+
+On Fine-Grained Relevance Scales
+
+Kevin Roitero (University of Udine); Eddy Maddalena (University of Southampton); Gianluca Demartini (The University of Queensland); Stefano Mizzaro (University of Udine)
+
+Item Retrieval as Utility Estimation
+
+Shawn R. Wolfe (NASA); Yi Zhang (University of California, Santa Cruz)
+
+Identifying Users behind Shared Accounts in Online Streaming Services
+
+Jyun-Yu Jiang (University of California, Los Angeles); Cheng-Te Li (National Cheng Kung University); Yian Chen (KKBOX Inc.,); Wei Wang (University of California, Los Angeles)
+
+Entity Set Search of Scientific Literature: An Unsupervised Ranking Approach
+
+Jiaming Shen (University of Illinois at Urbana-Champaign); Jinfeng Xiao (University of Illinois at Urbana-Champaign); Xinwei He (University of Illinois at Urbana-Champaign); Jingbo Shang (University of Illinois at Urbana-Champaign); Saurabh Sinha (University of Illinois at Urbana-Champaign); Jiawei Han (University of Illinois at Urbana-Champaign)
+
+Sentiment Analysis of Peer Review Texts for Scholarly Papers
+
+Ke Wang (Peking University); Xiaojun Wan (Peking University)
+
+Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles
+
+Pengfei Wang (Beijing University of Posts and Telecommunications); Ze Yang (Beijing University of Post and Telecommunications); Shu Zi (Chinese Academy of Science); Yongfeng Zhang (Rutgers University); Lei Zhang (Beijing University of Post and Telecommunications); Shaozhang Niu (Beijing University of Post and Telecommunications)
+
+From Royals to Vegans: Characterizing Question Trolling on a Community Question Answering Website
+
+Ido Guy (Ben-Gurion University of the Negev, Beer-Sheva, Israel); Bracha Shapira (Ben-Gurion University of the Negev, Beer-Sheva, Israel)
+
+How Well do Offline and Online Evaluation Metrics Measure User Satisfaction in Web Image Search?
+
+Fan Zhang (Tsinghua University); Ke Zhou (University of Nottingham); Yunqiu Shao (Tsinghua University); Cheng Luo (Tsinghua University); Min Zhang (Tsinghua University); Shaoping Ma (Tsinghua University)
+
+Constructing Click Models for Mobile Search
+
+Jiaxin Mao (Tsinghua University); Cheng Luo (Tsinghua University); Min Zhang (Tsinghua University); Shaoping Ma (Tsinghua University)
+
+Chat More: Deepening and Widening the Chatting Topic via A Deep Model
+
+Wenjie Wang (Shandong University); Minlie Huang (Tsinghua University); Xin-Shun Xu (Shandong University); Fumin Shen (University of Science and Technology of China); Liqiang Nie (Shandong University)
+
+Combined Regression and Tripletwise Learning for Ad Conversion Rates Prediction
+
+Lili Shan (Harbin Institute of Technology); Lei Lin (Harbin Institute of Technology); Chengjie Sun (Harbin Institute of Technology)
+
+Equity of Attention: Amortizing Individual Fairness in Rankings
+
+Asia J. Biega (Max Planck Institute for Informatics); Krishna P. Gummadi (MPI-SWS); Gerhard Weikum (Max Planck Institute for Informatics)
+
+Predicting User Knowledge Gain in Informational Search Sessions
+
+Ran Yu (L3S Research Center); Ujwal Gadiraju (L3S Research Center); Peter Holtz (Leibniz-Institut für Wissensmedien (IWM)); Markus Rokicki (L3S Research Center); Philipp Kemkes (L3S Research Center); Stefan Dietze (L3S Research Center)

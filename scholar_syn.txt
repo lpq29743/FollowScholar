@@ -1,0 +1,71 @@
+Christopher D Manning	Christopher D. Manning
+Xiaodong He (何晓冬)	Xiaodong He
+Xipeng Qiu（邱锡鹏）	Xipeng Qiu
+Qi Zhang (张奇)	Qi Zhang
+Rui Yan (严睿)	Rui Yan
+Liu Ting	Ting Liu
+Huang Xuanjing	Xuanjing Huang
+Dr. Pushpak Bhattacharyya	Pushpak Bhattacharyya
+Gholamreza (Reza) Haffari	Gholamreza Haffari
+Sujian LI	Sujian Li
+Ming Zhou (周明)	Ming Zhou
+Chengqing Zong (宗成庆)	Chengqing Zong
+houfeng wang	Houfeng Wang
+Philip S. Yu	Philip Yu
+Dong Yu (俞栋)	Dong Yu
+Min-Yen Kan (靳民彦)	Min-Yen Kan
+Eiichiro SUMITA	Eiichiro Sumita
+Alexander M. Rush	Alexander Rush
+Scott Wen-tau Yih	Wen-tau Yih
+Brendan O'Connor	Brendan O’Connor
+Andre Martins	André F. T. Martins
+Geoffrey Hinton	Geoffrey E. Hinton
+Michael I. Jordan	Michael Jordan
+Quoc V Le	Quoc V. Le
+Ian   Goodfellow	Ian Goodfellow
+Juergen Schmidhuber	Jürgen Schmidhuber
+SHIYU CHANG	Shiyu Chang
+Xing Xie 谢幸	Xing Xie
+Byron Wallace	Byron C. Wallace
+Kathleen McKeown	Kathy McKeown
+Carolyn Penstein Rose	Carolyn Rose
+Michael Lyu	Michael R. Lyu
+William W. Cohen	William Cohen
+Diederik P. Kingma	Diederik Kingma
+Aaron C. Courville	Aaron Courville
+David M. Blei	David Blei
+Tom M. Mitchell	Tom Mitchell
+Tomas Mikolov	Tomás Mikolov
+Andrew Y. Ng	Andrew Ng
+Shafiq R. Joty	Shafiq Joty
+Serge J. Belongie	Serge Belongie
+Ivan Vulić	Ivan Vulic
+Eduard H. Hovy	Eduard Hovy
+Dragomir R. Radev	Dragomir Radev
+Aixin Sun 孙爱欣	Aixin Sun
+Ryan T. McDonald	Ryan McDonald
+Raymond J. Mooney	Raymond Mooney
+Lyle H. Ungar	Lyle Ungar
+Eric P. Xing	Eric Xing
+José Camacho-Collados	Jose Camacho-Collados
+Matthew E Peters	Matthew E. Peters
+Kenny Q. Zhu (朱其立)	Kenny Q. Zhu
+Sebastian Padó	Sebastian Pado
+Kathleen R. McKeown	Kathleen McKeown
+Daniel S. Weld	Daniel Weld
+Kevin D. Seppi	Kevin Seppi
+Julian J. McAuley	Julian McAuley
+Alexander M. Fraser	Alexander Fraser
+Jaime G. Carbonell	Jaime Carbonell
+Steven C.H. Hoi	Steven C. H. Hoi
+Mona T. Diab	Mona Diab
+Jordan L. Boyd-Graber	Jordan Boyd-Graber
+Alan W Black	Alan W. Black
+Nancy F. Chen	Nancy Chen
+Stephen P. Boyd	Stephen Boyd
+Charu C. Aggarwal	Charu Aggarwal
+ChengXiang Zhai	Chengxiang Zhai
+Tang Jie	Jie Tang
+Marti A Hearst	Marti A. Hearst
+Jun'ichi Tsujii	Junichi Tsujii
+Partha P. Talukdar	Partha Talukdar 

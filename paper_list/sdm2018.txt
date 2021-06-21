@@ -1,0 +1,171 @@
+		Front Matter.
+		Roland Glantz, Henning Meyerhenke:
+Many-to-many Correspondences between Partitions: Introducing a Cut-based Approach. 1-9
+		Anne Morvan, Krzysztof Choromanski, Cédric Gouy-Pailler, Jamal Atif:
+Graph sketching-based Space-efficient Data Clustering. 10-18
+		Mohadeseh Ganji, Jeffrey Chan, Peter J. Stuckey, James Bailey, Christopher Leckie, Kotagiri Ramamohanarao, Ian Davidson:
+Image Constrained Blockmodelling: A Constraint Programming Approach. 19-27
+		Jun Wang, Cho-Jui Hsieh, Daming Shi:
+NLRR++: Scalable Subspace Clustering via Non-Convex Block Coordinate Descent. 28-36
+		Keqian Li, Hanwen Zha, Yu Su, Xifeng Yan:
+Unsupervised Neural Categorization for Scientific Publications. 37-45
+		Zilong Bai, Peter B. Walker, Ian Davidson:
+Mixtures of Block Models for Brain Networks. 46-54
+		Kailash Budhathoki, Jilles Vreeken:
+Causal Inference on Event Sequences. 55-63
+		Jiali Mao, Pengda Sun, Cheqing Jin, Aoying Zhou:
+Outlier Detection over Distributed Trajectory Streams. 64-72
+		Xingyu Cai, Shanglin Zhou, Sanguthevar Rajasekaran:
+JUMP: A Fast Deterministic Algorithm to Find the Closest Pair of Subsequences. 73-80
+		Shaden Smith, Kejun Huang, Nicholas D. Sidiropoulos, George Karypis:
+Streaming Tensor Factorization for Infinite Data Sources. 81-89
+		Len Feremans, Boris Cule, Bart Goethals:
+Mining Top-k Quantile-based Cohesive Sequential Patterns. 90-98
+		Yue Ning, Rongrong Tao, Chandan K. Reddy, Huzefa Rangwala, James C. Starz, Naren Ramakrishnan:
+STAPLE: Spatio-Temporal Precursor Learning for Event Forecasting. 99-107
+		Bijaya Adhikari, Pavan Rangudu, B. Aditya Prakash, Anil Vullikanti:
+Near-Optimal Mapping of Network States using Probes. 108-116
+		Ruihua Cheng, Zhi Wei, Kai Zhang:
+Network Inference from Contrastive Groups Using Discriminative Structural Regularization. 117-125
+		Sourav Medya, Arlei Silva, Ambuj K. Singh, Prithwish Basu, Ananthram Swami:
+Group Centrality Maximization via Network Design. 126-134
+		Rade Stanojevic, Sofiane Abbar, Saravanan Thirumuruganathan, Sanjay Chawla, Fethi Filali, Ahid Aleimat:
+Robust Road Map Inference through Network Alignment of Trajectories. 135-143
+		Yu Shi, Huan Gui, Qi Zhu, Lance M. Kaplan, Jiawei Han:
+AspEm: Embedding Learning by Aspects in Heterogeneous Information Networks. 144-152
+		Jiongqian Liang, Peter Jacobs, Jiankai Sun, Srinivasan Parthasarathy:
+Semi-supervised Embedding in Attributed Networks with Outliers. 153-161
+		Liuyi Yao, Lu Su, Qi Li, Yaliang Li, Fenglong Ma, Jing Gao, Aidong Zhang:
+Online Truth Discovery on Time Series Data. 162-170
+		Kunpeng Liu, Pengyang Wang, Jiawei Zhang, Yanjie Fu, Sajal K. Das:
+Modeling the Interaction Coupling of Multi-View Spatiotemporal Contexts for Destination Prediction. 171-179
+		Xian Wu, Yuxiao Dong, Baoxu Shi, Ananthram Swami, Nitesh V. Chawla:
+Who will Attend This Event Together? Event Attendance Prediction via Deep LSTM Networks. 180-188
+		Huandong Wang, Yong Li, Gang Wang, Depeng Jin:
+You Are How You Move: Linking Multiple User Identities From Massive Mobility Traces. 189-197
+		Jingtao Ding, Yanghao Li, Yong Li, Depeng Jin:
+Click versus Share: A Feature-driven Study of Micro-Video Popularity and Virality in Social Media. 198-206
+		Michiaki Tatsubori, Aisha Walcott-Bryant, Reginald E. Bryant, John Wamburu:
+A Probabilistic Hough Transform for Opportunistic Crowd-sensing of Moving Traffic Obstacles. 207-215
+		Ritchie Lee, Mykel J. Kochenderfer, Ole J. Mengshoel, Joshua Silbermann:
+Interpretable Categorization of Heterogeneous Time Series Data. 216-224
+		Chang Wei Tan, Matthieu Herrmann, Germain Forestier, Geoffrey I. Webb, François Petitjean:
+Efficient search of the best warping window for Dynamic Time Warping. 225-233
+		Yilin Shen, Yanping Chen, Eamonn J. Keogh, Hongxia Jin:
+Accelerating Time Series Searching with Large Uniform Scaling. 234-242
+		Xiaosheng Li, Jessica Lin:
+Evolving Separating References for Time Series Classification. 243-251
+		Guruprasad Nayak, Varun Mithal, Xiaowei Jia, Vipin Kumar:
+Classifying Multivariate Time Series by Learning Sequence-level Discriminative Patterns. 252-260
+		Tengfei Ma, Cao Xiao, Fei Wang:
+Health-ATM: A Deep Architecture for Multifaceted Patient Health Record Representation and Risk Prediction. 261-269
+		Mengdi Huai, Chenglin Miao, Qiuling Suo, Yaliang Li, Jing Gao, Aidong Zhang:
+Uncorrelated Patient Similarity Learning. 270-278
+		Weitong Chen, Sen Wang, Xiang Zhang, Lina Yao, Lin Yue, Buyue Qian, Xue Li:
+EEG-based Motion Intention Recognition via Multi-task RNNs. 279-287
+		Yan Li, Tao Yang, Jiayu Zhou, Jieping Ye:
+Multi-Task Learning based Survival Analysis for Predicting Alzheimer's Disease Progression with Multi-Source Block-wise Missing Data. 288-296
+		Djordje Gligorijevic, Jelena Stojanovic, Wayne Satz, Ivan Stojkovic, Kraftin Schreyer, Daniel Del Portal, Zoran Obradovic:
+Deep Attention Model for Triage of Emergency Department Patients. 297-305
+		Dang Nguyen, Wei Luo, Tu Dinh Nguyen, Svetha Venkatesh, Dinh Q. Phung:
+Learning Graph Representation via Frequent Subgraphs. 306-314
+		Muhao Chen, Yingtao Tian, Xuelu Chen, Zijun Xue, Carlo Zaniolo:
+On2Vec: Embedding-based Relation Prediction for Ontology Population. 315-323
+		Fei Jiang, Lifang He, Yi Zheng, Enqiang Zhu, Jin Xu, Philip S. Yu:
+On Spectral Graph Embedding: A Non-Backtracking Perspective and Graph Approximation. 324-332
+		José Bento, Stratis Ioannidis:
+A Family of Tractable Graph Distances. 333-341
+		Yujun Yan, Mark Heimann, Di Jin, Danai Koutra:
+Fast Flow-based Random Walk with Restart in a Multi-query Setting. 342-350
+		Pengyang Wang, Jiawei Zhang, Guannan Liu, Yanjie Fu, Charu C. Aggarwal:
+Ensemble-Spotting: Ranking Urban Vibrancy via POI Embedding with Multi-view Spatial Graphs. 351-359
+		Sanjar Karaev, James L. Hook, Pauli Miettinen:
+Latitude: A Model for Mixed Linear-Tropical Matrix Factorization. 360-368
+		Johannes Schneider, Michail Vlachos:
+Topic Modeling based on Keywords and Context. 369-377
+		Roy Ka-Wei Lee, Tuan-Anh Hoang, Ee-Peng Lim:
+Discovering Hidden Topical Hubs and Authorities in Online Social Networks. 378-386
+		Ekta Gujral, Ravdeep Pasricha, Evangelos E. Papalexakis:
+SamBaTen: Sampling-based Batch Incremental Tensor Decomposition. 387-395
+		Bo Yang, Ahmed S. Zamzam, Nicholas D. Sidiropoulos:
+ParaSketch: Parallel Tensor Factorization via Sketching. 396-404
+		Sibylle Hess, Nico Piatkowski, Katharina Morik:
+The Trustworthy Pal: Controlling the False Discovery Rate in Boolean Matrix Factorization. 405-413
+		Trefor W. Evans, Prasanth B. Nair:
+Exploiting Structure for Fast Kernel Learning. 414-422
+		Yaxin Peng, Lingfang Hu, Shihui Ying, Chaomin Shen:
+Global Nonlinear Metric Learning by Gluing Local Linear Metrics. 423-431
+		Shalmali Joshi, Rajiv Khanna, Joydeep Ghosh:
+Co-regularized Monotone Retargeting for Semi-supervised LeTOR. 432-440
+		Harshal A. Chaudhari, Michael Mathioudakis, Evimaria Terzi:
+Markov Chain Monitoring. 441-449
+		Qiaoyu Tan, Guoxian Yu, Carlotta Domeniconi, Jun Wang, Zili Zhang:
+Multi-view Weak-label Learning based on Matrix Completion. 450-458
+		Nayyar A. Zaidi, François Petitjean, Geoffrey I. Webb:
+Efficient and Effective Accelerated Hierarchical Higher-Order Logistic Regression for Large Data Quantities. 459-467
+		Shin Ando:
+Discriminative Prototype Set Learning for Nearest Neighbor Classification. 468-476
+		Zhiyun Ren, Xia Ning, Huzefa Rangwala:
+ALE: Additive Latent Effect Models for Grade Prediction. 477-485
+		Chien-Wen Huang, Chung-Kuang Chou, Ming-Syan Chen:
+A Salient Ensemble of Trees using Cascaded Linear Classifiers with Feature-Cost Constraints. 486-494
+		Marawan Shalaby, Jan Stutzki, Matthias Schubert, Stephan Günnemann:
+An LSTM Approach to Patent Classification based on Fixed Hierarchy Vectors. 495-503
+		Wei-Lin Chiang, Yu-Sheng Li, Ching-Pei Lee, Chih-Jen Lin:
+Limited-memory Common-directions Method for Distributed Ll-regularized Linear Classification. 504-512
+		Tushar Semwal, Promod Yenigalla, Gaurav Mathur, Shivashankar B. Nair:
+A Practitioners' Guide to Transfer Learning for Text Classification using Convolutional Neural Networks. 513-521
+		Sunav Choudhary, Gaurush Hiranandani, Shiv Kumar Saini:
+Sparse Decomposition for Time Series Forecasting and Anomaly Detection. 522-530
+		Bryan Hooi, Hyun Ah Song, Amritanshu Pandey, Marko Jereminov, Larry T. Pileggi, Christos Faloutsos:
+StreamCast: Fast and Online Mining of Power Grid Time Sequences. 531-539
+		Markus Brill, Till Fluschnik, Vincent Froese, Brijnesh J. Jain, Rolf Niedermeier, David Schultz:
+Exact Mean Computation in Dynamic Time Warping Spaces. 540-548
+		Chainarong Amornbunchornvej, Tanya Y. Berger-Wolf:
+Framework for Inferring Leadership Dynamics of Complex Movement from Time Series. 549-557
+		Chenglong Dai, Jia Wu, Dechang Pi, Lin Cui:
+Brain EEG Time Series Selection: A Novel Graph-Based Approach for Classification. 558-566
+		Keiichi Kisamori, Takashi Washio, Yoshio Kameda, Ryohei Fujimaki:
+A Rare and Critical Condition Search Technique and its Application to Telescope Stray Light Analysis. 567-575
+		Ya-Wen Teng, Chih-Hua Tai, Philip S. Yu, Ming-Syan Chen:
+Revenue Maximization on the Multi-grade Product. 576-584
+		Emre Eftelioglu, Xun Tang, Shashi Shekhar:
+Avoidance Region Discovery: A Summary of Results. 585-593
+		Zhengyang Wang, Shuiwang Ji:
+Learning Convolutional Text Representations for Visual Question Answering. 594-602
+		Ximing Li, Changchun Li, Jinjin Chi, Jihong Ouyang, Wenting Wang:
+Black-box Expectation Propagation for Bayesian Models. 603-611
+		Konstantina Christakopoulou, Arindam Banerjee:
+Learning to Interact with Users: A Collaborative-Bandit Approach. 612-620
+		Peng Yang, Peilin Zhao, Yong Liu, Xin Gao:
+Robust Cost-Sensitive Learning for Recommendation with Implicit Feedback. 621-629
+		Min Yang, Qiang Qu, Kai Lei, Jia Zhu, Zhou Zhao, Xiaojun Chen, Joshua Zhexue Huang:
+Investigating Deep Reinforcement Learning Techniques in Personalized Dialogue Generation. 630-638
+		Fei Tan, Kuang Du, Zhi Wei, Haoran Liu, Chenguang Qin, Ran Zhu:
+Modeling Item-specific Effects for Video Click. 639-647
+		Mengting Wan, Julian J. McAuley:
+One-Class Recommendation with Asymmetric Textual Feedback. 648-656
+		Qing Wang, Tao Li, S. S. Iyengar, Larisa Shwartz, Genady Ya. Grabarnik:
+Online IT Ticket Automation Recommendation Using Hierarchical Multi-armed Bandit Algorithms. 657-665
+		Han Xiao, Polina Rozenshtein, Nikolaj Tatti, Aristides Gionis:
+Reconstructing a cascade from temporal observations. 666-674
+		Wenchao Yu, Charu C. Aggarwal, Wei Wang:
+Modeling Co-Evolution Across Multiple Networks. 675-683
+		Jundong Li, Chen Chen, Hanghang Tong, Huan Liu:
+Multi-Layered Network Embedding. 684-692
+		Tianyuan Jin, Tong Xu, Hui Zhong, Enhong Chen, Zhefeng Wang, Qi Liu:
+Maximizing the Effect of Information Adoption: A General Framework. 693-701
+		Ekta Gujral, Evangelos E. Papalexakis:
+SMACD: Semi-supervised Multi-Aspect Community Detection. 702-710
+		Liang Wu, Jundong Li, Fred Morstatter, Huan Liu:
+Toward Relational Learning with Misinformation. 711-719
+		Li-Yen Kuo, Chung-Kuang Chou, Ming-Syan Chen:
+Personalized Ranking on Poisson Factorization. 720-728
+		Ruocheng Guo, Hamidreza Alvari, Paulo Shakarian:
+Strongly Hierarchical Factorization Machines and ANOVA Kernel Regression. 729-737
+		Pablo Nascimento da Silva, Alexandre Plastino, Alex Alves Freitas:
+A Novel Genetic Algorithm for Feature Selection in Hierarchical Feature Spaces. 738-746
+		Richard Leibrandt, Stephan Günnemann:
+Making Kernel Density Estimation Robust towards Missing Values in Highly Incomplete Multivariate Data without Imputation. 747-755
+		Arnaud Giacometti, Arnaud Soulet:
+Dense Neighborhood Pattern Sampling in Numerical Data. 756-764

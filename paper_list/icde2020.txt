@@ -1,0 +1,482 @@
+		Yurong Cheng, Boyang Li, Xiangmin Zhou, Ye Yuan, Guoren Wang, Lei Chen:
+Real-Time Cross Online Matching in Spatial Crowdsourcing. 1-12
+		Yan Zhao, Kai Zheng, Yue Cui, Han Su, Feida Zhu, Xiaofang Zhou:
+Predictive Task Assignment in Spatial Crowdsourcing: A Data-driven Approach. 13-24
+		Chi Harold Liu, Yinuo Zhao, Zipeng Dai, Ye Yuan, Guoren Wang, Dapeng Wu, Kin K. Leung:
+Curiosity-Driven Energy-Efficient Worker Scheduling in Vehicular Crowdsourcing: A Deep Reinforcement Learning Approach. 25-36
+		JiaCheng Huang, Wei Hu, Zhifeng Bao, Yuzhong Qu:
+Crowdsourced Collective Entity Resolution with Relational Match Propagation. 37-48
+		Caihua Shan, Nikos Mamoulis, Reynold Cheng, Guoliang Li, Xiang Li, Yuqiu Qian:
+An End-to-End Deep RL Framework for Task Arrangement in Crowdsourcing Platforms. 49-60
+		Yifeng Jin, Lin Zhu, Zijing Tan:
+Efficient Bidirectional Order Dependency Discovery. 61-72
+		Wentao Zhang, Jiawei Jiang, Yingxia Shao, Bin Cui:
+Efficient Diversity-Driven Ensemble for Deep Neural Networks. 73-84
+		Thanh Trung Huynh, Van Vinh Tong, Thanh Tam Nguyen, Hongzhi Yin, Matthias Weidlich, Nguyen Quoc Viet Hung:
+Adaptive Network Alignment with Unsupervised and Multi-order Convolutional Networks. 85-96
+		Wenlu Wang, Yingtao Tian, Haixun Wang, Wei-Shinn Ku:
+A Natural Language Interface for Database: Achieving Transfer-learnability Using Adversarial Method for Question Understanding. 97-108
+		Olha Horlova, Abdulrahman Kaitoua, Stefano Ceri:
+Array-based Data Management for Genomics. 109-120
+		Lei Guo, Hongzhi Yin, Qinyong Wang, Bin Cui, Zi Huang, Lizhen Cui:
+Group Recommendation with Latent Voting Mechanism. 121-132
+		Yu Zheng, Chen Gao, Xiangnan He, Yong Li, Depeng Jin:
+Price-aware Recommendation with Graph Convolutional Networks. 133-144
+		Yuanyuan Jin, Wei Zhang, Xiangnan He, Xinyu Wang, Xiaoling Wang:
+Syndrome-aware Herb Recommendation with Multi-Graph Convolution Network. 145-156
+		Junshuai Song, Zhao Li, Zehong Hu, Yucheng Wu, Zhenpeng Li, Jian Li, Jun Gao:
+PoisonRec: An Adaptive Data Poisoning Framework for Attacking Black-box Recommender Systems. 157-168
+		Kazutoshi Umemoto, Tova Milo, Masaru Kitsuregawa:
+Toward Recommendation for Upskilling: Modeling Skill Improvement and Item Difficulty in Action Sequences. 169-180
+		Chen Zhang, Fan Zhang, Wenjie Zhang, Boge Liu, Ying Zhang, Lu Qin, Xuemin Lin:
+Exploring Finer Granularity within the Cores: Efficient (k, p)-Core Computation. 181-192
+		Joana M. F. da Trindade, Konstantinos Karanasos, Carlo Curino, Samuel Madden, Julian Shun:
+Kaskade: Graph Views for Efficient Graph Analytics. 193-204
+		Qi Zhang, Rong-Hua Li, Qixuan Yang, Guoren Wang, Lu Qin:
+Efficient Top-k Edge Structural Diversity Search. 205-216
+		Zhuo Wang, Chaokun Wang, Weiping Wang, Xiaoyan Gu, Bo Li, Dan Meng:
+Adaptive Relation Discovery from Focusing Seeds on Large Networks. 217-228
+		Peng Lin, Qi Song, Yinghui Wu, Jiaxing Pi:
+Repairing Entities using Star Constraints in Multirelational Graphs. 229-240
+		Xun Yi, Russell Paulet, Elisa Bertino, Fang-Yu Rao:
+Practical Anonymous Subscription with Revocation Based on Broadcast Encryption. 241-252
+		Ningning Cui, Xiaochun Yang, Bin Wang, Jianxin Li, Guoren Wang:
+SVkNN: Efficient Secure and Verifiable k-Nearest Neighbor Query on the Cloud Platform*. 253-264
+		Daren Fadolalkarim, Elisa Bertino, Asmaa Sallam:
+An Anomaly Detection System for the Protection of Relational Database Systems against Data Leakage by Application Programs. 265-276
+		Basit Khurram, Florian Kerschbaum:
+SFour: A Protocol for Cryptographically Secure Record Linkage at Scale. 277-288
+		Mingjie Li, Ying Zhang, Yifang Sun, Wei Wang, Ivor W. Tsang, Xuemin Lin:
+I/O Efficient Approximate Nearest Neighbour Search based on Learned Functions. 289-300
+		Tim Gubner, Viktor Leis, Peter A. Boncz:
+Efficient Query Processing with Optimistically Compressed Hash Tables & Strings in the USSR. 301-312
+		Qiang Zhang, Yongkun Li, Patrick P. C. Lee, Yinlong Xu, Qiu Cui, Liu Tang:
+UniKV: Toward High-Performance and Scalable KV Storage in Mixed Workloads via Unified Indexing. 313-324
+		TaiNing Wang, Chee-Yong Chan:
+Improved Correlated Sampling for Join Size Estimation. 325-336
+		Botao Peng, Panagiota Fatourou, Themis Palpanas:
+MESSI: In-Memory Data Series Indexing. 337-348
+		Xiucheng Li, Gao Cong, Yun Cheng:
+Spatial Transition Learning on Road Networks with Deep Probabilistic Models. 349-360
+		Shen Liang, Yanchun Zhang, Jiangang Ma:
+Active Model Selection for Positive Unlabeled Time Series Classification. 361-372
+		Yuanduo He, Xu Chu, Yasha Wang:
+Neighbor Profile: Bagging Nearest Neighbors for Unsupervised Time Series Mining. 373-384
+		Fabian Gieseke, Sabina Rosca, Troels Henriksen, Jan Verbesselt, Cosmin E. Oancea:
+Massively-Parallel Change Detection for Satellite Time Series Data with Missing Values. 385-396
+		Qiyan Li, Yuanyuan Zhu, Jeffrey Xu Yu:
+Skyline Cohesive Group Queries in Large Road-social Networks. 397-408
+		Taotao Cai, Jianxin Li, Nur Al Hasan Haldar, Ajmal Mian, John Yearwood, Timos Sellis:
+Anchored Vertex Exploration for Community Engagement in Social Networks. 409-420
+		Ruida Yang, Xin Lin, Jianliang Xu, Yan Yang, Liang He:
+Optimizing Knowledge Graphs through Voting-based User Feedback. 421-432
+		Yongqi Zhang, Quanming Yao, Wenyuan Dai, Lei Chen:
+AutoSF: Searching Scoring Functions for Knowledge Graph Embedding. 433-444
+		Yuxiang Wang, Arijit Khan, Tianxing Wu, Jiahui Jin, Haijiang Yan:
+Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs. 445-456
+		Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick, Lyu Xu:
+PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks. 457-468
+		Shagufta Mehnaz, Elisa Bertino:
+Privacy-preserving Real-time Anomaly Detection Using Edge Computing. 469-480
+		Chao Yan, Haifeng Xu, Yevgeniy Vorobeychik, Bo Li, Daniel Fabbri, Bradley A. Malin:
+To Warn or Not to Warn: Online Signaling in Audit Games. 481-492
+		Ios Kotsogiannis, Stelios Doudalis, Samuel Haney, Ashwin Machanavajjhala, Sharad Mehrotra:
+One-sided Differential Privacy. 493-504
+		Xiaolan Gu, Ming Li, Li Xiong, Yang Cao:
+Providing Input-Discriminative Protection for Local Differential Privacy. 505-516
+		Qian Tao, Yongxin Tong, Zimu Zhou, Yexuan Shi, Lei Chen, Ke Xu:
+Differentially Private Online Task Assignment in Spatial Crowdsourcing: A Tree-based Approach. 517-528
+		Noura Alghamdi, Liang Zhang, Huayi Zhang, Elke A. Rundensteiner, Mohamed Y. Eltabakh:
+ChainLink: Indexing Big Time Series Data For Long Subsequence Matching. 529-540
+		Trong Duc Nguyen, Ming-Hung Shih, Sai Sree Parvathaneni, Bojian Xu, Divesh Srivastava, Srikanta Tirthapura:
+Random Sampling for Group-By Queries. 541-552
+		Li Wang, Zining Zhang, Bingsheng He, Zhenjie Zhang:
+PA-Tree: Polled-Mode Asynchronous B+ Tree for NVMe. 553-564
+		Jianye Yang, Wenjie Zhang, Xiang Wang, Ying Zhang, Xuemin Lin:
+Distributed Streaming Set Similarity Join. 565-576
+		Zhongle Xie, Hongbin Ying, Cong Yue, Meihui Zhang, Gang Chen, Beng Chin Ooi:
+Cool, a COhort OnLine analytical processing system. 577-588
+		Zijian Li, Wenhao Zheng, Xueling Lin, Ziyuan Zhao, Zhe Wang, Yue Wang, Xun Jian, Lei Chen, Qiang Yan, Tiezheng Mao:
+TransN: Heterogeneous Network Representation Learning by Translating Node Embeddings. 589-600
+		Jin Xu, Jingbo Zhou, Yongpo Jia, Jian Li, Hui Xiong:
+An Adaptive Master-Slave Regularized Model for Unexpected Revenue Prediction Enhanced with Alternative Data. 601-612
+		Zicun Cong, Lingyang Chu, Lanjun Wang, Xia Hu, Jian Pei:
+Exact and Consistent Interpretation of Piecewise Linear Models Hidden behind APIs: A Closed Form Solution. 613-624
+		Keqi Han, Yuan Tian, Yunjia Zhang, Ling Han, Hao Huang, Yunjun Gao:
+Statistical Estimation of Diffusion Network Topologies. 625-636
+		Quang-Huy Duong, Heri Ramampiaro, Kjetil Nørvåg:
+Multiple Dense Subtensor Estimation with High Density Guarantee. 637-648
+		Keke Huang, Jing Tang, Xiaokui Xiao, Aixin Sun, Andrew Lim:
+Efficient Approximation Algorithms for Adaptive Target Profit Maximization. 649-660
+		Kai Wang, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang:
+Efficient Bitruss Decomposition for Large-scale Bipartite Graphs. 661-672
+		Cheng Zhao, Zhibin Zhang, Peng Xu, Tianqi Zheng, Jiafeng Guo:
+Kaleido: An Efficient Out-of-core Graph Mining System on A Single Machine. 673-684
+		Deming Chu, Fan Zhang, Xuemin Lin, Wenjie Zhang, Ying Zhang, Yinglong Xia, Chenyi Zhang:
+Finding the Best k in Core Decomposition: A Time and Space Optimal Solution. 685-696
+		Guohao Sun, Guanfeng Liu, Yan Wang, Xiaofang Zhou:
+Updates-Aware Graph Pattern based Node Matching. 697-708
+		Alex Bogatu, Alvaro A. A. Fernandes, Norman W. Paton, Nikolaos Konstantinou:
+Dataset Discovery in Data Lakes. 709-720
+		Yu Sun, Shaoxu Song, Chen Wang, Jianmin Wang:
+Swapping Repair for Misplaced Attribute Values. 721-732
+		Yuyu Luo, Chengliang Chai, Xuedi Qin, Nan Tang, Guoliang Li:
+Interactive Cleaning for Progressive Visualization through Composite Questions. 733-744
+		Kim-Hung Le, Paolo Papotti:
+User-driven Error Detection for Time Series with Events. 745-757
+		Hanbing Zhang, Yazhong Zhang, Zhenying He, Yinan Jing, Kai Zhang, X. Sean Wang:
+An Agile Sample Maintenance Approach for Agile Analytics. 757-768
+		Junzhou Zhao, Pinghui Wang, Jing Tao, Shuo Zhang, John C. S. Lui:
+Continuously Tracking Core Items in Data Streams with Probabilistic Decays. 769-780
+		Puya Memarzia, Suprio Ray, Virendra C. Bhavsar:
+The Art of Efficient In-memory Query Processing on NUMA Systems: a Systematic Approach. 781-792
+		Lijun Chang, Xing Feng, Xuemin Lin, Lu Qin, Wenjie Zhang, Dian Ouyang:
+Speeding Up GED Verification for Graph Similarity Search. 793-804
+		Damjan Gjurovski, Sebastian Michel:
+Scaling Out Schema-free Stream Joins. 805-816
+		Tova Milo, Yuval Moskovitch, Brit Youngmann:
+Contribution Maximization in Probabilistic Datalog. 817-828
+		Shahab Helmi, Farnoush Banaei Kashani:
+Multiscale Frequent Co-movement Pattern Mining. 829-840
+		Zhining Liu, Wei Cao, Zhifeng Gao, Jiang Bian, Hechang Chen, Yi Chang, Tie-Yan Liu:
+Self-paced Ensemble for Highly Imbalanced Massive Data Classification. 841-852
+		Yash Garg, K. Selçuk Candan, Maria Luisa Sapino:
+SAN : Scale-Space Attention Networks. 853-864
+		Khanh Luong, Richi Nayak:
+A Novel Approach to Learning Consensus and Complementary Information for Multi-View Data Clustering. 865-876
+		Alexandra Kim, Laks V. S. Lakshmanan, Divesh Srivastava:
+Summarizing Hierarchical Multidimensional Data. 877-888
+		Yue Kou, Derong Shen, Quinn Snell, Dong Li, Tiezheng Nie, Ge Yu, Shuai Ma:
+Efficient Team Formation in Social Networks based on Constrained Pattern Graph. 889-900
+		Yixing Yang, Yixiang Fang, Xuemin Lin, Wenjie Zhang:
+Effective and Efficient Truss Computation over Large Heterogeneous Information Networks. 901-912
+		Dandan Lin, Raymond Chi-Wing Wong, Min Xie, Victor Junqiu Wei:
+Index-Free Approach with Theoretical Guarantee for Efficient Random Walk with Restart Query. 913-924
+		Jeongmyung Lee, Seokwon Kang, Yongseung Yu, Yong-Yeon Jo, Sang-Wook Kim, Yongjun Park:
+Optimization of GPU-based Sparse Matrix Multiplication for Large Sparse Networks. 925-936
+		Qing Liu, Yifan Zhu, Minjun Zhao, Xin Huang, Jianliang Xu, Yunjun Gao:
+VAC: Vertex-Centric Attributed Community Search. 937-948
+		Yiding Liu, Kaiqi Zhao, Gao Cong, Zhifeng Bao:
+Online Anomalous Trajectory Detection with Deep Generative Sequence Modeling. 949-960
+		Zhidan Liu, Zengyang Gong, Jiangzhou Li, Kaishun Wu:
+Mobility-Aware Dynamic Taxi Ridesharing. 961-972
+		Bolong Zheng, Chenze Huang, Christian S. Jensen, Lu Chen, Nguyen Quoc Viet Hung, Guanfeng Liu, GuoHui Li, Kai Zheng:
+Online Trichromatic Pickup and Delivery Scheduling in Spatial Crowdsourcing. 973-984
+		Wangze Ni, Peng Cheng, Lei Chen, Xuemin Lin:
+Task Allocation in Dependency-aware Spatial Crowdsourcing. 985-996
+		Lisi Chen, Shuo Shang, Christian S. Jensen, Bin Yao, Panos Kalnis:
+Parallel Semantic Trajectory Similarity Join. 997-1008
+		Min Xie, Raymond Chi-Wing Wong, Peng Peng, Vassilis J. Tsotras:
+Being Happy with the Least: Achieving α-happiness with Minimum Number of Tuples. 1009-1020
+		Jun Kuang, Yixin Cao, Jianbing Zheng, Xiangnan He, Ming Gao, Aoying Zhou:
+Improving Neural Relation Extraction with Implicit Mutual Relations. 1021-1032
+		Weijie Zhao, Shulong Tan, Ping Li:
+SONG: Approximate Nearest Neighbor Search on GPU. 1033-1044
+		Kejing Lu, Mineichi Kudo:
+R2LSH: A Nearest Neighbor Search Scheme Based on Two-dimensional Projected Spaces. 1045-1056
+		Yan Li, Tingjian Ge, Cindy X. Chen:
+Online Indices for Predictive Top-k Entity and Aggregate Queries on Knowledge Graphs. 1057-1068
+		Feng Zhang, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du:
+Enabling Efficient Random Access to Hierarchically-Compressed Data. 1069-1080
+		Zhong Yang, Bolong Zheng, GuoHui Li, Xi Zhao, Xiaofang Zhou, Christian S. Jensen:
+Adaptive Top-k Overlap Set Similarity Joins. 1081-1092
+		Bo Zhao, Nguyen Quoc Viet Hung, Matthias Weidlich:
+Load Shedding for Complex Event Processing: Input-based and State-based Techniques. 1093-1104
+		Nikos R. Katsipoulakis, Alexandros Labrinidis, Panos K. Chrysanthis:
+SPEAr: Expediting Stream Processing with Accuracy Guarantees. 1105-1116
+		Shixun Huang, Zhifeng Bao, Guoliang Li, Yanghao Zhou, J. Shane Culpepper:
+Temporal Network Representation Learning via Historical Neighborhoods Aggregation. 1117-1128
+		Swapnil Gandhi, Yogesh Simmhan:
+An Interval-centric Model for Distributed Computing over Temporal Graphs. 1129-1140
+		Mo Li, Farhana Murtaza Choudhury, Renata Borovica-Gajic, Zhiqiong Wang, Junchang Xin, Jianxin Li:
+CrashSim: An Efficient Algorithm for Computing SimRank over Static and Temporal Graphs. 1141-1152
+		Dong Wen, Yilun Huang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin:
+Efficiently Answering Span-Reachability Queries in Large Temporal Graphs. 1153-1164
+		Jia Yu, Mohamed Sarwat:
+Turbocharging Geospatial Visualization Dashboards via a Materialized Sampling Cube Approach. 1165-1176
+		Ibrahim Sabek, Mohamed F. Mokbel:
+Sya: Enabling Spatial Awareness inside Probabilistic Knowledge Base Construction. 1177-1188
+		Lei Li, Mengxuan Zhang, Wen Hua, Xiaofang Zhou:
+Fast Query Decomposition for Batch Shortest Path Processing in Road Networks. 1189-1200
+		Jiehuan Luo, Xin Cao, Xike Xie, Qiang Qu, Zhiqiang Xu, Christian S. Jensen:
+Efficient Attribute-Constrained Co-Located Community Search. 1201-1212
+		Zijin Feng, Tiantian Liu, Huan Li, Hua Lu, Lidan Shou, Jianliang Xu:
+Indoor Top-k Keyword-aware Routing Query. 1213-1224
+		Jiajia Chu, Yunshan Tu, Yao Zhang, Chuliang Weng:
+Latte: A Native Table Engine On Nvme Storage. 1225-1236
+		Sehyeon Oh, Wook-Hee Kim, Jihye Seo, Hyeonho Song, Sam H. Noh, Beomseok Nam:
+Doubleheader Logging: Eliminating Journal Write Overhead for Mobile DBMS. 1237-1248
+		Li Zeng, Lei Zou, M. Tamer Özsu, Lin Hu, Fan Zhang:
+GSI: GPU-friendly Subgraph Isomorphism. 1249-1260
+		Xuan Sun, Jinghuan Yu, Zimeng Zhou, Chun Jason Xue:
+FPGA-based Compaction Engine for Accelerating LSM-tree Key-Value Stores. 1261-1272
+		Andrew Crotty, Alex Galakatos, Tim Kraska:
+Getting Swole: Generating Access-Aware Code with Predicate Pullups. 1273-1284
+		Nick Koudas, Raymond Li, Ioannis Xarchakos:
+Video Monitoring Queries. 1285-1296
+		Xiang Yu, Guoliang Li, Chengliang Chai, Nan Tang:
+Reinforcement Learning with Tree-LSTM for Join Order Selection. 1297-1308
+		Saravanan Thirumuruganathan, Shohedul Hasan, Nick Koudas, Gautam Das:
+Approximate Query Processing for Data Exploration using Deep Generative Models. 1309-1320
+		Fotis Savva, Christos Anagnostopoulos, Peter Triantafillou:
+SuRF: Identification of Interesting Data Regions with Surrogate Models. 1321-1332
+		Xinyang Yu, Yanqing Peng, Feifei Li, Sheng Wang, Xiaowei Shen, Huijun Mai, Yue Xie:
+Two-Level Data Compression using Machine Learning in Time Series Database. 1333-1344
+		Mohammad Javad Amiri, Sujaya Maiyya, Divyakant Agrawal, Amr El Abbadi:
+SeeMoRe: A Fault-Tolerant Protocol for Hybrid Cloud Environments. 1345-1356
+		Yuechen Tao, Bo Li, Jingjie Jiang, Hok Chu Ng, Cong Wang, Baochun Li:
+On Sharding Open Blockchains with Smart Contracts. 1357-1368
+		Da Yan, Guimu Guo, Md Mashiur Rahman Chowdhury, M. Tamer Özsu, Wei-Shinn Ku, John C. S. Lui:
+G-thinker: A Distributed Framework for Mining Subgraphs in a Big Graph. 1369-1380
+		Michael Abebe, Brad Glasbergen, Khuzaima Daudjee:
+DynaMast: Adaptive Dynamic Mastering for Replicated Systems. 1381-1392
+		Jinkun Geng, Dan Li, Shuai Wang:
+Fela: Incorporating Flexible Parallelism and Elastic Tuning to Accelerate Large-Scale DML. 1393-1404
+		Tong Chen, Hongzhi Yin, Quoc Viet Hung Nguyen, Wen-Chih Peng, Xue Li, Xiaofang Zhou:
+Sequence-Aware Factorization Machines for Temporal Predictive Analytics. 1405-1416
+		Jilin Hu, Bin Yang, Chenjuan Guo, Christian S. Jensen, Hui Xiong:
+Stochastic Origin-Destination Matrix Forecasting Using Dual-Stage Graph Convolutional, Recurrent Neural Networks. 1417-1428
+		Yvonne Mülle, Michael H. Böhlen:
+Query Results over Ongoing Databases that Remain Valid as Time Passes By. 1429-1440
+		Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou, Gang Chen:
+Indoor Mobility Semantics Annotation Using Coupled Conditional Markov Networks. 1441-1452
+		Keyu Yang, Yunjun Gao, Lei Liang, Bin Yao, Shiting Wen, Gang Chen:
+Towards Factorized SVM with Gaussian Kernels over Normalized Data. 1453-1464
+		Jiyuan Zhang, Yi Lu, Daniele G. Spampinato, Franz Franchetti:
+FESIA: A Fast and SIMD-Efficient Set Intersection Approach on Modern CPUs. 1465-1476
+		Philipp Fent, Alexander van Renen, Andreas Kipf, Viktor Leis, Thomas Neumann, Alfons Kemper:
+Low-Latency Communication for Fast DBMS Using RDMA and Shared Memory. 1477-1488
+		Zoi Kaoudi, Jorge-Arnulfo Quiané-Ruiz, Bertty Contreras-Rojas, Rodrigo Pardo-Meza, Anis Troudi, Sanjay Chawla:
+ML-based Cross-Platform Query Optimization. 1489-1500
+		Haitao Yuan, Guoliang Li, Ling Feng, Ji Sun, Yue Han:
+Automatic View Generation with Deep Learning and Reinforcement Learning. 1501-1512
+		Zhipeng Zhang, Wentao Wu, Jiawei Jiang, Lele Yu, Bin Cui, Ce Zhang:
+C olumnSGD: A Column-oriented Framework for Distributed Stochastic Gradient Descent. 1513-1524
+		Harald Bögeholz, Michael Brand, Radu-Alexandru Todor:
+In-database connected component analysis. 1525-1536
+		Shuhao Zhang, Yingjun Wu, Feng Zhang, Bingsheng He:
+Towards Concurrent Stateful Stream Processing on Multicore Processors. 1537-1548
+		Jiawei Jiang, Pin Xiao, Lele Yu, Xiaosen Li, Jiefeng Cheng, Xupeng Miao, Zhipeng Zhang, Bin Cui:
+PSGraph: How Tencent trains extremely large-scale graphs with Spark? 1549-1557
+		Ruiyuan Li, Huajun He, Rubin Wang, Yuchuan Huang, Junwen Liu, Sijie Ruan, Tianfu He, Jie Bao, Yu Zheng:
+JUST: JD Urban Spatio-Temporal Data Engine. 1558-1569
+		Sukhada Pendse, Vasudha Krishnaswamy, Kartik Kulkarni, Yunrui Li, Tirthankar Lahiri, Vivekanandhan Raja, Jing Zheng, Mahesh Girkar, Akshay Kulkarni:
+Oracle Database In-Memory on Active Data Guard: Real-time Analytics on a Standby Database. 1570-1578
+		Arun Swami, Sriram Vasudevan, Joojay Huyn:
+Data Sentinel: A Declarative Production-Scale Data Validation Platform. 1579-1590
+		Yuan Mei, Luwei Cheng, Vanish Talwar, Michael Y. Levin, Gabriela Jacques-Silva, Nikhil Simha, Anirban Banerjee, Brian Smith, Tim Williamson, Serhat Yilmaz, Weitao Chen, Guoqiang Jerry Chen:
+Turbine: Facebook's Service Management Platform for Stream Processing. 1591-1602
+		Wolfram Wingerath, Felix Gessert, Erik Witt, Hannes Kuhlmann, Florian Bücklers, Benjamin Wollmer, Norbert Ritter:
+Speed Kit: A Polyglot & GDPR-Compliant Approach For Caching Personalized Content. 1603-1608
+		Shouling Ji, Qinchen Gu, Haiqin Weng, Qianjun Liu, Pan Zhou, Jing Chen, Zhao Li, Raheem Beyah, Ting Wang:
+De-Health: All Your Online Health Information Are Belong to Us. 1609-1620
+		Xuanhua Shi, Yipeng Zhang, Hong Huang, Zhenyu Hu, Hai Jin, Huan Shen, Yongluan Zhou, Bingsheng He, Ruibo Li, Keyong Zhou:
+Maxson: Reduce Duplicate Parsing Overhead on Raw Data. 1621-1632
+		Lisheng Zhao, Jiali Mao, Min Pu, Guoping Liu, Cheqing Jin, Weining Qian, Aoying Zhou, Xiang Wen, Runbo Hu, Hua Chai:
+Automatic Calibration of Road Intersection Topology using Trajectories. 1633-1644
+		Qitao Shi, Ya-Lin Zhang, Longfei Li, Xinxing Yang, Meng Li, Jun Zhou:
+SAFE: Scalable Automatic Feature Engineering Framework for Industrial Tasks. 1645-1656
+		Tong Zhang, Baoliang Cui, Zhen Cui, Haikuan Huang, Jian Yang, Hongbo Deng, Bo Zheng:
+Cross-Graph Convolution Learning for Large-Scale Text-Picture Shopping Guide in E-Commerce Search. 1657-1666
+		Andreas Pfadler, Huan Zhao, Jizhe Wang, Lifeng Wang, Pipei Huang, Dik Lun Lee:
+Billion-scale Recommendation with Heterogeneous Side Information at Taobao. 1667-1676
+		Zhao Li, Xin Shen, Yuhang Jiao, Xuming Pan, Pengcheng Zou, Xianling Meng, Chengwei Yao, Jiajun Bu:
+Hierarchical Bipartite Graph Neural Networks: Towards Large-Scale E-commerce Applications. 1677-1688
+		Chonggang Song, Qian Lin, Guohui Ling, Zongyi Zhang, Hongzhao Chen, Jun Liao, Chuan Chen:
+LoCEC: Local Community-based Edge Classification in Large Online Social Networks. 1689-1700
+		Jiaping Gui, Ding Li, Zhengzhang Chen, Junghwan Rhee, Xusheng Xiao, Mu Zhang, Kangkook Jee, Zhichun Li, Haifeng Chen:
+APTrace: A Responsive System for Agile Enterprise Level Causality Analysis. 1701-1712
+		Qifei Li, Zhicong Huang, Wen-jie Lu, Cheng Hong, Hunter Qu, Hui He, Weizhe Zhang:
+HomoPAI: A Secure Collaborative Machine Learning Platform based on Homomorphic Encryption. 1713-1717
+		Qian Lin, Kaiyuan Yang, Tien Tuan Anh Dinh, Qingchao Cai, Gang Chen, Beng Chin Ooi, Pingcheng Ruan, Sheng Wang, Zhongle Xie, Meihui Zhang, Olafs Vandans:
+ForkBase: Immutable, Tamper-evident Storage Substrate for Branchable Applications. 1718-1721
+		Boxuan Li, Reynold Cheng, Jiafeng Hu, Yixiang Fang, Min Ou, Ruibang Luo, Kevin Chen-Chuan Chang, Xuemin Lin:
+MC-Explorer: Analyzing and Visualizing Motif-Cliques on Large Networks. 1722-1725
+		Nico Schäfer, Sebastian Michel:
+JODA: A Vertically Scalable, Lightweight JSON Processor for Big Data Transformations. 1726-1729
+		Shangwei Guo, Yang Ji, Ce Zhang, Cheng Xu, Jianliang Xu:
+vCBIR: A Verifiable Search Engine for Content-Based Image Retrieval. 1730-1733
+		François Lévesque, Marielle St-Germain, Dominique Piché, Jean-François Gauvin, Michel Gagnon, Thomas Hurtut:
+MusX: Online Exploring and Visualizing Graph-Based Musical Adaptations. 1734-1737
+		Qiyu Liu, Libin Zheng, Lei Chen:
+RIDE: A System for Generalized Region of Interest Discovery and Exploration. 1738-1741
+		Yihai Xi, Ning Wang, Shuang Hao, Wenyang Yang, Li Li:
+PocketView: A Concise and Informative Data Summarizer. 1742-1745
+		Qixu Gong, Jiefei Liu, Huiping Cao:
+CSQ System: A System to Support Constrained Skyline Queries on Transportation Networks. 1746-1749
+		Chao Zhang, Farouk Toumani, Bastien Doreau:
+SUDAF: Sharing User-Defined Aggregate Functions. 1750-1553
+		Leshang Chen, Susan B. Davidson:
+Automating Software Citation using GitCite. 1754-1757
+		Jiaye Liu, Jiali Mao, Jiajun Liao, Huiqi Hu, Ye Guo, Aoying Zhou:
+SCLPD: Smart Cargo Loading Plan Decision Framework. 1758-1761
+		Feiyang Xu, Yue Ding, Zhenhua Ling, Xin Li, Yunxia Li, Shijin Wang:
+DCDT: A Digital Clock Drawing Test System for Cognitive Impairment Screening. 1762-1765
+		Mohammad Hossein Namaki, Xin Zhang, Sukhjinder Singh, Arman Ahmed, Armina Foroutan, Yinghui Wu, Anurag K. Srivastava, Anton Kocheturov:
+Kronos: Lightweight Knowledge-based Event Analysis in Cyber-Physical Data Streams. 1766-1769
+		Abdulaziz Almaslukh, Laila Abdelhafeez, Amr Magdy:
+DLEEL: Multi-Predicate Spatial Queries on User-generated Streaming Data. 1770-1773
+		Peng Gao, Xusheng Xiao, Ding Li, Kangkook Jee, Haifeng Chen, Sanjeev R. Kulkarni, Prateek Mittal:
+Querying Streaming System Monitoring Data for Enterprise System Anomaly Detection. 1774-1777
+		Paul Boniol, Michele Linardi, Federico Roncallo, Themis Palpanas:
+SAD: An Unsupervised System for Subsequence Anomaly Detection. 1778-1781
+		Ibrahim Sabek, Mohamed F. Mokbel:
+Machine Learning Meets Big Spatial Data. 1782-1785
+		Sebastián Villarroya, Peter Baumann:
+On the Integration of Machine Learning and Array Databases. 1786-1789
+		Maria Krommyda, Verena Kantere:
+Visualization Systems for Linked Datasets. 1790-1793
+		Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi:
+Modern Large-Scale Data Management Systems after 40 Years of Consensus. 1794-1797
+		Shantanu Sharma, Anton Burtsev, Sharad Mehrotra:
+Advances in Cryptography and Secure Hardware for Data Outsourcing. 1798-1801
+		Xiangyao Yu, Matt Youill, Matthew E. Woicik, Abdurrahman Ghanem, Marco Serafini, Ashraf Aboulnaga, Michael Stonebraker:
+PushdownDB: Accelerating a DBMS Using S3 Computation. 1802-1805
+		Dong Wei, Senjuti Basu Roy, Sihem Amer-Yahia:
+Task Deployment Recommendation with Worker Availability. 1806-1809
+		Ruochen Jiang, Changbo Qu, Jiannan Wang, Chi Wang, Yudian Zheng:
+Towards Extracting Highlights From Recorded Live Videos: An Implicit Crowdsourcing Approach. 1810-1813
+		Chengliang Chai, Guoliang Li, Ju Fan, Yuyu Luo:
+Crowdsourcing-based Data Extraction from Visualization Charts. 1814-1817
+		Hongzhi Shi, Quanming Yao, Qi Guo, Yaguang Li, Lingyu Zhang, Jieping Ye, Yong Li, Yan Liu:
+Predicting Origin-Destination Flow via Multi-Perspective Graph Convolutional Network. 1818-1821
+		Guanjie Zheng, Hanyang Liu, Kai Xu, Zhenhui Li:
+Learning to Simulate Vehicle Trajectories from Demonstrations. 1822-1825
+		Jiawei Zhang, Bowen Dong, Philip S. Yu:
+FakeDetector: Effective Fake News Detection with Deep Diffusive Neural Network. 1826-1829
+		Jingping Liu, Yuanfu Zhou, Dan Wu, Chao Wang, Haiyun Jiang, Sheng Zhang, Bo Xu, Yanghua Xiao:
+Mining Verb-Oriented Commonsense Knowledge. 1830-1833
+		Paul Boniol, Michele Linardi, Federico Roncallo, Themis Palpanas:
+Automated Anomaly Detection in Large Sequences. 1834-1837
+		Shuxiang Zhang, David Tse Jung Huang, Gillian Dobbie, Yun Sing Koh:
+SLED: Semi-supervised Locally-weighted Ensemble Detector. 1838-1841
+		Muzaffer Can Altinigneli, Lukas Miklautz, Christian Böhm, Claudia Plant:
+Hierarchical Quick Shift Guided Recurrent Clustering. 1842-1845
+		Yan Zhu, Chin-Chia Michael Yeh, Zachary Zimmerman, Eamonn J. Keogh:
+Matrix Profile XVII: Indexing the Matrix Profile to Allow Arbitrary Range Queries. 1846-1849
+		Jun-Gi Jang, U Kang:
+D-Tucker: Fast and Memory-Efficient Tucker Decomposition for Dense Tensors. 1850-1853
+		Guo Zhong, Chi-Man Pun:
+A Unified Framework for Multi-view Spectral Clustering. 1854-1857
+		Mu Yuan, Lan Zhang, Xiang-Yang Li, Hui Xiong:
+Comprehensive and Efficient Data Labeling via Adaptive Model Scheduling. 1858-1861
+		Zhongyuan Jiang, Lichao Sun, Philip S. Yu, Hui Li, Jianfeng Ma, Yulong Shen:
+Target Privacy Preserving for Social Networks. 1862-1865
+		Xiaolin Han, Tobias Grubenmann, Reynold Cheng, Sze Chun Wong, Xiaodong Li, Wenya Sun:
+Traffic Incident Detection: A Trajectory-based Approach. 1866-1869
+		Weixin Zeng, Xiang Zhao, Jiuyang Tang, Xuemin Lin:
+Collective Entity Alignment via Adaptive Features. 1870-1873
+		Wolfram Wingerath, Felix Gessert, Norbert Ritter:
+InvaliDB: Scalable Push-Based Real-Time Queries on Top of Pull-Based Databases. 1874-1877
+		Pei Li, Jaroslaw Szlichta, Michael H. Böhlen, Divesh Srivastava:
+Discovering Band Order Dependencies. 1878-1881
+		Omar AlOmeir, Eugenie Yujing Lai, Mostafa Milani, Rachel Pottinger:
+The Pastwatch: On the usability of provenance data in relational databases. 1882-1885
+		Stella Giannakopoulou, Manos Karpathiotakis, Anastasia Ailamaki:
+Query-driven Repair of Functional Dependency Violations. 1886-1889
+		Shuang Hao, Chengliang Chai, Guoliang Li, Nan Tang, Ning Wang, Xiang Yu:
+Outdated Fact Detection in Knowledge Bases. 1890-1893
+		Oksana Dolmatova, Nikolaus Augsten, Michael H. Böhlen:
+Preserving Contextual Information in Relational Matrix Operations. 1894-1897
+		Lily Xu, Shahrzad Gholami, Sara Mc Carthy, Bistra Dilkina, Andrew J. Plumptre, Milind Tambe, Rohit Singh, Mustapha Nsabuga, Joshua Mabonga, Margaret Driciru, Fred Wanyama, Aggrey Rwetsiba, Tom Okello, Eric Enyel:
+Stay Ahead of Poachers: Illegal Wildlife Poaching Prediction and Patrol Planning Under Uncertainty with Field Test Evaluations (Short Version). 1898-1901
+		André Bauer, Marwin Züfle, Nikolas Herbst, Samuel Kounev, Valentin Curtef:
+Telescope: An Automatic Feature Extraction and Transformation Approach for Time Series Forecasting on a Level-Playing Field. 1902-1905
+		Chunnan Wang, Hongzhi Wang, Tianyu Mu, Jianzhong Li, Hong Gao:
+Auto-Model: Utilizing Research Papers and HPO Techniques to Deal with the CASH problem. 1906-1909
+		Parmita Mehta, Stephen Portillo, Magdalena Balazinska, Andrew J. Connolly:
+Toward Sampling for Deep Learning Model Diagnosis. 1910-1913
+		Simon Aagaard Pedersen, Bin Yang, Christian S. Jensen:
+A Hybrid Learning Approach to Stochastic Routing. 1910-1913
+		Gangmuk Lim, Mohamed S. Hassan, Ze Jin, Stavros Volos, Myeongjae Jeon:
+Approximate Quantiles for Datacenter Telemetry Monitoring. 1914-1917
+		James R. Foulds, Rashidul Islam, Kamrun Naher Keya, Shimei Pan:
+An Intersectional Definition of Fairness. 1918-1921
+		Qingqing Ye, Haibo Hu, Man Ho Au, Xiaofeng Meng, Xiaokui Xiao:
+Towards Locally Differentially Private Generic Graph Metric Estimation. 1922-1925
+		Xiaodong Qi, Zhao Zhang, Cheqing Jin, Aoying Zhou:
+BFT-Store: Storage Partition for Permissioned Blockchain via Erasure Coding. 1926-1929
+		Sara Cohen, Adam Rosenthal, Aviv Zohar:
+Reasoning about the Future in Blockchain Databases. 1930-1933
+		Chenhao Huang, Michael J. Cahill, Alan D. Fekete, Uwe Röhm:
+Deciding When to Trade Data Freshness for Performance in MongoDB-as-a-Service. 1934-1937
+		Da Yan, Wenwen Qu, Guimu Guo, Xiaoling Wang:
+PrefixFPM: A Parallel Framework for General-Purpose Frequent Pattern Mining. 1938-1941
+		Shufeng Gong, Yanfeng Zhang, Ge Yu:
+HBP: Hotness Balanced Partition for Prioritized Iterative Graph Computations. 1942-1945
+		Junli Li, Chaowei Zhang, Jifu Zhang, Xiao Qin:
+Computing Mutual Information of Big Categorical Data and Its Application to Feature Grouping. 1946-1949
+		Xiaoshuang Chen, Longbin Lai, Lu Qin, Xuemin Lin:
+StructSim: Querying Structural Node Similarity at Billion Scale. 1950-1953
+		Yue Wang, Zhe Wang, Ziyuan Zhao, Zijian Li, Xun Jian, Lei Chen, Jianchun Song:
+HowSim: A General and Effective Similarity Measure on Heterogeneous Information Networks. 1954-1957
+		Bencheng Yan, Chaokun Wang:
+GraphAE: Adaptive Embedding across Graphs. 1958-1961
+		Yeting Li, Jialun Cao, Haiming Chen, Tingjian Ge, Zhiwu Xu, Qiancheng Peng:
+FlashSchema: Achieving High Quality XML Schemas with Powerful Inference Algorithms and Large-scale Schema Data. 1962-1965
+		Yongjiang Liang, Tingting Hu, Peixiang Zhao:
+Efficient Structural Clustering in Large Uncertain Graphs. 1966-1969
+		Weiguo Zheng, Jiewei Gu, Peng Peng, Jeffrey Xu Yu:
+Efficient Weighted Independent Set Computation over Large Graphs. 1970-1973
+		Ting Deng, Lei Hou, Ziyan Han:
+Keys as Features for Graph Entity Matching. 1974-1977
+		Chaoyue Niu, Zhenzhe Zheng, Fan Wu, Shaojie Tang, Guihai Chen:
+Online Pricing with Reserve Price Constraint for Personal Data Markets. 1978-1981
+		Wangda Zhang, Kenneth A. Ross:
+Permutation Index: Exploiting Data Skew for Improved Query Performance. 1982-1985
+		Chengcheng Yang, Dong Deng, Shuo Shang, Ling Shao:
+Efficient Locality-Sensitive Hashing Over High-Dimensional Data Streams. 1986-1989
+		Abdullah Alfarrarjeh, Seon Ho Kim, Vinuta Hegde, Akshansh, Cyrus Shahabi, Qingyun Xie, Siva Ravada:
+A Class of R*-tree Indexes for Spatial-Visual Search of Geo-tagged Street Images. 1990-1993
+		Chi Thang Duong, Hongzhi Yin, Dung Hoang, Minn Hung Nguyen, Matthias Weidlich, Quoc Viet Hung Nguyen, Karl Aberer:
+Graph Embeddings for One-pass Processing of Heterogeneous Queries. 1994-1997
+		Jin Wang, Chunbin Lin:
+Fast Error-tolerant Location-aware Query Autocompletion. 1998-2001
+		Ruiyuan Li, Huajun He, Rubin Wang, Sijie Ruan, Yuan Sui, Jie Bao, Yu Zheng:
+TrajMesa: A Distributed NoSQL Storage Engine for Big Trajectory Data. 2002-2005
+		Sean Bin Yang, Bin Yang:
+Learning to Rank Paths in Spatial Networks. 2006-2009
+		Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu:
+Shortest Path Queries for Indoor Venues with Temporal Variations. 2014-2017
+		Sin G. Teo, Jianneng Cao, Vincent C. S. Lee:
+DAG: A General Model for Privacy-Preserving Data Mining : (Extended Abstract). 2018-2019
+		Woohwan Jung, Suyong Kwon, Kyuseok Shim:
+TIDY: Publishing a Time Interval Dataset with Differential Privacy (Extended abstract). 2020-2021
+		Tsz Nam Chan, Man Lung Yiu, Leong Hou U:
+The Power of Bounds: Answering Approximate Earth Mover's Distance with Parametric Bounds (Extended abstract). 2022-2023
+		Victor Junqiu Wei, Raymond Chi-Wing Wong, Cheng Long, Pan Hui:
+On Nearby-Fit Spatial Keyword Queries (Extended Abstract). 2024-2025
+		Jaewook Byun, Sungpil Woo, Daeyoung Kim:
+ChronoGraph: Enabling temporal graph traversals for efficient information diffusion analysis over time. 2026-2027
+		Jong-Ryul Lee, Chin-Wan Chung:
+Efficient Distance Sensitivity Oracles for Real-World Graph Data. 2028-2029
+		Petr Lukás, Radim Baca, Michal Krátký, Tok Wang Ling:
+Demythization of Structural XML Query Processing: Comparison of Holistic and Binary Approaches (Extended Abstract). 2030-2031
+		Xiaoye Miao, Yunjun Gao, Su Guo, Lu Chen, Jianwei Yin, Qing Li:
+Answering Skyline Queries over Incomplete Data with Crowdsourcing(Extended Abstract). 2032-2033
+		Pengfei Li, Hua Lu, Qian Zheng, Shijian Li, Gang Pan:
+HisRect: Features from Historical Visits and Recent Tweet for Co-Location Judgement. 2034-2035
+		Tenindra Abeywickrama, Muhammad Aamir Cheema, Arijit Khan:
+K-SPIN: Efficiently Processing Spatial Keyword Queries on Road Networks : (Extended Abstract). 2036-2037
+		Hongmei Chen, Yixiang Fang, Ying Zhang, Wenjie Zhang, Lizhen Wang:
+ESPM: Efficient Spatial Pattern Matching (Extended Abstract). 2038-2039
+		Yong Zhang, Jiacheng Wu, Jin Wang, Chunxiao Xing:
+A Transformation-based Framework for KNN Set Similarity Search(Extended Abstract). 2040-2041
+		Mao-Lin Li, Francesco Di Mauro, K. Selçuk Candan, Maria Luisa Sapino:
+Matrix Factorization with Interval-Valued Data. 2042-2043
+		Zhenggang Wang, Liu Zhong:
+Neighborhood density correlation clustering. 2044-2048
+		Deleli Mesay Adinew, Zhou Shijie, Yongjian Liao:
+Spark Performance Optimization Analysis In Memory Management with Deploy Mode In Standalone Cluster Computing. 2049-2053
+		Yifan Qiao:
+Design of Database Systems with DRAM-only Heterogeneous Memory Architecture. 2054-2058
+		Botao Peng:
+Data Series Indexing Gone Parallel. 2059-2063
+		Yang Li, Gang Liu:
+Area Queries Based on Voronoi Diagrams. 2064-2068
+		Wenxiao Fu:
+Picube for Fast Exploration of Large Datasets. 2069-2073
+		Yiming Lin, Hongzhi Wang, Jianzhong Li, Hong Gao:
+Efficient Entity Resolution on Heterogeneous Records (Extended abstract). 2074-2075
+		Cynthia Joesph, A. Rajeswari, B. Premalatha, C. Balapriya:
+Implementation of physiological signal based emotion recognition algorithm. 2075-2079

@@ -1,0 +1,2146 @@
+		W. Nicholas Greene, Nicholas Roy:
+Metrically-Scaled Monocular SLAM using Learned Scale Factors. 43-50
+		Carlos Campos, José M. M. Montiel, Juan D. Tardós:
+Inertial-Only Optimization for Visual-Inertial Initialization. 51-57
+		Hongle Xie, Weidong Chen, Jingchuan Wang, Hesheng Wang:
+Hierarchical Quadtree Feature Optical Flow Tracking Based Sparse Pose-Graph Visual-Inertial SLAM. 58-64
+		Zhuang Dai, Xinghong Huang, Weinan Chen, Chuangbing Chen, Li He, Shuhuan Wen, Hong Zhang:
+Keypoint Description by Descriptor Fusion Using Autoencoders. 65-71
+		Anirud Thyagharajan, Om Ji Omer, Dipan Mandal, Sreenivas Subramoney:
+Towards Noise Resilient SLAM. 72-79
+		Kamak Ebadi, Yun Chang, Matteo Palieri, Alex Stephens, Alex Hatteland, Eric Heiden, Abhishek Thakur, Nobuhiro Funabiki, Benjamin Morrell, Sally Wood, Luca Carlone, Ali-akbar Agha-mohammadi:
+LAMP: Large-Scale Autonomous Mapping and Positioning for Exploration of Perceptually-Degraded Subterranean Environments. 80-86
+		Ali Harakeh, Michael Smart, Steven L. Waslander:
+BayesOD: A Bayesian Approach for Uncertainty Estimation in Deep Object Detectors. 87-93
+		Oier Mees, Alp Emek, Johan Vertens, Wolfram Burgard:
+Learning Object Placements For Relational Instructions by Hallucinating Scene Representations. 94-100
+		Qiang Wang, Shaohuai Shi, Shizhen Zheng, Kaiyong Zhao, Xiaowen Chu:
+FADNet: A Fast and Accurate Network for Disparity Estimation. 101-107
+		Sampo Kuutti, Saber Fallah, Richard Bowden:
+Training Adversarial Agents to Exploit Weaknesses in Deep Control Policies. 108-114
+		Suraj Nair, Mohammad Babaeizadeh, Chelsea Finn, Sergey Levine, Vikash Kumar:
+TRASS: Time Reversal as Self-Supervision. 115-121
+		Marlin P. Strub, Jonathan D. Gammell:
+Advanced BIT* (ABIT*): Sampling-Based Planning with Advanced Graph-Search Techniques. 130-136
+		Sebastian Dorn, Nicola Wolpert, Elmar Schömer:
+Voxel-based General Voronoi Diagram for Complex Data with Application on Motion Planning. 137-143
+		Leonidas Koutras, Zoe Doulgeri:
+Dynamic Movement Primitives for moving goals with temporal scaling adaptation. 144-150
+		Chao Huang, Xin Chen, Enyi Tang, Mengda He, Lei Bu, Shengchao Qin, Yifeng Zeng:
+Navigating Discrete Difference Equation Governed WMR by Virtual Linear Leader Guided HMPC. 151-157
+		Rachel A. Moan, Victor M. Baez, Aaron T. Becker, Jason M. O'Kane:
+Aggregation and localization of simple robots in curved environments. 165-171
+		Takuzumi Nishio, Moju Zhao, Fan Shi, Tomoki Anzai, Kento Kawaharazuka, Kei Okada, Masayuki Inaba:
+Stable Control in Climbing and Descending Flight under Upper Walls using Ceiling Effect Model based on Aerodynamics. 172-178
+		Mihir Dharmadhikari, Tung Dang, Lukas Solanka, Johannes Loje, Huan Nguyen, Nikhil Khedekar, Kostas Alexis:
+Motion Primitives-based Path Planning for Fast and Agile Exploration using Aerial Robots. 179-185
+		Vikas Sindhwani, Hakim Sidahmed, Krzysztof Choromanski, Brandon Jones:
+Unsupervised Anomaly Detection for Self-flying Delivery Drones. 186-192
+		Yiming Li, Changhong Fu, Ziyuan Huang, Yinqiang Zhang, Jia Pan:
+Keyfilter-Aware Real-Time UAV Object Tracking. 193-199
+		Fan Shi, Moju Zhao, Masaki Murooka, Kei Okada, Masayuki Inaba:
+Aerial Regrasping: Pivoting with Transformable Multilink Aerial Robot. 200-207
+		Matthew Berg, Deniz Bayazit, Rebecca Mathew, Ariel Rotter-Aboyoun, Ellie Pavlick, Stefanie Tellex:
+Grounding Language to Landmarks in Arbitrary Outdoor Environments. 208-215
+		Ippei Nishitani, Hao Yang, Rui Guo, Shalini Keshavamurthy, Kentaro Oguchi:
+Deep Merging: Vehicle Merging Controller Based on Deep Reinforcement Learning with Embedding Network. 216-221
+		Simon Chadwick, Paul Newman:
+Radar as a Teacher: Weakly Supervised Vehicle Detection using Radar Labels. 222-228
+		Kathleen Brandes, Allen Wang, Rushina Shah:
+Robust Lane Detection with Binary Integer Optimization. 229-235
+		Zhe Liu, Huanshu Wei, Hanjiang Hu, Chuanzhe Suo, Hesheng Wang, Haoang Li, Yun-Hui Liu:
+A Synchronization Approach for Achieving Cooperative Adaptive Cruise Control Based Non-Stop Intersection Passing. 236-242
+		Jeffrey Hawke, Richard Shen, Corina Gurau, Siddharth Sharma, Daniele Reda, Nikolay Nikolov, Przemyslaw Mazur, Sean Micklethwaite, Nicolas Griffiths, Amar Shah, Alex Kendall:
+Urban Driving with Conditional Imitation Learning. 251-257
+		Rabbia Asghar, Mario Garzón, Jérôme Lussereau, Christian Laugier:
+Vehicle Localization Based on Visual Lane Marking and Topological Map Matching. 258-264
+		Carlos Sánchez Belenguer, Erik Wolfart, Vítor Sequeira:
+RISE: A Novel Indoor Visual Place Recogniser. 265-271
+		Jan Quenzel, Radu Alexandru Rosu, Thomas Läbe, Cyrill Stachniss, Sven Behnke:
+Beyond Photometric Consistency: Gradient-based Dissimilarity for Improving Visual Odometry and Stereo Matching. 272-278
+		Paloma Sodhi, Sanjiban Choudhury, Joshua G. Mangelson, Michael Kaess:
+ICS: Incremental Constrained Smoothing for State Estimation. 279-285
+		Victor Delafontaine, Fabrizio Schiano, Giuseppe Cocco, Alexandru Rusu, Dario Floreano:
+Drone-aided Localization in LoRa IoT Networks. 286-292
+		Jan Wietrzykowski, Piotr Skrzypczynski:
+A fast and practical method of indoor localization for resource-constrained devices with limited sensing. 293-299
+		Lorenzo Nardi, Cyrill Stachniss:
+Long-Term Robot Navigation in Indoor Environments Estimating Patterns in Traversability Changes. 300-306
+		Cheng-Yu Kuo, Yunduan Cui, Takamitsu Matsubara:
+Sample-and-computation-efficient Probabilistic Model Predictive Control with Random Features. 307-313
+		Juan Antonio Delgado-Guerrero, Adrià Colomé, Carme Torras:
+Sample-Efficient Robot Motion Learning using Gaussian Process Latent Variable Models. 314-320
+		Nidhish Raj, Ashutosh Simha, Mangal Kothari, Abhishek, Ravi N. Banavar:
+Iterative Learning based feedforward control for Transition of a Biplane-Quadrotor Tailsitter UAS. 321-327
+		Jean-Raymond Betterton, Daniel Ratner, Samuel Webb, Mykel J. Kochenderfer:
+Reinforcement Learning for Adaptive Illumination with X-rays. 328-334
+		Ki Myung Brian Lee, Wolfram Martens, Jayant Khatkar, Robert Fitch, Ramgopal R. Mettu:
+Efficient Updates for Data Association with Mixtures of Gaussian Processes. 335-341
+		Haonan Peng, Xingjian Yang, Yun-Hsuan Su, Blake Hannaford:
+Real-time Data Driven Precision Estimator for RAVEN-II Surgical Robot End Effector Position. 350-356
+		Yidan Qin, Sahba Aghajani Pedram, Seyedshams Feyzabadi, Max Allan, A. Jonathan McLeod, Joel W. Burdick, Mahdi Azizian:
+Temporal Segmentation of Surgical Sub-tasks through Deep Learning with Multiple Data Sources. 371-377
+		Dylan P. Losey, Krishnan Srinivasan, Ajay Mandlekar, Animesh Garg, Dorsa Sadigh:
+Controlling Assistive Robots with Learned Latent Actions. 378-384
+		Vishnu Dev Amara, Jörn Malzahn, Zeyu Ren, Wesley Roozing, Nikos G. Tsagarakis:
+On the efficient control of series-parallel compliant articulated robots. 385-391
+		David Wisth, Marco Camurri, Maurice F. Fallon:
+Preintegrated Velocity Bias Estimation to Overcome Contact Nonlinearities in Legged Robot Odometry. 392-398
+		Lu Chen, Shusheng Ye, Caiming Sun, Aidong Zhang, Ganyu Deng, Tianjiao Liao:
+Optimized Foothold Planning and Posture Searching for Energy-Efficient Quadruped Locomotion over Challenging Terrains. 399-405
+		Gerardo Bledt, Sangbae Kim:
+Extracting Legged Locomotion Heuristics with Regularized Predictive Control. 406-412
+		Tianyu Li, Nathan O. Lambert, Roberto Calandra, Franziska Meier, Akshara Rai:
+Learning Generalizable Locomotion Skills with Hierarchical Reinforcement Learning. 413-419
+		Zhichao Liu, Zhouyu Lu, Konstantinos Karydis:
+SoRX: A Soft Pneumatic Hexapedal Robot to Traverse Rough, Steep, and Unstable Terrain. 420-426
+		Myounggyu Won:
+UBAT: On Jointly Optimizing UAV Trajectories and Placement of Battery Swap Stations. 427-433
+		Jungwon Park, Junha Kim, Inkyu Jang, H. Jin Kim:
+Efficient Multi-Agent Trajectory Planning with Feasibility Guarantee using Relative Bernstein Polynomial. 434-440
+		Kyle Brown, Oriana Peltzer, Martin A. Sehr, Mac Schwager, Mykel J. Kochenderfer:
+Optimal Sequential Task Assignment and Path Finding for Multi-Agent Robotic Assembly Planning. 441-447
+		Ruihua Han, Shengduo Chen, Qi Hao:
+Cooperative Multi-Robot Navigation in Dynamic Environment with Deep Reinforcement Learning. 448-454
+		Mallikarjuna Rao Nimmagadda, Shreela Dattawadkar, Sriram Muthukumar, Vinayak Honkote:
+Adaptive Directional Path Planner for Real-Time, Energy-Efficient, Robust Navigation of Mobile Robots. 455-461
+		Daniel Cardona-Ortiz, Alvaro Paz, Gustavo Arechavaleta:
+Exploiting sparsity in robot trajectory optimization with direct collocation and geometric algorithms. 469-475
+		Arun Kumar Singh, Raghu Ram Theerthala, Mithun Babu, Unni Krishnan R. Nair, K. Madhava Krishna:
+Bi-Convex Approximation of Non-Holonomic Trajectory Optimization. 476-482
+		Wei Gao, Charles Young, John V. Nicholson, Christian Hubicki, Jonathan E. Clark:
+Fast, Versatile, and Open-loop Stable Running Behaviors with Proprioceptive-only Sensing using Model-based Optimization. 483-489
+		Astghik Hakobyan, Insoon Yang:
+Wasserstein Distributionally Robust Motion Planning and Control with Safety Constraints Using Conditional Value-at-Risk. 490-496
+		Zherong Pan, Xifeng Gao, Dinesh Manocha:
+Grasping Fragile Objects Using A Stress-Minimization Metric. 517-523
+		Marco Costanzo, Giuseppe De Maria, Gaetano Lettera, Ciro Natale:
+Grasp Control for Enhancing Dexterity of Parallel Grippers. 524-530
+		Tetsuya Narita, Satoko Nagakari, William Conus, Toshimitsu Tsuboi, Ken'ichiro Nagasaka:
+Theoretical Derivation and Realization of Adaptive Grasping Based on Rotational Incipient Slip Detection. 531-537
+		Shaowei Cui, Rui Wang, Junhang Wei, Fanrong Li, Shuo Wang:
+Grasp State Assessment of Deformable Objects Using Visual-Tactile Fusion Perception. 538-544
+		Jens Lundell, Francesco Verdoja, Ville Kyrki:
+Beyond Top-Grasps Through Scene Completion. 545-551
+		Harry Zhang, Jeffrey Ichnowski, Yahav Avigal, Joseph Gonzales, Ion Stoica, Ken Goldberg:
+Dex-Net AR: Distributed Deep Grasp Planning Using a Commodity Cellphone and Augmented Reality App. 552-558
+		Changhee Won, Hochang Seok, Zhaopeng Cui, Marc Pollefeys, Jongwoo Lim:
+OmniSLAM: Omnidirectional Localization and Dense Mapping for Wide-baseline Multi-camera Systems. 559-566
+		Julia Guerrero-Viu, Clara Fernandez-Labrador, Cédric Demonceaux, José Jesús Guerrero:
+What's in my Room? Object Recognition on Indoor Panoramic Images. 567-573
+		Varun Ravi Kumar, Sandesh Athni Hiremath, Markus Bach, Stefan Milz, Christian Witt, Clément Pinard, Senthil Kumar Yogamani, Patrick Mäder:
+FisheyeDistanceNet: Self-Supervised Scale-Aware Distance Estimation using Monocular Fisheye Camera for Autonomous Driving. 574-581
+		Ning-Hsu Wang, Bolivar Solarte, Yi-Hsuan Tsai, Wei-Chen Chiu, Min Sun:
+360SD-Net: 360° Stereo Depth Estimation with Learnable Cost Volume. 582-588
+		Xinjing Cheng, Peng Wang, Yanqi Zhou, Chenye Guan, Ruigang Yang:
+Omnidirectional Depth Extension Networks. 589-595
+		Yongjie Shi, Xin Tong, Jingsi Wen, He Zhao, Xianghua Ying, Hongbin Zha:
+3D Orientation Estimation and Vanishing Point Extraction from Single Panoramas Using Convolutional Neural Network. 596-602
+		Xi Lin, Laurence Willemet, Alexandre Bailleul, Michaël Wiertlewski:
+Curvature sensing with a spherical tactile sensor using the color-interference of a marker array. 603-609
+		Qian Feng, Zhaopeng Chen, Jun Deng, Chunhui Gao, Jianwei Zhang, Alois C. Knoll:
+Center-of-Mass-based Robust Grasp Planning for Unknown Objects Using Tactile-Visual Sensors. 610-617
+		Akhil Padmanabha, Frederik Ebert, Stephen Tian, Roberto Calandra, Chelsea Finn, Sergey Levine:
+OmniTact: A Multi-Directional High-Resolution Touch Sensor. 618-624
+		Pedro Canotilho Ribeiro, Susana Cardoso, Alexandre Bernardino, Lorenzo Jamone:
+Highly sensitive bio-inspired sensor for fine surface exploration and characterization. 625-631
+		Francesca Palermo, Jelizaveta Konstantinova, Kaspar Althoefer, Stefan Poslad, Ildar Farkhatdinov:
+Implementing Tactile and Proximity Sensing for Crack Detection. 632-637
+		Sayaka Doi, Hiroki Koga, Tomonori Seki, Yutaro Okuno:
+Novel Proximity Sensor for Realizing Tactile Sense in Suction Cups. 638-643
+		Jae-Hyung Jung, Chan Gook Park:
+Constrained Filtering-based Fusion of Images, Events, and Inertial Measurements for Pose Estimation. 644-650
+		Kevin Eckenhoff, Patrick Geneva, Nathaniel Merrill, Guoquan Huang:
+Schmidt-EKF-based Visual-Inertial Moving Object Tracking. 651-657
+		Yimeng Li, Jana Kosecka:
+Learning View and Target Invariant Visual Servoing for Navigation. 658-664
+		Thien Hoang Nguyen, Thien-Minh Nguyen, Lihua Xie:
+Tightly-Coupled Single-Anchor Ultra-wideband-Aided Monocular Visual Odometry System. 665-671
+		Xiangyun Meng, Nathan D. Ratliff, Yu Xiang, Dieter Fox:
+Scaling Local Control to Large-Scale Topological Navigation. 672-678
+		Xinlei Pan, Tingnan Zhang, Brian Ichter, Aleksandra Faust, Jie Tan, Sehoon Ha:
+Zero-shot Imitation Learning from Demonstrations for Legged Robot Visual Navigation. 679-685
+		Canberk Sozer, Linda Paternò, Giuseppe Tortora, Arianna Menciassi:
+Pressure-Driven Manipulator with Variable Stiffness Structure. 696-702
+		Fabio Stroppa, Ming Luo, Kyle T. Yoshida, Margaret M. Coad, Laura H. Blumenschein, Allison M. Okamura:
+Human Interface for Teleoperated Object Manipulation with a Soft Growing Robot. 726-732
+		Jongwoo Lee, Haley R. Warren, Vibha Agarwal, Meghan E. Huber, Neville Hogan:
+Modulating hip stiffness with a robotic exoskeleton immediately changes gait. 733-739
+		Jantzen T. Lee, Michael Goldfarb:
+Swing-Assist for Enhancing Stair Ambulation in a Primarily-Passive Knee Prosthesis. 740-746
+		Sangjoon J. Kim, Junghoon Park, Wonseok Shin, Dong Yeon Lee, Jung Kim:
+Proof-of-concept of a Pneumatic Ankle Foot Orthosis Powered by a Custom Compressor for Drop Foot Correction. 747-753
+		Xiang Gao, Jennie Si, Yue Wen, Minhan Li, He Helen Huang:
+Knowledge-Guided Reinforcement Learning Control for Robotic Lower Limb Prosthesis. 754-760
+		HyeonSeok Seong, Do-Hyeong Kim, Igor Gaponov, Jee-Hwan Ryu:
+Development of a Twisted String Actuator-based Exoskeleton for Hip Joint Assistance in Lifting Tasks. 761-767
+		Libo Zhou, Weihai Chen, Wenjie Chen, Shaoping Bai, Jianhua Wang:
+A Novel Portable Lower Limb Exoskeleton for Gravity Compensation during Walking. 768-773
+		Moran Barenboim, Amir Degani:
+Steerable Burrowing Robot: Design, Modeling and Experiments. 829-835
+		Esther Lee, Zachary Goddard, Joshua Ngotiaoco, Noe Monterrosa, Anirban Mazumdar:
+High Force Density Gripping with UV Activation and Sacrificial Adhesion. 836-842
+		D. Gueners, Helene Chanal, Chedli C. Bouzgarrou:
+Stiffness optimization of a cable driven parallel robot for additive manufacturing. 843-849
+		Dominik Mannhart, Fabio Dubois, Karen Bodie, Victor Klemm, Alessandro Morra, Marco Hutter:
+CAMI - Analysis, Design and Realization of a Force-Compliant Variable Cam System. 850-856
+		Raymond Kim, Alex Debate, Stephen Balakirsky, Anirban Mazumdar:
+Using Manipulation to Enable Adaptive Ground Mobility. 857-863
+		Tao Yang, Yujing Zhang, Peng Li, Yantao Shen, Yunhui Liu, Haoyao Chen:
+SNIAE-SSE Deformation Mechanism Enabled Scalable Multicopter: Design, Modeling and Flight Performance Validation. 864-870
+		Gabriele Ferri, Pietro Stinco, Giovanni De Magistris, Alessandra Tesei, Kevin D. LePage:
+Cooperative Autonomy and Data Fusion for Underwater Surveillance With Networked AUVs. 871-877
+		Thomas W. Secord, Troy R. Louwagie:
+Bidirectional Resonant Propulsion and Localization for AUVs. 878-884
+		James Ju Heon Lee, Chanyeol Yoo, Stuart Anstee, Robert Fitch:
+Hierarchical Planning in Time-Dependent Flow Fields for Marine Robots. 885-891
+		Marios Xanthidis, Nare Karapetyan, Hunter Damron, Sharmin Rahman, James Johnson, Allison O'Connell, Jason M. O'Kane, Ioannis M. Rekleitis:
+Navigation in the Presence of Obstacles for an Agile Autonomous Underwater Vehicle. 892-899
+		Md Jahidul Islam, Sadman Sakib Enan, Peigen Luo, Junaed Sattar:
+Underwater Image Super-Resolution using Deep Residual Multipliers. 900-906
+		Cong Wei, Herbert G. Tanner, M. Ani Hsieh:
+Nonlinear Synchronization Control for Short-Range Mobile Sensors Drifting in Geophysical Flows. 907-913
+		Wesley Roozing, Stefan S. Groothuis, Stefano Stramigioli:
+Energy-based Safety in Series Elastic Actuation. 914-920
+		Kevin Haninger, Abner Asignacion, Sehoon Oh:
+Safe high impedance control of a series-elastic actuator with a disturbance observer. 921-927
+		Sung Y. Kim, Tiange Zhang, David J. Braun:
+Variable Stiffness Springs for Energy Storage Applications. 928-933
+		Shuai Liu, Huajie Wu, Yang Yang, Michael Yu Wang:
+Parallel-motion Thick Origami Structure for Robotic Design. 934-939
+		Yoshito Okada, Shotaro Kojima, Kazunori Ohno, Satoshi Tadokoro:
+Real-time Simulation of Non-Deformable Continuous Tracks with Explicit Consideration of Friction and Grouser Geometry. 948-954
+		John G. Rogers, Jason M. Gregory, Jonathan Fink, Ethan Stump:
+Test Your SLAM! The SubT-Tunnel dataset and metric for mapping. 955-961
+		Sourav Dutta, Banafsheh Rekabdar, Chinwe Ekenna:
+Uncertainty Measured Markov Decision Process in Dynamic Environments. 962-968
+		Shenhua Hu, Yiming Hu, Jianquan Li, Xianlei Long, Mengjuan Chen, Qingyi Gu:
+Natural Scene Facial Expression Recognition with Dimension Reduction Network. 987-992
+		Shile Li, Haojie Wang, Dongheui Lee:
+Hand Pose Estimation for Hand-Object Interaction Cases using Augmented Autoencoder. 993-999
+		Timm Linder, Kilian Y. Pfeiffer, Narunas Vaskevicius, Robert Schirmer, Kai Oliver Arras:
+Accurate detection and 3D localization of humans using a novel YOLO-based RGB-D fusion approach and synthetic training data. 1000-1006
+		Yuichi Murozaki, Fumihito Arai:
+Wide-range Load Sensor Using Vacuum Sealed Quartz Crystal Resonator for Simultaneous Biosignals Measurement on Bed. 1015-1020
+		Hirokatsu Kataoka, Teppei Suzuki, Kodai Nakashima, Yutaka Satoh, Yoshimitsu Aoki:
+Joint Pedestrian Detection and Risk-level Prediction with Motion-Representation-by-Detection. 1021-1027
+		Peng Gao, Hao Zhang:
+Long-term Place Recognition through Worst-case Graph Matching to Integrate Landmark Appearances and Spatial Relationships. 1070-1076
+		Kyungdon Joo, Tae-Hyun Oh, François Rameau, Jean-Charles Bazin, In So Kweon:
+Linear RGB-D SLAM for Atlanta World. 1077-1083
+		Yunfei Fan, Ruofu Wang, Yinian Mao:
+Stereo Visual Inertial Odometry with Online Baseline Calibration. 1084-1090
+		Shi-Sheng Huang, Ze-Yu Ma, Tai-Jiang Mu, Hongbo Fu, Shi-Min Hu:
+Lidar-Monocular Visual Odometry using Point and Line Features. 1091-1097
+		Kevin J. Doherty, David P. Baxter, Edward Schneeweiss, John J. Leonard:
+Probabilistic Data Association via Mixture Models for Robust Semantic SLAM. 1098-1104
+		Yipu Zhao, Justin S. Smith, Sambhu H. Karumanchi, Patricio A. Vela:
+Closed-Loop Benchmarking of Stereo Visual-Inertial SLAM Systems: Understanding the Impact of Drift and Latency on Tracking Accuracy. 1105-1112
+		Liang Pan, Chee-Meng Chew, Gim Hee Lee:
+PointAtrousGraph: Deep Hierarchical Encoder-Decoder with Point Atrous Convolution for Unorganized 3D Points. 1113-1120
+		Christophe Reymann, Simon Lacroix:
+Learning error models for graph SLAM. 1121-1127
+		Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara:
+SMArT: Training Shallow Memory-aware Transformers for Robotic Explainability. 1128-1134
+		Linh Kästner, Vlad Catalin Frasineanu, Jens Lambrecht:
+A 3D-Deep-Learning-based Augmented Reality Calibration Method for Robotic Environments using Depth Sensor Data. 1135-1141
+		Xi Chen, Ali Ghadirzadeh, Mårten Björkman, Patric Jensfelt:
+Adversarial Feature Training for Generalizable Robotic Visuomotor Control. 1142-1148
+		Rohan Chitnis, Shubham Tulsiani, Saurabh Gupta, Abhinav Gupta:
+Efficient Bimanual Manipulation Using Learned Task Schemas. 1149-1155
+		Qi Kuang, Jinbo Wu, Jia Pan, Bin Zhou:
+Real-Time UAV Path Planning for Autonomous Urban Scene Reconstruction. 1156-1162
+		Shenglei Shi, Jiankui Chen, Youlun Xiong:
+A Fast Marching Gradient Sampling Strategy for Motion Planning using an Informed Certificate Set. 1163-1168
+		Yixing Luo, Yijun Yu, Zhi Jin, Yao Li, Zuohua Ding, Yuan Zhou, Yang Liu:
+Privacy-Aware UAV Flights through Self-Configuring Motion Planning. 1169-1175
+		Bakir Lacevic, Dinko Osmankovic:
+Improved C-Space Exploration and Path Planning for Robotic Manipulators Using Distance Information. 1176-1182
+		Aykut Özgün Önol, Radu Corcodel, Philip Long, Taskin Padir:
+Tuning-Free Contact-Implicit Trajectory Optimization. 1183-1189
+		Boyu Zhou, Fei Gao, Jie Pan, Shaojie Shen:
+Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths. 1208-1214
+		Russell Reinhart, Tung Dang, Emily M. Hand, Christos Papachristos, Kostas Alexis:
+Learning-based Path Planning for Autonomous Exploration of Subterranean Environments. 1215-1221
+		Jongseok Lee, Ribin Balachandran, Yuri S. Sarkisov, Marco De Stefano, Andre Coelho, Kashmira Shinde, Min Jun Kim, Rudolph Triebel, Konstantin Kondak:
+Visual-Inertial Telepresence for Aerial Manipulation. 1222-1229
+		Hyunsoo Yang, Min-Seong Kim, Dongjun Lee:
+Distributed Rotor-Based Vibration Suppression for Flexible Object Transport and Manipulation. 1230-1236
+		Dongjae Lee, Hoseong Seo, Dabin Kim, H. Jin Kim:
+Aerial Manipulation using Model Predictive Control for Opening a Hinged Door. 1237-1242
+		Boseong Jeon, Yunwoo Lee, H. Jin Kim:
+Integrated Motion Planner for Real-time Aerial Videography with a Drone in a Dense Environment. 1243-1249
+		Yiwei Lyu, Chiyu Dong, John M. Dolan:
+FG-GMM-based Interactive Behavior Estimation for Autonomous Driving Vehicles in Ramp Merging Control *. 1250-1255
+		Aaron Miller, Kyungzun Rim, Parth Chopra, Paritosh Kelkar, Maxim Likhachev:
+Cooperative Perception and Localization for Cooperative Driving. 1256-1262
+		Travis Manderson, Stefan Wapnick, David Meger, Gregory Dudek:
+Learning to Drive Off Road on Smooth Terrain in Unstructured Environments Using an On-Board Camera and Sparse Aerial Images. 1263-1269
+		Rohan Chandra, Uttaran Bhattacharya, Tanmay Randhavane, Aniket Bera, Dinesh Manocha:
+RoadTrack: Realtime Tracking of Road Agents in Dense and Heterogeneous Environments. 1270-1277
+		Daniel Frisch, Uwe D. Hanebeck:
+Association-Free Multilateration Based on Times of Arrival. 1294-1300
+		Li Tang, Yue Wang, Qianhui Luo, Xiaqing Ding, Rong Xiong:
+Adversarial Feature Disentanglement for Place Recognition Across Changing Appearance. 1301-1307
+		Lipu Zhou, Shengze Wang, Michael Kaess:
+A Fast and Accurate Solution for Pose Estimation from 3D Correspondences. 1308-1314
+		Jan Fabian Schmid, Stephan F. Simon, Rudolf Mester:
+Ground Texture Based Localization Using Compact Binary Descriptors. 1315-1321
+		Isabell Hofstetter, Michael Sprunk, Florian Ries, Martin Haueis:
+Reliable Data Association for Feature-Based Vehicle Localization using Geometric Hashing Methods. 1322-1328
+		Ahmed Faisal Abdelrahman, Alex Mitrevski, Paul G. Plöger:
+Context-Aware Task Execution Using Apprenticeship Learning. 1329-1335
+		Rania Rayyes, Heiko Donat, Jochen J. Steil:
+Hierarchical Interest-Driven Goal Babbling for Efficient Bootstrapping of Sensorimotor skills. 1336-1342
+		Victoria Florence, Jason J. Corso, Brent Griffin:
+Robot-Supervised Learning for Object Segmentation. 1343-1349
+		Rasha Sheikh, Andres Milioto, Philipp Lottes, Cyrill Stachniss, Maren Bennewitz, Thomas Schultz:
+Gradient and Log-based Active Learning for Semantic Segmentation of Crop and Weed for Agricultural Robots. 1350-1356
+		Teguh Santoso Lembono, Carlos Mastalli, Pierre Fernbach, Nicolas Mansard, Sylvain Calinon:
+Learning How to Walk: Warm-starting Optimal Control Solver with Memory of Motion. 1357-1363
+		Tyler Westenbroek, David Fridovich-Keil, Eric Mazumdar, Shreyas Arora, Valmik Prabhu, S. Shankar Sastry, Claire J. Tomlin:
+Feedback Linearization for Uncertain Systems via Reinforcement Learning. 1364-1371
+		Beatrice van Amsterdam, Matthew J. Clarkson, Danail Stoyanov:
+Multi-Task Recurrent Neural Network for Surgical Gesture Recognition and Progress Prediction. 1380-1386
+		Nural Yilmaz, Jie Ying Wu, Peter Kazanzides, Ugur Tumerdem:
+Neural Network based Inverse Dynamics Identification and External Force Estimation on the da Vinci Research Kit. 1387-1393
+		Oliwier Melon, Mathieu Geisert, David Surovik, Ioannis Havoutis, Maurice F. Fallon:
+Reliable Trajectories for Dynamic Quadrupeds using Analytical Costs and Learned Initializations. 1410-1416
+		Angelo Bratta, Romeo Orsolino, Michele Focchi, Victor Barasuol, Giovanni Gerardo Muscolo, Claudio Semini:
+On the Hardware Feasibility of Nonlinear Trajectory Optimization for Legged Locomotion based on a Simplified Dynamics. 1417-1423
+		Vignesh Sushrutha Raghavan, Dimitrios Kanoulas, Darwin G. Caldwell, Nikos G. Tsagarakis:
+Agile Legged-Wheeled Reconfigurable Navigation Planner Applied on the CENTAURO Robot. 1424-1430
+		Guiyang Xin, Joshua Smith, David Rytz, Wouter Wolfslag, Hsiu-Chin Lin, Michael N. Mistry:
+Bounded haptic teleoperation of a quadruped robot's foot posture for sensing and manipulation. 1431-1437
+		Seonghoon Noh, Aaron M. Dollar:
+Pinbot: A Walking Robot with Locking Pin Arrays for Passive Adaptability to Rough Terrains. 1438-1444
+		Kevin Green, Ross L. Hatton, Jonathan W. Hurst:
+Planning for the Unexpected: Explicitly Optimizing Motions for Ground Uncertainty in Running. 1445-1451
+		Tomas Kulvicius, Sebastian Herzog, Timo Lüddecke, Minija Tamosiunaite, Florentin Wörgötter:
+One-Shot Multi-Path Planning for Robotic Applications Using Fully Convolutional Networks. 1460-1466
+		David Fridovich-Keil, Ellis Ratner, Lasse Peters, Anca D. Dragan, Claire J. Tomlin:
+Efficient Iterative Linear-Quadratic Approximations for Nonlinear Multi-Player General-Sum Differential Games. 1475-1481
+		Thomas K. Jespersen, Mohammad al Ahdab, Juan de Dios Flores Mendez, Malte R. Damgaard, Karl Damkjaer Hansen, Rasmus Pedersen, Thomas Bak:
+Path-Following Model Predictive Control of Ballbots. 1498-1504
+		Christian Eilers, Jonas Eschmann, Robin Menzenbach, Boris Belousov, Fabio Muratore, Jan Peters:
+Underactuated Waypoint Trajectory Optimization for Light Painting Photography. 1505-1510
+		Stefano Dafarra, Giulio Romualdi, Giorgio Metta, Daniele Pucci:
+Whole-Body Walking Generation using Contact Parametrization: A Non-Linear Trajectory Optimization Approach. 1511-1517
+		Moyin V. Otubela, Conor McGinn:
+Controlling Fast Height Variation of an Actively Articulated Wheeled Humanoid Robot Using Center of Mass Trajectory. 1518-1524
+		Alp Aydinoglu, Victor M. Preciado, Michael Posa:
+Contact-Aware Controller Design for Complementarity Systems. 1525-1531
+		Xibai Lou, Yang Yang, Changhyun Choi:
+Learning to Generate 6-DoF Grasp Poses with Reachability Awareness. 1532-1538
+		Mohamed Sorour, Khaled Elgeneidy, Marc Hanheide, M. Abdalmjed, A. Srinivasan, Gerhard Neumann:
+Enhancing Grasp Pose Computation in Gripper Workspace Spheres. 1539-1545
+		Jingyi Xu, Michael Danielczuk, Jeffrey Ichnowski, Jeffrey Mahler, Eckehard G. Steinbach, Ken Goldberg:
+Minimal Work: A Grasp Quality Metric for Deformable Hollow Objects. 1546-1552
+		Yunho Choi, Hogun Kee, Kyungjae Lee, Jaegoo Choy, Junhong Min, Sohee Lee, Songhwai Oh:
+Hierarchical 6-DoF Grasping with Approaching Direction Selection. 1553-1559
+		Elon D. Rimon, Florian T. Pokorny, Weiwei Wan:
+Geometric Characterization of Two-Finger Basket Grasps of 2-D Objects: Contact Space Formulation. 1560-1566
+		Inkyu An, Byeongho Jo, Youngsun Kwon, Jung-Woo Choi, Sung-Eui Yoon:
+Robust Sound Source Localization considering Similarity of Back-Propagation Signals. 1574-1580
+		Jesper Haahr Christensen, Sascha Hornauer, Stella X. Yu:
+BatVision: Learning to See 3D Spatial Layout with Two Ears. 1581-1587
+		Xinzhu Liu, Xiaoyu Liu, Di Guo, Huaping Liu, Fuchun Sun, Haibo Min:
+Self-Supervised Learning for Alignment of Objects and Sound. 1588-1594
+		Ahmed Rida Sekkat, Yohan Dupuis, Pascal Vasseur, Paul Honeine:
+The OmniScape Dataset. 1603-1608
+		Kyungseo Park, Hyunkyu Park, Hyosang Lee, Sungbin Park, Jung Kim:
+An ERT-based Robotic Skin with Sparsely Distributed Electrodes: Structure, Fabrication, and DNN-based Signal Processing. 1617-1624
+		Zicong Wu, Anzhu Gao, Ning Liu, Zhu Jin, Guang-Zhong Yang:
+FBG-Based Triaxial Force Sensor Integrated with an Eccentrically Configured Imaging Probe for Endoluminal Optical Biopsy. 1625-1631
+		Hyosang Lee, Hyunkyu Park, Gokhan Serhat, Huanbo Sun, Katherine J. Kuchenbecker:
+Calibrating a Soft ERT-Based Tactile Sensor with a Multiphysics Model and Sim-to-real Transfer Learning. 1632-1638
+		Zihan Ding, Nathan F. Lepora, Edward Johns:
+Sim-to-Real Transfer for Optical Tactile Sensing. 1639-1645
+		Yifan Zhu, Kai Lu, Kris Hauser:
+Semi-Empirical Simulation of Learned Force Response Models for Heterogeneous Elastic Objects. 1646-1652
+		Rui Ouyang, Robert Howe:
+Low-Cost Fiducial-based 6-Axis Force-Torque Sensor. 1653-1659
+		Yifu Wang, Kun Huang, Xin Peng, Hongdong Li, Laurent Kneip:
+Reliable frame-to-frame motion estimation for vehicle-mounted surround-view camera systems. 1660-1666
+		Gregory J. Stein, Christopher Bradley, Victoria Preston, Nicholas Roy:
+Enabling Topological Planning with Monocular Vision. 1667-1673
+		Mona Gridseth, Timothy D. Barfoot:
+DeepMEL: Compiling Visual Multi-Experience Localization into a Deep Neural Network. 1674-1681
+		Linhai Xie, Andrew Markham, Niki Trigoni:
+SnapNav: Learning Mapless Visual Navigation with Sparse Directional Guidance and Visual Reference. 1682-1688
+		Antoni Rosinol, Marcus Abate, Yun Chang, Luca Carlone:
+Kimera: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping. 1689-1696
+		Marvin Chancán, Michael Milford:
+CityLearn: Diverse Real-World Environments for Sample-Efficient Navigation Policy Learning. 1697-1704
+		Isabella Huang, Ruzena Bajcsy:
+High Resolution Soft Tactile Interface for Physical Human-Robot Interaction. 1705-1711
+		Carly M. Thalman, Hyunglae Lee:
+Design and Validation of a Soft Robotic Ankle-Foot Orthosis (SR-AFO) Exosuit for Inversion and Eversion Ankle Support. 1735-1741
+		En-Yu Chia, Yi-Lian Chen, Tzu-Chieh Chien, Ming-Li Chiang, Li-Chen Fu, Jin-Shin Lai, Lu Lu:
+Velocity Field based Active-Assistive Control for Upper Limb Rehabilitation Exoskeleton Robot. 1742-1748
+		Mihai Dragusanu, Tommaso Lisini Baldi, Zubair Iqbal, Domenico Prattichizzo, Monica Malvezzi:
+Design, Development, and Control of a Tendon-actuated Exoskeleton for Wrist Rehabilitation and Training. 1749-1754
+		Namita Anil Kumar, Woolim Hong, Pilwon Hur:
+Impedance Control of a Transfemoral Prosthesis using Continuously Varying Ankle Impedances and Multiple Equilibria. 1755-1761
+		Christian Vassallo, Samuele De Giuseppe, Chiara Piezzo, Stefano Maludrottu, Giulio Cerruti, Maria Laura D'Angelo, Emanuele Gruppioni, Claudia Marchese, Simona Castellano, Eleonora Guanziroli, Franco Molteni, Matteo Laffranchi, Lorenzo De Michieli:
+Gait patterns generation based on basis functions interpolation for the TWIN lower-limb exoskeleton*. 1778-1784
+		David Kent, Sonia Chernova:
+Human-Centric Active Perception for Autonomous Observation. 1785-1791
+		Philipp Kratzer, Marc Toussaint, Jim Mainprice:
+Prediction of Human Full-Body Movements with Motion Optimization and Recurrent Neural Networks. 1792-1798
+		Linda F. van der Spaa, Michael Gienger, Tamas Bates, Jens Kober:
+Predicting and Optimizing Ergonomics in Physical Human-Robot Cooperation Tasks. 1799-1805
+		Stewart Jamieson, Jonathan P. How, Yogesh A. Girdhar:
+Active Reward Learning for Co-Robotic Vision Based Exploration in Bandwidth Limited Environments. 1806-1812
+		Mohamad Bdiwi, Ann-Kathrin Harsch, Paul Reindel, Matthias Putz:
+VariPath: A Database for Modelling the Variance of Human Pathways in Manual and HRC Processes with Heavy-Duty Robots. 1821-1826
+		Yang Yang, Zhicheng Liu, Yanhan Wang, Shuai Liu, Michael Yu Wang:
+A Compact and Low-cost Robotic Manipulator Driven by Supercoiled Polymer Actuators. 1827-18533
+		Tori Shimizu, Kenjiro Tadakuma, Masahiro Watanabe, Eri Takane, Masashi Konyo, Satoshi Tadokoro:
+Internally-Balanced Magnetic Mechanisms Using a Magnetic Spring for Producing a Large Amplified Clamping Force. 1840-1846
+		Bin Zhao, Lingyun Zeng, Baibo Wu, Kai Xu:
+A Continuum Manipulator with Closed-form Inverse Kinematics and Independently Tunable Stiffness. 1847-1853
+		Wuzhou Hong, Andreas Schmitz, Weibang Bai, Pierre Berthet-Rayne, Le Xie, Guang-Zhong Yang:
+Design and Compensation Control of a Flexible Instrument for Endoscopic Surgery. 1860-1866
+		Kwun Yiu Cadmus To, Chanyeol Yoo, Stuart Anstee, Robert Fitch:
+Distance and Steering Heuristics for Streamline-Based Flow Field Planning. 1867-1873
+		Md. Modasshir, Ioannis M. Rekleitis:
+Enhancing Coral Reef Monitoring Utilizing a Deep Semi-Supervised Learning Approach. 1874-1880
+		Tianming Wang, Wenjie Lu, Zheng Yan, Dikai Liu:
+DOB-Net: Actively Rejecting Unknown Excessive Time-Varying Disturbances. 1881-1887
+		Andrew Branch, James McMahon, Guangyu Xu, Michael V. Jakuba, Christopher R. German, Steve Chien, James C. Kinsey, Andrew D. Bowen, Kevin P. Hand, Jeffrey S. Seewald:
+Demonstration of Autonomous Nested Search for Local Maxima Using an Unmanned Underwater Vehicle. 1888-1895
+		Eduardo Iscar, Matthew Johnson-Roberson:
+Towards distortion based underwater domed viewport camera calibration. 1896-1902
+		Omid Mohseni, Ferréol Gagey, Gouping Zhao, André Seyfarth, Maziar Ahmad Sharbafi:
+How far are Pneumatic Artificial Muscles from biological muscles? 1909-1915
+		Gabriel Quere, Annette Hagengruber, Maged Iskandar, Samuel Bustamante, Daniel Leidner, Freek Stulp, Jörn Vogel:
+Shared Control Templates for Assistive Robotics. 1956-1962
+		Haonan Chen, Hao Tan, Alan Kuntz, Mohit Bansal, Ron Alterovitz:
+Enabling Robots to Understand Incomplete Natural Language Instructions Using Commonsense Reasoning. 1963-1969
+		Randy Gomez, Deborah Szapiro, Luis Merino, Keisuke Nakamura:
+A Holistic Approach in Designing Tabletop Robot's Expressivity. 1970-1976
+		Richard Bormann, Xinjie Wang, Jiawen Xu, Joel Schmidt:
+DirtNet: Visual Dirt Detection for Autonomous Cleaning Robots. 1977-1983
+		Zhen Zeng, Adrian Röfer, Odest Chadwicke Jenkins:
+Semantic Linking Maps for Active Visual Object Search. 1984-1990
+		Rômulo T. Rodrigues, Pedro Miraldo, Dimos V. Dimarogonas, A. Pedro Aguiar:
+Active Depth Estimation: Stability Analysis and its Applications. 2002-2008
+		Lyujie Chen, Feng Liu, Yan Zhao, Wufan Wang, Xiaming Yuan, Jihong Zhu:
+VALID: A Comprehensive Virtual Aerial Image Dataset. 2009-2016
+		Han Wang, Chen Wang, Lihua Xie:
+Intensity Scan Context: Coding Intensity and Geometry Relations for Loop Closure Detection. 2095-2101
+		Boying Li, Danping Zou, Daniele Sartori, Ling Pei, Wenxian Yu:
+TextSLAM: Visual SLAM with Planar Text Features. 2102-2108
+		Ke Wang, Kaixuan Wang, Shaojie Shen:
+FlowNorm: A Learning-based Method for Increasing Convergence Range of Direct Alignment. 2109-2115
+		Juichung Kuo, Manasi Muglikar, Zichao Zhang, Davide Scaramuzza:
+Redesigning SLAM for Arbitrary Multi-Camera Systems. 2116-2122
+		Mina Henein, Jun Zhang, Robert E. Mahony, Viorela Ila:
+Dynamic SLAM: The Need For Speed. 2123-2129
+		Krishna Murthy Jatavallabhula, Ganesh Iyer, Liam Paull:
+∇SLAM: Dense SLAM meets Automatic Differentiation. 2130-2137
+		Taeyeong Choi, Sehyeok Kang, Theodore P. Pavlic:
+Learning local behavioral sequences to better infer non-local properties in real multi-robot systems. 2138-2144
+		Younggun Cho, Giseop Kim, Ayoung Kim:
+Unsupervised Geometry-Aware Deep LiDAR Odometry. 2145-2152
+		Nihal Soans, Ehsan Asali, Yi Hong, Prashant Doshi:
+SA-Net: Robust State-Action Recognition for Learning from Observations. 2153-2159
+		Chieh-En Tsai, Jean Oh:
+A Generative Approach for Socially Compliant Navigation. 2160-2166
+		Avi Singh, Eric Jang, Alexander Irpan, Daniel Kappler, Murtaza Dalal, Sergey Levine, Mohi Khansari, Chelsea Finn:
+Scalable Multi-Task Imitation Learning with Autonomous Improvement. 2167-2173
+		Ajay Kumar Tanwani, Pierre Sermanet, Andy Yan, Raghav Anand, Mariano Phielipp, Ken Goldberg:
+Motion2Vec: Semi-Supervised Representation Learning from Surgical Videos. 2174-2181
+		Michihiro Mizuno, Takashi Kubota:
+A New Path Planning Architecture to Consider Motion Uncertainty in Natural Environment. 2182-2188
+		Kiril Solovey, Lucas Janson, Edward Schmerling, Emilio Frazzoli, Marco Pavone:
+Revisiting the Asymptotic Optimality of RRT. 2189-2195
+		Matthew Tsao, Kiril Solovey, Marco Pavone:
+Sample Complexity of Probabilistic Roadmaps via ε-nets. 2196-2202
+		Hang Su, Yingbai Hu, Zhijun Li, Alois C. Knoll, Giancarlo Ferrigno, Elena De Momi:
+Reinforcement Learning Based Manipulation Skill Transferring for Robot-assisted Minimally Invasive Surgery. 2203-2208
+		Yimeng Lu, Maryam Kamgarpour:
+Safe Mission Planning under Dynamical Uncertainties. 2209-2215
+		David Fridovich-Keil, Vicenç Rúbies Royo, Claire J. Tomlin:
+An Iterative Quadratic Method for General-Sum Differential Games with Feedback Linearizable Dynamics. 2216-2222
+		Yu Herng Tan, Ben M. Chen:
+A Morphable Aerial-Aquatic Quadrotor with Coupled Symmetric Thrust Vectoring. 2223-2229
+		Kun Yang, Quan Quan:
+An Autonomous Intercept Drone with Image-based Visual Servo. 2230-2236
+		Pratik Prajapati, Sagar Parekh, Vineet Vashista:
+On the Human Control of a Multiple Quadcopters with a Cable-suspended Payload System. 2253-2258
+		Quang-Hieu Pham, Pierre Sevestre, Ramanpreet Singh Pahwa, Huijing Zhan, Chun Ho Pang, Yuda Chen, Armin Mustafa, Vijay Chandrasekhar, Jie Lin:
+A*3D Dataset: Towards Autonomous Driving in Challenging Environments. 2267-2273
+		Hongwei Yi, Shaoshuai Shi, Mingyu Ding, Jiankai Sun, Kui Xu, Hui Zhou, Zhe Wang, Sheng Li, Guoping Wang:
+SegVoxelNet: Exploring Semantic Context and Depth-aware Features for 3D Vehicle Detection from Point Cloud. 2274-2280
+		Kentaro Nishi, Masamichi Shimosaka:
+Fine-Grained Driving Behavior Prediction via Context-Aware Multi-Task Inverse Reinforcement Learning. 2281-2287
+		David Pannen, Martin Liebner, Wolfgang Hempel, Wolfram Burgard:
+How to Keep HD Maps for Automated Driving Up To Date. 2288-2294
+		Alexander Frickenstein, Manoj Rohit Vemparala, Jakob Mayr, Naveen Shankar Nagaraja, Christian Unger, Federico Tombari, Walter Stechele:
+Binary DAD-Net: Binarized Driveable Area Detection Network for Autonomous Driving. 2295-2301
+		Weisong Wen, Yiyang Zhou, Guohao Zhang, Saman Fahandezh-Saadi, Xiwei Bai, Wei Zhan, Masayoshi Tomizuka, Li-Ta Hsu:
+UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes. 2310-2316
+		Cheng Peng, David Weikersdorfer:
+Map As the Hidden Sensor: Fast Odometry-Based Global Localization. 2317-2323
+		Wenlong Deng, Lorenzo Bertoni, Sven Kreiss, Alexandre Alahi:
+Joint Human Pose Estimation and Stereo 3D Localization. 2324-2330
+		Brandon Wagstaff, Valentin Peretroukhin, Jonathan Kelly:
+Self-Supervised Deep Pose Corrections for Robust Visual Odometry. 2331-2337
+		Hideyuki Tanaka:
+Ultra-High-Accuracy Visual Marker for Indoor Precise Positioning. 2338-2343
+		Yanjun Cao, Chenhao Yang, Rui Li, Alois C. Knoll, Giovanni Beltrame:
+Accurate position tracking with a single UWB anchor. 2344-2350
+		Maegan Tucker, Ellen R. Novoseller, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, Aaron D. Ames:
+Preference-Based Learning for Exoskeleton Gait Optimization. 2351-2357
+		Shuyang Chen, John T. Wen:
+Adaptive Neural Trajectory Tracking Control for Flexible-Joint Robots with Online Learning. 2358-2364
+		Fuling Lin, Changhong Fu, Yujie He, Fuyu Guo, Qian Tang:
+BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking. 2365-2371
+		Chun-Yu Chai, Wen-Hsiao Peng, Shiao-Li Tsao:
+Adaptive Unknown Object Rearrangement Using Low-Cost Tabletop Robot. 2372-2378
+		Giuseppe Paolo, Alban Laflaquière, Alexandre Coninx, Stéphane Doncieux:
+Unsupervised Learning and Exploration of Reachable Outcome Space. 2379-2385
+		Christopher D. McKinnon, Angela P. Schoellig:
+Context-aware Cost Shaping to Reduce the Impact of Model Error in Receding Horizon Control. 2386-2392
+		Yanhao Zhang, Liang Zhao, Shoudong Huang:
+Aortic 3D Deformation Reconstruction using 2D X-ray Fluoroscopy and 3D Pre-operative Data for Endovascular Interventions. 2393-2399
+		Yuyang Chen, Haozhe Yang, Xu Liu, Kai Xu:
+Design and Kinematic Modeling of a Novel Steerable Needle for Image-Guided Insertion. 2400-2406
+		Paul Baksic, Hadrien Courtecuisse, Christian Duriez, Bernard Bayle:
+Robotic needle insertion in moving soft tissues using constraint-based inverse Finite Element simulation. 2407-2413
+		Wenqiang Chi, Giulio Dagnino, Trevor M. Y. Kwok, Anh Nguyen, Dennis Kundrat, Mohamed E. M. K. Abdelaziz, Celia V. Riga, Colin D. Bicknell, Guang-Zhong Yang:
+Collaborative Robot-Assisted Endovascular Catheterization with Generative Adversarial Imitation Learning. 2414-2420
+		Alice Segato, Luca Sestini, Antonella Castellano, Elena De Momi:
+GA3C Reinforcement Learning for Surgical Steerable Catheter Path Planning. 2429-2435
+		Octavio Villarreal, Victor Barasuol, Patrick M. Wensing, Darwin G. Caldwell, Claudio Semini:
+MPC-based Controller with Terrain Insight for Dynamic Legged Locomotion. 2436-2442
+		Prem Chand, Sushant Veer, Ioannis Poulakakis:
+An Adaptive Supervisory Control Approach to Dynamic Locomotion Under Parametric Uncertainty. 2443-2449
+		Okkee Sim, Hyobin Jeong, Jaesung Oh, Moonyoung Lee, Kang Kyu Lee, Hae-Won Park, Jun-Ho Oh:
+Joint Space Position/Torque Hybrid Control of the Quadruped Robot for Locomotion and Push Reaction. 2450-2456
+		Eric R. Ambrose, Aaron D. Ames:
+Improved Performance on Moving-Mass Hopping Robots with Parallel Elasticity. 2457-2463
+		Donghyun Kim, D. Carballo, Jared Di Carlo, Benjamin Katz, Gerardo Bledt, Bryan Lim, Sangbae Kim:
+Vision Aided Dynamic Exploration of Unstructured Terrain with a Small-Scale Quadruped Robot. 2464-2470
+		Lifeng Zhou, Vasileios Tzoumas, George J. Pappas, Pratap Tokekar:
+Distributed Attack-Robust Submodular Maximization for Multi-Robot Planning. 2479-2485
+		Carlos Diaz Alvarenga, Nicola Basilico, Stefano Carpin:
+Multirobot Patrolling Against Adaptive Opponents with Limited Information. 2486-2492
+		Sangwoo Moon, Eric W. Frew:
+Distributed Optimization of Nonlinear, Non-Gaussian, Communication-Aware Information using Particle Methods. 2493-2499
+		Aaron T. Becker, Sándor P. Fekete, Li Huang, Phillip Keldenich, Linda Kleist, Dominik Krupke, Christian Rieck, Arne Schmidt:
+Targeted Drug Delivery: Algorithmic Methods for Collecting a Swarm of Particles with Uniform, External Forces. 2508-2514
+		Gao Tang, Weidong Sun, Kris Hauser:
+Enhancing Bilevel Optimization for UAV Time-Optimal Trajectory using a Duality Gap Approach. 2515-2521
+		George I. Boutselis, Ziyi Wang, Evangelos A. Theodorou:
+Constrained Sampling-based Trajectory Optimization using Stochastic Approximation. 2522-2528
+		Christoph Zelch, Jan Peters, Oskar von Stryk:
+Learning Control Policies from Optimal Trajectories. 2529-2535
+		Carlos Mastalli, Rohan Budhiraja, Wolfgang Merkt, Guilhem Saurel, Bilal Hammoud, Maximilien Naveau, Justin Carpentier, Ludovic Righetti, Sethu Vijayakumar, Nicolas Mansard:
+Crocoddyl: An Efficient and Versatile Framework for Multi-Contact Optimal Control. 2536-2542
+		Junhao Zhang, Wei Zhang, Ran Song, Lin Ma, Yibin Li:
+Grasp for Stacking via Deep Reinforcement Learning. 2543-2549
+		Weiyu Liu, Angel Andres Daruna, Sonia Chernova:
+CAGE: Context-Aware Grasping Engine. 2550-2556
+		Adam Wolff, Shachar Praisler, Ilya Tcenov, Guy Gilboa:
+Super-Pixel Sampler: a Data-driven Approach for Depth Sampling and Reconstruction. 2588-2594
+		Eric Heiden, Ziang Liu, Ragesh K. Ramachandran, Gaurav S. Sukhatme:
+Physics-based Simulation of Continuous-Wave LIDAR for Localization, Calibration and Tracking. 2595-2601
+		Congying Sui, Kejing He, Zerui Wang, Congyi Lyu, Huiwen Guo, Yun-Hui Liu:
+A Spatial-temporal Multiplexing Method for Dense 3D Surface Reconstruction of Moving Objects. 2602-2608
+		Yeong Sang Park, Young-Sik Shin, Ayoung Kim:
+PhaRaO: Direct Radar Odometry using Phase Correlation. 2617-2623
+		Ayush Dewan, Wolfram Burgard:
+DeepTemporalSeg: Temporally Consistent Semantic Segmentation of 3D LiDAR Scans. 2624-2630
+		Silvia Cruciani, Diogo Almeida, Danica Kragic, Yiannis Karayiannidis:
+Discrete Bimanual Manipulation for Wrench Balancing. 2631-2637
+		Benjamin Ward-Cherrier, Nicholas Pestell, Nathan F. Lepora:
+NeuroTac: A Neuromorphic Optical Tactile Sensor applied to Texture Recognition. 2654-2660
+		Huitan Mao, Jing Xiao:
+Reducing Uncertainty in Pose Estimation under Complex Contacts via Force Forecast. 2661-2667
+		Navid Fallahinia, Stephen A. Mascaro:
+Comparison of Constrained and Unconstrained Human Grasp Forces Using Fingernail Imaging and Visual Servoing. 2668-2674
+		Haoang Li, Wen Chen, Ji Zhao, Jean-Charles Bazin, Lei Luo, Zhe Liu, Yun-Hui Liu:
+Robust and Efficient Estimation of Absolute Camera Pose for Monocular Visual Odometry. 2675-2681
+		Jiahao Lin, Hai Zhu, Javier Alonso-Mora:
+Robust Vision-based Obstacle Avoidance for Micro Aerial Vehicles in Dynamic Environments. 2682-2688
+		Jianing Chen, Yanan Liu, Stephen J. Carey, Piotr Dudek:
+Proximity Estimation Using Vision Features Computed On Sensor. 2689-2695
+		Ling Gao, Junyan Su, Jiadi Cui, Xiangchen Zeng, Xin Peng, Laurent Kneip:
+Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles. 2696-2702
+		Justin S. Smith, Ruoyang Xu, Patricio A. Vela:
+egoTEB: Egocentric, Perception Space Navigation Using Timed-Elastic-Bands. 2703-2709
+		Rae Jeong, Yusuf Aytar, David Khosid, Yuxiang Zhou, Jackie Kay, Thomas Lampe, Konstantinos Bousmalis, Francesco Nori:
+Self-Supervised Sim-to-Real Adaptation for Visual Robotic Manipulation. 2718-2724
+		Karol Arndt, Murtaza Hazara, Ali Ghadirzadeh, Ville Kyrki:
+Meta Reinforcement Learning for Sim-to-real Domain Adaptation. 2725-2731
+		Martin Hwasser, Danica Kragic, Rika Antonova:
+Variational Auto-Regularized Alignment for Sim-to-Real Control. 2732-2738
+		Michael J. Sorocky, Siqi Zhou, Angela P. Schoellig:
+Experience Selection Using Dynamics Similarity for Efficient Multi-Source Transfer Learning Between Robots. 2739-2745
+		Bharathan Balaji, Sunil Mallya, Sahika Genc, Saurabh Gupta, Leo Dirac, Vineet Khare, Gourav Roy, Tao Sun, Yunzhe Tao, Brian Townsend, Eddie Calleja, Sunil Muralidhara, Dhanasekar Karuppasamy:
+DeepRacer: Autonomous Racing Platform for Experimentation with Sim2Real Reinforcement Learning. 2746-2754
+		Mathilde Legrand, Nathanaël Jarrassé, Florian Richer, Guillaume Morel:
+A closed-loop and ergonomic control for prosthetic wrist rotation. 2763-2769
+		J. Montero, Marta Gherardini, Francesco Clemente, Christian Cipriani:
+Comparison of online algorithms for the tracking of multiple magnetic targets in a myokinetic control interface*. 2770-2776
+		Carolyn Matl, Yashraj S. Narang, Ruzena Bajcsy, Fabio Ramos, Dieter Fox:
+Inferring the Material Properties of Granular Media for Robotic Tasks. 2770-2777
+		Zeyu Zhang, Hangxin Liu, Ziyuan Jiao, Yixin Zhu, Song-Chun Zhu:
+Congestion-aware Evacuation Routing using Augmented Reality Devices. 2798-2804
+		Mikhail Ostanin, Stanislav Mikhel, Alexey Evlampiev, Valeria Skvortsova, Alexandr Klimchik:
+Human-robot interaction for robotic manipulator programming in Mixed Reality. 2805-2811
+		Peijun Zhao, Chris Xiaoxuan Lu, Bing Wang, Changhao Chen, Linhai Xie, Mengyu Wang, Niki Trigoni, Andrew Markham:
+Heart Rate Sensing with a Robot Mounted mmWave Radar. 2812-2818
+		Antonio Prado, Xiya Cao, Xiangzhuo Ding, Sunil K. Agrawal:
+Prediction of Gait Cycle Percentage Using Instrumented Shoes with Artificial Neural Networks. 2834-2840
+		J. Shimizu, Takuya Otani, H. Mizukami, Kenji Hashimoto, Atsuo Takanishi:
+Flow Compensation for Hydraulic Direct-Drive System with a Single-rod Cylinder Applied to Biped Humanoid Robot. 2857-2863
+		Alec Orlofsky, Chang Liu, Soroush Kamrava, Ashkan Vaziri, Samuel M. Felton:
+Mechanically Programmed Miniature Origami Grippers. 2872-2878
+		Jun Shintake, Davide Zappetti, Timothée Peter, Yusuke Ikemoto, Dario Floreano:
+Bio-inspired Tensegrity Fish Robot. 2887-2892
+		John E. San Soucie, Heidi M. Sosik, Yogesh A. Girdhar:
+Gaussian-Dirichlet Random Fields for Inference over High Dimensional Categorical Observations. 2924-2931
+		Philipp Schorr, Florian Schale, Jan Marc Otterbach, Lena Zentner, Klaus Zimmermann, Valter Böhm:
+Investigation of a Multistable Tensegrity Robot applied as Tilting Locomotion System*. 2932-2938
+		Yong Zhong, Ruxu Du, Liao Wu, Haoyong Yu:
+A Novel Articulated Soft Robot Capable of Variable Stiffness through Bistable Structure. 2939-2945
+		Haihang Wang, He Xu, Fengshu Yu, Xin Li, Chen Yang, Siqing Chen, Junlong Chen, Yonghui Zhang, Xueshan Zhou:
+Modeling and Experiments on the Swallowing and Disgorging Characteristics of an Underwater Continuum Manipulator. 2946-2952
+		Yinan Sun, Yuqi Jiang, Hao Yang, Louis-Claude Walter, Junius Santoso, Erik H. Skorina, Cagdas D. Onal:
+Salamanderbot: A soft-rigid composite continuum mobile robot to traverse complex environments. 2953-2959
+		Spenser Pulleyking, Joshua A. Schultz:
+Flexure Hinge-based Biomimetic Thumb with a Rolling-Surface Metacarpal Joint. 2960-2966
+		Senthur Raj, R. P. Manu Aatitya, S. Jack Samuel, J. Veejay Karthik, D. Ezhilarasi:
+Ibex: A reconfigurable ground vehicle with adaptive terrain navigation capability. 2975-2980
+		Yufeng Yue, Chule Yang, Jun Zhang, Mingxing Wen, Zhenyu Wu, Haoyuan Zhang, Danwei Wang:
+Day and Night Collaborative Dynamic Mapping in Unstructured Environment Based on Multimodal Sensors. 2981-2987
+		Tim Hojnik, Lachlan Pond, Ross Dungavell, Paul Flick, Jonathan M. Roberts:
+Generating Locomotion with Effective Wheel Radius Manipulation. 2988-2994
+		Martin Azkarate, Levin Gerdes, Luc Joudrier, Carlos Jesús Pérez-del-Pulgar:
+A GNC Architecture for Planetary Rovers with Autonomous Navigation. 3003-3009
+		Yi-Lun Lee, Min-Yuan Tseng, Yu-Cheng Luo, Dung-Ru Yu, Wei-Chen Chiu:
+Learning Face Recognition Unsupervisedly by Disentanglement and Self-Augmentation. 3018-3024
+		Jean Massardi, Mathieu Gravel, Éric Beaudry:
+PARC: A Plan and Activity Recognition Component for Assistive Robots. 3025-3031
+		Assia Benbihi, Stéphanie Arravechia, Matthieu Geist, Cédric Pradalier:
+Image-Based Place Recognition on Bucolic Environment Across Seasons From Semantic Edge Description. 3032-3038
+		Xiao-Hu Zhou, Xiao-Liang Xie, Zhen-Qiu Feng, Zeng-Guang Hou, Gui-Bin Bian, Rui-Qi Li, Zhen-Liang Ni, Shi-Qi Liu, Yan-Jie Zhou:
+A Multilayer-Multimodal Fusion Architecture for Pattern Recognition of Natural Manipulations in Percutaneous Coronary Interventions. 3039-3045
+		Cornelia Schulz, Andreas Zell:
+Real-Time Graph-Based SLAM with Occupancy Normal Distributions Transforms. 3106-3111
+		Nived Chebrolu, Thomas Läbe, Cyrill Stachniss:
+Spatio-Temporal Non-Rigid Registration of 3D Point Clouds of Plants. 3112-3118
+		Ryo Nakashima, Akihito Seki:
+Uncertainty-Based Adaptive Sensor Fusion for Visual-Inertial Odometry under Various Motion Characteristics. 3119-3125
+		Jiarong Lin, Fu Zhang:
+Loam livox: A fast, robust, high-precision LiDAR odometry and mapping package for LiDARs of small FoV. 3126-3131
+		Sudharshan Suresh, Paloma Sodhi, Joshua G. Mangelson, David Wettergreen, Michael Kaess:
+Active SLAM using 3D Submap Saliency for Underwater Volumetric Exploration. 3132-3138
+		Xuesong Shi, Dongjiang Li, Pengpeng Zhao, Qinbin Tian, Yuxin Tian, Qiwei Long, Chunhao Zhu, Jingwei Song, Fei Qiao, Le Song, Yangquan Guo, Zhigang Wang, Yimin Zhang, Baoxing Qin, Wei Yang, Fangshi Wang, Rosa H. M. Chan, Qi She:
+Are We Ready for Service Robots? The OpenLORIS-Scene Datasets for Lifelong SLAM. 3139-3145
+		Sachini Herath, Hang Yan, Yasutaka Furukawa:
+RoNIN: Robust Neural Inertial Navigation in the Wild: Benchmark, Evaluations, & New Methods. 3146-3152
+		Dokwan Oh, Daehyun Ji, Cheolhun Jang, Yoonsuk Hyun, Hong S. Bae, Sung Ju Hwang:
+Segmenting 2K-Videos at 36.5 FPS with 24.3 GFLOPs: Accurate and Lightweight Realtime Semantic Segmentation Network. 3153-3160
+		Florian Kluger, Hanno Ackermann, Michael Ying Yang, Bodo Rosenhahn:
+Temporally Consistent Horizon Lines. 3161-3167
+		Marija Jegorova, Antti Ilari Karjalainen, Jose Vazquez, Timothy M. Hospedales:
+Full-Scale Continuous Synthetic Sonar Data Generation with Markov Conditional Generative Adversarial Networks*. 3168-3174
+		Marlin P. Strub, Jonathan D. Gammell:
+Adaptively Informed Trees (AIT*): Fast Asymptotically Optimal Path Planning through Adaptive Heuristics. 3191-3198
+		Zachary K. Kingston, Andrew M. Wells, Mark Moll, Lydia E. Kavraki:
+Informing Multi-Modal Planning with Synergistic Discrete Leads. 3199-3205
+		Chao Cao, Ji Zhang, Matthew J. Travers, Howie Choset:
+Hierarchical Coverage Path Planning in Complex 3D Environments. 3206-3212
+		Igor Spasojevic, Varun Murali, Sertac Karaman:
+Perception-aware time optimal path parameterization for quadrotors. 3213-3219
+		Noam Buckman, Alyssa Pierson, Sertac Karaman, Daniela Rus:
+Generating Visibility-Aware Trajectories for Cooperative and Proactive Motion Planning. 3220-3226
+		Mario Selvaggio, L. A. Ramirez, Nicholas D. Naclerio, Bruno Siciliano, Elliot Wright Hawkes:
+An obstacle-interaction planning method for navigation of actuated vine robots. 3227-3233
+		Gang Wang, Weixin Yang, Na Zhao, Yunfeng Ji, Yantao Shen, Hao Xu, Peng Li:
+Distributed Consensus Control of Multiple UAVs in a Constrained Environment. 3234-3240
+		Guanya Shi, Wolfgang Hönig, Yisong Yue, Soon-Jo Chung:
+Neural-Swarm: Decentralized Close-Proximity Multirotor Control Using Learned Interactions. 3241-3247
+		Saurav Agarwal, Srinivas Akella:
+Line Coverage with Multiple Robots. 3248-3254
+		Riku Funada, Maria Santos, Takuma Gencho, Junya Yamauchi, Masayuki Fujita, Magnus Egerstedt:
+Visual Coverage Maintenance for Quadcopters Using Nonsmooth Barrier Functions. 3255-3261
+		Poornima Kaniarasu, Galen Clark Haynes, Micol Marchetti-Bowick:
+Goal-Directed Occupancy Prediction for Lane-Following Actors. 3270-3276
+		Kapil D. Katyal, Gregory D. Hager, Chien-Ming Huang:
+Intent-Aware Pedestrian Prediction for Adaptive Crowd Navigation. 3277-3283
+		Adam Ligocki, Ales Jelinek, Ludek Zalud:
+Brno Urban Dataset - The New Data for Self-Driving Agents and Mapping Tasks. 3284-3290
+		Lu Zhang, Wenchao Ding, Jing Chen, Shaojie Shen:
+Efficient Uncertainty-aware Decision-making for Automated Driving Using Guided Branching. 3291-3297
+		Mingxing Peng, Zhihao Gong, Chen Sun, Long Chen, Dongpu Cao:
+Imitative Reinforcement Learning Fusing Vision and Pure Pursuit for Self-driving. 3298-3304
+		Artem Savkin, Thomas Lapotre, Kevin Strauss, Uzair Akbar, Federico Tombari:
+Adversarial Appearance Learning in Augmented Cityscapes for Pedestrian Recognition in Autonomous Driving. 3305-3311
+		Zhibo Zhou, Ming Yang, Chunxiang Wang, Bing Wang:
+ROI-cloud: A Key Region Extraction Method for LiDAR Odometry and Localization. 3312-3318
+		Qunjie Zhou, Torsten Sattler, Marc Pollefeys, Laura Leal-Taixé:
+To Learn or Not to Learn: Visual Localization from Essential Matrices. 3319-3326
+		Stephen Hausler, Michael Milford:
+Hierarchical Multi-Process Fusion for Visual Place Recognition. 3327-3333
+		Tim Caselitz, Michael Krawez, Jugesh Sundram, Mark Van Loock, Wolfram Burgard:
+Camera Tracking in Lighting Adaptable Maps of Indoor Environments. 3334-3340
+		Sourav Garg, Michael Milford:
+Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Representations. 3341-3348
+		Ty Nguyen, Kartik Mohta, Camillo J. Taylor, Vijay Kumar:
+Vision-based Multi-MAV Localization with Anonymous Relative Measurements Using Coupled Probabilistic Data Association Filter. 3349-3355
+		Homanga Bharadhwaj, Shoichiro Yamaguchi, Shin-ichi Maeda:
+MANGA: Method Agnostic Neural-policy Generalization and Adaptation. 3356-3362
+		Jinyoung Choi, Christopher R. Dance, Jung-Eun Kim, Kyungsik Park, Jaehun Han, Joonho Seo, Minsu Kim:
+Fast Adaptation of Deep Reinforcement Learning-Based Navigation Skills to Human Preference. 3363-3370
+		Emmanuel Pignat, Teguh Santoso Lembono, Sylvain Calinon:
+Variational Inference with Mixture Model Approximation for Applications in Robotics. 3395-3401
+		Hisataka Maruyama, Hairulazwan Hashim, Ryota Yanagawa, Fumihito Arai:
+Injection of a Fluorescent Microsensor into a Specific Cell by Laser Manipulation and Heating with Multiple Wavelengths of Light. 3437-3442
+		Daniel J. Gonzalez, H. Harry Asada:
+Passive Quadrupedal Gait Synchronization for Extra Robotic Legs Using a Dynamically Coupled Double Rimless Wheel Model. 3451-3457
+		Longchuan Li, Isao T. Tokuda, Fumihiko Asano:
+Optimal Fast Entrainment Waveform for Indirectly Controlled Limit Cycle Walker Against External Disturbances. 3458-3463
+		Peng Gao, Ziling Zhang, Rui Guo, Hongsheng Lu, Hao Zhang:
+Correspondence Identification in Collaborative Robot Perception through Maximin Hypergraph Matching. 3488-3494
+		Ola Shorinwa, Javier Yu, Trevor Halsted, Alex Koufos, Mac Schwager:
+Distributed Multi-Target Tracking for Autonomous Vehicle Fleets. 3495-3501
+		Karan P. Jain, Mark W. Mueller:
+Flying batteries: In-flight battery switching to increase multirotor flight time. 3510-3516
+		Erez Krimsky, Steven H. Collins:
+Optimal Control of an Energy-Recycling Actuator for Mobile Robotics Applications. 3559-3565
+		Tobias Schoels, Luigi Palmieri, Kai Oliver Arras, Moritz Diehl:
+An NMPC Approach using Convex Inner Approximations for Online Motion Planning with Guaranteed Collision Avoidance. 3574-3580
+		Mohi Khansari, Daniel Kappler, Jianlan Luo, Jeff Bingham, Mrinal Kalakrishnan:
+Action Image Representation: Learning Scalable Deep Grasping Policies with Zero Real World Data. 3597-3603
+		Hu Cheng, Danny Ho, Max Q.-H. Meng:
+High Accuracy and Efficiency Grasp Pose Detection Scheme with Dense Predictions. 3604-3610
+		Xiangyu Chen, Zelin Ye, Jiankai Sun, Yuda Fan, Fang Hu, Chenxi Wang, Cewu Lu:
+Transferable Active Grasping and Real Embodied Dataset. 3611-3618
+		Peiyuan Ni, Wenguang Zhang, Xiaoxiao Zhu, Qixin Cao:
+PointNet++ Grasping: Learning An End-to-end Spatial Grasp Generation Algorithm from Sparse Point Clouds. 3619-3625
+		Shreeyak S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy Zeng, Shuran Song:
+Clear Grasp: 3D Shape Estimation of Transparent Objects for Manipulation. 3634-3642
+		Ge Gao, Mikko Lauri, Yulong Wang, Xiaolin Hu, Jianwei Zhang, Simone Frintrop:
+6D Object Pose Regression via Supervised Learning on Point Clouds. 3643-3649
+		Till Grenzdörffer, Martin Günther, Joachim Hertzberg:
+YCB-M: A Multi-Camera RGB-D Dataset for Object Recognition and 6DoF Pose Estimation. 3650-3656
+		Xinke Deng, Yu Xiang, Arsalan Mousavian, Clemens Eppner, Timothy Bretl, Dieter Fox:
+Self-supervised 6D Object Pose Estimation for Robot Manipulation. 3665-3671
+		Alexander C. Abad, Anuradha Ranasinghe:
+Low-cost GelSight with UV Markings: Feature Extraction of Objects Using AlexNet and Optical Flow without 3D Image Reconstruction. 3680-3685
+		Zonghe Chua, Allison M. Okamura, Darrel R. Deo:
+Evaluation of Non-collocated Force Feedback Driven by Signal-independent Noise. 3686-3692
+		Philippe Nadeau, Michael E. Abbott, Dominic Melville, Hannah S. Stuart:
+Tactile sensing based on fingertip suction flow for submerged dexterous manipulation. 3701-3707
+		Luis G. Camara, Carl Gäbert, Libor Preucil:
+Highly Robust Visual Place Recognition Through Spatial Matching of CNN Features. 3748-3755
+		Alexis Duburcq, Yann Chevaleyre, Nicolas Bredèche, Guilhem Boéris:
+Online Trajectory Planning Through Combined Trajectory Optimization and Function Approximation: Application to the Exoskeleton Atalante. 3756-3762
+		Michele Colledanchise, Damiano Malafronte, Lorenzo Natale:
+Act, Perceive, and Plan in Belief Space for Robot Localization. 3763-3769
+		Ruchir Patel, Eliot Rudnick-Cohen, Shapour Azarm, Michael W. Otte, Huan Xu, Jeffrey W. Herrmann:
+Decentralized Task Allocation in Multi-Agent Systems Using a Decentralized Genetic Algorithm. 3770-3776
+		Changjoo Nam, Jinhwi Lee, SangHun Cheong, Brian Y. Cho, ChangHwan Kim:
+Fast and resilient manipulation planning for target retrieval in clutter. 3777-3783
+		Anuruddha Bhattacharjee, Louis William Rogowski, Xiao Zhang, Min Jun Kim:
+Untethered Soft Millirobot with Magnetic Actuation. 3792-3798
+		Iretiayo Akinola, Zizhao Wang, Junyao Shi, Xiaomin He, Pawan Lapborisuth, Jingxi Xu, David Watkins-Valls, Paul Sajda, Peter K. Allen:
+Accelerated Robot Learning via Human Brain Signals. 3799-3805
+		Rio Okatani, Toru Tsumugiwa, Ryuichi Yokogawa, Mitsuhiro Narusue, Hiroto Nishimura, Yusaku Takeda, Toshihiro Hara:
+Muscle and Brain Activations in Cylindrical Rotary Controller Manipulation with Index Finger and Thumb. 3806-3811
+		Bernhard Specht, Zied Tayeb, Emannual Dean, Rahil Soroushmojdehi, Gordon Cheng:
+Real-Time Robot Reach-To-Grasp Movements Control Via EOG and EMG Signals Decoding. 3812-3817
+		Dongwon Kim, Kyung Koh, Giovanni Oppizzi, Raziyeh Baghi, Li-Chuan Lo, Chunyang Zhang, Li-Qun Zhang:
+Simultaneous Estimations of Joint Angle and Torque in Interactions with Environments using EMG. 3818-3824
+		Anany Dwivedi, Jaime E. Lara, Leo K. Cheng, Niranchan Paskaranandavadivel, Minas V. Liarokapis:
+High-Density Electromyography Based Control of Robotic Devices: On the Execution of Dexterous Manipulation Tasks. 3825-3831
+		Alexandra Valiton, Zhi Li:
+Perception-Action Coupling in Usage of Telepresence Cameras. 3846-3852
+		Giuseppe Averta, Danilo Caporale, Cosimo Della Santina, Antonio Bicchi, Matteo Bianchi:
+A technical framework for human-like motion generation with autonomous anthropomorphic redundant manipulators. 3853-3859
+		Shaobo Zhang, Yi Chen, Jun Zhang, Yunyi Jia:
+Real-Time Adaptive Assembly Scheduling in Human-Multi-Robot Collaboration According to Human Capability*. 3860-3866
+		Jun Xia, Sean J. Bergunder, Duoru Lin, Ying Yan, Shengzhi Lin, M. Ali Nasseri, Mingchuan Zhou, Haotian Lin, Kai Huang:
+Microscope-Guided Autonomous Clear Corneal Incision. 3867-3873
+		J. R. Jurado Realpe, Guillaume Aiche, S. Abdelaziz, Philippe Poignet:
+Asynchronous and decoupled control of the position and the stiffness of a spatial RCM tensegrity mechanism for needle manipulation*. 3882-3888
+		João Cavalcanti Santos, Ahmed Chemori, Marc Gouttefarde:
+Redundancy Resolution Integrated Model Predictive Control of CDPRs: Concept, Implementation and Experiments. 3889-3895
+		Phanideep S. Gonthina, Michael B. Wooten, Isuru S. Godage, Ian D. Walker:
+Mechanics for Tendon Actuated Multisection Continuum Arms. 3896-3902
+		Sheng Xiang, Haibo Gao, Zhen Liu, Clément Gosselin:
+Trajectory Optimization for a Six-DOF Cable-Suspended Parallel Robot with Dynamic Motions Beyond the Static Workspace. 3903-3908
+		Jeongeun Kim, Jeahwi Seol, Sukwoo Lee, Se-Woon Hong, Hyoung Il Son:
+An Intelligent Spraying System with Deep Learning-based Semantic Segmentation of Fruit Trees in Orchards. 3923-3929
+		Alexander You, Fouad Sukkar, Robert Fitch, Manoj Karkee, Joseph R. Davidson:
+An Efficient Planning and Control Framework for Pruning Fruit Trees. 3930-3936
+		Adam Binch, Gautham P. Das, Jaime Pulido Fentanes, Marc Hanheide:
+Context Dependant Iterative Parameter Optimisation for Robust Robot Navigation. 3937-3943
+		Bruce Wingo, Ching-An Cheng, Muhammad Murtaza, Munzir Zafar, Seth Hutchinson:
+Extending Riemmanian Motion Policies to a Class of Underactuated Wheeled-Inverted-Pendulum Robots. 3967-3973
+		Toby Howison, Fabio Giardina, Fumiya Iida:
+Augmenting Self-Stability: Height Control of a Bernoulli Ball via Bang-Bang Control. 3974-3980
+		Seyed Amir Tafrishi, Mikhail M. Svinin, Motoji Yamamoto:
+Singularity-Free Inverse Dynamics for Underactuated Systems with a Rotating Mass. 3981-3987
+		Paul E. Glick, Nikko Van Crey, Michael Thomas Tolley, Donald Ruffatto:
+Robust capture of unknown objects with a highly under-actuated gripper. 3996-4002
+		Panpan Cai, Yiyuan Lee, Yuanfu Luo, David Hsu:
+SUMMIT: A Simulator for Urban Driving in Massive Mixed Traffic. 4023-4029
+		Audelia Gumarus Dharmawan, Yi Xiong, Shaohui Foong, Gim Song Soh:
+A Model-Based Reinforcement Learning and Correction Framework for Process Control of Robotic Wire Arc Additive Manufacturing. 4030-4036
+		Chanyeol Yoo, Samuel Lensgraf, Robert Fitch, Lee M. Clemon, Ramgopal Mettu:
+Toward Optimal FDM Toolpath Planning with Monte Carlo Tree Search. 4037-4043
+		Stefan B. Liu, Matthias Althoff:
+Optimizing performance in automation through modular robots. 4044-4050
+		Richard Li, Allan Jabri, Trevor Darrell, Pulkit Agrawal:
+Towards Practical Multi-Object Manipulation using Relational Reinforcement Learning. 4051-4058
+		Nathalie Majcherczyk, Carlo Pinciroli:
+SwarmMesh: A Distributed Data Structure for Cooperative Multi-Robot Applications. 4059-4065
+		Nicola Mimmo, Pauline Bernard, Lorenzo Marconi:
+Avalanche victim search via robust observers. 4066-4072
+		Michael T. Ohradzansky, Andrew B. Mills, Eugene R. Rush, Danny G. Riley, Eric W. Frew, J. Sean Humbert:
+Reactive Control and Metric-Topological Planning for Exploration. 4073-4079
+		Kelsey Saulnier, Nikolay Atanasov, George J. Pappas, Vijay Kumar:
+Information Theoretic Active Exploration in Signed Distance Fields. 4080-4085
+		David D. Fan, Jennifer Nguyen, Rohan Thakker, Nikhilesh Alatur, Ali-akbar Agha-mohammadi, Evangelos A. Theodorou:
+Bayesian Learning-Based Adaptive Control for Safety Critical Systems. 4093-4099
+		Milad Ramezani, Georgi Tinchev, Egor Iuganov, Maurice F. Fallon:
+Online LiDAR-SLAM for Legged Robots with Robust Registration and Deep-Learned Loop Closure. 4158-4164
+		Manasi Muglikar, Zichao Zhang, Davide Scaramuzza:
+Voxel Map for Visual SLAM. 4181-4187
+		Oier Mees, Markus Merklinger, Gabriel Kalweit, Wolfram Burgard:
+Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video. 4188-4194
+		Mathias Gehrig, Sumit Bam Shrestha, Daniel Mouritzen, Davide Scaramuzza:
+Event-Based Angular Velocity Regression with Spiking Networks. 4195-4202
+		Huangying Zhan, Chamara Saroj Weerasekera, Jia-Wang Bian, Ian Reid:
+Visual Odometry Revisited: What Should Be Learnt? 4203-4210
+		Mi Tian, Qiong Nie, Hao Shen:
+3D Scene Geometry-Aware Constraint for Camera Localization with Deep Learning. 4211-4217
+		Boyao Li, Tao Lu, Jiayi Li, Ning Lu, Yinghao Cai, Shuo Wang:
+ACDER: Augmented Curiosity-Driven Experience Replay. 4218-4224
+		Jonas C. Kiemel, Pascal Meißner, Torsten Kröger:
+TrueRMA: Learning Fast and Smooth Robot Trajectories with Recursive Midpoint Adaptations in Cartesian Space. 4225-4231
+		Jeffrey Ichnowski, William Lee, Victor Murta, Samuel Paradis, Ron Alterovitz, Joseph E. Gonzalez, Ion Stoica, Ken Goldberg:
+Fog Robotics Algorithms for Distributed Motion Planning Using Lambda Serverless Computing. 4232-4238
+		Renan Maffei, Marcos P. Souza, Mathias Mantelli, Diego Pittol, Mariana Luderitz Kolberg, Vitor A. M. Jorge:
+Exploration of 3D terrains using potential fields with elevation-based local distortions. 4239-4244
+		Albert Wu, Sadra Sadraddini, Russ Tedrake:
+R3T: Rapidly-exploring Random Reachable Set Tree for Optimal Kinodynamic Planning of Nonlinear Hybrid Systems. 4245-4251
+		Yutao Han, Hubert Lin, Jacopo Banfi, Kavita Bala, Mark E. Campbell:
+DeepSemanticHPPC: Hypothesis-based Planning over Uncertain Semantic Point Clouds. 4252-4258
+		Soumya Sudhakar, Sertac Karaman, Vivienne Sze:
+Balancing Actuation and Computing Energy in Motion Planning. 4259-4265
+		Brian Hou, Sanjiban Choudhury, Gilwoo Lee, Aditya Mandalika, Siddhartha S. Srinivasa:
+Posterior Sampling for Anytime Motion Planning on Graphs with Expensive-to-Evaluate Edges. 4266-4272
+		Sihao Sun, Matthias Baert, Bram Adriaan Strack van Schijndel, Coen de Visser:
+Upset Recovery Control for Quadrotors Subjected to a Complete Rotor Failure from Large Initial Disturbances. 4273-4279
+		Alexandre Letalenet, Pascal Morin:
+Identification and evaluation of a force model for multirotor UAVs. 4280-4286
+		Arda Yigit, Gustave Grappe, Loïc Cuvillon, Sylvain Durand, Jacques Gangloff:
+Preliminary Study of an Aerial Manipulator with Elastic Suspension. 4287-4293
+		Rika Sugimoto Dimitrova, Mathias Gehrig, Dario Brescianini, Davide Scaramuzza:
+Towards Low-Latency High-Bandwidth Control of Quadrotors using Event Cameras. 4294-4300
+		Martin Jacquet, Gianluca Corsini, Davide Bicego, Antonio Franchi:
+Perception-constrained and Motor-level Nonlinear MPC for both Underactuated and Tilted-propeller UAVS. 4301-4306
+		Jake Welde, Vijay Kumar:
+Coordinate-Free Dynamics and Differential Flatness of a Class of 6DOF Aerial Manipulators. 4307-4313
+		Wenhao Ding, Mengdi Xu, Ding Zhao:
+CMTS: A Conditional Multiple Trajectory Synthesizer for Generating Safety-Critical Driving Scenarios. 4314-4321
+		Wendong Ding, Shenhua Hou, Hang Gao, Guowei Wan, Shiyu Song:
+LiDAR Inertial Odometry Aided Robust LiDAR Localization System in Changing City Scenes. 4322-4328
+		Maria Hügle, Gabriel Kalweit, Moritz Werling, Joschka Boedecker:
+Dynamic Interaction-Aware Scene Understanding for Reinforcement Learning in Autonomous Driving. 4329-4335
+		Saptarshi Mukherjee, Sen Wang, Andrew M. Wallace:
+Interacting Vehicle Trajectory Prediction with Convolutional Recurrent Neural Networks. 4336-4342
+		Yuxin Pan, Jianru Xue, Pengfei Zhang, Wanli Ouyang, Jianwu Fang, Xingyu Chen:
+Navigation Command Matching for Vision-based Autonomous Driving. 4343-4349
+		Rohan Chandra, Uttaran Bhattacharya, Trisha Mittal, Xiaoyu Li, Aniket Bera, Dinesh Manocha:
+GraphRQI: Classifying Driver Behaviors Using Graph Spectrums. 4350-4357
+		Stefan Saftescu, Matthew Gadd, Daniele De Martini, Dan Barnes, Paul Newman:
+Kidnapped Radar: Topological Radar Localisation using Rotationally-Invariant Metric Learning. 4358-4364
+		Daniele Cattaneo, Matteo Vaghi, Simone Fontana, Augusto Luis Ballardini, Domenico G. Sorrenti:
+Global visual localization in LiDAR-maps through shared 2D-3D embedding space. 4365-4371
+		Stefan Schubert, Peer Neubert, Peter Protzel:
+Unsupervised Learning Methods for Visual Place Recognition in Discretely and Continuously Changing Environments. 4372-4378
+		David Rozenberszki, András L. Majdik:
+LOL: Lidar-only Odometry and Localization in 3D point cloud maps*. 4379-4385
+		Li Sun, Daniel Adolfsson, Martin Magnusson, Henrik Andreasson, Ingmar Posner, Tom Duckett:
+Localising Faster: Efficient and precise lidar-based robot localisation in large-scale environments. 4386-4392
+		Simon Rohou, Benoît Desrochers, Luc Jaulin:
+Set-membership state estimation by solving data association. 4393-4399
+		Yanlong Huang, Darwin G. Caldwell:
+A Linearly Constrained Nonparametric Framework for Imitation Learning. 4400-4406
+		Matteo Saveriano:
+An Energy-based Approach to Ensure the Stability of Learned Dynamical Systems. 4407-4413
+		Ajay Mandlekar, Fabio Ramos, Byron Boots, Silvio Savarese, Fei-Fei Li, Animesh Garg, Dieter Fox:
+IRIS: Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data. 4414-4420
+		Fares J. Abu-Dakka, Ville Kyrki:
+Geometry-aware Dynamic Movement Primitives. 4421-4426
+		Wenyan Yang, Nataliya Strokina, Nikolay Serbenyuk, Reza Ghabcheloo, Joni-Kristian Kämäräinen:
+Learning a Pile Loading Controller from Demonstrations. 4427-4433
+		Tianyu Wang, Vikas Dhiman, Nikolay Atanasov:
+Learning Navigation Costs from Demonstration in Partially Observable Environments. 4434-4440
+		Changyan He, Ali Ebrahimi, Emily Yang, Muller Urias, Yang Yang, Peter Gehlbach, Iulian Iordachita:
+Towards Bimanual Vein Cannulation: Preliminary Study of a Bimanual Robotic System With a Dual Force Constraint Controller. 4441-4447
+		Solmon Jeong, Kotaro Tadano:
+Evaluation of a combined grip of pinch and power grips in manipulating a master manipulator. 4448-4454
+		Ran Hao, Tipakorn Greigarn, Murat Cenk Çavusoglu:
+Contact Stability Analysis of Magnetically-Actuated Robotic Catheter Under Surface Motion. 4455-4462
+		Rémi Chalard, David Reversat, Guillaume Morel, Marie-Aude Vitrani:
+Fast and accurate intracorporeal targeting through an anatomical orifice exhibiting unknown behavior. 4463-4469
+		Mengxi Luo, Junhui Law, Xian Wang, Liming Xin, Guanqiao Shan, Mitesh V. Badiwala, Xi Huang, Yu Sun:
+Robotic Swarm Control for Precise and On-Demand Embolization. 4470-4476
+		Hang Su, Yunus Schmirander, Zhijun Li, Xuanyi Zhou, Giancarlo Ferrigno, Elena De Momi:
+Bilateral Teleoperation Control of a Redundant Manipulator with an RCM Kinematic Constraint. 4477-4482
+		Wen-Loong Ma, Aaron D. Ames:
+From Bipedal Walking to Quadrupedal Locomotion: Full-Body Dynamics Decomposition for Rapid Gait Generation. 4491-4497
+		Mayur Tikam, Daniel Withey, Nicolaas J. Theron:
+Posture Control for a Low-Cost Commercially-Available Hexapod Robot*. 4498-4504
+		Adam Wiktor, Stephen Rock:
+Collaborative Multi-Robot Localization in Natural Terrain*. 4529-4535
+		Xiaotian Xu, Yancy Diaz-Mercado:
+Multi-Robot Control Using Coverage Over Time-Varying Non-Convex Domains. 4536-4542
+		Shushman Choudhury, Kiril Solovey, Mykel J. Kochenderfer, Marco Pavone:
+Efficient Large-Scale Multi-Drone Delivery Using Transit Networks. 4543-4550
+		Ragesh K. Ramachandran, Nicole Fronda, Gaurav S. Sukhatme:
+Resilience in multi-robot target tracking through reconfiguration. 4551-4557
+		Lorenzo Sabattini, Beatrice Capelli, Cesare Fantuzzi, Cristian Secchi:
+Teleoperation of Multi-Robot Systems to Relax Topological Constraints. 4558-4564
+		Melinda J. D. Malley, Bahar Haghighat, Lucie Houe, Radhika Nagpal:
+Eciton robotica: Design and Algorithms for an Adaptive Self-Assembling Soft Robot Collective. 4565-4571
+		Kento Kawaharazuka, Kei Tsuzuki, Moritaka Onitsuka, Yuki Asano, Kei Okada, Koji Kawasaki, Masayuki Inaba:
+Stable Tool-Use with Flexible Musculoskeletal Hands by Learning the Predictive Model of Sensor State Transition. 4572-4578
+		Liam Schramm, Avishai Sintov, Abdeslam Boularias:
+Learning to Transfer Dynamic Models of Underactuated Soft Robotic Hands. 4579-4585
+		Paris Oikonomou, Mehdi Khamassi, Costas S. Tzafestas:
+Periodic movement learning in a soft-robotic arm*. 4586-4592
+		Olalekan P. Ogunmolu, Xinmin Liu, Nicholas R. Gans, Rodney D. Wiersma:
+Mechanism and Model of a Soft Robot for Head Stabilization in Cancer Radiation Therapy. 4609-4615
+		Iretiayo Akinola, Jacob Varley, Dmitry Kalashnikov:
+Learning Precise 3D Manipulation from Multiple Uncalibrated Cameras. 4616-4622
+		Arturas Straizys, Michael Burke, Subramanian Ramamoorthy:
+Surfing on an uncertain edge: Precision cutting of soft tissue using torque-based medium classification. 4623-4629
+		Rishabh Jangir, Guillem Alenyà, Carme Torras:
+Dynamic Cloth Manipulation with Deep Reinforcement Learning. 4630-4636
+		Robin A. M. Strudel, Alexander Pashevich, Igor Kalevatykh, Ivan Laptev, Josef Sivic, Cordelia Schmid:
+Learning to combine primitive skills: A step towards versatile robotic manipulation §. 4637-4643
+		Huadong Wu, Zhanpeng Zhang, Hui Cheng, Kai Yang, Jiaming Liu, Ziying Guo:
+Learning Affordance Space in Physical World for Vision-based Robotic Object Manipulation. 4652-4658
+		Peng Huang, Heinrich Meyr, Meik Dörpinghaus, Gerhard P. Fettweis:
+Observability Analysis of Flight State Estimation for UAVs and Experimental Validation. 4659-4665
+		Patrick Geneva, Kevin Eckenhoff, Woosik Lee, Yulin Yang, Guoquan Huang:
+OpenVINS: A Research Platform for Visual-Inertial Estimation. 4666-4672
+		Roland Jung, Christian Brommer, Stephan Weiss:
+Decentralized Collaborative State Estimation for Aided Inertial Navigation. 4673-4679
+		Yulin Yang, Benzun Pious Wisely Babu, Chuchu Chen, Guoquan Huang, Liu Ren:
+Analytic Combined IMU Integration (ACI2) For Visual Inertial Navigation. 4680-4686
+		Quentin Leboutet, J. Rogelio Guadarrama-Olvera, Florian Bergner, Gordon Cheng:
+Second-order Kinematics for Floating-base Robots using the Redundant Acceleration Feedback of an Artificial Sensory Skin. 4687-4694
+		Vitalijs Osadcuks, Mihails Pudzs, Andrejs Zujevs, Aldis Pecka, Arturs Ardavs:
+Clock-based time sync hronization for an event-based camera dataset acquisition platform *. 4695-4701
+		Maciej Bednarczyk, Hassan Omran, Bernard Bayle:
+Model Predictive Impedance Control. 4702-4708
+		Garrison L. H. Johnston, Andrew L. Orekhov, Nabil Simaan:
+Kinematic Modeling and Compliance Modulation of Redundant Manipulators Under Bracing Constraints. 4709-4716
+		Chan-Il Lee, Do-Hyeong Kim, Harsimran Singh, Jee-Hwan Ryu:
+Successive Stiffness Increment and Time Domain Passivity Approach for Stable and High Bandwidth Control of Series Elastic Actuator. 4717-4723
+		Mahdi Khoramshahi, Gustav Henriks, Aileen Naef, Seyed Sina Mirrazavi Salehian, Joonyoung Kim, Aude Billard:
+Arm-hand motion-force coordination for physical interactions with non-flat surfaces using dynamical systems: Toward compliant robotic massage. 4724-4730
+		Lin-qing Xia, Yachun Feng, Fan Chen, Xinyu Wu:
+A Bio-Signal Enhanced Adaptive Impedance Controller for Lower Limb Exoskeleton. 4739-4744
+		Péter Karkus, Anelia Angelova, Vincent Vanhoucke, Rico Jonschkowski:
+Differentiable Mapping Networks: Learning Structured Map Representations for Sparse Visual Localization. 4753-4759
+		Kartik Ramachandruni, Madhu Babu Vankadari, Anima Majumder, Samrat Dutta, Swagat Kumar:
+Attentive Task-Net: Self Supervised Task-Attention Network for Imitation Learning using Video Demonstration. 4760-4766
+		Qi She, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan:
+OpenLORIS-Object: A Robotic Vision Dataset and Benchmark for Lifelong Deep Learning. 4767-4773
+		Kaixuan Wang, Yao Chen, Hengkai Guo, Linfu Wen, Shaojie Shen:
+Geometric Pretraining for Monocular Depth Estimation. 4782-4788
+		Wenjie Lai, Lin Cao, Phuoc Thien Phan, I-Wen Wu, Swee Chuan Tjin, Soo Jay Phee:
+Joint Rotation Angle Sensing of Flexible Endoscopic Surgical Robots. 4789-4795
+		Branden Romero, Filipe Veiga, Edward Adelson:
+Soft, Round, High Resolution Tactile Fingertip Sensors for Dexterous Robotic Manipulation. 4796-4802
+		Felix Ruppert, Alexander Badri-Spröwitz:
+FootTile: a Rugged Foot Sensor for Force and Center of Pressure Sensing in Soft Terrain. 4810-4816
+		Visak C. V. Kumar, Sehoon Ha, Gregory Sawicki, C. Karen Liu:
+Learning a Control Policy for Fall Prevention on an Assistive Walking Device. 4833-4840
+		Shijie Guo, Qian Xiang, Kazunobu Hashimoto, Shanhai Jin:
+Assistive Force of a Belt-type Hip Assist Suit for Lifting the Swing Leg during Walking. 4841-4847
+		Alexander B. Ambrose, Frank L. Hammond:
+Soft Pneumatic System for Interface Pressure Regulation and Automated Hands-Free Donning in Robotic Prostheses. 4848-4854
+		Richard W. Nuckols, Krithika Swaminathan, Sangjun Lee, Louis Awad, Conor J. Walsh, Robert D. Howe:
+Automated detection of soleus concentric contraction in variable gait conditions for improved exosuit control. 4855-4862
+		Yichu Jin, Christina M. Glover, Haedo Cho, Oluwaseun A. Araromi, Moritz A. Graule, Na Li, Robert J. Wood, Conor J. Walsh:
+Soft Sensing Shirt for Shoulder Kinematics Estimation. 4863-4869
+		De-An Huang, Yu-Wei Chao, Chris Paxton, Xinke Deng, Fei-Fei Li, Juan Carlos Niebles, Animesh Garg, Dieter Fox:
+Motion Reasoning for Goal-Based Imitation Learning. 4878-4884
+		Su Kyoung Kim, Elsa Andrea Kirchner, Frank Kirchner:
+Flexible online adaptation of learning strategy using EEG-based reinforcement signals in real-world robotic applications. 4885-4891
+		Jiyoun Moon, Beomhee Lee:
+Object-oriented Semantic Graph Based Natural Question Generation. 4892-4898
+		Mohamed El-Shamouty, Xinyang Wu, Shanqi Yang, Marcel Albus, Marco F. Huber:
+Towards Safe Human-Robot Collaboration Using Deep Reinforcement Learning. 4899-4905
+		Yen-Ling Kuo, Boris Katz, Andrei Barbu:
+Deep compositional robotic planners that follow natural language commands. 4906-4912
+		Nils Wilde, Dana Kulic, Stephen L. Smith:
+Learning User Preferences from Corrections on State Lattices. 4913-4919
+		Alireza Ahmadi, Lorenzo Nardi, Nived Chebrolu, Cyrill Stachniss:
+Visual Servoing-based Navigation for Monitoring Row-Crop Fields. 4920-4926
+		Francesco Betti Sorbelli, Stefano Carpin, Federico Corò, Alfredo Navarra, Cristina M. Pinotti:
+Optimal Routing Schedules for Robots Operating in Aisle-Structures. 4927-4933
+		Jiazhi Song, Inna Sharf:
+Time Optimal Motion Planning with ZMP Stability Constraint for Timber Manipulation. 4934-4940
+		Ya Xiong, Yuanyue Ge, Pål Johan From:
+Push and Drag: An Active Obstacle Separation Method for Fruit Harvesting Robots. 4957-4962
+		Shoubin Chen, Jingbin Liu, Xinlian Liang, Shuming Zhang, Juha Hyyppä, Ruizhi Chen:
+A Novel Calibration Method between a Camera and a 3D LiDAR with Infrared Images. 4963-4969
+		Yufeng Zhu, Chenghui Li, Yubo Zhang:
+Online Camera-LiDAR Calibration with Sensor Semantic Information. 4970-4976
+		Zining Wang, Masayoshi Tomizuka:
+Precise 3D Calibration of Wafer Handling Robot by Visual Detection and Tracking of Elliptic-shape Wafers. 4977-4982
+		Kyungdon Joo, Hongdong Li, Tae-Hyun Oh, Yunsu Bok, In So Kweon:
+Globally Optimal Relative Pose Estimation for Camera on a Selfie Stick. 4983-4989
+		Zhanpeng Ouyang, Lan Hu, Yukan Lu, Zhirui Wang, Xin Peng, Laurent Kneip:
+Online calibration of exterior orientations of a vehicle-mounted surround-view camera system. 4990-4996
+		Andrei Cramariuc, Aleksandar Petrov, Rohit Suri, Mayank Mittal, Roland Siegwart, Cesar Cadena:
+Learning Camera Miscalibration Detection. 4997-5003
+		Yukiyasu Domae, Akio Noda, Tatsuya Nagatani, Weiwei Wan:
+Robotic General Parts Feeder: Bin-picking, Regrasping, and Kitting. 5004-5010
+		Fahad Islam, Anirudh Vemula, Sung-Kyun Kim, Andrew Dornbush, Oren Salzman, Maxim Likhachev:
+Planning, Learning and Reasoning Framework for Robot Truck Unloading. 5011-5017
+		Atle Aalerud, Geir Hovland:
+Evaluation of Perception Latencies in a Human-Robot Collaborative Environment. 5018-5023
+		Jie Zhao, Xiaoman Wang, Shengfan Wang, Xin Jiang, Yunhui Liu:
+Assembly of randomly placed parts realized by using only one robot arm with a general parallel-jaw gripper. 5024-5030
+		Luke Calkins, Joseph F. Lingevitch, Loy McGuire, Jason Geder, Matthew Kelly, Michael M. Zavlanos, Donald Sofge, Daniel M. Lofaro:
+Bio-Inspired Distance Estimation using the Self-Induced Acoustic Signature of a Motor-Propeller System. 5047-5053
+		Benjamin Fasquelle, Matthieu Furet, Parag Khanna, Damien Chablat, Christine Chevallereau, Philippe Wenger:
+A bio-inspired 3-DOF light-weight manipulator with tensegrity X-joints*. 5054-5060
+		Yaohui Chen, Hoam Chung, Bernard Chen, Baoyinjiya, Yonghang Sun:
+The Lobster-inspired Antagonistic Actuation Mechanism Towards a Bending Module. 5061-5067
+		Shannon M. Danforth, Margaret Kohler, Daniel Bruder, Alison R. Davis Rabosky, Sridhar Kota, Ram Vasudevan, Talia Y. Moore:
+Emulating duration and curvature of coral snake anti-predator thrashing behaviors using a soft-robotic platform. 5068-5074
+		Guilherme Aramizo Ribeiro, Lauren N. Knop, Mo Rastgaar:
+Directional Mechanical Impedance of the Human Ankle During Standing with Active Muscles. 5075-5081
+		Hsiu-Chin Lin, Michael N. Mistry:
+Contact Surface Estimation via Haptic Perception. 5087-5093
+		Patrik Kolaric, Devesh K. Jha, Arvind U. Raghunathan, Frank L. Lewis, Mouhacine Benosman, Diego Romeres, Daniel Nikovski:
+Local Policy Optimization for Trajectory-Centric Reinforcement Learning. 5094-5100
+		Emily Hannigan, Bing Song, Gagan Khandate, Maximilian Haas-Heger, Ji Yin, Matei T. Ciocarlie:
+Automatic Snake Gait Generation Using Model Predictive Control. 5101-5107
+		Vidyasagar Sadhu, Saman A. Zonouz, Dario Pompili:
+On-board Deep-learning-based Unmanned Aerial Vehicle Fault Cause Detection and Identification. 5255-5261
+		Jeffrey Ichnowski, Michael Danielczuk, Jingyi Xu, Vishal Satish, Ken Goldberg:
+GOMP: Grasp-Optimized Motion Planning for Bin Picking. 5270-5277
+		Kai Chuen Tan, Myungjin Jung, Isaac Shyu, Changhuang Wan, Ran Dai:
+Motion Planning and Task Allocation for a Jumping Rover Team. 5278-5283
+		Soohwan Song, Daekyum Kim, Sungho Jo:
+Active 3D Modeling via Online Multi-View Stereo. 5284-5291
+		Alexander C. Holston, Jong-Hwan Kim:
+Reoriented Short-Cuts (RSC): An Adjustment Method for Locally Optimal Path Short-Cutting in High DoF Configuration Spaces. 5292-5298
+		Tingxiang Fan, Pinxin Long, Wenxi Liu, Jia Pan, Ruigang Yang, Dinesh Manocha:
+Learning Resilient Behaviors for Navigation Under Uncertainty. 5299-5305
+		Juan Carlos Hernández Ramírez, Meyer Nahon:
+Nonlinear Vector-Projection Control for Agile Fixed-Wing Unmanned Aerial Vehicles. 5314-5320
+		Xichen Shi, Patrick Spieler, Ellande Tang, Elena-Sorina Lupu, Phillip Tokumaru, Soon-Jo Chung:
+Adaptive Nonlinear Control of Fixed-Wing VTOL with Airflow Vector Sensing. 5321-5327
+		Huan Nguyen, Tung Dang, Kostas Alexis:
+The Reconfigurable Aerial Robotic Chain: Modeling and Control. 5328-5334
+		Mahmoud Hamandi, Marco Tognon, Antonio Franchi:
+Direct Acceleration Feedback Control of Quadrotor Aerial Vehicles. 5335-5341
+		Maximilian Brunner, Karen Bodie, Mina Kamel, Michael Pantic, Weixuan Zhang, Juan I. Nieto, Roland Siegwart:
+Trajectory Tracking Nonlinear Model Predictive Control for an Overactuated MAV. 5342-5348
+		Yuri S. Sarkisov, Min Jun Kim, Andre Coelho, Dzmitry Tsetserukou, Christian Ott, Konstantin Kondak:
+Optimal Oscillation Damping Control of cable-Suspended Aerial Manipulator with a Single IMU Sensor. 5349-5355
+		Matthew O'Kelly, Hongrui Zheng, Achin Jain, Joseph Auckley, Kim Luong, Rahul Mangharam:
+TUNERCAR: A Superoptimization Toolchain for Autonomous Racing. 5356-5362
+		Ming-Yuan Yu, Ram Vasudevan, Matthew Johnson-Roberson:
+Risk Assessment and Planning with Bidirectional Reachability for Autonomous Driving. 5363-5369
+		Mario Garzón, Anne Spalanzani:
+Game theoretic decision making based on real sensor data for autonomous vehicles' maneuvers in high traffic. 5378-5384
+		Dhruv Mauria Saxena, Sangjae Bae, Alireza Nakhaei, Kikuo Fujimura, Maxim Likhachev:
+Driving in Dense Traffic with Model-Free Reinforcement Learning. 5385-5392
+		Gennaro Notomista, Mingyu Wang, Mac Schwager, Magnus Egerstedt:
+Enhancing Game-Theoretic Autonomous Car Racing Using Control Barrier Functions. 5393-5399
+		Yasir Latif, Anh-Dzung Doan, Tat-Jun Chin, Ian Reid:
+SPRINT: Subgraph Place Recognition for INtelligent Transportation. 5408-5414
+		Sebastian Ratz, Marcin Dymczyk, Roland Siegwart, Renaud Dubé:
+OneShot Global Localization: Instant LiDAR-Visual Pose Estimation. 5415-5421
+		Mathias Lechner, Ramin M. Hasani, Daniela Rus, Radu Grosu:
+Gershgorin Loss Stabilizes the Recurrent Neural Network Compartment of an End-to-end Robot Learning Scheme. 5446-5452
+		Hiba Ovais Latifee, Affan Pervez, Jee-Hwan Ryu, Dongheui Lee:
+Mini-Batched Online Incremental Learning Through Supervisory Teleoperation with Kinesthetic Coupling. 5453-5459
+		Chang Gao, Rachel Gehlhar, Aaron D. Ames, Shih-Chii Liu, Tobi Delbrück:
+Recurrent Neural Network Control of a Hybrid Dynamical Transfemoral Prosthesis with EdgeDRNN Accelerator. 5460-5466
+		Shuo Yang, Wei Zhang, Weizhi Lu, Hesheng Wang, Yibin Li:
+Cross-context Visual Imitation Learning from Demonstrations. 5467-5473
+		Vinicius Schettino, Yiannis Demiris:
+Improving Generalisation in Learning Assistance by Demonstration for Smart Wheelchairs. 5474-5480
+		Maximilian Naumann, Liting Sun, Wei Zhan, Masayoshi Tomizuka:
+Analyzing the Suitability of Cost Functions for Explaining and Imitating Human Driving Behavior based on Inverse Reinforcement Learning. 5481-5487
+		Jialun Liu, Hironari Sugiyama, Tadachika Nakayama, Shuhei Miyashita:
+Magnetic Sensor Based Topographic Localization for Automatic Dislocation of Ingested Button Battery. 5488-5494
+		Gang Li, Niravkumar A. Patel, Weiqiang Liu, Di Wu, Karun Sharma, Kevin Cleary, Jan Fritz, Iulian Iordachita:
+A Fully Actuated Body-Mounted Robotic Assistant for MRI-Guided Low Back Pain Injection. 5495-5501
+		Lavanya Balasubramanian, Tom Wray, Dana D. Damian:
+Fault Tolerant Control in Shape-Changing Internal Robots. 5502-5508
+		Apeksha Avinash, Alaa Eldin Abdelaal, Septimiu E. Salcudean:
+Evaluation of Increasing Camera Baseline on Depth Perception in Surgical Robotics. 5509-5515
+		Yuan Tian, Mark Draelos, Gao Tang, Ruobing Qian, Anthony N. Kuo, Joseph A. Izatt, Kris Hauser:
+Toward Autonomous Robotic Micro-Suturing using Optical Coherence Tomography Calibration and Path Planning. 5516-5522
+		Yangxin Xu, Keyu Li, Ziqi Zhao, Max Q.-H. Meng:
+Improved Multiple Objects Tracking based Autonomous Simultaneous Magnetic Actuation & Localization for WCE. 5523-5529
+		Eranda Tennakoon, Thierry Peynot, Jonathan Roberts, Navinda Kottege:
+Probe-before-step walking strategy for multi-legged robots on terrain with risk of collapse. 5530-5536
+		Brian Reily, Christopher M. Reardon, Hao Zhang:
+Representing Multi-Robot Structure through Multimodal Graph Embedding for the Selection of Robot Teams. 5576-5582
+		Jaein Lim, Panagiotis Tsiotras:
+MAMS-A*: Multi-Agent Multi-Scale A. 5583-5589
+		Beatrice Capelli, Lorenzo Sabattini:
+Connectivity Maintenance: Global and Optimized approach through Control Barrier Functions. 5590-5596
+		Ian Buckley, Magnus Egerstedt:
+Controller Synthesis for Infinitesimally Shape-Similar Formations. 5597-5603
+		Faezeh Rahbar, Alcherio Martinoli:
+A Distributed Source Term Estimation Algorithm for Multi-Robot Systems. 5604-5610
+		Alyssa Pierson, Wilko Schwarting, Sertac Karaman, Daniela Rus:
+Weighted Buffered Voronoi Cells for Distributed Semi-Cooperative Behavior. 5611-5617
+		Austin Nicolai, Gina Olson, Yigit Mengüç, Geoffrey A. Hollinger:
+Learning to Control Reconfigurable Staged Soft Arms. 5618-5624
+		Jaeyeon Jeong, Cheol Hoon Park, Ki-Uk Kyung:
+Modeling and Analysis of SMA Actuator Embedded in Stretchable Coolant Vascular Pursuing Artificial Muscles. 5641-5646
+		Ole-Magnus Pedersen, Ekrem Misimi, François Chaumette:
+Grasping Unknown Objects by Coupling Deep Reinforcement Learning, Generative Adversarial Networks, and Visual Servoing. 5655-5662
+		Ariyan M. Kabir, Shantanu Thakar, Prahar M. Bhatt, Rishi K. Malhan, Pradeep Rajendran, Brual C. Shah, Satyandra K. Gupta:
+Incorporating Motion Planning Feasibility Considerations during Task-Agent Assignment to Perform Complex Tasks Using Mobile Manipulators. 5663-5670
+		Lin Shao, Toki Migimatsu, Jeannette Bohg:
+Learning to Scaffold the Development of Robotic Manipulation Skills. 5671-5677
+		Caelan Reed Garrett, Chris Paxton, Tomás Lozano-Pérez, Leslie Pack Kaelbling, Dieter Fox:
+Online Replanning in Belief Space for Partially Observable Task and Motion Problems. 5678-5684
+		Martin Brossard, Axel Barrau, Silvère Bonnabel:
+A Code for Unscented Kalman Filtering on Manifolds (UKF-M). 5701-5708
+		Pascal Böhmler, Jonathan Dziedzitz, Patric Hopfgarten, Thomas Specker, Ralph Lange:
+Efficient and precise sensor fusion for non-linear systems with out-of-sequence measurements by example of mobile robotics. 5709-5715
+		Junjiao Tian, Wesley Cheung, Nathaniel Glaser, Yen-Cheng Liu, Zsolt Kira:
+UNO: Uncertainty-aware Noisy-Or Multimodal Fusion for Unanticipated Input Degradation. 5716-5723
+		Woosik Lee, Kevin Eckenhoff, Patrick Geneva, Guoquan Huang:
+Intermittent GPS-aided VIO: Online Initialization and Calibration. 5724-5731
+		Axel Barrau, Silvère Bonnabel:
+A Mathematical Framework for IMU Error Propagation with Applications to Preintegration. 5732-5738
+		Andrew Kramer, Carl Stahoviak, Angel Santamaria-Navarro, Ali-akbar Agha-mohammadi, Christoffer Heckman:
+Radar-Inertial Ego-Velocity Estimation for Visually Degraded Environments. 5739-5746
+		Taegyun Kim, Sungkeun Yoo, Hwa Soo Kim, TaeWon Seo:
+Position-based Impedance Control of a 2-DOF Compliant Manipulator for a Facade Cleaning Operation*. 5765-5770
+		Korbinian Nottensteiner, Freek Stulp, Alin Albu-Schäffer:
+Robust, Locally Guided Peg-in-Hole using Impedance-Controlled Robots. 5771-5777
+		Shuguang Huang, Joseph M. Schimmels:
+Design of Spatial Admittance for Force-Guided Assembly of Polyhedral Parts in Single Point Frictional Contact. 5801-5807
+		Majid Taghavi, Tim Helps, Jonathan Rossiter:
+Characterisation of Self-locking High-contraction Electro-ribbon Actuators*. 5856-5861
+		Thulani Tsabedze, Christopher Mullen, Ryan Coulter, Scott Wade, Jun Zhang:
+Helically Wrapped Supercoiled Polymer (HW-SCP) Artificial Muscles: Design, Characterization, and Modeling. 5862-5868
+		Yujia Li, Tao Ren, Yonghua Chen, Michael Z. Q. Chen:
+A Variable Stiffness Soft Continuum Robot Based on Pre-charged Air, Particle Jamming, and Origami. 5869-5875
+		Martin Görner, Fabian Benedikt, Ferdinand Grimmel, Thomas Hulin:
+SwarmRail: A Novel Overhead Robot System for Indoor Transport and Mobile Manipulation. 5905-5911
+		Timothy Overbye, Srikanth Saripalli:
+Fast Local Planning and Mapping in Unknown Off-Road Terrain. 5912-5918
+		Gokul Swamy, Siddharth Reddy, Sergey Levine, Anca D. Dragan:
+Scaled Autonomy: Enabling Human Operators to Control Robot Fleets. 5942-5948
+		Xuan Zhao, Tingxiang Fan, Dawei Wang, Zhe Hu, Tao Han, Jia Pan:
+An Actor-Critic Approach for Legible Robot Motion Planner. 5949-5955
+		Boris Gromov, Jérôme Guzzi, Luca Maria Gambardella, Alessandro Giusti:
+Intuitive 3D Control of a Quadrotor in User Proximity with Pointing Gestures. 5964-5971
+		Tao Yuan, Hangxin Liu, Lifeng Fan, Zilong Zheng, Tao Gao, Yixin Zhu, Song-Chun Zhu:
+Joint Inference of States, Robot Knowledge, and Human (False-)Beliefs. 5972-5978
+		Jonas Gonzalez-Billandon, Alessandra Sciutti, Matthew S. Tata, Giulio Sandini, Francesco Rea:
+Audiovisual cognitive architecture for autonomous learning of face localisation by a Humanoid Robot. 5979-5985
+		Alberto Candela, Suhit Kodgule, Kevin Edelson, Srinivasan Vijayarangan, David R. Thompson, Eldar Noe Dobrea, David Wettergreen:
+Planetary Rover Exploration Combining Remote and In Situ Measurements for Active Spectroscopic Mapping. 5986-5993
+		Keisuke Watanabe:
+Magnetic Docking Mechanism for Free-flying Space Robots with Spherical Surfaces. 5994-5999
+		Yuliya Marchetti, Jack Lightholder, Eric Junkins, Matthew Cross, Lukas Mandrake, Abigail A. Fraeman:
+Barefoot Rover: a Sensor-Embedded Rover Wheel Demonstrating In-Situ Engineering and Science Extractions using Machine Learning. 6000-6006
+		Pedro F. Proença, Yang Gao:
+Deep Learning for Spacecraft Pose Estimation from Photorealistic Rendering. 6007-6013
+		Olga-Orsalia Christidi-Loumpasefski, Georgios Rekleitis, Evangelos Papadopoulos:
+Concurrent Parameter Identification and Control for Free-Floating Robotic Systems During On-Orbit Servicing. 6014-6020
+		Monica Ekal, Rodrigo Ventura:
+A Dual Quaternion-Based Discrete Variational Approach for Accurate and Online Inertial Parameter Estimation in Free-Flying obots. 6021-6027
+		Julius Kümmerle, Tilman Kühner:
+Unified Intrinsic and Extrinsic Camera and LiDAR Calibration under Uncertainties. 6028-6034
+		Jason Rebello, Angus Fung, Steven L. Waslander:
+AC/DCC : Accurate Calibration of Dynamic Camera Clusters for Visual SLAM. 6035-6041
+		Gunhee Koo, Jaehyeon Kang, Bumchul Jang, Nakju Lett Doh:
+Analytic Plane Covariances Construction for Precise Planarity-based Extrinsic Calibration of Camera and LiDAR. 6042-6048
+		Yu-Hsiang Chang, Yen-Chun Liu, Chao-Chieh Lan:
+An End-Effector Wrist Module for the Kinematically Redundant Manipulation of Arm-Type Robots. 6075-6080
+		Hongchao Zhao, Wen Chen, Shunbo Zhou, Zhe Liu, Fan Zheng, Yun-Hui Liu:
+Online Trajectory Planning for an Industrial Tractor Towing Multiple Full Trailers. 6089-6095
+		Qi Lu, G. Matthew Fricke, Takaya Tsuno, Melanie E. Moses:
+A Bio-Inspired Transportation Network for Scalable Swarm Foraging. 6120-6126
+		Gabriel Urbain, Victor Barasuol, Claudio Semini, Joni Dambre, Francis Wyffels:
+Stance Control Inspired by Cerebellum Stabilizes Reflex-Based Locomotion on HyQ Robot. 6127-6133
+		Raphaela Kreiser, Gabriel Waibel, Núria Armengol, Alpha Renner, Yulia Sandamirskaya:
+Error estimation and correction in a spiking neural network for map formation in neuromorphic hardware. 6134-6140
+		Satoshi Tanaka, Keisuke Koyama, Taku Senoo, Masatoshi Ishikawa:
+Adaptive Visual Shock Absorber with Visual-based Maxwell Model Using a Magnetic Gear. 6163-6168
+		Ming Xin, Kai Zhang, David Lackner, Mark A. Minor:
+Slip-Based Nonlinear Recursive Backstepping Path Following Controller for Autonomous Ground Vehicles. 6169-6175
+		Zhichao Li, Ömür Arslan, Nikolay Atanasov:
+Fast and Safe Path-Following Control using a State-Dependent Directional Metric. 6176-6182
+		Brayden DeBoon, Scott B. Nokleby, Carlos Rossa:
+Backlash-Compensated Active Disturbance Rejection Control of Nonlinear Multi-Input Series Elastic Actuators. 6183-6189
+		Siyuan Wang, Andrey E. Polyakov, Gang Zheng:
+On Generalized Homogenization of Linear Quadrotor Controller. 6190-6195
+		Jacky Liang, Ankur Handa, Karl Van Wyk, Viktor Makoviychuk, Oliver Kroemer, Dieter Fox:
+In-Hand Object Pose Tracking via Contact Feedback and GPU-Accelerated Robotic Simulation. 6203-6209
+		Bowen Wen, Chaitanya Mitash, Sruthi Soorian, Andrew Kimmel, Avishai Sintov, Kostas E. Bekris:
+Robust, Occlusion-aware Pose Estimation for Objects Grasped by Adaptive Hands. 6210-6217
+		Meng Tian, Liang Pan, Marcelo H. Ang, Gim Hee Lee:
+Robust 6D Object Pose Estimation by Learning RGB-D Features. 6218-6224
+		Iason Sarantopoulos, Marios Kiatos, Zoe Doulgeri, Sotiris Malassiotis:
+Split Deep Q-Learning for Robust Object Singulation*. 6225-6231
+		Adithyavairavan Murali, Arsalan Mousavian, Clemens Eppner, Chris Paxton, Dieter Fox:
+6-DOF Grasping for Target-driven Object Manipulation in Clutter. 6232-6238
+		Kilian Kleeberger, Marco F. Huber:
+Single Shot 6D Object Pose Estimation. 6239-6245
+		Giseop Kim, Yeong Sang Park, Younghun Cho, Jinyong Jeong, Ayoung Kim:
+MulRan: Multimodal Range Dataset for Urban Place Recognition. 6246-6253
+		Sicong Du, Hengkai Guo, Yao Chen, Yilun Lin, Xiangbing Meng, Linfu Wen, Fei-Yue Wang:
+GPO: Global Plane Optimization for Fast and Accurate Monocular SLAM Initialization. 6254-6260
+		Tilman Kühner, Julius Kümmerle:
+Large-Scale Volumetric Scene Reconstruction using LiDAR. 6261-6267
+		Sai Shubodh Puligilla, Satyajit Tourani, Tushar Vaidya, Udit Singh Parihar, Ravi Kiran Sarvadevabhatla, K. Madhava Krishna:
+Topological Mapping for Manhattan-like Repetitive Environments. 6268-6274
+		Kyung Min Han, Young J. Kim:
+Robust RGB-D Camera Tracking using Optimal Key-frame Selection. 6275-6281
+		Shuo Li, Ekin Öztürk, Christophe De Wagter, Guido C. H. E. de Croon, Dario Izzo:
+Aggressive Online Control of a Quadrotor via Deep Network Representations of Optimality Principles. 6282-6287
+		Michal Kleinbort, Edgar Granados, Kiril Solovey, Riccardo Bonalli, Kostas E. Bekris, Dan Halperin:
+Refined Analysis of Asymptotically-Optimal Kinodynamic Planning in the State-Cost Space. 6344-6350
+		Adriano M. C. Rezende, Vinicius Mariano Gonçalves, Arthur H. D. Nunes, Luciano C. A. Pimenta:
+Robust quadcopter control with artificial vector fields. 6381-6387
+		Blazej Osinski, Adam Jakubowski, Pawel Ziecina, Piotr Milos, Christopher Galias, Silviu Homoceanu, Henryk Michalewski:
+Simulation-Based Reinforcement Learning for Real-World Autonomous Driving. 6411-6418
+		Sascha Rosbach, Vinit James, Simon Großjohann, Silviu Homoceanu, Xing Li, Stefan Roth:
+Driving Style Encoder: Situational Reward Adaptation for General-Purpose Planning in Automated Driving. 6419-6425
+		Suresh Kumaar Jayaraman, Dawn M. Tilbury, X. Jessie Yang, Anuj K. Pradhan, Lionel P. Robert:
+Analysis and Prediction of Pedestrian Crosswalk Behavior during Automated Vehicle Interactions. 6426-6432
+		Dan Barnes, Matthew Gadd, Paul Murcutt, Paul Newman, Ingmar Posner:
+The Oxford Radar RobotCar Dataset: A Radar Extension to the Oxford RobotCar Dataset. 6433-6438
+		Shihong Fang, Anna Choromanska:
+Multi-modal Experts Network for Autonomous Driving. 6439-6445
+		Maleen Jayasuriya, Janindu Arukgoda, Ravindra Ranasinghe, Gamini Dissanayake:
+Localising PMDs through CNN Based Perception of Urban Streets. 6454-6460
+		Naoki Akai, Takatsugu Hirayama, Hiroshi Murase:
+Hybrid Localization using Model- and Learning-Based Methods: Fusion of Monte Carlo and E2E Localizations via Importance Sampling. 6469-6475
+		Bhavit Patel, Timothy D. Barfoot, Angela P. Schoellig:
+Visual Localization with Google Earth Images for Robust Global Pose Estimation of UAVs. 6491-6497
+		Lukás Hermann, Max Argus, Andreas Eitel, Artemij Amiranashvili, Wolfram Burgard, Thomas Brox:
+Adaptive Curriculum Generation from Demonstrations for Sim-to-Real Visuomotor Control. 6498-6505
+		Pooya Abolghasemi, Ladislau Bölöni:
+Accept Synthetic Objects as Real: End-to-End Training of Attentive Deep Visuomotor Policies for Manipulation in Clutter. 6506-6512
+		Bojan Nemec, Mihael Simonic, Ales Ude:
+Learning of Exception Strategies in Assembly Tasks. 6521-6527
+		Adnan Munawar, Nishan Srishankar, Gregory S. Fischer:
+An Open-Source Framework for Rapid Development of Interactive Soft-Body Simulations for Real-Time Training. 6544-6550
+		Onder Erin, Dario Antonelli, Mehmet Efe Tiryaki, Metin Sitti:
+Towards 5-DoF Control of an Untethered Magnetic Millirobot via MRI Gradient Coils. 6551-6557
+		Saeid Samadi, Stéphane Caron, Arnaud Tanguy, Abderrahmane Kheddar:
+Balance of Humanoid Robots in a Mix of Fixed and Sliding Multi-Contact Scenarios. 6590-6596
+		Grzegorz Ficht, Sven Behnke:
+Fast Whole-Body Motion Control of Humanoid Robots with Inertia Constraints. 6597-6603
+		Steve Tonneau, Daeun Song, Pierre Fernbach, Nicolas Mansard, Michel Taïx, Andrea Del Prete:
+SL1M: Sparse L1-norm Minimization for contact planning on uneven terrain. 6604-6610
+		Steven Jens Jorgensen, Mihir Vedantam, Ryan Gupta, Henry Cappel, Luis Sentis:
+Finding Locomanipulation Plans Quickly in the Locomotion Constrained Manifold. 6611-6617
+		Jason White, Dylan Swart, Christian Hubicki:
+Force-based Control of Bipedal Balancing on Dynamic Terrain with the "Tallahassee Cassie" Robotic Platform. 6618-6624
+		Luis Guerrero-Bonilla, David Saldaña, Vijay Kumar:
+Dense r-robust formations on lattices. 6633-6639
+		Remy Wehbe, Ryan K. Williams:
+Optimizing Topologies for Probabilistically Secure Multi-Robot Systems. 6640-6646
+		Ayan Dutta, Anirban Ghosh, Stephen Sisley, O. Patrick Kreidl:
+Efficient Communication in Large Multi-robot Networks. 6647-6653
+		Ritwika Ghosh, Joao P. Jansch-Porto, Chiao Hsieh, Amelia Gosse, Minghao Jiang, Hebron Taylor, Peter Du, Sayan Mitra, Geir E. Dullerud:
+CyPhyHouse: A programming, simulation, and deployment toolchain for heterogeneous distributed coordination. 6654-6660
+		Fan Yang, Nilanjan Chakraborty:
+Chance Constrained Simultaneous Path Planning and Task Assignment for Multiple Robots with Stochastic Path Costs. 6661-6667
+		Pratik Mukherjee, Matteo Santilli, Andrea Gasparri, Ryan K. Williams:
+Optimal Topology Selection for Stable Coordination of Asymmetrically Interacting Multi-Robot Systems. 6668-6674
+		Rafael Papallas, Mehmet Remzi Dogar:
+Non-Prehensile Manipulation in Clutter with Human-In-The-Loop. 6723-6729
+		Samuel Lensgraf, Karim Itani, Yinan Zhang, Zezhou Sun, Yijia Wu, Alberto Quattrini Li, Bo Zhu, Emily Whiting, Weifu Wang, Devin J. Balkcom:
+PuzzleFlex: kinematic motion of chains with loose joints. 6730-6737
+		Alina Kloss, Maria Bauzá, Jiajun Wu, Joshua B. Tenenbaum, Alberto Rodriguez, Jeannette Bohg:
+Accurate Vision-based Manipulation through Contact Reasoning. 6738-6744
+		Jung-Su Ha, Danny Driess, Marc Toussaint:
+A Probabilistic Framework for Constrained Manipulations and Task and Motion Planning under Uncertainty. 6745-6751
+		Muhammad Suhail Saleem, Maxim Likhachev:
+Planning with Selective Physics-based Simulation for Manipulation Among Movable Objects. 6752-6758
+		Neel Doshi, François Robert Hogan, Alberto Rodriguez:
+Hybrid Differential Dynamic Programming for Planar Manipulation Primitives. 6759-6765
+		Chun-Yu Chai, Yu-Po Wu, Shiao-Li Tsao:
+Deep Depth Fusion for Black, Transparent, Reflective and Texture-Less Objects. 6766-6772
+		Weikun Zhen, Yaoyu Hu, Huai Yu, Sebastian A. Scherer:
+LiDAR-enhanced Structure-from-Motion. 6773-6779
+		Matthias Pollach, Felix Schiegg, Alois C. Knoll:
+Low Latency And Low-Level Sensor Fusion For Automotive Use-Cases. 6780-6786
+		Huanghe Zhang, Zhuo Chen, Damiano Zanotto, Yi Guo:
+Robot-Assisted and Wearable Sensor-Mediated Autonomous Gait Analysis§. 6795-6802
+		Loris Roveda, Nicola Castaman, Paolo Franceschi, Stefano Ghidoni, Nicola Pedrocchi:
+A Control Framework Definition to Overcome Position/Interaction Dynamics Uncertainties in Force-Controlled Tasks. 6819-6825
+		Lasitha Wijayarathne, Frank L. Hammond:
+Identification of Compliant Contact Parameters and Admittance Force Modulation on a Non-stationary Compliant Surface. 6826-6832
+		Walid Amanhoud, Mahdi Khoramshahi, Maxime Bonnesoeur, Aude Billard:
+Force Adaptation in Contact Tasks with Dynamical Systems. 6841-6847
+		Ken Sakurada, Mikiya Shibuya, Weimin Wang:
+Weakly Supervised Silhouette-based Semantic Scene Change Detection. 6861-6867
+		Liang Du, Jingang Tan, Xiangyang Xue, Lili Chen, Hongkai Wen, Jianfeng Feng, Jiamao Li, Xiaolin Zhang:
+3DCFS: Fast and Robust Joint 3D Semantic-Instance Segmentation via Coupled Feature Selection. 6868-6875
+		Yen-Cheng Liu, Junjiao Tian, Chih-Yao Ma, Nathan Glaser, Chia-Wen Kuo, Zsolt Kira:
+Who2com: Collaborative Perception via Learnable Handshake Communication. 6876-6883
+		Zoe Landgraf, Fabian Falck, Michael Bloesch, Stefan Leutenegger, Andrew J. Davison:
+Comparing View-Based and Map-Based Semantic Labelling in Real-Time SLAM. 6884-6890
+		Gregory Izatt, Russ Tedrake:
+Generative Modeling of Environments with Scene Grammars and Variational Inference. 6891-6897
+		Michal Nazarczuk, Krystian Mikolajczyk:
+SHOP-VRB: A Visual Reasoning Benchmark for Object Perception. 6898-6904
+		Josie Hughes, Shuguang Li, Daniela Rus:
+Sensorization of a Continuum Body Gripper for High Force and Delicate Object Grasping. 6913-6919
+		Snehal Jain, Thileepan Stalin, V. Subramaniam, J. Agarwal, Pablo Valdivia y Alvarado:
+A Soft Gripper with Retractable Nails for Advanced Grasping and Manipulation. 6928-6934
+		Xuhui Hu, Hong Zeng, Dapeng Chen, Jiahang Zhu, Aiguo Song:
+Real-time Continuous Hand Motion Myoelectric Decoding by Automated Data Labeling*. 6951-6957
+		Maria Kabtoul, Anne Spalanzani, Philippe Martinet:
+Towards Proactive Navigation: A Pedestrian-Vehicle Cooperation Based Behavioral Model. 6958-6964
+		Philip Scales, Olivier Aycard, Véronique Aubergé:
+Studying Navigation as a Form of Interaction: a Design Approach for Social Robot Navigation Methods. 6965-6972
+		Kyon-Mo Yang, Kap-Ho Seo, Sang Hoon Kang, Yoonseob Lim:
+Robot Plan Model Generation and Execution with Natural Language Interface. 6973-6978
+		Jun Jin, Nhat M. Nguyen, Nazmus Sakib, Daniel Graves, Hengshuai Yao, Martin Jägersand:
+Mapless Navigation among Dynamics with Social-safety-awareness: a reinforcement learning approach from 2D laser scans. 6979-6985
+		Hakan O. Caldag, Serhat Yesilyurt:
+Steering Control of Magnetic Helical Swimmers in Swirling Flows due to Confinement. 6994-7000
+		Kent Rosser, Jia Kok, Javaan S. Chahl, Josh Bongard:
+Sim2real gap is non-monotonic with robot complexity for morphology-in-the-loop flapping wing design. 7001-7007
+		R. Lopez-Lopez, V. Perez-Sanchez, Pablo Ramon Soria, A. Martín-Alcántara, R. Fernandez-Feria, Begoña C. Arrue, Aníbal Ollero:
+A Linearized Model for an Ornithopter in Gliding Flight: Experiments and Simulations. 7008-7014
+		Alireza Ramezani:
+Towards biomimicry of a bat-style perching maneuver on structures: the manipulation of inertial dynamics. 7015-7021
+		Rui Zhou, Huai-Ti Lin:
+Bioinspired object motion filters as the basis of obstacle negotiation in micro aerial systems. 7022-7028
+		Dimitri A. Schreiber, Florian Richter, Andrew Bilan, Peter V. Gavrilov, Hoi Man Lam, Casey H. Price, Kalind C. Carpenter, Michael C. Yip:
+ARCSnake: An Archimedes' Screw-Propelled, Reconfigurable Serpentine Robot for Complex Environments. 7029-7034
+		Jinglun Feng, Liang Yang, Haiyan Wang, Yifeng Song, Jizhong Xiao:
+GPR-based Subsurface Object Detection and Reconstruction Using Random Motion and DepthNet. 7035-7041
+		Hanz Cuevas-Velasquez, Antonio-Javier Gallego, Radim Tylecek, Jochen Hemming, Bart van Tuijl, Angelo Mencarelli, Robert B. Fisher:
+Real-time Stereo Visual Servoing for Rose Pruning with Robotic Arm. 7050-7056
+		Philippe Hamelin, Pierre-Luc Richard, Marco Lepage, Marin Lagacé, Alex Sartor, Ghislain Lambert, Camille Hébert, Nicolas Pouliot:
+Slip-Limiting Controller for Redundant Line-Suspended Robots: Application to Line Ranger. 7081-7087
+		Di Wu, Wenting Zhang, Mi Qin, Bin Xie:
+Interval Search Genetic Algorithm Based on Trajectory to Solve Inverse Kinematics of Redundant Manipulators and Its Application. 7088-7094
+		Zhongtao Fu, Emmanouil Spyrakos-Papastavridis, Yen-hua Lin, Jian S. Dai:
+Analytical Expressions of Serial Manipulator Jacobians and their High-Order Derivatives based on Lie Theory*. 7095-7100
+		Filip Maric, Matthew Giamou, Soroush Khoubyarian, Ivan Petrovic, Jonathan Kelly:
+Inverse Kinematics for Serial Kinematic Chains via Sum of Squares Optimization. 7101-7107
+		Josep Marti-Saumell, Angel Santamaria-Navarro, Carlos Ocampo-Martinez, Juan Andrade-Cetto:
+Multi-task closed-loop inverse kinematics stability through semidefinite programming. 7108-7114
+		Nassim Benhabib, Vincent Padois, David Daney:
+Securing Industrial Operators with Collaborative Robots: Simulation and Experimental Validation for a Carpentry task. 7128-7134
+		Hae-Gon Jeon, Sunghoon Im, Jean Oh, Martial Hebert:
+Learning Shape-based Representation for Visual Localization in Extremely Changing Conditions. 7135-7141
+		Hoseong Seo, Clark Youngdong Son, Dongjae Lee, H. Jin Kim:
+Trajectory Planning with Safety Guaranty for a Multirotor based on the Forward and Backward Reachability Analysis. 7142-7148
+		Somil Bansal, Andrea Bajcsy, Ellis Ratner, Anca D. Dragan, Claire J. Tomlin:
+A Hamilton-Jacobi Reachability-Based Framework for Predicting and Analyzing Human Motion for Safe Planning. 7149-7155
+		Stephen Eick, Annie I. Antón:
+Enhancing Privacy in Robotics via Judicious Sensor Selection. 7156-7165
+		Shuo Li, Osbert Bastani:
+Robust Model Predictive Shielding for Safe Reinforcement Learning with Stochastic Dynamics. 7166-7172
+		Edson B. Ferreira Filho, Luciano C. A. Pimenta:
+Segregation of Heterogeneous Swarms of Robots in Curves. 7173-7179
+		Hanlin Wang, Michael Rubenstein:
+A Fast, Accurate, and Scalable Probabilistic Sample-Based Approach for Counting Swarm Size. 7180-7185
+		Julia T. Ebert, Melvin Gauci, Frederik Mallmann-Trenn, Radhika Nagpal:
+Bayes Bots: Collective Bayesian Decision-Making in Decentralized Robot Swarms. 7186-7192
+		Yuri Kaszubowski Lopes, Stefan M. Trenkwalder, André B. Leal, Tony J. Dodd, Roderich Groß:
+Supervisory Control of Robot Swarms Using Public Events. 7193-7199
+		Bulat Abbyasov, Roman Lavrenov, Aufar Zakiev, Konstantin S. Yakovlev, Mikhail M. Svinin, Evgeni Magid:
+Automatic tool for Gazebo world construction: from a grayscale image to a 3D solid model. 7226-7232
+		Jonathan Cacace, Nicola Mimmo, Lorenzo Marconi:
+A ROS Gazebo plugin to simulate ARVA sensors. 7233-7239
+		Hongtao Wu, Deven Misra, Gregory S. Chirikjian:
+Is That a Chair? Imagining Affordances Using Simulations of an Articulated Human Body. 7240-7246
+		Shariq Iqbal, Jonathan Tremblay, Andy Campbell, Kirby Leung, Thang To, Jia Cheng, Erik Leitch, Duncan McKay, Stan Birchfield:
+Toward Sim-to-Real Directional Semantic Grasping. 7247-7253
+		Zengyi Qin, Kuan Fang, Yuke Zhu, Fei-Fei Li, Silvio Savarese:
+KETO: Learning Keypoint Representations for Tool Manipulation. 7278-7285
+		Yen-Chen Lin, Andy Zeng, Shuran Song, Phillip Isola, Tsung-Yi Lin:
+Learning to See before Learning to Act: Visual Pre-training for Manipulation. 7286-7293
+		Felix Von Drigalski, Shohei Taniguchi, Robert Lee, Takamitsu Matsubara, Masashi Hamaya, Kazutoshi Tanaka, Yoshihisa Ijiri:
+Contact-based in-hand pose estimation using Bayesian state estimation and particle filtering. 7294-7299
+		Dongwon Park, Yonghyeok Seo, Dongju Shin, Jaesik Choi, Se Young Chun:
+A Single Multi-Task Deep Neural Network with Post-Processing for Object Detection with Reasoning and Robotic Grasp Detection. 7300-7306
+		Zakieh S. Hashemifar, Karthik Dantu:
+Practical Persistence Reasoning in Visual SLAM. 7307-7313
+		Tianwei Zhang, Huayan Zhang, Yang Li, Yoshihiko Nakamura, Lei Zhang:
+FlowFusion: Dynamic Dense RGB-D SLAM Based on Optical Flow. 7322-7328
+		Rhiannon Michelmore, Matthew Wicker, Luca Laurenti, Luca Cardelli, Yarin Gal, Marta Kwiatkowska:
+Uncertainty Quantification with Statistical Guarantees in End-to-End Autonomous Driving Control. 7344-7350
+		Ji Woong Kim, Changyan He, Muller Urias, Peter Gehlbach, Gregory D. Hager, Iulian Iordachita, Marin Kobilarov:
+Autonomously Navigating a Surgical Tool Inside the Eye by Learning from Demonstration. 7351-7357
+		Fan Fei, Zhan Tu, Dongyan Xu, Xinyan Deng:
+Learn-to-Recover: Retrofitting UAVs with Reinforcement Learning-Assisted Flight Control Under Cyber-Physical Attacks. 7358-7364
+		Tristan Laidlow, Jan Czarnowski, Andrea Nicastro, Ronald Clark, Stefan Leutenegger:
+Towards the Probabilistic Fusion of Learned Priors into Standard Pipelines for 3D Reconstruction. 7373-7379
+		Toshiya Maki, Moju Zhao, Fan Shi, Kei Okada, Masayuki Inaba:
+Model Reference Adaptive Control of Multirotor for Missions with Dynamic Change of Payloads During Flight. 7433-7439
+		Yash Mulgaonkar, Wenxin Liu, Dinesh Thakur, Kostas Daniilidis, Camillo J. Taylor, Vijay Kumar:
+The Tiercel: A novel autonomous micro aerial vehicle that can map the environment by flying into obstacles. 7448-7454
+		Travis Henderson, Nikolaos Papanikolopoulos:
+Adaptive Control of Variable-Pitch Propellers: Pursuing Minimum-Effort Operation. 7470-7476
+		Ameya Pore, Gerardo Aragon-Camarasa:
+On Simple Reactive Neural Networks for Behaviour-Based Reinforcement Learning. 7477-7483
+		Arpan Kusari, Jonathan P. How:
+Predicting optimal value functions by interpolating reward functions in scalarized multi-objective reinforcement learning. 7484-7490
+		Lei He, Nabil Aouf, James F. Whidborne, Bifeng Song:
+Integrated moment-based LGMD and deep reinforcement learning for UAV obstacle avoidance. 7491-7497
+		Taylor A. Kessler Faulkner, Elaine Schaertl Short, Andrea Lockerd Thomaz:
+Interactive Reinforcement Learning with Inaccurate Feedback. 7498-7504
+		Michelle A. Lee, Carlos Florensa, Jonathan Tremblay, Nathan D. Ratliff, Animesh Garg, Fabio Ramos, Dieter Fox:
+Guided Uncertainty-Aware Policy Optimization: Combining Learning and Model-Based Strategies for Sample-Efficient Policy Learning. 7505-7512
+		Muhammad Asif Rana, Daphne Chen, Jacob Williams, Vivian Chu, Seyed Reza Ahmadzadeh, Sonia Chernova:
+Benchmark for Skill Learning from Demonstration: Impact of User Experience, Task Complexity, and Start Configuration on Performance. 7561-7567
+		Gianluca Lentini, Giorgio Grioli, Manuel G. Catalano, Antonio Bicchi:
+Robot Programming without Coding. 7576-7582
+		Geoffrey Clark, Joseph Campbell, Seyed Mostafa Rezayat Sorkhabadi, Wenlong Zhang, Heni Ben Amor:
+Predictive Modeling of Periodic Behavior for Human-Robot Symbiotic Walking. 7599-7605
+		Julien Leclerc, Haoran Zhao, Daniel Z. Bao, Aaron T. Becker, Mohamad Ghosn, Dipan J. Shah:
+Agile 3D-Navigation of a Helical Magnetic Swimmer. 7638-7644
+		Caixia Cai, Ying Siu Liang, Nikhil Somani, Yan Wu:
+Inferring the Geometric Nullspace of Robot Skills from Human Demonstrations. 7668-7675
+		Nadia Figueroa, Salman Faraji, Mikhail Koptev, Aude Billard:
+A Dynamical System Approach for Adaptive Grasping, Navigation and Co-Manipulation with Humanoid Robots. 7676-7682
+		Fabio Morbidi:
+Subspace Projectors for State-Constrained Multi-Robot Consensus. 7705-7711
+		Christopher Banks, Sean Wilson, Samuel Coogan, Magnus Egerstedt:
+Multi-Agent Task Allocation using Cross-Entropy Temporal Logic Optimization. 7712-7718
+		Yousef Emam, Siddharth Mayya, Gennaro Notomista, Addison Bohannon, Magnus Egerstedt:
+Adaptive Task Allocation for Heterogeneous Multi-Robot Teams with Evolving and Unknown Robot Capabilities. 7719-7725
+		Daniel Mox, Miguel Calvo-Fullana, Mikhail Gerasimenko, Jonathan Fink, Vijay Kumar, Alejandro Ribeiro:
+Mobile Wireless Network Infrastructure on Demand. 7726-7732
+		Jun Liu, Ryan K. Williams:
+Monitoring Over the Long Term: Intermittent Deployment and Sensing Strategies for Multi-Robot Teams. 7733-7739
+		Alessia Benevento, María Santos, Giuseppe Notarstefano, Kamran Paynabar, Matthieu Bloch, Magnus Egerstedt:
+Multi-Robot Coordination for Estimation and Coverage of Unknown Spatial Fields. 7740-7746
+		Masashi Hamaya, Robert Lee, Kazutoshi Tanaka, Felix von Drigalski, Chisato Nakashima, Yoshiya Shibata, Yoshihisa Ijiri:
+Learning Robotic Assembly Tasks with Lower Dimensional Systems by Leveraging Physical Softness and Environmental Constraints. 7747-7753
+		Jacob Austin, Rafael Corrales-Fatou, Sofia Wyetzner, Hod Lipson:
+Titan: A Parallel Asynchronous Library for Multi-Agent and Soft-Body Robotics using NVIDIA CUDA. 7754-7760
+		Avishai Sintov, Andrew Kimmel, Kostas E. Bekris, Abdeslam Boularias:
+Motion Planning with Competency-Aware Transition Models for Underactuated Adaptive Hands. 7761-7767
+		Mohamed Hasan, Matthew Warburton, Wisdom C. Agboh, Mehmet Remzi Dogar, Matteo Leonetti, He Wang, Faisal Mushtaq, Mark Mon-Williams, Anthony G. Cohn:
+Human-like Planning for Reaching in Cluttered Environments. 7784-7790
+		SangHun Cheong, Brian Y. Cho, Jinhwi Lee, ChangHwan Kim, Changjoo Nam:
+Where to relocate?: Object rearrangement inside cluttered and confined environments for robotic manipulation. 7791-7797
+		Vivek Thangavelu, Maíra Saboia da Silva, Jiwon Choi, Nils Napp:
+Autonomous Modification of Unstructured Environments with Found Material. 7798-7804
+		Junming Zhang, Manikandasriram Srinivasan Ramanagopal, Ram Vasudevan, Matthew Johnson-Roberson:
+LiStereo: Generate Dense Depth Maps from LIDAR and Stereo Imagery. 7829-7836
+		Alexander Hardt-Stremayr, Stephan Weiss:
+Monocular Visual-Inertial Odometry in Low-Textured Environments with Smooth Gradients: A Fully Dense Direct Filtering Approach. 7837-7843
+		Yuancan Huang, Qiang Huang:
+Interaction Stability Analysis from the Input-Output Viewpoints. 7878-7884
+		Daniel Feliú Talegon, Ricardo Cortez-Vega, Vicente Feliú Batlle:
+Improving the contact instant detection of sensing antennae using a Super-Twisting algorithm. 7885-7890
+		Jingyi Xu, Michael Danielczuk, Eckehard G. Steinbach, Ken Goldberg:
+6DFC: Efficiently Planning Soft Non-Planar Area Contact Grasps using 6D Friction Cones. 7891-7897
+		Nima Fazeli, Anurag Ajay, Alberto Rodriguez:
+Long-Horizon Prediction and Uncertainty Propagation with Residual Point Contact Learners. 7898-7904
+		Guillaume Bellegarda, Katie Byl:
+Versatile Trajectory Optimization Using a LCP Wheel Model for Dynamic Vehicle Maneuvers. 7905-7911
+		Hannes Möls, Kailai Li, Uwe D. Hanebeck:
+Highly Parallelizable Plane Extraction for Organized Point Clouds Using Spherical Convex Hulls. 7920-7926
+		Jimmy Li, Karim Koreitem, David Meger, Gregory Dudek:
+View-Invariant Loop Closure with Oriented Semantic Landmarks. 7943-7949
+		Gabriel Zöller, Vincent Wall, Oliver Brock:
+Active Acoustic Contact Sensing for Soft Pneumatic Actuators. 7966-7972
+		Jin Huat Low, J. Y. Goh, N. Cheng, P. M. Khin, Q. Q. Han, Chen-Hua Yeow:
+A Bidirectional 3D-printed Soft Pneumatic Actuator and Graphite-based Flex Sensor for Versatile Grasping*. 7979-7985
+		Brian Reily, Qingzhao Zhu, Christopher M. Reardon, Hao Zhang:
+Simultaneous Learning from Human Pose and Object Cues for Real-Time Activity Recognition. 8006-8012
+		Eui Jun Hwang, Byeong-Kyu Ahn, Bruce A. MacDonald, Ho Seok Ahn:
+Demonstration of Hospital Receptionist Robot with Extended Hybrid Code Network to Select Responses and Gestures. 8013-8018
+		Chris Birmingham, Zijian Hu, Kartik Mahajan, Eli Reber, Maja J. Mataric:
+Can I Trust You? A User Study of Robot Mediation of a Support Group. 8019-8026
+		J. Diego Caporale, Benjamin W. McInroe, Chenze Ning, Thomas Libby, Robert J. Full, Daniel E. Koditschek:
+Coronal Plane Spine Twisting Composes Shape To Adjust the Energy Landscape for Grounded Reorientation. 8052-8058
+		Mariko Inazawa, Tatsuya Takemori, Motoyasu Tanaka, Fumitoshi Matsuno:
+Motion Design for a Snake Robot Negotiating Complicated Pipe Structures of a Constant Diameter. 8073-8079
+		Juan de la Fuente, Roman Shor, Steve Larter:
+Single Actuator Peristaltic Robot for Subsurface Exploration and Device Emplacement. 8096-8102
+		Stefanie A. Zimmermann, Tobias F. C. Berninger, Jeroen Derkx, Daniel J. Rixen:
+Dynamic modeling of robotic manipulators for accuracy evaluation. 8144-8150
+		Diego Agudelo-España, Andrii Zadaianchuk, Philippe Wenk, Aditya Garg, Joel Akpo, Felix Grimminger, Julian Viereck, Maximilien Naveau, Ludovic Righetti, Georg Martius, Andreas Krause, Bernhard Schölkopf, Stefan Bauer, Manuel Wüthrich:
+A Real-Robot Dataset for Assessing Transferability of Learned Dynamics Models. 8151-8157
+		Priyabrata Saha, Arslan Ali, Burhan Ahmad Mudassar, Yun Long, Saibal Mukhopadhyay:
+MagNet: Discovering Multi-agent Interaction Dynamics using Neural Network. 8158-8164
+		Huy Nguyen, Nicholas Adrian, Joyce Xin-Yan Lim, Jonathan M. Salfity, William Allen, Quang-Cuong Pham:
+Development of a Robotic System for Automated Decaking of 3D-Printed Parts. 8202-8208
+		Ruoyu Xu, Hengli Liu, Chongfeng Liu, Zhenglong Sun, Tin Lun Lam, Huihuan Qian:
+A Novel Solar Tracker Driven by Waves: From Idea to Implementation. 8209-8214
+		Jungyeong Kim, Jaehong Seo, Sangshin Park, Sangchul Han, Jungsan Cho:
+Design and Implementation of Hydraulic-Cable driven Manipulator for Disaster Response Operation. 8215-8221
+		Juan Pablo Yepez Placencia, Dale A. Carnegie, Jim W. Murphy:
+Designs for an Expressive Mechatronic Chordophone. 8222-8228
+		Junjie Shen, Dennis W. Hong:
+OmBURo: A Novel Unicycle Robot with Active Omnidirectional Wheel. 8237-8243
+		Eike Niehs, Arne Schmidt, Christian Scheffer, Daniel E. Biediger, Michael Yannuzzi, Benjamin Jenett, Amira Abdel-Rahman, Kenneth C. Cheung, Aaron T. Becker, Sándor P. Fekete:
+Recognition and Reconfiguration of Lattice-Based Cellular Structures by Simple Robots. 8252-8259
+		Chao Liu, Sencheng Yu, Mark Yim:
+A Fast Configuration Space Algorithm for Variable Topology Truss Modular Robots. 8260-8266
+		Bruno Gabrich, Guanrui Li, Mark Yim:
+ModQuad-DoF: A Novel Yaw Actuation for Modular Quadrotors. 8267-8273
+		Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui, Jamie Paik:
+An Actuation Fault Tolerance Approach to Reconfiguration Planning of Modular Self-folding Robots. 8274-8280
+		Hiroshi Kawano:
+Parallel Permutation for Linear Full-resolution Reconfiguration of Heterogeneous Sliding-only Cubic Modular Robots. 8281-8287
+		Jan Kallwies, Bianca Forkel, Hans-Joachim Wuensche:
+Determining and Improving the Localization Accuracy of AprilTag Detection. 8288-8294
+		Fang Bai:
+Change of Optimal Values: A Pre-calculated Metric. 8295-8301
+		Sean Scheideman, Nilanjan Ray, Hong Zhang:
+A Flexible Method for Performance Evaluation of Robot Localization. 8302-8308
+		Paul Stankiewicz, Michael Heistand, Marin Kobilarov:
+Quantifying Good Seamanship For Autonomous Surface Vessel Performance Evaluation. 8309-8315
+		Manuel Serra Nunes, Atabak Dehban, Plinio Moreno, José Santos-Victor:
+Action-conditioned Benchmarking of Robotic Video Prediction Models: a Comparative Study. 8316-8322
+		Zheyu Zhuang, Xin Yu, Robert E. Mahony:
+LyRN (Lyapunov Reaching Network): A Real-Time Closed Loop approach from Monocular Vision. 8331-8337
+		Tonci Novkovic, Rémi Pautrat, Fadri Furrer, Michel Breyer, Roland Siegwart, Juan I. Nieto:
+Object Finding in Cluttered Scenes Using Interactive Perception. 8338-8344
+		Junhao Cai, Xuefeng Tao, Hui Cheng, Zhanpeng Zhang:
+CCAN: Constraint Co-Attention Network for Instance Grasping. 8353-8359
+		Xusen Guo, Jianfeng Gu, Silu Guo, Zixiao Xu, Chengzhang Yang, Shanghua Liu, Long Cheng, Kai Huang:
+3D Object Detection and Tracking Based on Streaming Data. 8376-8382
+		Alex D. Pon, Jason Ku, Chengyao Li, Steven L. Waslander:
+Object-Centric Stereo Matching for 3D Object Detection. 8383-8389
+		Alexander Balasch, Maximilian Beinhofer, Gerald Zauner:
+The Relative Confusion Matrix, a Tool to Assess Classifiablility in Large Scale Picking Applications. 8390-8396
+		Zhigang Li, Xiangyang Ji:
+Pose-guided Auto-Encoder and Feature-Based Refinement for 6-DoF Object Pose Regression. 8397-8403
+		Christiane Sommer, Yumin Sun, Erik Bylow, Daniel Cremers:
+PrimiTect: Fast Continuous Hough Voting for Primitive Detection. 8404-8410
+		Zhanpeng Zhang, Kaipeng Zhang:
+FarSee-Net: Real-Time Semantic Segmentation by Efficient Multi-scale Context Aggregation and Feature Space Super-resolution. 8411-8417
+		Chengxi Li, Yue Meng, Stanley H. Chan, Yi-Ting Chen:
+Learning 3D-aware Egocentric Spatial-Temporal Interaction via Graph Convolutional Networks. 8418-8424
+		Taewoo Kim, Joo-Haeng Lee:
+C-3PO: Cyclic-Three-Phase Optimization for Human-Robot Motion Retargeting based on Reinforcement Learning. 8425-8432
+		Mobarakol Islam, Vibashan VS, Hongliang Ren:
+AP-MTL: Attention Pruned Multi-task Learning Model for Real-time Instrument Detection and Segmentation in Robot-assisted Surgery. 8433-8439
+		Xiaojie Gao, Yueming Jin, Qi Dou, Pheng-Ann Heng:
+Automatic Gesture Recognition in Robot-assisted Surgery with Reinforcement Learning and Tree Search. 8440-8446
+		Xiao-Yun Zhou, Jian-Qing Zheng, Peichao Li, Guang-Zhong Yang:
+ACNN: a Full Resolution DCNN for Medical Image Segmentation. 8455-8461
+		Yu Wang, Siddhartha Nalluri, Miroslav Pajic:
+Hyperproperties for Robotics: Planning via HyperLTL. 8462-8468
+		Yulin Zhang, Dylan A. Shell:
+Abstractions for computing all robotic sensors that suffice to solve a planning problem. 8469-8475
+		Danish Khalidi, Dhaval Gujarathi, Indranil Saha:
+T* : A Heuristic Search Based Path Planning Algorithm for Temporal Logic Specifications. 8476-8482
+		Narcís Sayols, Alessio Sozzi, Nicola Piccinelli, Albert Hernansanz, Alicia Casals, Marcello Bonfè, Riccardo Muradore:
+Global/local motion planning based on Dynamic Trajectory Reconfiguration and Dynamical Systems for Autonomous Surgical Robots. 8483-8489
+		Qitong Gao, Miroslav Pajic, Michael M. Zavlanos:
+Deep Imitative Reinforcement Learning for Temporal Logic Robot Motion Planning with Noisy Semantic Observations. 8490-8496
+		Petr Vána, Armando Alves Neto, Jan Faigl, Douglas G. Macharet:
+Minimal 3D Dubins Path with Bounded Curvature and Pitch Angle. 8497-8503
+		Ilker Bozcan, Erdal Kayacan:
+AU-AIR: A Multi-modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance. 8504-8510
+		Amanda Bouman, Paul Nadan, Matthew Anderson, Daniel Pastor, Jacob Izraelevitz, Joel Burdick, Brett Kennedy:
+Design and Autonomous Stabilization of a Ballistically-Launched Multirotor. 8511-8517
+		Juan Pablo Rodríguez-Gómez, Augusto Gómez Eguíluz, José Ramiro Martinez de Dios, Aníbal Ollero:
+Asynchronous event-based clustering and tracking for intrusion monitoring in UAS. 8518-8524
+		Matthew Ng, Emmanuel Tang, Gim Song Soh, Shaohui Foong:
+SHIFT: Selective Heading Image for Translation An onboard monocular optical flow estimator for fast constantly rotating UAVs. 8525-8531
+		Chee How Tan, Danial Sufiyan Bin Shaiful, Emmanuel Tang, Jien-Yi Khaw, Gim Song Soh, Shaohui Foong:
+Flydar: Magnetometer-based High Angular Rate Estimation during Gyro Saturation for SLAM. 8532-8537
+		Dimos Tzoumanikas, Qingyue Yan, Stefan Leutenegger:
+Nonlinear MPC with Motor Failure Identification and Recovery for Safe and Aggressive Multicopter Flight. 8538-8544
+		G. Guarino, Thierry Chateau, Céline Teulière, Violaine Antoine:
+Temporal information integration for video semantic segmentation. 8545-8551
+		Amine Elhafsi, Boris Ivanovic, Lucas Janson, Marco Pavone:
+Map-Predictive Motion Planning in Unknown Environments. 8552-8558
+		Xiangyu Wu, Mark W. Mueller:
+Using multiple short hops for multicopter navigation with only inertial sensors. 8559-8565
+		Theia Henderson, Vivienne Sze, Sertac Karaman:
+An Efficient and Continuous Approach to Information-Theoretic Exploration. 8566-8572
+		Daniel Cagara, Matthew Dunbabin, Paul Rigby:
+A Feature-Based Underwater Path Planning Approach using Multiple Perspective Prior Maps. 8573-8579
+		Tekla Tóth, Zoltán Pusztai, Levente Hajder:
+Automatic LiDAR-Camera Calibration of Extrinsic Parameters Using a Spherical Target. 8580-8586
+		Marcel Schreiber, Vasileios Belagiannis, Claudius Gläser, Klaus Dietmayer:
+Motion Estimation in Occupancy Grid Maps in Stationary Settings Using Recurrent Neural Networks. 8587-8593
+		Heiko Bülow, Christian A. Mueller, Arturo Gomez Chavez, Frederike Buda, Andreas Birk:
+A Divide and Conquer Method for 3D Registration of Inhomogeneous, Partially Overlapping Scans with Fourier Mellin SOFT (FMS). 8594-8601
+		Fahira Afzal Maken, Fabio Ramos, Lionel Ott:
+Estimating Motion Uncertainty with Bayesian ICP. 8602-8608
+		Yiduo Wang, Milad Ramezani, Maurice F. Fallon:
+Actively Mapping Industrial Structures with Information Gain-Based Planning on a Quadruped Robot. 8609-8615
+		Zhichao Ye, Guofeng Zhang, Hujun Bao:
+Efficient Covisibility-based Image Matching for Large-Scale SfM. 8616-8622
+		Hanjun Kim, Beomhee Lee:
+Probabilistic TSDF Fusion Using Bayesian Deep Learning for Dense 3D Reconstruction with a Single RGB Camera. 8623-8629
+		Po-Heng Chen, Zhao-Xu Luo, Zu-Kuan Huang, Chun Yang, Kuan-Wen Chen:
+IF-Net: An Illumination-invariant Feature Network. 8630-8636
+		Yaoyu Hu, Weikun Zhen, Sebastian A. Scherer:
+Deep-Learning Assisted High-Resolution Binocular Stereo Depth Reconstruction. 8637-8643
+		Levente Hajder, Daniel Barath:
+Least-squares Optimal Relative Planar Motion for Vehicle-mounted Cameras. 8644-8650
+		Levente Hajder, Daniel Barath:
+Relative planar motion for vehicle-mounted cameras from a single affine correspondence. 8651-8657
+		Haram Kim, Pyojin Kim, H. Jin Kim:
+Moving object detection for visual odometry in a dynamic environment based on occlusion accumulation. 8658-8664
+		Spyridon Leonardos, Xiaowei Zhou, Kostas Daniilidis:
+A Low-Rank Matrix Approximation Approach to Multiway Matching with Applications in Multi-Sensory Data Association. 8665-8671
+		Adnan Munawar, Nishan Srishankar, Loris Fichera, Gregory S. Fischer:
+A Parametric Grasping Methodology for Multi-Manual Interactions in Real-Time Dynamic Simulations. 8712-8718
+		Aikaterini Smyrli, Evangelos Papadopoulos:
+A methodology for the incorporation of arbitrarily-shaped feet in passive bipedal walking dynamics. 8719-8725
+		Tobias F. C. Berninger, Felix Sygulla, Sebastian Fuderer, Daniel J. Rixen:
+Experimental Analysis of Structural Vibration Problems of a Biped Walking Robot. 8726-8731
+		Martin Fevre, James P. Schmiedeler:
+Dynamic Coupling as an Indicator of Gait Robustness for Underactuated Biped Robots. 8732-8738
+		Filippo M. Smaldone, Nicola Scianca, Valerio Modugno, Leonardo Lanari, Giuseppe Oriolo:
+ZMP Constraint Restriction for Robust Gait Generation in Humanoids. 8739-8745
+		Guillermo A. Castillo, Bowen Weng, Wei Zhang, Ayonga Hereid:
+Hybrid Zero Dynamics Inspired Feedback Control Policy Design for 3D Bipedal Locomotion using Reinforcement Learning. 8746-8752
+		Yu-Ming Chen, Michael Posa:
+Optimal Reduced-order Modeling of Bipedal Locomotion. 8753-8760
+		Benjamin Ramtoula, Ricardo de Azambuja, Giovanni Beltrame:
+CAPRICORN: Communication Aware Place Recognition using Interpretable Constellations of Objects in Robot Networks. 8761-8768
+		Arjav Desai, Nathan Michael:
+Online Planning for Quadrotor Teams in 3-D Workspaces via Reachability Analysis On Invariant Geometric Trees. 8769-8775
+		Hao Xu, Luqi Wang, Yichen Zhang, Kejie Qiu, Shaojie Shen:
+Decentralized Visual-Inertial-UWB Fusion for Relative State Estimation of Aerial Swarm. 8776-8782
+		Michael Whitzer, Daigo Shishika, Dinesh Thakur, Vijay Kumar, Amanda Prorok:
+DC-CAPT: Concurrent Assignment and Planning of Trajectories for Dubins Cars. 8791-8797
+		Manuel Beglini, Leonardo Lanari, Giuseppe Oriolo:
+Anti-Jackknifing Control of Tractor-Trailer Vehicles via Intrinsically Stable MPC. 8806-8812
+		Oskar Ljungqvist, Daniel Axehill, Henrik Pettersson:
+On sensing-aware model predictive path-following control for a reversing general 2-trailer with a car-like tractor. 8813-8819
+		Long Cheng, Jianping Huang, Linlin Liu, Zhiyong Jian, Yuhong Huang, Kai Huang:
+Offline Practising and Runtime Training Framework for Autonomous Motion Control of Snake Robots. 8820-8826
+		Dariusz Pazderski, Krzysztof Kozlowski:
+Control of a differentially driven nonholonomic robot subject to a restricted wheels rotation. 8827-8832
+		Nathan D. Kent, Raunaq M. Bhirangi, Matthew J. Travers, Thomas M. Howard:
+Inferring Task-Space Central Pattern Generator Parameters for Closed-loop Control of Underactuated Robots. 8833-8839
+		Silvia Cruciani, Hang Yin, Danica Kragic:
+In-Hand Manipulation of Objects with Unknown Shapes. 8848-8854
+		Tingguang Li, Krishnan Srinivasan, Max Qing-Hu Meng, Wenzhen Yuan, Jeannette Bohg:
+Learning Hierarchical Control for Robust In-Hand Manipulation. 8855-8862
+		François Robert Hogan, José Ballester, Siyuan Dong, Alberto Rodriguez:
+Tactile Dexterity: Manipulation Primitives with Tactile Feedback. 8863-8869
+		Shenli Yuan, Austin D. Epps, Jerome B. Nowak, J. Kenneth Salisbury:
+Design of a Roller-Based Dexterous Hand for Object Grasping and Within-Hand Manipulation. 8870-8876
+		Frederic Monet, Shahriar Sefati, Pierre Lorre, Arthur Poiffaut, Samuel Kadoury, Mehran Armand, Iulian Iordachita, Raman Kashyap:
+High-Resolution Optical Fiber Shape Sensing of Continuum Robots: A Comparative Study *. 8877-8883
+		Weiqiao Han, Russ Tedrake:
+Local Trajectory Stabilization for Dexterous Manipulation via Piecewise Affine Approximations. 8884-8891
+		Haoyang Ye, Huaiyang Huang, Ming Liu:
+Monocular Direct Sparse Localization in a Prior 3D Surfel Map. 8892-8898
+		Chao Qin, Haoyang Ye, Christian E. Pranata, Jun Han, Shuyang Zhang, Ming Liu:
+LINS: A Lidar-Inertial State Estimator for Robust and Efficient Navigation. 8899-8906
+		Harikrishnan Madhusudanan, Xingjian Liu, Wenyuan Chen, Dahai Li, Linghao Du, Jianfeng Li, Ji Ge, Yu Sun:
+Automated Eye-in-Hand Robot-3D Scanner Calibration for Low Stitching Errors. 8906-8912
+		Huaiyang Huang, Haoyang Ye, Yuxiang Sun, Ming Liu:
+Monocular Visual Odometry using Learned Repeatability and Description. 8913-8919
+		Zehua Zhang, Ashish Tawari, Sujitha Martin, David J. Crandall:
+Interaction Graphs for Object Importance Estimation in On-road Driving Videos. 8920-8927
+		Sohail Akhtar, Adarsh Tandiya, Medhat Moussa, Cole Tarry:
+A Robotics Inspection System for Detecting Defects on Semi-specular Painted Automotive Surfaces. 8928-8934
+		Caio Mucchiani, Mark Yim:
+A Novel Underactuated End-Effector for Planar Sequential Grasping of Multiple Objects. 8935-8941
+		Wenrui Chen, Zhilan Xiao, Jingwen Lu, Zilong Zhao, Yaonan Wang:
+Design and Analysis of a Synergy-Inspired Three-Fingered Hand. 8942-8948
+		Lillian Chin, Felipe Barscevicius, Jeffrey Lipton, Daniela Rus:
+Multiplexed Manipulation: Versatile Multimodal Grasping via a Hybrid Soft Gripper. 8949-8955
+		Daichi Hirano, Nobutaka Tanishima, Andrew Bylard, Tony G. Chen:
+Underactuated Gecko Adhesive Gripper for Simple and Versatile Grasp. 8964-8969
+		Romain Lagneau, Alexandre Krupa, Maud Marchal:
+Active Deformation through Visual Servoing of Soft Objects. 8978-8984
+		Jun Jin, Laura Petrich, Zichen Zhang, Masood Dehghan, Martin Jägersand:
+Visual Geometric Skill Inference by Watching Human Demonstration. 8985-8991
+		Y. V. S. Harish, Harit Pandya, Ayush Gaud, Shreya Terupally, N. Sai Shankar, K. Madhava Krishna:
+DFVS: Deep Flow Guided Scene Agnostic Image Based Visual Servoing. 9000-9006
+		Eder Alejandro Rodríguez Martínez, Guillaume Caron, Claude Pégard, David Lara Alabazares:
+Photometric Path Planning for Vision-Based Navigation. 9007-9013
+		Antonio Paolillo, Teguh Santoso Lembono, Sylvain Calinon:
+A memory of motion for visual predictive control tasks. 9014-9020
+		Angus B. Clark, Nicolas Rojas:
+Design and Workspace Characterisation of Malleable Robots. 9021-9027
+		Aaron K. Nguyen, Alexander Russell, Nicholas D. Naclerio, Vu Vuong, Heming Huang, Kenny Chui, Elliot W. Hawkes:
+A Tri-Stable Soft Robotic Finger Capable of Pinch and Wrap Grasps. 9028-9034
+		Sicheng Wang, Ruotong Zhang, David A. Haggerty, Nicholas D. Naclerio, Elliot W. Hawkes:
+A Dexterous Tip-extending Robot with Variable-length Shape-locking. 9035-9041
+		Noah Kohls, Beatriz Dias, Yaw Mensah, Bryan P. Ruddy, Yi Chen Mazumdar:
+Compliant Electromagnetic Actuator Architecture for Soft Robotics. 9042-9049
+		Brian H. Do, Valory Banashek, Allison M. Okamura:
+Dynamically Reconfigurable Discrete Distributed Stiffness for Inflated Beam Robots. 9050-9056
+		Zhinan Peng, Rui Luo, Rui Huang, Jiangping Hu, Kecheng Shi, Hong Cheng, Bijoy Kumar Ghosh:
+Data-Driven Reinforcement Learning for Walking Assistance Control of a Lower Limb Exoskeleton with Hemiplegic Patients. 9065-9071
+		Michael Drolet, Emiliano Quinones Yumbla, Bradley Hobbs, Panagiotis K. Artemiadis:
+On the Effects of Visual Anticipation of Floor Compliance Changes on Human Gait: Towards Model-based Robot-Assisted Rehabilitation. 9072-9078
+		He Zhang, Cang Ye:
+A Visual Positioning System for Indoor Blind Navigation. 9079-9085
+		Ton T. H. Duong, David R. Whittaker, Damiano Zanotto:
+An Outsole-Embedded Optoelectronic Sensor to Measure Shear Ground Reaction Forces During Locomotion. 9086-9092
+		Guan Rong Tant, Michael Raitor, Steven H. Collins:
+Bump'em: an Open-Source, Bump-Emulation System for Studying Human Balance and Gait. 9093-9099
+		Lucas Gerez, Anany Dwivedi, Minas V. Liarokapis:
+A Hybrid, Soft Exoskeleton Glove Equipped with a Telescopic Extra Thumb and Abduction Capabilities. 9100-9106
+		Benjamin Treussart, Franck Geffard, Nicolas Vignais, Frédéric Marin:
+Controlling an upper-limb exoskeleton by EMG signal while carrying unknown load. 9107-9113
+		Fan Zhang, Yiannis Demiris:
+Learning Grasping Points for Garment Manipulation in Robot-Assisted Dressing. 9114-9120
+		Ana Elvira H. Martin, Emmanuel C. Dean-Leon, Gordon Cheng:
+TACTO-Selector: Enhanced Hierarchical Fusion of PBVS with Reactive Skin Control for Physical Human-Robot Interaction. 9121-9127
+		Edoardo Lamon, Mattia Leonori, Wansoo Kim, Arash Ajoudani:
+Towards an Intelligent Collaborative Robotic System for Mixed Case Palletizing. 9128-9134
+		Nathaniel G. Luttmer, Takara E. Truong, Alicia M. Boynton, David Carrier, Mark A. Minor:
+Treadmill Based Three Tether Parallel Robot for Evaluating Auditory Warnings While Running. 9135-9142
+		Martín Mujica, Mourad Benoussaad, Jean-Yves Fourquet:
+Evaluation of Human-Robot Object Co-manipulation Under Robot Impedance Control. 9143-9149
+		Andre Coelho, Harsimran Singh, Konstantin Kondak, Christian Ott:
+Whole-Body Bilateral Teleoperation of a Redundant Aerial Manipulator. 9150-9156
+		Tsung-Chi Lin, Achyuthan Unni Krishnan, Zhi Li:
+Shared Autonomous Interface for Reducing Physical Effort in Robot Teleoperation via Human Motion Mapping. 9157-9163
+		Ankur Handa, Karl Van Wyk, Wei Yang, Jacky Liang, Yu-Wei Chao, Qian Wan, Stan Birchfield, Nathan D. Ratliff, Dieter Fox:
+DexPilot: Vision-Based Teleoperation of Dexterous Robotic Hand-Arm System. 9164-9170
+		Yuan Yang, Daniela Constantinescu, Yang Shi:
+Distributed Winner-Take-All Teleoperation of A Multi-Robot System. 9171-9177
+		Mohammad Kassem Zein, Abbas Sidaoui, Daniel C. Asmar, Imad H. Elhajj:
+Enhanced Teleoperation Using Autocomplete. 9178-9184
+		Evan Shellshear, Yi Li, Robert Bohlin, Johan S. Carlson:
+Contact-based Bounding Volume Hierarchy for Assembly Tasks. 9185-9190
+		Yi Li, Evan Shellshear, Robert Bohlin, Johan S. Carlson:
+Construction of Bounding Volume Hierarchies for Triangle Meshes with Mixed Face Sizes. 9191-9195
+		Philip Polack, Louis-Marie Dallen, Aurélien Cord:
+Strategy for automated dense parking: how to navigate in narrow lanes*. 9196-9202
+		Atsushi Kawasaki, Akihito Seki:
+Multimodal Trajectory Predictions for Urban Environments Using Geometric Relationships between a Vehicle and Lanes. 9203-9209
+		Pu Zheng, Pierre-Brice Wieber, Olivier Aycard:
+Online optimal motion generation with guaranteed safety in shared workspace. 9210-9215
+		Carl Folkestad, Daniel Pastor, Joel W. Burdick:
+Episodic Koopman Learning of Nonlinear Robot Dynamics with Application to Fast Multirotor Landing. 9216-9222
+		Zhengxin Yang, Lidong Yang, Li Zhang:
+Eye-in-Hand 3D Visual Servoing of Helical Swimmers Using Parallel Mobile Coils. 9223-9229
+		Lidong Yang, Jiangfan Yu, Li Zhang:
+A Mobile Paramagnetic Nanoparticle Swarm with Automatic Shape Deformation Control. 9230-9236
+		Johan E. Quispe, Stéphane Régnier:
+Magnetic miniature swimmers with multiple rigid flagella. 9237-9243
+		Jonathan Cailliez, Antoine Weill-Duflos, Mokrane Boudaoud, Stéphane Régnier, D. Sinan Haliyo:
+Design and Control of a Large-Range Nil-Stiffness Electro-Magnetic Active Force Sensor. 9244-9250
+		Ruoxi Yu, Samuel L. Charreyron, Quentin Boehler, Cameron Weibel, Christophe Chautems, Carmen C. Y. Poon, Bradley J. Nelson:
+Modeling Electromagnetic Navigation Systems for Medical Applications using Random Forests and Artificial Neural Networks. 9251-9256
+		Shengnan Dong, Xiaoming Liu, Pengyun Li, Xiaoqing Tang, Dan Liu, Masaru Kojima, Qiang Huang, Tatsuo Arai:
+Automated Tracking System with Head and Tail Recognition for Time-Lapse Observation of Free-Moving C. elegans. 9257-9262
+		Jackson Shields, Oscar Pizarro, Stefan B. Williams:
+Towards Adaptive Benthic Habitat Mapping. 9263-9270
+		Daechan Han, YuJin Hwang, Namil Kim, Yukyung Choi:
+Multispectral Domain Invariant Image for Retrieval-based Place Recognition. 9271-9277
+		Adrian S. Bauer, Peter Schmaus, Freek Stulp, Daniel Leidner:
+Probabilistic Effect Prediction through Semantic Augmentation and Physical Simulation. 9278-9284
+		Naman Shah, Deepak Kala Vasudevan, Kislay Kumar, Pranav Kamojjhala, Siddharth Srivastava:
+Anytime Integrated Task and Motion Policies for Stochastic Environments. 9285-9291
+		Ning Ding, Zhenliang Zheng, Junlin Song, Zhenglong Sun, Tin Lun Lam, Huihuan Qian:
+CCRobot-III: a Split-type Wire-driven Cable Climbing Robot for Cable-stayed Bridge Inspection*. 9308-9314
+		Kartik Suryavanshi, Rama Vadapalli, Ruchitha Vucha, Abhishek Sarkar, K. Madhava Krishna:
+Omnidirectional Tractable Three Module Robot. 9316-9321
+		Son Thanh Nguyen, Anh Quyen Pham, Cadence Motley, Hung M. La:
+A Practical Climbing Robot for Steel Bridge Inspection. 9322-9328
+		Haruhiko Eto, H. Harry Asada:
+Development of a Wheeled Wall-Climbing Robot with a Shape-Adaptive Magnetic Adhesion Mechanism. 9329-9335
+		Alexander Lomakin, Joachim Deutscher:
+Algebraic Fault Detection and Identification for Rigid Robots. 9352-9358
+		Claudio Pose, Juan I. Giribet, Ignacio Mas:
+Fault tolerance analysis of a hexarotor with reconfigurable tilted rotors. 9359-9365
+		Deborah S. Katz, Casidhe Hutchison, Milda Zizyte, Claire Le Goues:
+Detecting Execution Anomalies As an Oracle for Autonomy Software Robustness. 9366-9373
+		Youcheng Sun, Yifan Zhou, Simon Maskell, James Sharp, Xiaowei Huang:
+Reliability Validation of Learning Enabled Vehicle Tracking. 9390-9396
+		Dongwon Park, Yonghyeok Seo, Se Young Chun:
+Real-Time, Highly Accurate Robotic Grasp Detection using Fully Convolutional Neural Network with Rotation Ensemble Module. 9397-9403
+		Kevin Zakka, Andy Zeng, Johnny Lee, Shuran Song:
+Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly. 9404-9410
+		Priya Sundaresan, Jennifer Grannen, Brijen Thananjeyan, Ashwin Balakrishna, Michael Laskey, Kevin Stone, Joseph E. Gonzalez, Ken Goldberg:
+Learning Rope Manipulation Policies Using Dense Object Descriptors Trained on Synthetic Depth Data. 9411-9418
+		Jingwei Song, Fang Bai, Liang Zhao, Shoudong Huang, Rong Xiong:
+Efficient two step optimization for large embedded deformation graph based SLAM. 9419-9425
+		Timothy E. Lee, Jonathan Tremblay, Thang To, Jia Cheng, Terry Mosier, Oliver Kroemer, Dieter Fox, Stan Birchfield:
+Camera-to-Robot Pose Estimation from a Single Image. 9426-9432
+		Shreyas S. Shivakumar, Neil Rodrigues, Alex Zhou, Ian D. Miller, Vijay Kumar, Camillo J. Taylor:
+PST900: RGB-Thermal Calibration, Dataset and Segmentation Network. 9441-9447
+		Feihu Zhang, Chenye Guan, Jin Fang, Song Bai, Ruigang Yang, Philip H. S. Torr, Victor Prisacariu:
+Instance Segmentation of LiDAR Point Clouds. 9448-9455
+		Dogan Patar, H. Isil Bozma:
+Generation of Object Candidates Through Simply Looking Around. 9456-9462
+		Francis Engelmann, Theodora Kontogianni, Bastian Leibe:
+Dilated Point Convolutions: On the Receptive Field Size of Point Convolutions on 3D Point Clouds. 9463-9469
+		Borja Bovcon, Matej Kristan:
+A water-obstacle separation and refinement network for unmanned surface vehicles. 9470-9476
+		Pranjay Shyam, Kuk-Jin Yoon, Kyung-Soo Kim:
+Dynamic Anchor Selection for Improving Object Localization. 9477-9483
+		Dan Barnes, Ingmar Posner:
+Under the Radar: Learning to Predict Robust Keypoints for Odometry Estimation and Metric Localisation in Radar. 9484-9490
+		Sergio Casas, Cole Gulino, Renjie Liao, Raquel Urtasun:
+SpAGNN: Spatially-Aware Graph Neural Networks for Relational Behavior Forecasting from Sensor Data. 9491-9497
+		Artem Filatov, Andrey Rykov, Viacheslav Murashkin:
+Any Motion Detector: Learning Class-agnostic Scene Dynamics from a Sequence of LiDAR Point Clouds. 9498-9504
+		Marco Monforte, Ander Arriandiaga, Arren Glover, Chiara Bartolozzi:
+Where and When: Event-Based Spatiotemporal Trajectory Prediction from the iCub's Point-Of-View. 9521-9527
+		Anurag Sai Vempati, Roland Siegwart, Juan I. Nieto:
+A Data-driven Planning Framework for Robotic Texture Painting on 3D Surfaces. 9528-9534
+		Brian Ichter, Edward Schmerling, Tsang-Wei Edward Lee, Aleksandra Faust:
+Learned Critical Probabilistic Roadmaps for Robotic Motion Planning. 9535-9541
+		Soonkyum Kim, Byungchul An:
+Learning Heuristic A*: Efficient Graph Search using Neural Network. 9542-9547
+		Ryo Terasawa, Yuka Ariki, Takuya Narihira, Toshimitsu Tsuboi, Ken'ichiro Nagasaka:
+3D-CNN Based Heuristic Guided Task-Space Planner for Faster Motion Planning. 9548-9554
+		Katherine Liu, Martina Stadler, Nicholas Roy:
+Learned Sampling Distributions for Efficient Planning in Hybrid Geometric and Object-Level Representations. 9555-9562
+		Danny Driess, Ozgur Oguz, Jung-Su Ha, Marc Toussaint:
+Deep Visual Heuristics: Learning Feasibility of Mixed-Integer Programs for Manipulation Planning. 9563-9569
+		Anna Dai, Sotiris Papatheodorou, Nils Funk, Dimos Tzoumanikas, Stefan Leutenegger:
+Fast Frontier-based Information-driven Autonomous Exploration with an MAV. 9570-9576
+		Aleix Paris, Brett Thomas Lopez, Jonathan P. How:
+Dynamic Landing of an Autonomous Quadrotor on a Moving Platform in Turbulent Wind Conditions. 9577-9583
+		Max Basescu, Joseph Moore:
+Direct NMPC for Post-Stall Motion Planning with Fixed-Wing UAVs. 9592-9598
+		Georgios Zogopoulos-Papaliakos, Kostas J. Kyriakopoulos:
+A Flight Envelope Determination and Protection System for Fixed-Wing UAVs. 9599-9605
+		Jean Mercat, Thomas Gilles, Nicole El Zoghby, Guillaume Sandou, Dominique Beauvois, Guillermo Pita Gil:
+Multi-Head Attention for Multi-Modal Joint Vehicle Motion Forecasting. 9638-9644
+		Eric Westman, Ioannis Gkioulekas, Michael Kaess:
+A Volumetric Albedo Framework for 3D Imaging Sonar Reconstruction. 9645-9651
+		Simon F. G. Ehlers, Marvin Stuede, Kathrin Nuelle, Tobias Ortmaier:
+Map Management Approach for SLAM in Large-Scale Indoor and Outdoor Areas. 9652-9658
+		Yufeng Yue, Chunyang Zhao, Ruilin Li, Chule Yang, Jun Zhang, Mingxing Wen, Yuanzhe Wang, Danwei Wang:
+A Hierarchical Framework for Collaborative Probabilistic Semantic Mapping. 9659-9665
+		Thai Duong, Nikhil Das, Michael C. Yip, Nikolay Atanasov:
+Autonomous Navigation in Unknown Environments using Sparse Kernel-based Occupancy Mapping. 9666-9672
+		Clara Gómez, Marius Fehr, Alexander Millane, Alejandra C. Hernández, Juan I. Nieto, Ramón Barber, Roland Siegwart:
+Hybrid Topological and 3D Dense Mapping through Autonomous Exploration for Large Indoor Environments. 9673-9679
+		Shin-Fang Ch'ng, Naoya Sogi, Pulak Purkait, Tat-Jun Chin, Kazuhiro Fukui:
+Resolving Marker Pose Ambiguity by Robust Rotation Averaging with Clique Constraints*. 9680-9686
+		Koichiro Ito, Quan Kong, Shota Horiguchi, Takashi Sumiyoshi, Kenji Nagamatsu:
+Anticipating the Start of User Interaction for Service Robot in the Wild. 9687-9693
+		Jonas Tebbe, Lukas Klamt, Yapeng Gao, Andreas Zell:
+Spin Detection in Robotic Table Tennis*. 9694-9700
+		Chuang Gan, Yiwei Zhang, Jiajun Wu, Boqing Gong, Joshua B. Tenenbaum:
+Look, Listen, and Act: Towards Audio-Visual Embodied Navigation. 9701-9707
+		Chenjie Yang, Xuguang Lan, Hanbo Zhang, Nanning Zheng:
+Autonomous Tool Construction with Gated Graph Neural Network. 9708-9714
+		Fan Li, Changhong Fu, Fuling Lin, Yiming Li, Peng Lu:
+Training-Set Distillation for Real-Time UAV Object Tracking. 9715-9721
+		Byeong-Uk Lee, Kyunghyun Lee, Jean Oh, In So Kweon:
+CNN-Based Simultaneous Dehazing and Depth Estimation. 9722-9728
+		Hang Su, Salih Ertug Ovur, Zhijun Li, Yingbai Hu, Jiehao Li, Alois C. Knoll, Giancarlo Ferrigno, Elena De Momi:
+Internet of Things (IoT)-based Collaborative Control of a Redundant Manipulator for Teleoperated Minimally Invasive Surgeries. 9737-9742
+		Jenna Reher, Noel Csomay-Shanklin, David L. Christensen, Bobby Bristow, Aaron D. Ames, Lanny S. Smoot:
+Passive Dynamic Balancing and Walking in Actuated Environments. 9775-9781
+		Stéphane Caron:
+Biped Stabilization by Linear Feedback of the Variable-Height Inverted Pendulum Model. 9782-9788
+		William Z. Peng, Carlotta Mummolo, Joo H. Kim:
+Stability Criteria of Balanced and Steppable Unbalanced States for Full-Body Systems with Implications in Robotic and Human Gait. 9789-9795
+		Jean Chagas Vaz, Paul Y. Oh:
+Material Handling by Humanoid Robot While Pushing Carts Using a Walking Pattern Based on Capture Point. 9796-9801
+		Pierluigi Arpenti, Fabio Ruggiero, Vincenzo Lippiello:
+Interconnection and Damping Assignment Passivity-Based Control for Gait Generation in Underactuated Compass-Like Robots. 9802-9808
+		Wenying Wu, Subhrajit Bhattacharya, Amanda Prorok:
+Multi-Robot Path Deconfliction through Prioritization by Path Prospects. 9809-9815
+		Liang Zhang, Zexu Zhang, Roland Siegwart, Jen Jen Chung:
+A Connectivity-Prediction Algorithm and its Application in Active Cooperative Localization for Multi-Robot Systems. 9824-9830
+		Wenhao Luo, Sha Yi, Katia P. Sycara:
+Behavior Mixing with Minimum Global and Subgroup Connectivity Maintenance for Large-Scale Multi-Robot Systems. 9845-9851
+		Christos K. Verginis, Dimos V. Dimarogonas:
+Energy-Optimal Cooperative Manipulation via Provable Internal-Force Regulation. 9859-9865
+		Joon Hyub Lee, Yongkwan Kim, Sang-Gyun An, Seok-Hyung Bae:
+Robot Telekinesis: Application of a Unimanual and Bimanual Object Manipulation Technique to Robot Control. 9866-9872
+		Gennaro Notomista, Siddharth Mayya, Mario Selvaggio, María Santos, Cristian Secchi:
+A Set-Theoretic Approach to Multi-Task Execution and Prioritization. 9873-9879
+		David Parent, Adrià Colomé, Carme Torras:
+Variable Impedance Control in Cartesian Latent Space while Avoiding Obstacles in Null Space. 9888-9894
+		Hui Li, Jindong Tan, Hongsheng He:
+MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand. 9895-9901
+		Zhaole Sun, Kai Yuan, Wenbin Hu, Chuanyu Yang, Zhibin Li:
+Learning Pregrasp Manipulation of Objects from Ungraspable Poses. 9917-9923
+		Zhekai Tong, Tierui He, Chung Hee Kim, Yu Hin Ng, Qianyi Xu, Jungwon Seo:
+Picking Thin Objects by Tilt-and-Pivot Manipulation and Its Application to Bin Picking. 9932-9938
+		Zhen-Liang Ni, Gui-Bin Bian, Zeng-Guang Hou, Xiao-Hu Zhou, Xiao-Liang Xie, Zhen Li:
+Attention-Guided Lightweight Network for Real-Time Segmentation of Robotic Surgical Instruments. 9939-9945
+		Marcel K. Welleweerd, Antonius Gerardus de Groot, S. O. H. de Looijer, Francoise J. Siepel, Stefano Stramigioli:
+Automated robotic breast ultrasound acquisition using ultrasound feedback. 9946-9952
+		Zhe Min, Delong Zhu, Max Q.-H. Meng:
+Robust and Accurate 3D Curve to Surface Registration with Tangent and Normal Vectors. 9953-9959
+		Masakazu Yoshimura, Murilo M. Marinho, Kanako Harada, Mamoru Mitsuishi:
+Single-Shot Pose Estimation of Surgical Robot Instruments' Shafts from Monocular Endoscopic Images. 9960-9966
+		Anh Nguyen, Dennis Kundrat, Giulio Dagnino, Wenqiang Chi, Mohamed E. M. K. Abdelaziz, Yao Guo, YingLiang Ma, Trevor M. Y. Kwok, Celia V. Riga, Guang-Zhong Yang:
+End-to-End Real-time Catheter Segmentation with Optical Flow-Guided Warping during Endovascular Intervention. 9967-9973
+		Hanxiao Zhang, Mali Shen, Pallav L. Shah, Guang-Zhong Yang:
+Pathological Airway Segmentation with Cascaded Neural Networks for Bronchoscopic Navigation. 9974-9980
+		Akihiro Katsumaru, Ryuta Ozawa:
+Design of 3D-printed assembly mechanisms based on special wooden joinery techniques and its application to a robotic hand. 9981-9987
+		Junya Tanaka, Atsushi Sugahara:
+Parallel gripper with displacement-magnification mechanism and extendable finger mechanism. 9988-9993
+		ChangHee Son, Seok Kim:
+A Shape Memory Polymer Adhesive Gripper For Pick-and-Place Applications. 10010-10016
+		Masashi Okada, Shinji Takenaka, Tadahiro Taniguchi:
+Multi-person Pose Tracking using Sequential Monte Carlo with Probabilistic Neural Pose Predictor. 10024-10030
+		Aljosa Osep, Paul Voigtlaender, Mark Weber, Jonathon Luiten, Bastian Leibe:
+4D Generic Video Object Proposals. 10031-10037
+		Agniva Sengupta, Romain Lagneau, Alexandre Krupa, Éric Marchand, Maud Marchal:
+Simultaneous Tracking and Elasticity Parameter Estimation of Deformable Objects. 10038-10044
+		Justin Wilson, Ming C. Lin:
+AVOT: Audio-Visual Object Tracking of Multiple Objects for Robotics. 10045-10051
+		Guang Chen, Shiwen Shen, Longyin Wen, Si Luo, Liefeng Bo:
+Efficient Pig Counting in Crowds with Keypoints Tracking and Spatial-aware Temporal Response Filtering. 10052-10058
+		Chen Wang, Roberto Martín-Martín, Danfei Xu, Jun Lv, Cewu Lu, Fei-Fei Li, Silvio Savarese, Yuke Zhu:
+6-PACK: Category-level 6D Pose Tracker with Anchor-Based Keypoints. 10059-10066
+		Jiawei Tian, Xuanhe Zhao, Xianfeng David Gu, Shikui Chen:
+Designing Ferromagnetic Soft Robots (FerroSoRo) with Level-Set-Based Multiphysics Topology Optimization. 10067-10074
+		Yu She, Sandra Q. Liu, Peiyu Yu, Edward Adelson:
+Exoskeleton-covered soft finger with vision-based proprioception and tactile sensing. 10075-10081
+		Jiefeng Sun, Brandon Tighe, Jianguo Zhao:
+Tuning the Energy Landscape of Soft Robots for Fast and Strong Motion. 10082-10088
+		Jaimie Carlson, Jason Friedman, Christopher Kim, Cynthia Sung:
+REBOund: Untethered Origami Jumping Robot with Controllable Jump Height. 10089-10095
+		Minjae Kim, Wan Kyun Chung, Keehoon Kim:
+Motion Intensity Extraction Scheme for Simultaneous Recognition of Wrist/Hand Motions. 10112-10117
+		Felipe Moreira Ramos, Mitsuhiro Hayashibe:
+Simultaneous Online Motion Discrimination and Evaluation of Whole-body Exercise by Synergy Probes for Home Rehabilitation. 10118-10124
+		Danielle M. Stramel, Sunil K. Agrawal:
+Validation of a Forward Kinematics Based Controller for a mobile Tethered Pelvic Assist Device to Augment Pelvic Forces during Walking. 10133-10139
+		Derek N. Wolf, Zinnia A. Hall, Eric M. Schearer:
+Model Learning for Control of a Paralyzed Human Arm with Functional Electrical Stimulation. 10148-10154
+		Rashida Nayeem, Salah Bazzi, Neville Hogan, Dagmar Sternad:
+Transient Behavior and Predictability in Manipulating Complex Objects. 10155-10161
+		Doganay Sirintuna, Yusuf Aydin, Ozan Caldiran, Ozan Tokatli, Volkan Patoglu, Cagatay Basdogan:
+A Variable-Fractional Order Admittance Controller for pHRI. 10162-10168
+		Zackory M. Erickson, Vamsee Gangaram, Ariel Kapusta, C. Karen Liu, Charles C. Kemp:
+Assistive Gym: A Physics Simulation Framework for Assistive Robotics. 10169-10176
+		Joseph Campbell, Katsu Yamane:
+Learning Whole-Body Human-Robot Haptic Interaction in Social Contexts. 10177-10183
+		Marc G. Carmichael, Richardo Khonasty, Stefano Aldini, Dikai Liu:
+Human Preferences in Using Damping to Manage Singularities During Physical Human-Robot Collaboration. 10184-10190
+		Wansoo Kim, Pietro Balatti, Edoardo Lamon, Arash Ajoudani:
+MOCA-MAN: A MObile and reconfigurable Collaborative Robot Assistant for conjoined huMAN-robot actions. 10191-10197
+		Ribin Balachandran, Jee-Hwan Ryu, Mikael Jorda, Christian Ott, Alin Albu-Schäffer:
+Closing the Force Loop to Enhance Transparency in Time-delayed Teleoperation. 10198-10204
+		Francesco Porcini, Domenico Chiaradia, Simone Marcheschi, Massimiliano Solazzi, Antonio Frisoli:
+Evaluation of an Exoskeleton-based Bimanual Teleoperation Architecture with Independently Passivated Slave Devices. 10205-10211
+		Matteo Macchini, Thomas Havy, Antoine Weber, Fabrizio Schiano, Dario Floreano:
+Hand-worn Haptic Interface for Drone Teleoperation. 10212-10218
+		A. Bushman, Maxwell Asselmeier, J. Won, Amy LaViers:
+Toward Human-like Teleoperated Robot Motion: Performance and Perception of a Choreography-inspired Method in Static and Dynamic Tasks for Rapid Pose Selection of Articulated Robots. 10219-10225
+		Joseph DelPreto, Jeffrey I. Lipton, Lindsay Sanneman, Aidan J. Fay, Christopher Fourie, Changhyun Choi, Daniela Rus:
+Helping Robots Learn: A Human-Robot Master-Apprentice Model Using Demonstrations via Virtual Reality Teleoperation. 10226-10233
+		Vitalii Pruks, Jee-Hwan Ryu:
+A Framework for Interactive Virtual Fixture Generation for Shared Teleoperation in Unstructured Environments. 10234-10241
+		Mohamed Fnadi, Wenqian Du, Rafael Gomes da Silva, Frédéric Plumet, Faïz BenAmar:
+Local Obstacle-Skirting Path Planning for a Fast Bi-steerable Rover using Bézier Curves. 10242-10248
+		Yitao Ding, Ulrike Thomas:
+Collision Avoidance with Proximity Servoing for Redundant Serial Robot Manipulators. 10249-10255
+		Marina Kollmitz, Daniel Büscher, Wolfram Burgard:
+Predicting Obstacle Footprints from 2D Occupancy Maps by Learning from Physical Interactions. 10256-10262
+		Stuart Eiffert, He Kong, Navid Pirmarzdashti, Salah Sukkarieh:
+Path Planning in Dynamic Environments using Generative RNNs and Monte Carlo Tree Search. 10263-10269
+		Andrew Singletary, Thomas Gurriet, Petter Nilsson, Aaron D. Ames:
+Safety-Critical Rapid Aerial Exploration of Unknown Environments. 10270-10276
+		Qianqian Wang, Ben Wang, Jiangfan Yu, Kathrin Schweizer, Bradley J. Nelson, Li Zhang:
+Reconfigurable Magnetic Microswarm for Thrombolysis under Ultrasound Imaging. 10285-10291
+		Edison Gerena, Florent Legendre, Youen Vitry, Stéphane Régnier, D. Sinan Haliyo:
+Improving Optical Micromanipulation with Force-Feedback Bilateral Coupling. 10292-10298
+		Zhijian Hao, DeaGyu Kim, Ali Reza Mohazab, Azadeh Ansari:
+Maneuver at Micro Scale: Steering by Actuation Frequency Control in Micro Bristle Robots*. 10299-10304
+		Kaushik Jayaram, Jennifer Shum, Samantha Castellanos, E. Farrell Helbling, Robert J. Wood:
+Scaling down an insect-size microrobot, HAMR-VI into HAMR-Jr. 10305-10311
+		Dylan A. Shell, Jason M. O'Kane:
+Reality as a simulation of reality: robot illusions, fundamental limits, and a physical demonstration. 10327-10334
+		Adam Pacheck, Salar Moarref, Hadas Kress-Gazit:
+Finding Missing Skills for High-Level Behaviors. 10335-10341
+		Suda Bharadwaj, Abraham P. Vinod, Rayna Dimitrova, Ufuk Topcu:
+Near-Optimal Reactive Synthesis Incorporating Runtime Information. 10342-10348
+		Alper Kamil Bozkurt, Yu Wang, Michael M. Zavlanos, Miroslav Pajic:
+Control Synthesis from Linear Temporal Logic Specifications using Model-Free Reinforcement Learning. 10349-10355
+		Guillaume Jeanneau, Vincent Bégoc, Sébastien Briot, Alexandre Goldsztejn:
+R-Min: a Fast Collaborative Underactuated Parallel Robot for Pick-and-Place Operations. 10365-10371
+		Kang Xu, Shoukun Wang, Xiuwen Wang, Junzheng Wang, Zhihua Chen, Daohe Liu:
+High-Flexibility Locomotion and Whole-Torso Control for a Wheel-Legged Robot on Challenging Terrain*. 10372-10377
+		Jean-Pierre Merlet, Yves Papegay, Anne-Valérie Gasc:
+The Prince's tears, a large cable-driven parallel robot for an artistic exhibition. 10378-10383
+		Chedli Bouzgarrou, Adrien Koessler, Nicolas Bouton:
+Singularity analysis and reconfiguration mode of the 3-CRS parallel manipulator. 10384-10390
+		Nitish Kumar, Stelian Coros:
+Trajectory optimization for a class of robots belonging to Constrained Collaborative Mobile Agents (CCMA) family. 10391-10397
+		Byeong-Seop Sim, Kun-Jung Kim, Kee-Ho Yu:
+Development of Body Rotational Wheeled Robot and its Verification of Effectiveness. 10405-10411
+		Christian Stetco, Barnaba Ubezio, Stephan Mühlbacher-Karrer, Hubert Zangl:
+Radar Sensors in Collaborative Robotics: Fast Simulation and Experimental Validation. 10452-10458
+		Kei Kase, Chris Paxton, Hammad Mazhar, Tetsuya Ogata, Dieter Fox:
+Transferable Task Execution from Pixels through Deep Planning Domain Learning. 10459-10465
+		Ben Goodrich, Alex Kuefler, William D. Richards:
+Depth by Poking: Learning to Estimate Depth from Self-Supervised Grasping. 10466-10472
+		Sören Pirk, Mohi Khansari, Yunfei Bai, Corey Lynch, Pierre Sermanet:
+Online Learning of Object Representations by Appearance Space Feature Alignment. 10473-10479
+		Caris Moses, Michael Noseworthy, Leslie Pack Kaelbling, Tomás Lozano-Pérez, Nicholas Roy:
+Visual Prediction of Priors for Articulated Object Interaction. 10480-10486
+		Ryosuke Araki, Takeshi Onishi, Tsubasa Hirakawa, Takayoshi Yamashita, Hironobu Fujiyoshi:
+MT-DSSD: Deconvolutional Single Shot Detector Using Multi Task Learning for Object Detection, Segmentation, and Grasping Detection. 10487-10493
+		Yunzhi Lin, Chao Tang, Fu-Jen Chu, Patricio A. Vela:
+Using Synthetic Data and Deep Networks to Recognize Primitive Shapes for Object Grasping. 10494-10501
+		Max Schwarz, Sven Behnke:
+Stillleben: Realistic Scene Synthesis for Deep Learning in Robotics. 10502-10508
+		Jungseok Hong, Michael Fulton, Junaed Sattar:
+A Generative Approach Towards Improved Robotic Detection of Marine Litter. 10525-10531
+		Yiwei Fu, Shiraj Sen, Johan Reimann, Charles Theurer:
+Spatiotemporal Representation Learning with GAN Trained LSTM-LSTM Networks. 10548-10555
+		Ahmet E. Tekden, Aykut Erdem, Erkut Erdem, Mert Imre, M. Yunus Seker, Emre Ugur:
+Belief Regulated Dual Propagation Nets for Learning Action Effects on Groups of Articulated Objects. 10556-10562
+		Henggang Cui, Thi Nguyen, Fang-Chieh Chou, Tsung-Han Lin, Jeff Schneider, David Bradley, Nemanja Djuric:
+Deep Kinematic Models for Kinematically Feasible Vehicle Trajectory Predictions. 10563-10569
+		Zhiqian Qiao, Jing Zhao, Jin Zhu, Zachariah Tyree, Priyantha Mudalige, Jeff Schneider, John M. Dolan:
+Human Driver Behavior Prediction based on UrbanFlow*. 10570-10576
+		Jeffrey A. Caley, Geoffrey A. Hollinger:
+Environment Prediction from Sparse Samples for Robotic Information Gathering. 10577-10583
+		Fabian Paus, Teng Huang, Tamim Asfour:
+Predicting Pushing Action Effects on Spatial Object Relations by Learning Internal Prediction Models. 10584-10590
+		Shintaro Noda, Masaki Murooka, Yuki Asano, Ryusuke Ishizaki, Tomohiro Kawakami, Tomoki Watabe, Kei Okada, Takahide Yoshiike, Masayuki Inaba:
+Learning of Key Pose Evaluation for Efficient Multi-contact Motion Planner. 10591-10597
+		Mohak Bhardwaj, Byron Boots, Mustafa Mukadam:
+Differentiable Gaussian Process Motion Planning. 10598-10604
+		Daniel Molina, Kislay Kumar, Siddharth Srivastava:
+Learn and Link: Learning Critical Regions for Efficient Planning. 10605-10611
+		Daniel R. McArthur, Ze An, David J. Cappelleri:
+Pose-Estimate-Based Target Tracking for Human-Guided Remote Sensor Mounting with a UAV. 10636-10642
+		Nitin J. Sanket, Chethan M. Parameshwara, Chahat Deep Singh, Ashwin V. Kuruttukulam, Cornelia Fermüller, Davide Scaramuzza, Yiannis Aloimonos:
+EVDodgeNet: Deep Dynamic Obstacle Dodging with Event Cameras. 10651-10657
+		Viktor Walter, Matous Vrba, Martin Saska:
+On training datasets for machine learning-based visual relative localization of micro-scale UAVs. 10674-10680
+		Lingwei Zhu, Yunduan Cui, Takamitsu Matsubara:
+Dynamic Actor-Advisor Programming for Scalable Safe Reinforcement Learning. 10681-10687
+		Enrico Marchesini, Alessandro Farinelli:
+Discrete Deep Reinforcement Learning for Mapless Navigation. 10688-10694
+		Yuchen Xiao, Joshua Hoffman, Tian Xia, Christopher Amato:
+Learning Multi-Robot Decentralized Macro-Action-Based Policies via a Centralized Q-Net. 10695-10701
+		Matteo Turchetta, Andreas Krause, Sebastian Trimpe:
+Robust Model-free Reinforcement Learning with Multi-objective Bayesian Optimization. 10702-10708
+		Yan Di, Henrique Morimitsu, Zhiqiang Lou, Xiangyang Ji:
+A Unified Framework for Piecewise Semantic Reconstruction in Dynamic Scenes via Exploiting Superpixel Relations. 10737-10743
+		Krzysztof Zielinski, Dominik Belter:
+Keyframe-based Dense Mapping with the Graph of View-Dependent Local Maps. 10744-10750
+		Marija Popovic, Teresa A. Vidal-Calleja, Jen Jen Chung, Juan I. Nieto, Roland Siegwart:
+Informative Path Planning for Active Field Mapping under Localization Uncertainty. 10751-10757
+		Johannes A. Stork, Todor Stoyanov:
+Ensemble of Sparse Gaussian Process Experts for Implicit Surface Mapping with Streaming Data. 10758-10764
+		Shishir Pagad, Divya Agarwal, Sathya Narayanan, Kasturi Rangan, Hyungjin Kim, Veera Ganesh Yalla:
+Robust Method for Removing Dynamic Objects from Point Clouds. 10765-10771
+		Pier Luigi Dovesi, Matteo Poggi, Lorenzo Andraghetti, Miquel Martí, Hedvig Kjellström, Alessandro Pieropan, Stefano Mattoccia:
+Real-Time Semantic Stereo Matching. 10780-10787
+		Yawen Lu, Michel Sarkis, Guoyu Lu:
+Multi-Task Learning for Single Image Depth Estimation and Segmentation Based on Unsupervised Network. 10788-10794
+		Jinsun Liu, Pengcheng Zhao, Zhenyu Gan, Matthew Johnson-Roberson, Ram Vasudevan:
+Leveraging the Template and Anchor Framework for Safe, Online Robotic Gait Design. 10869-10875
+		Christopher McGreavy, Kai Yuan, Daniel F. N. Gordon, Kang Tan, Wouter Jan Wolfslag, Sethu Vijayakumar, Zhibin Li:
+Unified Push Recovery Fundamentals: Inspiration from Human Study. 10876-10882
+		Lucas Barcelos, Rafael Oliveira, Rafael Possas, Lionel Ott, Fabio Ramos:
+DISCO: Double Likelihood-free Inference Stochastic Control. 10969-10975
+		Clark Zhang, Arbaaz Khan, Santiago Paternain, Alejandro Ribeiro:
+Sufficiently Accurate Model Learning. 10991-10997
+		Gayane Kazhoyan, Arthur Niedzwiecki, Michael Beetz:
+Towards Plan Transformations for Real-World Mobile Fetch and Place. 11011-11017
+		Jingren Xu, Kensuke Harada, Weiwei Wan, Toshio Ueshiba, Yukiyasu Domae:
+Planning an Efficient and Robust Base Sequence for a Mobile Manipulator Performing Multiple Pick-and-place Tasks. 11018-11024
+		Zhao Han, Jordan Allspaw, Gregory LeMasurier, Jenna Parrillo, Daniel Giger, S. Reza Ahmadzadeh, Holly A. Yanco:
+Towards Mobile Multi-Task Manipulation in a Confined and Integrated Environment with Irregular Objects. 11025-11031
+		Filippo Bertoncelli, Fabio Ruggiero, Lorenzo Sabattini:
+Linear Time-Varying MPC for Nonprehensile Object Manipulation with a Nonholonomic Mobile Robot. 11032-11038
+		Max Bajracharya, James Borders, Daniel M. Helmick, Thomas Kollar, Michael Laskey, John Leichty, Jeremy Ma, Umashankar Nagarajan, Akiyoshi Ochiai, Josh Petersen, Krishna Shankar, Kevin Stone, Yutaka Takaoka:
+A Mobile Manipulation System for One-Shot Teaching of Complex Tasks in Homes. 11039-11045
+		Steven A. Parkison, Jeffrey M. Walls, Ryan W. Wolcott, Mohammad Saad, Ryan M. Eustice:
+2D to 3D Line-Based Registration with Unknown Associations via Mixed-Integer Programming. 11046-11052
+		Yaqing Ding, Jian Yang, Hui Kong:
+An efficient solution to the relative pose estimation with a common direction. 11053-11059
+		Valerie Chen, Man-Ki Yoon, Zhong Shao:
+Task-Aware Novelty Detection for Visual-based Deep Learning in Autonomous Systems. 11060-11066
+		Rui Wang, Nan Yang, Jörg Stückler, Daniel Cremers:
+DirectShape: Direct Photometric Alignment of Shape Priors for Visual Vehicle Pose and Shape Estimation. 11067-11073
+		Sangeeth Reddy, Minesh Mathew, Lluís Gómez, Marçal Rusiñol, Dimosthenis Karatzas, C. V. Jawahar:
+RoadText-1K: Text Detection & Recognition Dataset for Driving Videos. 11074-11080
+		Zhenbo Song, Jianfeng Lu, Tong Zhang, Hongdong Li:
+End-to-end Learning for Inter-Vehicle Distance and Relative Velocity Estimation in ADAS with a Monocular Camera. 11081-11087
+		Negin Heravi, Wenzhen Yuan, Allison M. Okamura, Jeannette Bohg:
+Learning an Action-Conditional Model for Haptic Texture Generation. 11088-11095
+		Hubert Kim, Hongxu H. Guo, Alan T. Asbeck:
+Just Noticeable Differences for Joint Torque Feedback During Static Poses. 11096-11102
+		Sung-moon Hur, Jaeyoung Park, Jaeheung Park, Yonghwan Oh:
+Design of a Parallel Haptic Device with Gravity Compensation by using its System Weight. 11103-11108
+		Axel Beauvisage, Kenan Ahiska, Nabil Aouf:
+Multimodal tracking framework for visual odometry in challenging illumination conditions. 11133-11139
+		Karin de Langis, Junaed Sattar:
+Realtime Multi-Diver Tracking and Re-identification for Underwater Human-Robot Collaboration. 11140-11146
+		Jian Zhan, João Cartucho, Stamatia Giannarou:
+Autonomous Tissue Scanning under Free-Form Motion for Intraoperative Tissue Characterisation. 11147-11154
+		Nicholas Bira, Yigit Mengüç, Joseph R. Davidson:
+3D-Printed Electroactive Hydraulic Valves for Use in Soft Robotic Applications. 11200-11206
+		Tanner Bitz, Fatemeh Zahedi, Hyunglae Lee:
+Variable Damping Control of a Robotic Arm to Improve Trade-off between Agility and Stability and Reduce User Effort. 11259-11265
+		Hendry Ferreira Chame, Jun Tani:
+Cognitive and motor compliance in intentional human-robot interaction. 11291-11297
+		Ribin Balachandran, Hrishik Mishra, Matteo Cappelli, Bernhard Weber, Cristian Secchi, Christian Ott, Alin Albu-Schäffer:
+Adaptive Authority Allocation in Shared Control of Robots Using Bayesian Filters. 11298-11304
+		Jeremy A. Fishel, Toni Oliver, Michael Eichermueller, Giuseppe Barbieri, Ethan Fowler, Toivo Hartikainen, Luke Moss, Rich Walker:
+Tactile Telerobots for Dull, Dirty, Dangerous, and Inaccessible Tasks. 11305-11310
+		Gaofeng Li, Edoardo Del Bianco, Fernando Caponetto, Vasiliki Katsageorgiou, Nikos G. Tsagarakis, Ioannis Sarakoglou:
+A Novel Orientability Index and the Kinematic Design of the RemoT-ARM: A Haptic Master with Large and Dexterous Workspace. 11319-11325
+		Andrew Lewis, David Drajeske, John Raiti, Angelique Berens, Jacob Rosen, Blake Hannaford:
+RAVEN-S: Design and Simulation of a Robot for Teleoperated Microgravity Rodent Dissection Under Time Delay. 11332-11337
+		Guo Ye, Qinjie Lin, Tzung-Han Juang, Han Liu:
+Collision-free Navigation of Human-centered Robots via Markov Games. 11338-11344
+		Adarsh Jagan Sathyamoorthy, Jing Liang, Utsav Patel, Tianrui Guan, Rohan Chandra, Dinesh Manocha:
+DenseCAvoid: Real-time Navigation in Dense Crowds using Anticipatory Behaviors. 11345-11352
+		Sai Krishna Bashetty, Heni Ben Amor, Georgios Fainekos:
+DeepCrashTest: Turning Dashcam Videos into Virtual Crash Tests for Automated Driving Systems. 11353-11360
+		Xian Wang, Tiancong Wang, Guanqiao Shan, Junhui Law, Changsheng Dai, Zhuoran Zhang, Yu Sun:
+Robotic Control of a Magnetic Swarm for On-Demand Intracellular Measurement. 11385-11391
+		Xinyi Guo, Zhichao Ma, Rahul Goyal, Moonkwang Jeong, Wei Pang, Peer Fischer, Xuexin Duan, Tian Qiu:
+Acoustofluidic Tweezers for the 3D Manipulation of Microparticles. 11392-11397
+		Riccardo Maderna, Matteo Poggiali, Andrea Maria Zanchettin, Paolo Rocco:
+An online scheduling algorithm for human-robot collaborative kitting. 11430-11435
+		Justin Svegliato, Prakhar Sharma, Shlomo Zilberstein:
+A Model-Free Approach to Meta-Level Control of Anytime Algorithms. 11436-11442
+		Jan Kristof Behrens, Karla Stépánová, Robert Babuska:
+Simultaneous task allocation and motion scheduling for complex tasks executed by multiple robots. 11443-11449
+		Matthew Collins, Nathan Michael:
+Efficient Planning for High-Speed MAV Flight in Unknown Environments Using Online Sparse Topological Graphs. 11450-11456
+		Neale Van Stolen, Seung Hyun Kim, Huy T. Tran, Girish Chowdhary:
+Evaluating Adaptation Performance of Hierarchical Deep Reinforcement Learning. 11457-11463
+		Sebastián A. Zudaire, Martín Garrett, Sebastián Uchitel:
+Iterator-Based Temporal Logic Task Planning. 11472-11478
+		Yiannis Kantaros, Matthew Malencia, Vijay Kumar, George J. Pappas:
+Reactive Temporal Logic Planning for Multiple Robots in Unknown Environments. 11479-11485
+		Selim Engin, Eric Mitchell, Daewon Lee, Volkan Isler, Daniel D. Lee:
+Higher Order Function Networks for View Planning and Multi-View Reconstruction. 11486-11492
+		Krishan Rana, Ben Talbot, Vibhavari Dasagi, Michael Milford, Niko Sünderhauf:
+Residual Reactive Navigation: Combining Classical and Learned Navigation Strategies For Deployment in Unknown Environments. 11493-11499
+		Rishi K. Malhan, Rex Jomy Joseph, Aniruddha V. Shembekar, Ariyan M. Kabir, Prahar M. Bhatt, Satyandra K. Gupta:
+Online Grasp Plan Refinement for Reducing Defects During Robotic Layup of Composite Prepreg Sheets. 11500-11507
+		Mark Van der Merwe, Qingkai Lu, Balakumar Sundaralingam, Martin Matak, Tucker Hermans:
+Learning Continuous 3D Reconstructions for Geometrically Aware Grasping. 11516-11522

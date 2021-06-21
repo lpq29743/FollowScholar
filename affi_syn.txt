@@ -1,0 +1,292 @@
+google deepmind	deepmind
+fair	fb
+facebook	fb
+allen institute for ai	allenai
+allen institute for artificial intelligence	allenai
+allen institute of artificial intelligence	allenai
+ai2	allenai
+alexa	amazon
+wechat ai	tencent
+ant group	alibaba
+noah’s ark lab	huawei
+noah's ark lab	huawei
+max planck institute	mpi
+bloomberg lp	bloomberg
+naver labs europe	naver
+nec laboratories america	nec
+institute for human-machine cognition	ihmc
+institute for human and machine cognition	ihmc
+educational testing service	ets
+general motors	gm
+german aerospace center	dlr
+jožef stefan institute	ijs
+qatar computing research institute	qcri
+national institute of standards and technology	nist
+national research council canada	nrc
+national research council of canada	nrc
+national institute of informatics	nii
+artificial intelligence research institute	iiia
+information technologies institute	iti
+tata consultancy service	tcs
+japan advanced institute of science and technology	jaist
+national institute of advanced industrial science and technology	aist
+indian statistical institute	isical
+carnegie mellon university	cmu
+carnegie mellon	cmu
+massachusetts institute of technology	mit
+massachusetts institutue of technology	mit
+massachsuetts institute of technology	mit
+new york university	nyu
+the city college of new york	ccny
+state university of new york at buffalo	buffalo
+stony brook university	stonybrook
+northeastern university	neu
+johns hopkins university	jhu
+ohio state university	osu
+oregon health and science university	ohsu
+oregon health & science university	ohsu
+oregon state university	oregonstate
+michigan state university	msu
+george mason university	gmu
+arizona state university	asu
+brigham young university	byu
+pennsylvania state university	psu
+colorado state university	colostate
+university of southern california	usc
+george washington university	gw
+washington university in st. louis	wustl
+washington university in saint louis	wustl
+university of washington	uw
+washington university	uw
+university of pennsylvania	upenn
+university of michigan	umich
+university of maryland	umd
+university of chicago	uchicago
+university of minnesota	umn
+university of wisconsin-madison	wisc
+university of wisconsin - madison	wisc
+university of pittsburgh	pitt
+university of notre dame	ud
+university of oregon	uoregon
+university of colorado boulder	colorado
+university of texas at dallas	utdallas
+california institute of technology	caltech
+georgia institute of technology	gatech
+georgia tech	gatech
+university of illinois at urbana-champaign	uiuc
+university of illinois at urbana champaign	uiuc
+university of illinois, urbana-champaign	uiuc
+university of illinois, urbana champaign	uiuc
+university of illinois urbana-champaign	uiuc
+university of illinois at chicago	uic
+university of illinois chicago	uic
+university of north carolina at chapel hill	unc
+university of new mexico	unm
+unc chapel hill	unc
+university of texas at austin	utexas
+ut austin	utexas
+university of texas at arlington	uta
+university of texas at el paso	utep
+university of arkansas	uark
+university of alabama	ua
+virginia tech	vt
+west virginia university	wvu
+toyota technological institute at chicago	ttic
+tti-chicago	ttic
+texas a&m university	tamu
+texas a&m	tamu
+worcester polytechnic institute	wpi
+university of central florida	ucf
+uc berkeley	ucb
+uc davis	ucdavis
+uc irvine	uci
+uc los angeles	ucla
+uc merced	ucmerced
+uc riverside	ucr
+uc santa barbara	ucsb
+uc santa cruz	ucsc
+uc san diego	ucsd
+uc san francisco	ucsf
+university of california, berkeley	ucb
+university of california, davis	ucdavis
+university of california, irvine	uci
+university of california, los angeles	ucla
+university of california, merced	ucmerced
+university of california, riverside	ucr
+university of california, santa barbara	ucsb
+university of california, santa cruz	ucsc
+university of california, san diego	ucsd
+university of california, san francisco	ucsf
+university of california berkeley	ucb
+university of california davis	ucdavis
+university of california irvine	uci
+university of california los angeles	ucla
+university of california merced	ucmerced
+university of california riverside	ucr
+university of california santa barbara	ucsb
+university of california santa cruz	ucsc
+university of california san diego	ucsd
+university of california san francisco	ucsf
+university of california at berkeley	ucb
+university of california at davis	ucdavis
+university of california at irvine	uci
+university of california at los angeles	ucla
+university of california at merced	ucmerced
+university of california at riverside	ucr
+university of california at santa barbara	ucsb
+university of california at santa cruz	ucsc
+university of california at san diego	ucsd
+university of california at san francisco	ucsf
+university of california - berkeley	ucb
+university of california - davis	ucdavis
+university of california - irvine	uci
+university of california - los angeles	ucla
+university of california - merced	ucmerced
+university of california - riverside	ucr
+university of california - santa barbara	ucsb
+university of california - santa cruz	ucsc
+university of california - san diego	ucsd
+university of california - san francisco	ucsf
+university of california-berkeley	ucb
+university of california-davis	ucdavis
+university of california-irvine	uci
+university of california-los angeles	ucla
+university of california-merced	ucmerced
+university of california-riverside	ucr
+university of california-santa barbara	ucsb
+university of california-santa cruz	ucsc
+university of california-san diego	ucsd
+university of california-san francisco	ucsf
+university of massachusetts amherst	umass
+university of massachusetts, amherst	umass
+university of massachusetts lowell	uml
+university of toronto	utoronto
+university of waterloo	uwaterloo
+university of alberta	ualberta
+university of montreal	umontreal
+université de montréal	umontreal
+montreal university	umontreal
+polytechnique montreal	polymtl
+polytechnique montréal	polymtl
+university of calgary	ucalgary
+university of british columbia	ubc
+university of western ontario	uwo
+university of guelph	uoguelph
+simon fraser university	sfu
+university of new brunswick	unb
+universidad de chile	uchile
+imperial college london	imperial
+university college london	ucl
+king’s college london	kcl
+queen mary university of london	qmul
+university of the west of england	uwe
+edinburgh napier university	napier
+dublin city university	dcu
+heriot-watt university, edinburgh	hw
+heriot-watt university	hw
+national university of ireland, galway	nui
+itu copenhagen	itu
+university of southern denmark	sdu
+radboud university	ru
+radboud universiteit	ru
+delft university of technology	tudelft
+tu delft	tudelft
+kth royal	kth
+eth zürich	ethz
+eth zurich	ethz
+ecole polytechnique fédérale de lausanne	epfl
+ecole polytechnique federale de lausanne	epfl
+university of st. gallen	unisg
+university of st.gallen	unisg
+ku leuven	kul
+universitat autònoma de barcelona	uab
+universitat politècnica de catalunya	upc
+university of the basque country	upv
+universidade da coruña	udc
+universidad de sevilla	us
+university of modena and reggio emilia	unimore
+università degli studi di modena e reggio emilia	unimore
+fondazione bruno kessler	fbk
+fondazone bruno kessler	fbk
+sapienza università di roma	uniroma
+sapienza university of roma	uniroma
+sapienza, university of roma	uniroma
+sapienza university of rome	uniroma
+politecnico di torino	polito
+instituto superior técnico	ulisboa
+instituto superior tecnico	ulisboa
+universidade de lisboa	ulisboa
+university of jaén	ujaen
+university of pisa	unipi
+university of calabria	unical
+universidad de zaragoza	unizar
+johannes kepler university linz	jku
+czech technical university in prague	cvut
+national technical university of athens	ntua
+aristotle university of thessaloniki	auth
+technical university of munich	tum
+tu munich	tum
+ludwig-maximilians-university munich	lmu
+ludwig-maximilians-universität münchen	lmu
+university of munich	lmu
+graz university of technology	tu graz
+rwth aachen university	rwth
+karlsruhe institute of technology	kit
+bauhaus-universität weimar	uniweimar
+technical university	tu
+technische universität	tu
+hebrew university of jerusalem	huji
+hebrew university	huji
+tel aviv university	tau
+tel-aviv university	tau
+bar ilan university	biu
+bar-ilan university	biu
+ben-gurion university of the negev	bgu
+king abdullah university of science and technology	kaust
+king abdullah university of science & technology	kaust
+university of melbourne	unimelb
+australian national university	anu
+university of sydney	usyd
+university of technology sydney	uts
+university of technology, sydney	uts
+university of south australia	unisa
+national university of singapore	nus
+nanyang technological university	ntu
+singapore management university	smu
+singapore university of technology and design	sutd
+university of tokyo	utokyo
+ritsumeikan university	ritsumei
+tokyo institute of technology	titech
+seoul national university of science and technology	seoultech
+seoul national university	snu
+korea advanced institute of science and technology	kaist
+national institute of technology	nit
+indian institute of science	iisc
+indian institute of technology	iitd
+hong kong university of science and technology	hkust
+hong kong university of science & technology	hkust
+chinese university of hong kong	cuhk
+chinese univ of hong kong	cuhk
+hong kong polytechnic university	hkpu
+city university of hong kong	cityu
+university of hong kong	hku
+chinese academy of sciences	cas
+xi'an jiaotong university	xjtu
+beijing institute of technology	bit
+harbin institute of technology	hit
+harbin institute of techonology	hit
+university of science and technology of china	ustc
+university of electronic science and technology of china	uestc
+beijing university of posts and telecommunications	bupt
+nanjing university of science and technology	njust
+nanjing university of posts and telecommunications	njupt
+huazhong university of science and technology	hust
+renmin university of china	ruc
+sun yat-sen university	sysu
+south china university of technology	scut
+shanghai jiao tong university	sjtu
+southeast university	seu
+national university of defence technology	nudt
+national taiwan university	twu
+national central university	ncu
+national taipei university of technology	ntut

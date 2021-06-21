@@ -1,0 +1,112 @@
+/citations?hl=zh-TW&user=zj6FavAAAAAJ	Wolfram Burgard	Professor of Computer Science, University of Freiburg	87754
+/citations?hl=zh-TW&user=T7uctwYAAAAJ	Vincent Vanhoucke	Principal Scientist, Google	83544
+/citations?hl=zh-TW&user=DqXsbPAAAAAJ	Dieter Fox	University of Washington and NVIDIA	72163
+/citations?hl=zh-TW&user=MDIyLnwAAAAJ	Roland Siegwart	Professor of Robotics, ETH Zurich, Switzerland	59837
+/citations?hl=zh-TW&user=vtwH6GkAAAAJ	Pieter Abbeel	UC Berkeley	57363
+/citations?hl=zh-TW&user=FUOEBDUAAAAJ	Vijay Kumar	Professor of Mechanical Engineering and Applied Mechanics, University of Pennsylvania	55798
+/citations?hl=zh-TW&user=0ytii2EAAAAJ	Martial Hebert	CMU	51074
+/citations?hl=zh-TW&user=P7S5TY0AAAAJ	Neville Hogan	Professor, Massachusetts Institute of Technology	47140
+/citations?hl=zh-TW&user=910z20QAAAAJ	Daniela Rus	MIT	46688
+/citations?hl=zh-TW&user=Ph16U5wAAAAJ	Russell H. Taylor	Professor of Computer Science, Johns Hopkins University	45492
+/citations?hl=zh-TW&user=OlzpVykAAAAJ	Brian Williams	Professor of Aeronautics and Astronautics, Massachusetts Institute of Technology	44381
+/citations?hl=zh-TW&user=8R35rCwAAAAJ	Sergey Levine	UC Berkeley, Google	40947
+/citations?hl=zh-TW&user=4arkOLcAAAAJ	Oussama Khatib	Stanford University	39853
+/citations?hl=zh-TW&user=YGQs1AYAAAAJ	Stefan Schaal	Google	37643
+/citations?hl=zh-TW&user=gkFd-RcAAAAJ	Yoshihiko Nakamura	Professor, University of Tokyo	37479
+/citations?hl=zh-TW&user=YU4Ce_MAAAAJ	Metin Sitti	Director, Max Planck Institute for Intelligent Systems; Professor at ETH Zurich	29383
+/citations?hl=zh-TW&user=vjZrDKQAAAAJ	James Hays	Georgia Tech	28302
+/citations?hl=zh-TW&user=SC9wV2kAAAAJ	Davide Scaramuzza	University of Zurich	25348
+/citations?hl=zh-TW&user=8kA3eDwAAAAJ	James M. Rehg	Professor of Computer Science, Georgia Institute of Technology	24468
+/citations?hl=zh-TW&user=itSa94cAAAAJ	John Schulman	Research Scientist, OpenAI	23991
+/citations?hl=zh-TW&user=uVTR_eoAAAAJ	Alcherio Martinoli	Associate Professor, EPFL	23583
+/citations?hl=zh-TW&user=7t4jbPQAAAAJ	J. Andrew Bagnell	Carnegie Mellon University	23427
+/citations?hl=zh-TW&user=8fztli4AAAAJ	Ken Goldberg	Professor, UC Berkeley and UCSF	23342
+/citations?hl=zh-TW&user=4fvo61oAAAAJ	Howie Choset	Professor of Robotics, Carnegie Mellon	23047
+/citations?hl=zh-TW&user=aM3i_9oAAAAJ	Nicholas Roy	MIT	22873
+/citations?hl=zh-TW&user=J0l7wWwAAAAJ	Daniel D. Lee	Samsung	22829
+/citations?hl=zh-TW&user=BtO5fTUAAAAJ	Paul Newman	Professor University of Oxford	22735
+/citations?hl=zh-TW&user=hYMvCbwAAAAJ	Magnus Egerstedt	Professor of Electrical and Computer Engineering, Georgia Institute of Technology	20137
+/citations?hl=zh-TW&user=heYuqBkAAAAJ	Jessy W. Grizzle	University of Michigan	19647
+/citations?hl=zh-TW&user=tM4JMcQAAAAJ	Aude Billard	Full Professor, EPFL	19051
+/citations?hl=zh-TW&user=8vib2lAAAAAJ	Cyrill Stachniss	Professor for Photogrammetry & Robotics, University of Bonn	18798
+/citations?hl=zh-TW&user=XA8EOlEAAAAJ	In So Kweon	KAIST	18769
+/citations?hl=zh-TW&user=yP_zL3gAAAAJ	Alin Albu-Schäffer	TU Munich	18617
+/citations?hl=zh-TW&user=BL9EACgAAAAJ	Takayuki Kanda	Kyoto University	18048
+/citations?hl=zh-TW&user=IxCZDBQAAAAJ	Sanjiv Singh	Research Professor, Carnegie Mellon University	17458
+/citations?hl=zh-TW&user=dGs2BcIAAAAJ	Kostas Daniilidis	UPenn	16302
+/citations?hl=zh-TW&user=D_JpQnAAAAAJ	Matthew T. Mason	Professor of Robotics and Computer Science, Carnegie Mellon University	15999
+/citations?hl=zh-TW&user=wQdo-bMAAAAJ	Nikolaos Papanikolopoulos	Professor of Computer Science, University of Minnesota	15373
+/citations?hl=zh-TW&user=AJJ6rkMAAAAJ	Fumihito Arai	The University of Tokyo	15249
+/citations?hl=zh-TW&user=NZNN3WIAAAAJ	Danwei Wang	Professor, Nanyang Technological University	14174
+/citations?hl=zh-TW&user=ZlSVieAAAAAJ	Danica Kragic	Professor of Computer Science, KTH - Royal Institute of Technology	13756
+/citations?hl=zh-TW&user=W7yeGUoAAAAJ	Alonzo Kelly	CMU	13667
+/citations?hl=zh-TW&user=Oo7c22wAAAAJ	Michael Yu Wang	Chair Professor, Hong Kong University of Science and Technology	13609
+/citations?hl=zh-TW&user=X5hwUlIAAAAJ	Kensuke Harada	Professor, Graduate School of Engineering Science, Osaka University	13526
+/citations?hl=zh-TW&user=Ic8NqXwAAAAJ	Maxim Likhachev	Associate Professor of Robotics, Carnegie Mellon University	13503
+/citations?hl=zh-TW&user=nxNkEiYAAAAJ	Russ Tedrake	MIT (EECS, MechE, Aero/Astro) and Toyota Research Institute	13112
+/citations?hl=zh-TW&user=t4k2EtkAAAAJ	Gamini Dissanayake	University of Technology, Sydney	13054
+/citations?hl=zh-TW&user=r50jBCUAAAAJ	Camillo Jose Taylor	University of Pennsylvania	12933
+/citations?hl=zh-TW&user=vfPE6hgAAAAJ	Chelsea Finn	Stanford University, Google	12821
+/citations?hl=zh-TW&user=DbviELoAAAAJ	Fuchun Sun	Professor, Department of Computer Science and Technology, Tsinghua University	12728
+/citations?hl=zh-TW&user=qmVayjgAAAAJ	Panagiotis Tsiotras	Georgia Institute of Technology	12613
+/citations?hl=zh-TW&user=DxDCU7AAAAAJ	Max Q.-H. Meng	The Chinese University of Hong Kong	12249
+/citations?hl=zh-TW&user=RxH1baIAAAAJ	Ke Xu	Rutgers University	12090
+/citations?hl=zh-TW&user=H1v0ztEAAAAJ	Sami Haddadin	TUM	11683
+/citations?hl=zh-TW&user=Vu-Zb7EAAAAJ	Sertac Karaman	Associate Professor of Aeronautics and Astronautics, Massachusetts Institute of Technology	11631
+/citations?hl=zh-TW&user=nNU3STcAAAAJ	Peter Kazanzides	Johns Hopkins University	11558
+/citations?hl=zh-TW&user=AmaB9c4AAAAJ	Nancy M. Amato	UIUC	11480
+/citations?hl=zh-TW&user=6zm5XD8AAAAJ	Mark Yim	University of Pennsylvania	11133
+/citations?hl=zh-TW&user=BSORuFoAAAAJ	Gregory Dudek	Professor of Computer Science, Center for Intelligent Machines, McGill University	10677
+/citations?hl=zh-TW&user=5031vK4AAAAJ	Shuran Song	Columbia University	10518
+/citations?hl=zh-TW&user=jFekO3IAAAAJ	Aaron M. Dollar	Professor of Mechanical Engineering & Materials Science and Computer Science, Yale	10468
+/citations?hl=zh-TW&user=LWmEzL0AAAAJ	Nathan Michael	Carnegie Mellon University	10289
+/citations?hl=zh-TW&user=a3ZGDsoAAAAJ	Radhika Nagpal	Harvard University	10105
+/citations?hl=zh-TW&user=S9LHLKEAAAAJ	David Hsu	Professor of Computer Science, National University of Singapore	10042
+/citations?hl=zh-TW&user=t7VnipMAAAAJ	Sylvain Calinon	EPFL	9740
+/citations?hl=zh-TW&user=2jHjwxkAAAAJ	Fumitoshi Matsuno	Professor of Mechanical Engineering and Science, Kyoto University	9646
+/citations?hl=zh-TW&user=SmGQ48gAAAAJ	Stefan Leutenegger	Assistant Professor at TU Munich	9573
+/citations?hl=zh-TW&user=4D1n8scAAAAJ	Ashish Kapoor	Partner Research Manager, Microsoft  Redmond	9452
+/citations?hl=zh-TW&user=_bKTUqAAAAAJ	Stan Birchfield	NVIDIA; Clemson University	9421
+/citations?hl=zh-TW&user=27eupmsAAAAJ	Michael Kaess	Associate Research Professor, Carnegie Mellon University	9189
+/citations?hl=zh-TW&user=y4E4buEAAAAJ	Sangbae Kim	Professor of Mechanical Engineering, MIT	9072
+/citations?hl=zh-TW&user=rQoKPUsAAAAJ	George Kantor	Senior Systems Scientist, Carnegie Mellon University	8833
+/citations?hl=zh-TW&user=32o8MkcAAAAJ	Gordon Cheng	Technical University of Munich	8774
+/citations?hl=zh-TW&user=EMDboA4AAAAJ	Yan Duan	Embodied Intelligence, UC Berkeley	8263
+/citations?hl=zh-TW&user=TDSmCKgAAAAJ	Michael Milford	QUT	7902
+/citations?hl=zh-TW&user=B76dD7YAAAAJ	Peter Welinder	OpenAI	7765
+/citations?hl=zh-TW&user=ZgYWodkAAAAJ	Patric Jensfelt	KTH Royal Institute of Technology	7618
+/citations?hl=zh-TW&user=xLk_w7kAAAAJ	John M. Dolan	The Robotics Institute, Carnegie Mellon University	7544
+/citations?hl=zh-TW&user=iAEBIB4AAAAJ	Francesc Moreno-Noguer	UPC	7437
+/citations?hl=zh-TW&user=1HO5UacAAAAJ	Saurabh Gupta	University of Illinois Urbana-Champaign	7194
+/citations?hl=zh-TW&user=ejWOgzYAAAAJ	Jonas Buchli	DeepMind	7167
+/citations?hl=zh-TW&user=VfJPjQ4AAAAJ	Ying Zhang	Google Inc.	7062
+/citations?hl=zh-TW&user=5ledxpAAAAAJ	Koh Hosoda	Graduate School of Engineering Science, Osaka University	7018
+/citations?hl=zh-TW&user=vcw0TJIAAAAJ	Michael S. Ryoo	Stony Brook University; Robotics at Google	7009
+/citations?hl=zh-TW&user=Z6gnDIEAAAAJ	Sudipta N. Sinha	Principal Researcher, Microsoft	6721
+/citations?hl=zh-TW&user=J7UkpAIAAAAJ	Hong Zhang	Professor of Computing Science, University of Alberta	6681
+/citations?hl=zh-TW&user=ZFRhP04AAAAJ	Alberto Sanfeliu	UPC	6574
+/citations?hl=zh-TW&user=RhOpyXcAAAAJ	Marco Pavone	Associate Professor of Aeronautics and Astronautics, Stanford University	6551
+/citations?hl=zh-TW&user=EYo_WkEAAAAJ	Sonia Chernova	Associate Professor, Georgia Institute of Technology	6326
+/citations?hl=zh-TW&user=l-la0GQAAAAJ	Julian Ibarz	GOOGLE INC.	6209
+/citations?hl=zh-TW&user=t2X4Mg8AAAAJ	Marc Toussaint	Professor of Computer Science, TU Berlin, Germany	6141
+/citations?hl=zh-TW&user=Jt1tl0YAAAAJ	Oscar Pizarro	University of Sydney	5963
+/citations?hl=zh-TW&user=KHhijC0AAAAJ	Luca Iocchi	Full Professor - Sapienza University of Rome, Italy	5910
+/citations?hl=zh-TW&user=RAiewnEAAAAJ	Matthew R. Walter	Toyota Technological Institute at Chicago	5716
+/citations?hl=zh-TW&user=5nniNdwAAAAJ	Cristian Secchi	University of Modena and Reggio Emilia	5586
+/citations?hl=zh-TW&user=Xdnc5IMAAAAJ	Jung Kim	Korea Advanced Institute of Science and Technology	5580
+/citations?hl=zh-TW&user=-XEZA0UAAAAJ	Ron Alterovitz	Professor of Computer Science, University of North Carolina at Chapel Hill	5525
+/citations?hl=zh-TW&user=XL9j2UUAAAAJ	Shuo Wang	Institute of Automation, Chinese Academy of Sciences	5411
+/citations?hl=zh-TW&user=U4kKRdMAAAAJ	Luca Carlone	Assistant Professor, Massachusetts Institute of Technology	5397
+/citations?hl=zh-TW&user=jzx6_ZIAAAAJ	Torsten Sattler	Senior Researcher, Czech Technical University in Prague	5362
+/citations?hl=zh-TW&user=T_mJiHoAAAAJ	Fabio Ramos	University of Sydney and NVIDIA	5352
+/citations?hl=zh-TW&user=u8Q0_xsAAAAJ	Shaojie Shen	Associate Professor, Hong Kong University of Science and Technology	5347
+/citations?hl=zh-TW&user=DqOnkE8AAAAJ	Antonio Franchi	CNRS	5229
+/citations?hl=zh-TW&user=dpayTBUAAAAJ	Paolo Robuffo Giordano	CNRS	5164
+/citations?hl=zh-TW&user=-EqbTXoAAAAJ	Mac Schwager	Stanford University	5139
+/citations?hl=zh-TW&user=Vzr1RukAAAAJ	Igor Mordatch	UC Berkeley	5136
+/citations?hl=zh-TW&user=LuA1j4oAAAAJ	Ludovic Righetti	New York University / Max-Planck Institute for Intelligent Systems	5092
+/citations?hl=zh-TW&user=Q5KT-hEAAAAJ	Volkan Isler	Professor, University of Minnesota	5047
+/citations?hl=zh-TW&user=456Oe4YAAAAJ	Kei Okada	The University of Tokyo	5032
+/citations?hl=zh-TW&user=NdOqlPQAAAAJ	Farshad Khorrami	Professor of Electrical and Computer Engineering, NYU	4968
+/citations?hl=zh-TW&user=t3l8q6gAAAAJ	Francesco Nori	Head of the robotics lab, Deepmind	4961
+/citations?hl=zh-TW&user=rq-9xAkAAAAJ	Nicolas Mansard	CNRS	4915

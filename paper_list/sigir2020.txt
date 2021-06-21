@@ -1,0 +1,294 @@
+Learning Efficient Representations of Mouse Movements toPredict User Attention in Sponsored Search
+Ioannis Arapakis: Telefonica Research; Luis A. Leiva: Aalto University
+Measuring Recommendation Explanation Quality: The Conflicting Goals of Explanations
+Krisztian Balog: Google; Filip Radlinski: Google
+Bayesian Inferential Risk Evaluation On Multiple IR Systems
+Rodger Benham: RMIT University; Ben Carterette: Spotify; J. Shane Culpepper: RMIT University; Alistair Moffat: The University of Melbourne
+Operationalizing the Legal Principle of Data Minimization for Personalization
+Asia J. Biega: Microsoft Research; Peter Potash: Microsoft Research; Hal Daumé III: Microsoft Research and University of Maryland; Fernando Diaz: Microsoft Research; Michèle Finck: Max Planck Institute for Innovation and Competition
+Training Effective Neural CLIR by Bridging the Translation Gap
+Hamed Bonab: University of Massachusetts Amherst; Sheikh Muhammad Sarwar: University of Massachusetts Amherst; James Allan: University of Massachusetts Amherst
+How to Measure the Reproducibility of System-oriented IR Experiments
+Timo Breuer: Technische Hochschule Koeln; Nicola Ferro: University of Padova; Norbert Fuhr: University of Duisburg-Essen; Maria Maistro: University of Copenhagen; Tetsuya Sakai: Waseda University; Philipp Schaer: Technische Hochschule Koeln; Ian Soboroff: NIST
+Domain-Adaptive Neural Automated Essay Scoring
+Yue Cao: Peking University; Hanqi Jin: Peking University; Xiaojun Wan: Peking University; Zhiwei Yu: Peking University
+AR-CF: Augmenting Virtual Users and Items in Collaborative Filtering for Addressing Cold-Start Problems
+Dong-Kyu Chae: Georgia Institute of Technology; Jihoo Kim: Hanyang University; Sang-Wook Kim: Hanyang University; Duen Horng Chau: Georgia Institute of Technology
+A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss
+Hou Pong Chan: The Chinese University of Hong Kong; Wang Chen: The Chinese University of Hong Kong; Irwin King: The Chinese University of Hong Kong
+Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation
+Chong Chen: Tsinghua University; Min Zhang: Tsinghua University; Weizhi Ma: Tsinghua University; Yiqun Liu: Tsinghua University; Shaoping Ma: Tsinghua University
+Studying Product Competition Using Representation Learning
+Fanglin Chen: New York University; Xiao Liu: New York University; Davide Proserpio: University of Southern California; Isamar Troncoso: University of Southern California; Feiyu Xiong: Alibaba Group
+Try This Instead: Personalized and Interpretable Substitute Recommendation
+Tong Chen: The University of Queensland; Hongzhi Yin: The University of Queensland; Guanhua Ye: The University of Queensland; Zi Huang: The University of Queensland; Yang Wang: Hefei University of Technology; Meng Wang: Hefei University of Technology
+ESAM: Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance
+Zhihong Chen: Zhejiang University; Rong Xiao: Alibaba Group; Chenliang Li: Wuhan University; Gangfeng Ye: Alibaba Group; Haochuan Sun: Alibaba Group; Hongbo Deng: Alibaba Group
+Table Search Using a Deep Contextualized Language Model
+Zhiyu Chen: Lehigh University; Mohamed Trabelsi: Lehigh University; Jeff Heflin: Lehigh University; Yinan Xu: Shenzhen Zhuiyi Technology; Brian Davison: Lehigh University
+Convolutional Embedding for Edit Distance
+Xinyan Dai: The Chinese University of Hong Kong; Xiao Yan: The Chinese University of Hong Kong; Kaiwen Zhou: The Chinese University of Hong Kong; Yuxuan Wang: The Chinese University of Hong Kong; Han Yang: The Chinese University of Hong Kong; James Cheng: The Chinese University of Hong Kong
+How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models
+Yashar Deldjoo: Polytechnic University of Bari; Tommaso Di Noia: Politecnico di Bari; Felice Antonio Merra: Politecnico di Bari; Eugenio Di Sciascio: Politecnico di Bari
+Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme
+Xue Dong: Shandong University; Jianlong Wu: Shandong University; Xuemeng Song: Shandong University; Hongjun Dai: Shandong University; Liqiang Nie: Shandong University
+What Makes a Top-Performing Precision Medicine Search Engine? Tracing Main System Features in a Systematic Way
+Erik Faessler: JULIE Lab Jena; Michel Oleynik: Medical University of Graz; Udo Hahn: Jena University
+HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation
+Shanshan Feng: Inception Institute of Artificial Intelligence; Lucas Vinh Tran: Nanyang Technological University; Gao Cong: Nanyang Technological University; Lisi Chen: Inception Institute of Artificial Intelligence; Jing Li: Inception Institute of Artificial Intelligence; Fan Li: Fraunhofer Singapore
+Using Phoneme Representations to Build Predictive Models Robust to ASR Errors
+Anjie Fang: Amazon; Simone Filice: Amazon; Nut Limsopatham: Microsoft; Oleg Rokhlenko: Amazon
+Fairness-Aware Explainable Recommendation over Knowledge Graphs
+Zuohui Fu: Rutgers University; Yikun Xian: Rutgers University; Ruoyuan Gao: Rutgers University; Jieyu Zhao: University of California, Los Angeles; Qiaoying Huang: Rutgers University; Yingqiang Ge: Rutgers University; Shuyuan Xu: Rutgers University; Shijie Geng: Rutgers University; Chirag Shah: University of Washington; Yongfeng Zhang: Rutgers University; Gerard de Melo: Rutgers University
+Query Rewriting for Voice Shopping Null Queries
+Iftah Gamzu: Amazon; Marina Haikin: Tel Aviv university; Nissim Halabi: Amazon
+DPLCF: Differentially Private Local Collaborative Filtering
+Chen Gao: Tsinghua University; Chao Huang: Tsinghua University; Dongsheng Lin: Tsinghua University; Yong Li: Tsinghua University; Depeng Jin: Tsinghua University
+Pairwise View Weighted Graph Network for View-based 3D Model Retrieval
+Zan Gao: Qilu University of Technology (Shandong Academic of Sciences); Yin-Ming Li: Tianjin University of Technology; Wei-Li Guan: Monash University Clayton Campus; Wei-Zhi Nie: Tianjin University of Technology; Zhi-Yong Cheng: Qilu University of Technology (Shandong Academic of Sciences); An-An Liu: Tianjin University of Technology
+Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning
+Zheng Gao: Indiana University Bloomington; Hongsong Li: Alibaba Group; Zhuoren Jiang: Sun Yat-sen University; Xiaozhong Liu: indiana university bloomington
+Learning Personalized Risk Preferences for Recommendation
+Yingqiang Ge: Rutgers University; Shuyuan Xu: Rutgers University; Shuchang Liu: Rutgers University; Zuohui Fu: Rutgers University; Fei Sun: Alibaba Group; Yongfeng Zhang: Rutgers University
+Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View
+Jibing Gong: School of Information Science and Engineering, Yanshan University; Shen Wang: UIC; Jinlong Wang: School of Information Science and Engineering, Yanshan University; Hao Peng: Beihang University; Wenzheng Feng: Tsinghua University; Dan Wang: School of Information Science and Engineering, Yanshan University; Yi Zhao: School of Information Science and Engineering, Yanshan University; Huanhuan Li: School of Information Science and Engineering, Yanshan University; Jie Tang: Tsinghua University; P. Yu: UIC
+Ranking-Incentivized Quality Preserving Content Modification
+Gregory Goren: Technion; Oren Kurland: Technion, Israel Institute of Technology; Moshe Tennenholtz: Technion; Fiana Raiber: Yahoo Research
+On Understanding Data Worker Interaction Behaviors
+Lei Han: The University of Queensland; Tianwa Chen: The University of Queensland; Gianluca Demartini: The University of Queensland; Marta Indulska: The University of Queensland; Shazia Sadiq: The University of Queensland
+Content-aware Neural Hashing for Cold-start Recommendation
+Casper Hansen: University of Copenhagen, Department of Computer Science; Christian Hansen: University of Copenhagen; Jakob Grue Simonsen: Department of Computer Science, University of Copenhagen; Stephen Alstrup: University of Copenhagen; Christina Lioma: University of Copenhagen
+Neural Representation Learning for Clarification in Conversational Search
+Helia Hashemi: University of Massachusetts Amherst; Hamed Zamani: Microsoft; Bruce Croft: University of Massachusetts Amherst
+Creating a Children-Friendly Reading Environment via Joint Learning of Content and Human Attention
+Guoxiu He: Wuhan University; Yangyang Kang: Alibaba Group; Zhuoren Jiang: Sun Yat-sen University; Jiawei Liu: Wuhan University; Changlong Sun: Alibaba Group; Xiaozhong Liu: Indiana University Bloomington; Wei Lu: Wuhan University
+LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
+Xiangnan He: University of Science and Technology of China; Kuan Deng: University of Science and Technology of China; Xiang Wang: National University of Singapore; Yan Li: Kuaishou Inc.; Yongdong Zhang: University of Science and Technology of China; Meng Wang: Hefei University of Technology
+GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation
+Zhixiang He: City University of Hong Kong; Chi-Yin Chow: City University of Hong Kong; Jia-Dong Zhang: City University of Hong Kong
+Query Reformulation in E-Commerce Search
+Sharon Hirsch: Technion - Israel Institute of Technology; Ido Guy: eBay Research; Alexander Nus: eBay Research; Arnon Dagan: eBay Research; Oren Kurland: Technion - Israel Institute of Technology
+Modeling Personalized Item Frequency Information for Next-basket Recommendation
+Haoji Hu: University of Minnesota, Twin Cities; Xiangnan He: University of Science and Technology of China; Jinyang Gao: Alibaba Inc.; Zhi-Li Zhang: University of Minnesota, Twin Cities
+Towards Linking Camouflaged Descriptions to Implicit Products in E-commerce
+Longtao Huang: Alibaba Group; Bo Yuan: Alibaba Group; Rong Zhang: Alibaba Group; Quan Lu: Alibaba Group
+BiANE: Bipartite Attributed Network Embedding
+Wentao Huang: Renmin University of China; Yuchen Li: Singapore Management University; Yuan Fang: Singapore Management University; Ju Fan: Renmin University of China; Hongxia Yang: DAMO Academy, Alibaba Group
+Accelerated Convergence for Counterfactual Learning to Rank
+Rolf Jagerman: University of Amsterdam; Maarten de Rijke: University of Amsterdam
+A Quantum Interference Inspired Neural Matching Model for Ad-hoc Retrieval
+Yongyu Jiang: Tianjin University; Peng Zhang: Tianjin University; Hui Gao: Tianjin University; Dawei Song: Beijing Institute of Technology
+Multi-behavior Recommendation with Graph Convolution Networks
+Bowen Jin: Tsinghua University; Chen Gao: Tsinghua University; Xiangnan He: University of Science and Technology of China; Yong Li: Tsinghua University; Depeng Jin: Tsinghua University
+A Deep Recurrent Survival Model for Unbiased Ranking
+Jiarui Jin: Shanghai Jiao Tong University; Yuchen Fang: Shanghai Jiao Tong University; Weinan Zhang: Shanghai Jiao Tong University; Kan Ren: Microsoft; Guorui Zhou: Alibaba; Jian Xu: Alibaba; Yong Yu: Shanghai Jiao Tong University; Jun Wang: University College London; Xiaoqiang Zhu: Alibaba; Kun Gai: Alibaba
+ADORE: Aspect Dependent Online REview Labeling for Review Generation
+Parisa Kaghazgaran: Texas A&M University; Jianling Wang: Texas A&M University; Ruihong Huang: Texas A&M University; James Caverlee: Texas A&M University
+ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT
+Omar Khattab: Stanford University; Matei Zaharia: Stanford University
+Finding the Best of Both Worlds: Faster and More Robust Top-k Document Retrieval
+Omar Khattab: Stanford University; Mohammad Hammoud: Carnegie Mellon University in Qatar; Tamer Elsayed: Qatar University
+Humor Detection in Product Question Answering Systems
+Elad Kravi: Amazon; David Carmel: Amazon; Yftah Ziser: Amazon
+Transfer Learning via Contextual Invariants for One-to-Many Cross-Domain Recommendation
+Adit Krishnan: University of Illinois at Urbana-Champaign; Mahashweta Das: Visa Research; Mangesh Bendre: Visa Research; Hao Yang: Visa Research; Hari Sundaram: University of Illinois at Urbana-Champaign
+ASiNE: Adversarial Signed Network Embedding
+Yeon-Chang Lee: Hanyang University; Nayoun Seo: Hanyang University; Sang-Wook Kim: Hanyang University; Kyungsik Han: Ajou University
+Hierarchical Fashion Graph Network for Personalised Outfit Recommendation
+Xingchen Li: Zhejiang University; Xiang Wang: National University of Singapore; Xiangnan He: University of Science and Technology of China; Long Chen: Zhejiang University; Jun Xiao: Zhejiang University; Tat-Seng Chua: National University of Singapore
+Meta Matrix Factorization for Federated Rating Predictions
+Yujie Lin: Shandong University; Pengjie Ren: University of Amsterdam; Zhumin Chen: Shandong University; Zhaochun Ren: Shandong University; Dongxiao Yu: Shandong University; Jun Ma: Shandong University; Maarten de Rijke: University of Amsterdam; Xiuzhen Cheng: Shandong University
+AutoGroup: Automatic Feature Grouping for Modelling Explicit High-Order Feature Interactions in CTR Prediction
+Bin Liu: Bytedance; Niannan Xue: Huawei Noah's Ark Lab; Huifeng Guo: Huawei Noah's Ark Lab; Ruiming Tang: Huawei Noah's Ark Lab; Stefanos Zafeiriou: Imperial College London; Xiuqiang He: Huawei Noah's Ark Lab; Zhenguo Li: Huawei Noah's Ark Lab
+A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data
+Dugang Liu: Shenzhen University; Pengxiang Cheng: Huawei Noah's ark lab; Zhenhua Dong: Huawei Noah's ark lab; Xiuqiang He: Huawei Noah's ark lab; Weike Pan: Shenzhen University; Zhong Ming: Shenzhen University
+DVGAN: A Minimax Game for Search Result Diversification Combining Explicit and Implicit Features
+Jiongnan Liu: Renmin University of China; Zhicheng Dou: Renmin University of China; Xiaojie Wang: University of Melbourne; Shuqi Lu: Renmin University of China; Ji-Rong Wen: Renmin University of China
+Investigating Reference Dependence Effects on User Search Interaction and Satisfaction
+Jiqun Liu: Rutgers University; Fangyuan Han: Xiamen University
+Joint-modal Distribution-based  Similarity Hashing for Large-scale Unsupervised Deep Cross-modal Retrieval
+Song Liu: School of Electronic and Computer Engineering, Peking University; Shengsheng Qian: National Lab of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences; Yang Guan: iQIYI ltd; Jiawei Zhan: School of Electronic and Computer Engineering, Peking University; Long Ying: School of Computer and Software, Nanjing University of Information Science & Technology
+Certifiable Robustness to Discrete Adversarial Perturbations for Factorization Machines
+Yang Liu: Sun Yat-sen University; Xianzhuo Xia: Sun Yat-sen University; Liang Chen: Sun Yat-sen University; Xiangnan He: University of Science and Technology of China; Carl Yang: University of Illinois, Urbana Champaign; Zibin Zheng: Sun Yat-sen University
+Octopus: Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates
+Zheng Liu: MSRA; Junhan Yang: USTC; Jianxun Lian: MSRA; Defu Lian: USTC; Xing Xie: MSRA
+Knowledge Enhanced Personalized Search
+Shuqi Lu: Renmin University of China; Zhicheng Dou: Renmin University of China; Chenyan Xiong: Microsoft Research; Xiaojie Wang: University of Melbourne; Ji-Rong Wen: Renmin University of China
+Spatial Object Recommendation with Hints: When Spatial Granularity Matters
+Hui Luo: RMIT University; Jingbo Zhou: Business Intelligence Lab, Baidu Research; Zhifeng Bao: RMIT University; Shuangli Li: Business Intelligence Lab, Baidu Research; J. Shane Culpepper: RMIT University; Haochao Ying: Business Intelligence Lab, Baidu Research; Hao Liu: Business Intelligence Lab, Baidu Research; Hui Xiong: Business Intelligence Lab, Baidu Research
+Deep Critiquing for VAE-based Recommender Systems
+Kai Luo: University of Toronto; Hojin Yang: University of Toronto; Ga Wu: University of Toronto; Scott Sanner: University of Toronto
+Learning Dynamic Node Representations with Graph Neural Networks
+Yao Ma: Michigan State University; Ziyi Guo: JD.com; Zhaochun Ren: Shangdong University; Jiliang Tang: Michigan State University; Dawei Yin: Baidu Inc.
+Training Curricula for Open Domain Answer Re-Ranking
+Sean MacAvaney: Georgetown University; Franco Maria Nardini: ISTI-CNR; Raffaele Perego: ISTI-CNR; Nicola Tonellotto: University of Pisa; Nazli Goharian: Georgetown University; Ophir Frieder: Georgetown University
+Efficient Document Re-Ranking for Transformers by Precomputing Term Representations
+Sean MacAvaney: Georgetown University; Franco Maria Nardini: ISTI-CNR; Raffaele Perego: ISTI-CNR; Nicola Tonellotto: University of Pisa; Nazli Goharian: Georgetown University; Ophir Frieder: Georgetown University
+Learning Colour Representations of Search Queries
+Paridhi Maheshwari: Adobe Research; Manoj Ghuhan A: Adobe Research; Vishwa Vinay: Adobe Research
+Agreement and Disagreement between True and False-Positive Metrics in Recommender Systems Evaluation
+Elisa Mena-Maldonado: RMIT University; Rocío Cañamares: Universidad Autónoma de Madrid; Pablo Castells: Universidad Autónoma de Madrid; Yongli Ren: RMIT University; Mark Sanderson: RMIT University
+DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation
+Chuan Meng: Shandong University; Pengjie Ren: University of Amsterdam; Zhumin Chen: Shandong University; Weiwei Sun: Shandong University; Zhaochun Ren: Shandong University; Zhaopeng Tu: Tencent AI Lab; Maarten de Rijke: University of Amsterdam
+Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation
+Wenjing Meng: Fudan university; Deqing Yang: Fudan University; Yanghua Xiao: Fudan university
+A Reinforcement Learning Framework for Relevance Feedback
+Ali Montazeralghaem: University of Massachusetts Amherst; Hamed Zamani: Microsoft AI Research; James Allan: University of Massachusetts Amherst
+Controlling Fairness and Bias in Dynamic Ranking
+Marco Morik: Cornell University; Ashudeep Singh: Cornell University; Jessica Hong: Cornell University; Thorsten Joachims: Cornell University
+Recommending Podcasts for Cold-Start Users Based on Music Listening and Taste
+Zahra Nazari: Spotify; Christophe Charbuillet: Spotify; Johan Pages: Spotify; Martin Laurent: Spotify; Denis Charrier: Spotify; Briana Vecchione: Cornell University; Benjamin Carterette: Spotify
+Policy-Aware Unbiased Learning to Rank for Top-k Rankings
+Harrie Oosterhuis: University of Amsterdam; Maarten de Rijke: University of Amsterdam
+An Eye Tracking Study of Web Search by People with and without Dyslexia
+Srishti Palani: UCSD; Adam Fourney: Microsoft Research; Shane Williams: Microsoft Research; Kevin Larson: Micorosoft Research; Irina Spiridonova: Microsoft Research; Meredith Ringel Morris: Microsoft Research
+SetRank: Learning a Permutation-Invariant Ranking Model for Information Retrieval
+Liang Pang: ICT; Jun Xu: School of Information, Renmin University of China; Qingyao Ai: University of Utah; Yanyan Lan: ICT; Xueqi Cheng: Institute of Computing Technology, CAS, P. R. China; Ji-Rong Wen: Renmin University
+Leveraging Social Media for Medical Text Simplification
+Nikhil Pattisapu: IIIT Hyderabad; Nishant Prabhu: IIIT Hyderabad; Smriti Bhati: IIIT Hyderabad; Vasudeva Varma: IIIT Hyderabad
+The Cortical Activity of Graded Relevance
+Zuzana Pinkosova: Miss; William McGeown: University of Strathclyde; Yashar Moshfeghi: University of Strathclyde
+Enhancing Text Classification via Discovering Additional Semantic Clues from Logograms
+Chen Qian: Tsinghua University; Fuli Feng: National University of Singapore; Lijie Wen: Tsinghua University; Li Lin: Tsinghua University; Tat-Seng Chua: National University of Singapore
+What If Bots Feel Moods? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks
+Lisong Qiu: Peking University; Ying Wai Shiu: Microsoft XiaoIce; Pingping Lin: Microsoft XiaoIce; Ruihua Song: Microsoft XiaoIce; Yue Liu: Microsoft XiaoIce; Dongyan Zhao: Peking University; Rui Yan: Peking University
+GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation
+Ruihong Qiu: The University of Queensland; Hongzhi Yin: The University of Queensland; Zi Huang: The University of Queensland; Tong Chen: The University of Queensland
+Open-Retrieval Conversational Question Answering
+Chen Qu: University of Massachusetts Amherst; Liu Yang: University of Massachusetts Amherst; Cen Chen: Ant Financial Services Group; Minghui Qiu: Alibaba; W. Bruce Croft: University of Massachusetts Amherst; Mohit Iyyer: University of Massachusetts Amherst
+Sequential Recommendation with Self-attentive Multi-adversarial Network
+Ruiyang Ren: Renmin University of China; Zhaoyang Liu: Alibaba Group; Yaliang Li: Alibaba Group; Wayne Xin Zhao: Renmin University of China; Hui Wang: Renmin University of China; Bolin Ding: Alibaba Group; Ji-Rong Wen: Renmin University of China
+Can The Crowd Identify Misinformation Objectively? The Effects of Judgments Scale and Assessor's Bias
+Kevin Roitero: University of Udine; Michael Soprano: University of Udine; Shaoyang Fan: The University of Queensland; Damiano Spina: RMIT University; Stefano Mizzaro: University of Udine; Gianluca Demartini: The University of Queensland
+Distributed Equivalent Substitution Training for Large-Scale Recommender Systems
+Haidong Rong: Tencent; Yangzihao Wang: Tencent; Feihu Zhou: Tencent; Junjie Zhai: Tencent; Haiyang Wu: Tencent; Rui Lan: Tencent; Fan Li: Tencent; Han Zhang: Tencent; Yuekui Yang: Tencent; Zhenyu Guo: Tencent; Di Wang: Tencent
+Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback
+Yuta Saito: Tokyo Institute of Technology
+Good Evaluation Measures based on Document Preferences
+Tetsuya Sakai: Waseda University; Zhaohao Zeng: Waseda University
+GroupIM: A Mutual Information Maximizing Framework for Neural Group Recommendation
+Aravind Sankar: University of Illinois, Urbana-Champaign; Yanhong Wu: Visa Research; Yuhang Wu: Visa Research; Wei Zhang: Visa Research; Hao Yang: Visa Research; Hari Sundaram: University of Illinois at Urbana-Champaign
+The Impact of More Transparent Interfaces on Behavior in Personalized Recommendation
+Tobias Schnabel: Microsoft; Paul Bennett: Microsoft; Saleema Amershi: Microsoft; Peter Bailey: Microsoft; Thorsten Joachims: Cornell University
+Learning to Ask Screening Questions for Job Postings
+Baoxu Shi: LinkedIn; Shan Li: LinkedIn; Jaewon Yang: LinkedIn; Mustafa Emre Kazdagli: LinkedIn; Qi He: LinkedIn
+Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation
+Shaoyun Shi: Tsinghua University; Weizhi Ma: Tsinghua University; Min Zhang: Tsinghua University; Yongfeng Zhang: Rutgers University; Xinxing Yu: Zhihu; Houzhi Shan: Zhihu; Yiqun Liu: Tsinghua University; Shaoping Ma: Tsinghua University
+Web Table Retrieval using Multimodal Deep Learning
+Roee Shraga: Technion - Israel Institute of Technology; Haggai Roitman: IBM Research; Guy Feigenblat: IBM Research; Mustafa Canim: IBM Research
+Learning with Weak Supervision for Email Intent Detection
+Kai Shu: Arizona State University; Subhabrata Mukherjee: Microsoft; Guoqing Zheng: Microsoft; Ahmed Hassan Awadallah: Microsoft; Milad Shokouhi: Microsoft; Susan Dumais: Microsoft
+3D Self-Attention for Unsupervised Video Quantization
+Jingkuan Song: uestc; Ruimin Lang: uestc; Xiaosu Zhu: uestc; Xing Xu: University of Electronic Science and Technology of China; Lianli Gao: uestc; Heng Tao Shen: University of Electronic Science and Technology of China
+Neighbor Interaction Aware Graph Convolution Networks for Recommendation
+Jianing Sun: Huawei Technologies Canada; Yingxue Zhang: Huawei Technologies Canada; Wei Guo: Huawei Noah's Ark Lab; Huifeng Guo: Huawei Noah's Ark Lab; Ruiming Tang: Huawei Noah's Ark Lab; Xiuqiang He: Huawei Noah's Ark Lab; Chen Ma: McGill University; Mark Coates: McGill University
+Dual Sequential Network for Temporal Sets Prediction
+Leilei Sun: Beihang University; Yansong Bai: Beihang University; Bowen Du: Beihang University; Chuanren Liu: University of Tennessee; Hui Xiong: Rutgers University; Weifeng Lv: Beihang University
+A General Network Compression Framework for Sequential Recommender Systems
+Yang Sun: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Fajie Yuan: Tencent; Min Yang: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Guoao Wei: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences; Zhou Zhao: Zhejiang University; Duo Liu: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+MVIN: Learning multiview items for recommendation
+Chang-You Tai: Academic Sinica; Meng-Ru Wu: Academia Sinica; Yun-Wei Chu: Acadamic Sinica; Shao-Yu Chu: Academia Sinica; Lun-Wei Ku: Institute of Information Science, Academia Sinica
+Expressions of Style in Information Seeking Conversation with an Agent
+Paul Thomas: Microsoft; Daniel Mcduff: Microsoft; Mary Czerwinski: Microsoft; Nick Craswell: Microsoft
+Product Bundle Identification using Semi-Supervised Learning
+Hen Tzaban: Ben-Gurion University of the Negev; Ido Guy: eBay Research; Asnat Greenstein-Messica: Ben-Gurion University of the Negev; Arnon Dagan: eBay Research; Lior Rokach: Ben-Gurion University of the Negev; Bracha Shapira: Ben-Gurion University of the Negev
+Generating Images Instead of Retrieving them: Relevance feedback on Generative Adversarial Networks
+Antti Ukkonen: University of Helsinki; Pyry Joona: University of Helsinki; Tuukka Ruotsalo: University of Helsinki
+Query Resolution for Conversational Search with Limited Supervision
+Nikos Voskarides: University of Amsterdam; Dan Li: University of Amsterdam; Pengjie Ren: University of Amsterdam; Evangelos Kanoulas: University of Amsterdam; Maarten de Rijke: University of Amsterdam
+Make It a CHORUS: Context- and Knowledge-aware Item Modeling for Recommendation
+Chenyang Wang: Tsinghua University; Min Zhang: Tsinghua University; Weizhi Ma: Tsinghua University; Yiqun Liu: Tsinghua University; Shaoping Ma: Tsinghua University
+Online Collective Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval
+Di Wang: Xidian University; Quan Wang: Xidian University; Yaqiang An: Xidian University; Xinbo Gao: Xidian University; Yumin Tian: Xidian University
+Next-item Recommendation with Sequential Hypergraphs
+Jianling Wang: Texas A&M University; Kaize Ding: Arizona State University; Liangjie Hong: Etsy Inc.; Huan Liu: Arizona State University; James Caverlee: Texas A&M University
+KERL: A Knowledge-Guided Reinforcement Learning Model for  Sequential Recommendation
+Pengfei Wang: Beijing University of Posts and Telecommunications; Yu Fan: Beijing University of Posts and Telecommunications; Long Xia: School of Information Technology, York University; Wayne Xin Zhao: School of Information, Renmin University of China; Shaozhang Niu: BUPT; Jimmy Huang: School of Information Technology, York University
+Coding Electronic Health Records with Adversarial Reinforcement Path Generation
+Shanshan Wang: Shandong University; Pengjie Ren: University of Amsterdam; Zhumin Chen: Shandong University; Zhaochun Ren: Shandong University; Jian-Yun Nie: Université de Montréal; Jun Ma: Shandong University; Maarten de Rijke: University of Amsterdam
+Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation
+Wen Wang: East China Normal University; Wei Zhang: East China Normal University; Jun Rao: Search Product Center, WeChat Search Application Department, Tencent; Zhijie Qiu: Search Product Center, WeChat Search Application Department, Tencent; Bo Zhang: Search Product Center, WeChat Search Application Department, Tencent; Leyu Lin: Search Product Center, WeChat Search Application Department, Tencent; Hongyuan Zha: Georgia Institute of Technology
+Disentangled Representations for Graph-based Collaborative Filtering
+Xiang Wang: National University of Singapore; Hongye Jin: Peking University; An Zhang: National University of Singapore; Xiangnan He: University of Science and Technology of China; Tong Xu: University of Science and Technology of China; Tat-Seng Chua: National University of Singapore
+Evolutionary Product Description Generation: A Dynamic Fine-Tuning Approach Leveraging User Click Behavior
+Yongzhen Wang: Indiana University Bloomington; Jian Wang: Alibaba Group; Heng Huang: Alibaba Group; Hongsong Li: Alibaba Group; Xiaozhong Liu: Indiana University Bloomington
+CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems
+Ze Wang: Beihang University; Lin Guangyan: Beihang University; Huobin Tan: Beihang University; Qinghong Chen: Beihang University; Xiyang Liu: Beihang University
+Global Context Enhanced Graph Nerual Networks for Session-based Recommendation
+Ziyang Wang: Huazhong University of Science and Technology; Wei Wei: Huazhong University of Science and Technology; Cong Gao: Nanyang Technological University; Xiaoli Li: Institute for Infocomm Research; Xianling Mao: Beijing Institute of Technology; Minghui Qiu: Alibaba Group
+Match$^2$: A Matching over Matching Model for Similar Question Identification
+Zizhen Wang: Institute of Computing Technology, Chinese Academy of Science; Yixing Fan: Institute of Computing Technology, Chinese Academy of Science; Jiafeng Guo: Institute of Computing Technology, Chinese Academy of Science; Liu Yang: University of Massachusetts Amherst; Ruqing Zhang: Institute of Computing Technology, Chinese Academy of Science; Yanyan Lan: Institute of Computing Technology, Chinese Academy of Science; Xueqi Cheng: Institute of Computing Technology, CAS, P. R. China; Hui Jiang: Alibaba Group; Xiaozhao Wang: Alibaba Group
+Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation
+Le Wu: Hefei University of Technology; Yonghui Yang: Hefei University of Technology; Lei Chen: Hefei University of Technology; Defu Lian: Unversity of Science and Technology of China; Richang Hong: Hefei University of Technology; Meng Wang: Hefei University of Technology
+Joint Item Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network Approach
+Le Wu: Hefei University of Technology; Yonghui Yang: Hefei University of Technology; Kun Zhang: Hefei University of Technology; Richang Hong: Hefei University of Technology; Yanjie Fu: University of Central Florida; Meng Wang: Hefei University of Technology
+Preference-based Evaluation Metrics for Web Image Search
+Xiaohui Xie: Tsinghua University; Jiaxin Mao: Tsinghua University; Yiqun Liu: Tsinghua University; Maarten de Rijke: University of Amsterdam; Haitian Chen: Tsinghua University; Min Zhang: Tsinghua University; Shaoping Ma: Tsinghua University
+Self-Supervised Reinforcement Learning for Recommender Systems
+Xin Xin: University of Glasgow; Alexandros Karatzoglou: Google London; Ioannis Arapakis: Telefonica Research; Joemon Jose: University of Glasgow
+Reinforcement Learning to Rank with Pairwise Policy Gradient
+Jun Xu: Renmin University of China; Zeng Wei: Institute of  Computing Technology; Long Xia: School of Information Technology, York University; Yanyan Lan: ICT; Dawei Yin: Baidu Inc.; Xueqi Cheng: Institute of Computing Technology, Chinese Academy of Sciences; Ji-Rong Wen: Renmin University
+Correlated Features Synthesis and Alignment for Zero-shot Cross-modal Retrieval
+Xing Xu: University of Electronic Science and Technology of China; Kaiyi Lin: University of Electronic Science and Technology of China; Huimin Lu: Kyushu Institute of Technology; Lianli Gao: University of Electronic Science and Technology of China; Heng Tao Shen: University of Electronic Science and Technology of China
+Generative Attribute Manipulation Scheme for Flexible Fashion Search
+Xin Yang: Shandong University; Xuemeng Song: Shandong University; Xianjing Han: Shandong University; Haokun Wen: Shandong University; Jie Nie: Ocean University of China; Liqiang Nie: Shandong University
+Tree-augmented Cross-Modal Encoding for Complex-Query Video Retrieval
+Xun Yang: National University of Singapore; Jianfeng Dong: Zhejiang Gongshang University; Yixin Cao: National University of Singapore; Xun Wang: Zhejiang Gongshang University; Meng Wang: Hefei University of Technology; Tat-Seng Chua: National University of Singapore
+Nonlinear Robust Discrete Hashing for Cross-Modal Retrieval
+Zhan Yang: Central South University; Jun Long: Central South University; Lei Zhu: Central South University; Wenti Huang: Central South University
+Employing Personal Word Embeddings for Personalized Search
+Jing Yao: Renmin University of China; Zhicheng Dou: Renmin University of China; Ji-Rong Wen: Renmin University
+Time Matters: Sequential Recommendation with Complex Temporal Information
+Wenwen Ye: Tsinghua University; Shuaiqiang Wang: JD.COM; Xu Chen: Tsinghua University; Xuepeng Wang: JD.COM; Zheng Qin: Tsinghua University; Dawei Yin: Baidu Inc.
+Sampler Design for Implicit Feedback Data by Noisy-label Robust Learning
+Wenhui Yu: Tsinghua University; Zheng Qin: Tsinghua University
+Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation
+Fajie Yuan: Tencent; Xiangnan He: University of Science and Technology of China; Alexandros Karatzoglou: Google; Liguang Zhang: Tencent
+Efficient Graph Query Processing over Geo-Distributed Datacenters
+Ye Yuan: Beijing Institute of Technology; Delong Ma: Northeastern University; Zhenyu Wen: Newcastle University; Yuliang Ma: Northeastern University; Guoren Wang: Beijing Institute of Technology; Lei Chen: Hong Kong University of Science and Technology
+Spatio-Temporal Dual Graph Attention Network for Query-POI Matching
+Zixuan Yuan: Rutgers University; Hao Liu: Business Intelligence Lab, Baidu Research; Yanchi Liu: yanchi.liu@rutgers.edu; Denghui Zhang: Rutgers University; Fei Yi: Northwestern Polytechnical University; Nengjun Zhu: Shanghai Jiao Tong University; Hui Xiong: Rutgers University
+Analyzing and Learning from User Interactions for Search Clarification
+Hamed Zamani: Microsoft; Bhaskar Mitra: Microsoft; Everest Chen: Microsoft; Gord Lueck: Microsoft; Fernando Diaz: Microsoft; Paul Bennett: Microsoft; Nick Craswell: Microsoft; Susan Dumais: Microsoft
+Degree-Aware Alignment for Entities in Tail
+Weixin Zeng: National University of Defense Technology; Xiang Zhao: National University of Defense Technology; Wei Wang: The University of New South Wales; Jiuyang Tang: National University of Defense Technology; Zhen Tan: National University of Defense Technology
+Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics
+Fan Zhang: Tsinghua University; Jiaxin Mao: Tsinghua University; Yiqun Liu: Tsinghua University; Xiaohui Xie: Tsinghua University; Weizhi Ma: Tsinghua University; Min Zhang: Tsinghua University; Shaoping Ma: Tsinghua University
+Cascade or Recency: Constructing Better Evaluation Metrics for Session Search
+Fan Zhang: Tsinghua University; Jiaxin Mao: Tsinghua University; Yiqun Liu: Tsinghua University; Weizhi Ma: Tsinghua University; Min Zhang: Tsinghua University; Shaoping Ma: Tsinghua University
+Web-to-Voice Transfer for Product Recommendation on Voice
+Rongting Zhang: Amazon; Jie Yang: Amazon Research
+GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Identification
+Shijie Zhang: The University of Queensland; Hongzhi Yin: The University of Queensland; Tong Chen: The University of Queensland; Nguyen Quoc Viet Hung: Griffith University; Zi Huang: The University of Queensland; Lizhen Cui: Shandong University
+Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling
+Wenxuan Zhang: The Chinese University of Hong Kong; Yang Deng: The Chinese University of Hong Kong; Wai Lam: The Chinese University of Hong Kong
+How to Retrain a Recommender System?
+Yang Zhang: university of science and technology of china; Xiangnan He: university of science and technology of china; Fuli Feng: National University of Singapore; Chenxu Wang: university of science and technology of china; Meng Wang: Hefei University of Technology; Yan Li: Kuaishou Inc.; Yongdong Zhang: University of Science and Technology of China
+Minimally Supervised Categorization of Text with Metadata
+Yu Zhang: University of Illinois at Urbana-Champaign; Yu Meng: University of Illinois at Urbana-Champaign; Jiaxin Huang: University of Illinois at Urbana-Champaign; Frank F. Xu: Carnegie Mellon University; Xuan Wang: University of Illinois at Urbana-Champaign; Jiawei Han: University of Illinois at Urbana-Champaign
+CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network
+Cheng Zhao: Wuhan University; Chenliang Li: Wuhan University; Rong Xiao: Alibaba Group; Hongbo Deng: Alibaba Group; Aixin Sun: Nanyang Technological University
+MaHRL: Multi-goals Abstraction based Deep Hierarchical Reinforcement Learning for Recommendations
+Dongyang Zhao: Peking University; Liang Zhang: JD.com; Bo Zhang: JD Com; Lizhou Zheng: JD.com; Yongjun Bao: JD.com; Weipeng Yan: JD.com
+Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs
+Kangzhi Zhao: Tsinghua University; Xiting Wang: Microsoft Research Asia; Yuren Zhang: University of Science and Technology of China; Li Zhao: Microsoft Research Asia; Zheng Liu: Microsoft Research Asia; Chunxiao Xing: Tsinghua University; Xing Xie: Microsoft Research Asia
+DGL-KE: Training knowledge graph embeddings at scale
+Da Zheng: Amazon; Xiang Song: Amazon; Chao Ma: Amazon; Zeyuan Tan: Amazon; Zihao Ye: Amazon; Hao Xiong: Amazon; Zheng Zhang: Amazon; George Karypis: Amazon
+Incorporating Scenario Knowledge into A Unified Fine-tuning Architecture for Event Representation
+Jianming Zheng: National University of Defense Technology; Fei Cai: National University of Defense Technology; Honghui Chen: National University of Defense Technology
+Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning
+Sijin Zhou: Shanghai Jiao Tong University; Xinyi Dai: Shanghai Jiao Tong University; Haokun Chen: Shanghai Jiao Tong University; Weinan Zhang: Shanghai Jiao Tong University; Kan Ren: Microsoft; Ruiming Tang: Huawei; Xiuqiang He: Noah's Ark Lab, Huawei; Yong Yu: Shanghai Jiao Tong University
+Encoding History with Context-aware Representation Learning for Personalized Search
+Yujia Zhou: Renmin University of China; Zhicheng Dou: Renmin University of China; Ji-Rong Wen: Renmin University of China
+Regional Relation Modeling for Visual Place Recognition
+Yingying Zhu: Shenzhen University; Biao Li: Shenzhen University; Jiong Wang: Shenzhen University; Zhou Zhao: ZJU
+Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation
+Ziwei Zhu: Texas A&M University; Shahin Sefati: Comcast Applied AI Research; Parsa Saadatpanah: University of Maryland; James Caverlee: Texas A&M University
+Measuring and Mitigating Item Under-Recommendation Bias in Personalized Ranking Systems
+Ziwei Zhu: Texas A&M University; Jianling Wang: Texas A&M University; James Caverlee: Texas A&M University
+Joint Aspect-Sentiment Analysis with Minimal User Guidance
+Honglei Zhuang: University of Illinois at Urbana-Champaign; Fang Guo: University of Illinois at Urbana-Champaign; Chao Zhang: Georgia Institute of Technology; Liyuan Liu: University of Illinois at Urbana-Champaign; Jiawei Han: University of Illinois at Urbana-Champaign
+Towards Question-based Recommender Systems
+Jie Zou: University of Amsterdam; Yifan Chen: National University of Defense Technology; Evangelos Kanoulas: University of Amsterdam
+Neural Interactive Collaborative Filtering
+Lixin Zou: Tsinghua University; Long Xia: School of Information Technology, York University; Yulong Gu: JD Data Science Lab; Weidong Liu: Tsinghua University; Dawei Yin: Baidu Inc.; Jimmy Huang: School of Information Technology, York University; Xiangyu Zhao: Michigan State University

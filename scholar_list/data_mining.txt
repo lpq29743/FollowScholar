@@ -1,0 +1,82 @@
+/citations?hl=zh-TW&user=Kv9AbjMAAAAJ	Jiawei Han	UIUC	155035
+/citations?hl=zh-TW&user=D0lL1r0AAAAJ	Philip S. Yu	Professor of Computer Science, University of Illinois at Chicago	137900
+/citations?hl=zh-TW&user=nd8lQQIAAAAJ	Christos Faloutsos	CMU	98739
+/citations?hl=zh-TW&user=Q_kKkIUAAAAJ	Jure Leskovec	Professor of Computer Science, Stanford University	82265
+/citations?hl=zh-TW&user=Dzf46C8AAAAJ	Huan Liu	Professor of Computer Science and Engineering, Arizona State University	66226
+/citations?hl=zh-TW&user=x_wsduUAAAAJ	Charu Aggarwal	Distinguished Research Staff Member, IBM TJ Watson Research Center	60450
+/citations?hl=zh-TW&user=zIMEVKsAAAAJ	Jian Pei	Professor of Computing Science, Simon Fraser University	53862
+/citations?hl=zh-TW&user=ZYwC_CQAAAAJ	Martin Ester	Professor of Computer Science, Simon Fraser University	42719
+/citations?hl=zh-TW&user=vNAD0mAAAAAJ	Gerhard Weikum	Professor of Computer Science, Max Planck Institute for Informatics	38690
+/citations?hl=zh-TW&user=Xnk4W5cAAAAJ	Joydeep Ghosh	University of Texas at Austin	33357
+/citations?hl=zh-TW&user=5EQfAFIAAAAJ	Xing Xie 谢幸	Senior Principal Research Manager, Microsoft (Microsoft Research Asia, China)	32817
+/citations?hl=zh-TW&user=reYJaYMAAAAJ	Raymond Ng	University of British Columbia	30604
+/citations?hl=zh-TW&user=xNs4D2QAAAAJ	Pang-Ning Tan	Professor of Computer Science, Michigan State University	28812
+/citations?hl=zh-TW&user=vs4zs0cAAAAJ	Alexander Tuzhilin	Professor of Information Systems, NYU	28417
+/citations?hl=zh-TW&user=iHevumsAAAAJ	Jeffrey Xu Yu	Chinese University of Hong Kong	27924
+/citations?hl=zh-TW&user=UedS9LQAAAAJ	Wei Wang	UCLA	26259
+/citations?hl=zh-TW&user=T9AzhwcAAAAJ	Jieping Ye	University of Michigan	23947
+/citations?hl=zh-TW&user=RY7cuPAAAAAJ	Arindam Banerjee	Founder Professor, Dept of Computer Science,  University of Illinois Urbana-Champaign	22851
+/citations?hl=zh-TW&user=QvAC0OEAAAAJ	Wei Fan	Tencent Medical AI Lab	22730
+/citations?hl=zh-TW&user=11JgipcAAAAJ	Aristides Gionis	KTH Royal Institute of Technology, and Aalto University	20741
+/citations?hl=zh-TW&user=GkYIrlIAAAAJ	Masashi Sugiyama	The University of Tokyo	18716
+/citations?hl=zh-TW&user=cVDF1tkAAAAJ	Hui Xiong	Distinguished Professor, Rutgers University	17423
+/citations?hl=zh-TW&user=i6wFsEQAAAAJ	Ke Wang	Professor of Computing Science, Simon Fraser University	16778
+/citations?hl=zh-TW&user=E3yQKloAAAAJ	Xiaoli Li	Principal Scientist and Dept Head, Institute for Infocomm Research; Adjunct Professor, NTU	15719
+/citations?hl=zh-TW&user=O8XxkE4AAAAJ	Aidong Zhang	Professor of Computer Science, University of Virginia	15428
+/citations?hl=zh-TW&user=FjCbjDYAAAAJ	Fei Wang	Associate Professor at Cornell University	15407
+/citations?hl=zh-TW&user=zr22WkQAAAAJ	Qiaozhu Mei	Professor, University of Michigan	15017
+/citations?hl=zh-TW&user=WtzKMWAAAAAJ	Jiliang Tang	Michigan State University	15009
+/citations?hl=zh-TW&user=B6lBmqEAAAAJ	Chengqi Zhang	Nanjing University	14524
+/citations?hl=zh-TW&user=TVSNq_wAAAAJ	Qinghua Hu	Professor of Computer Science, Tianjin University	13353
+/citations?hl=zh-TW&user=Q9h02J0AAAAJ	Enhong Chen	University of Science and Technology of China	12576
+/citations?hl=zh-TW&user=wUsI0cAAAAAJ	Christopher Leckie	Professor, Computing and Information Systems, The University of Melbourne	11368
+/citations?hl=zh-TW&user=-0q6cIYAAAAJ	Yike Guo	Professor of Computing Science , Imperial College London	10728
+/citations?hl=zh-TW&user=Ftj1h4cAAAAJ	Jing Gao	Associate Professor, School of Electrical and Computer Engineering, Purdue University	10709
+/citations?hl=zh-TW&user=s3lQL7YAAAAJ	Hong Cheng	Professor, The Chinese University of Hong Kong	10600
+/citations?hl=zh-TW&user=pcCS60IAAAAJ	Xia Hu	Associate Professor of Computer Science and Engineering, Texas A&M University	9820
+/citations?hl=zh-TW&user=BqJQlosAAAAJ	Ruofei Zhang	Microsoft	9749
+/citations?hl=zh-TW&user=6CTPn44AAAAJ	Jennifer Neville	Professor of Computer Science and Statistics, Purdue University	9622
+/citations?hl=zh-TW&user=fdUJcwYAAAAJ	Sanjay Chawla	Qatar Computing Research Institute, HBKU	9246
+/citations?hl=zh-TW&user=B-d1EHAAAAAJ	Nicholas Jing Yuan	Huawei Cloud	9200
+/citations?hl=zh-TW&user=SgNB-ioAAAAJ	Juanzi Li	Tsinghua University	9059
+/citations?hl=zh-TW&user=eG-C3JIAAAAJ	Slobodan Vucetic	Professor of Computer Science, Temple University	8446
+/citations?hl=zh-TW&user=G8x97ZgAAAAJ	Peng Cui	Department of Computer Science, Tsinghua University	8353
+/citations?hl=zh-TW&user=9f3ZcbYAAAAJ	Kai Ming Ting	Nanjing University	8282
+/citations?hl=zh-TW&user=rZgbMs4AAAAJ	Bryan Perozzi	Stony Brook University	7340
+/citations?hl=zh-TW&user=bkTB0t8AAAAJ	Hisashi Kashima	Professor, Kyoto University	7311
+/citations?hl=zh-TW&user=MdQZ-q8AAAAJ	Yangqiu Song	HKUST	6828
+/citations?hl=zh-TW&user=OImDWloAAAAJ	Abdullah Mueen	Associate Professor, Department of Computer Science, University of New Mexico	6365
+/citations?hl=zh-TW&user=z0C-DMMAAAAJ	Xue Li	The University of Queensland	6356
+/citations?hl=zh-TW&user=4ITkr_kAAAAJ	Leman Akoglu	Carnegie Mellon University	6265
+/citations?hl=zh-TW&user=IiSNwnAAAAAJ	Chi Wang	Microsoft Research	6173
+/citations?hl=zh-TW&user=TXb5Ym8AAAAJ	Tina Eliassi-Rad	Professor of Computer Science, Northeastern University	6112
+/citations?hl=zh-TW&user=drEkR50AAAAJ	Yi Chang	Jilin University	6082
+/citations?hl=zh-TW&user=d4ZYx6gAAAAJ	Siu Cheung Hui	Associate Professor, School of Computer Engineering, Nanyang Technological University	5832
+/citations?hl=zh-TW&user=j6KFCRAAAAAJ	Evimaria Terzi	Professor of Computer Science, Boston University	5683
+/citations?hl=zh-TW&user=HPeX_YcAAAAJ	Peilin Zhao	Tencent	5630
+/citations?hl=zh-TW&user=LbrCa7EAAAAJ	Hwanjo Yu	POSTECH	5497
+/citations?hl=zh-TW&user=cdT_WMMAAAAJ	Suhang Wang	Pennsylvania State University	5397
+/citations?hl=zh-TW&user=Lh7VfoMAAAAJ	Xiangnan Kong	Worcester Polytechnic Institute	5370
+/citations?hl=zh-TW&user=EM-l50cAAAAJ	Kai Zheng	Professor of Computer Science, University of Electronic Science and Technology of China	5349
+/citations?hl=zh-TW&user=r0nnyGYAAAAJ	Zhenhui Li	Associate Professor of Information Sciences and Technology, Pennsylvania State University	5305
+/citations?hl=zh-TW&user=h9mbv9MAAAAJ	Jae-Gil Lee	Associate Professor, School of Computing, KAIST	5291
+/citations?hl=zh-TW&user=AjYkTi8AAAAJ	Bolin Ding	Senior Staff Engineer, Alibaba Group	5283
+/citations?hl=zh-TW&user=l_O64B8AAAAJ	D. Sculley	Google, Inc.	5166
+/citations?hl=zh-TW&user=yAr4UPUAAAAJ	Hsuan-Tien Lin	Professor of Computer Science and Information Engineering, National Taiwan University	5152
+/citations?hl=zh-TW&user=eX9PSu0AAAAJ	Manish Gupta	Microsoft	4686
+/citations?hl=zh-TW&user=frWRJN4AAAAJ	Shirui Pan	Monash University	4642
+/citations?hl=zh-TW&user=i9Dh1OkAAAAJ	Hau-San Wong	Associate Professor, Department of Computer Science, City University of Hong Kong	4635
+/citations?hl=zh-TW&user=lU4gAFQAAAAJ	Yong Ge	University of Arizona	4512
+/citations?hl=zh-TW&user=IKgiD0AAAAAJ	Raymond Chi-Wing Wong	The Hong Kong University of Science and Technology	4408
+/citations?hl=zh-TW&user=C63q3HoAAAAJ	Can Wang	College of Computer Science, Zhejiang University	4271
+/citations?hl=zh-TW&user=5EoHAFwAAAAJ	Qi Liu	University of Science and Technology of China	4180
+/citations?hl=zh-TW&user=BhRJe4wAAAAJ	Xiangliang Zhang	Associate Professor, KAUST	4165
+/citations?hl=zh-TW&user=p5HEQfIAAAAJ	Jilles Vreeken	Saarland University	4068
+/citations?hl=zh-TW&user=BUERw4QAAAAJ	Jialu Liu	Google Research	4013
+/citations?hl=zh-TW&user=zEYMVR0AAAAJ	Alex Beutel	Research Scientist, Google	3855
+/citations?hl=zh-TW&user=qBHsQ04AAAAJ	Dejing Dou	Baidu Research	3795
+/citations?hl=zh-TW&user=_1C8OeUAAAAJ	Shanika Karunasekera	School of Computing and Information Systems, University of Melbourne	3770
+/citations?hl=zh-TW&user=tUq_v90AAAAJ	Chuan Shi	Beijing University of Posts and Telecommunications	3703
+/citations?hl=zh-TW&user=yQKlLTQAAAAJ	Jiayu Zhou	Michigan State University	3699
+/citations?hl=zh-TW&user=Qg7T6vUAAAAJ	Zaiqing Nie	Microsoft Research Asia	3671
+/citations?hl=zh-TW&user=lZxRZ84AAAAJ	Jinfeng Yi	JD	3637

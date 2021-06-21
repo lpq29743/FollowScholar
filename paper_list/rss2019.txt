@@ -1,0 +1,171 @@
+		Antonio Bicchi, Hadas Kress-Gazit, Seth Hutchinson:
+Robotics: Science and Systems XV, University of Freiburg, Freiburg im Breisgau, Germany, June 22-26, 2019. 2019, ISBN 978-0-9923747-5-4
+		Annie Xie, Frederik Ebert, Sergey Levine, Chelsea Finn:
+Improvisation through Physical Understanding: Using Novel Objects As Tools with Visual Foresight.
+		Si Wei Feng, Shuai D. Han, Jingjin Yu:
+Efficient Algorithms for Optimal Perimeter Guarding.
+		Heng Yang, Luca Carlone:
+A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates.
+		Andy Zeng, Shuran Song, Johnny Lee, Alberto Rodriguez, Thomas A. Funkhouser:
+TossingBot: Learning to Throw Arbitrary Objects with Residual Physics.
+		Guohao Li, Matthias Müller, Vincent Casser, Neil Smith, Dominik Ludewig Michels, Bernard Ghanem:
+OIL: Observational Imitation Learning.
+		Neha Priyadarshini Garg, David Hsu, Wee Sun Lee:
+DESPOT-Alpha: Online POMDP Planning with Large State and Observation Spaces.
+		Xiaoguang Dong, Metin Sitti:
+Collective Formation and Cooperative Function of a Magnetic Microrobotic Swarm.
+		Alexander Broad, Todd Murphey, Brenna Argall:
+Highly Parallelized Data-Driven MPC for Minimal Intervention Shared Control.
+		Lakshmi Nair, Nithin Shrivatsav Srikanth, Zackory M. Erickson, Sonia Chernova:
+Autonomous Tool Construction Using Part Shape and Attachment Prediction.
+		Kevin Chen, Juan Pablo de Vicente, Gabriel Sepulveda, Fei Xia, Alvaro Soto, Marynel Vázquez, Silvio Savarese:
+A Behavioral Approach to Visual Navigation with Graph Localization Networks.
+		Tuomas Haarnoja, Sehoon Ha, Aurick Zhou, Jie Tan, George Tucker, Sergey Levine:
+Learning to Walk Via Deep Reinforcement Learning.
+		Benoit Landry, Zachary Manchester, Marco Pavone:
+A Differentiable Augmented Lagrangian Method for Bilevel Nonlinear Optimization.
+		Ziyu Ren, Tianlu Wang, Wenqi Hu, Metin Sitti:
+A Magnetically-Actuated Untethered Jellyfish-Inspired Soft Milliswimmer.
+		Daniel Schleich, Tobias Klamt, Sven Behnke:
+Value Iteration Networks on Multiple Levels of Abstraction.
+		Michael Burke, Svetlin Penkov, Subramanian Ramamoorthy:
+From Explanation to Synthesis: Compositional Program Induction for Learning from Demonstration.
+		Jaesung Choe, Kyungdon Joo, François Rameau, Gyumin Shim, In So Kweon:
+Segment2Regress: Monocular 3D Vehicle Localization in Two Stages.
+		Reinhard Grassmann, Jessica Burgner-Kahrs:
+On the Merits of Joint Space and Orientation Representations in Learning the Forward Kinematics in SE(3).
+		Panpan Cai, Yuanfu Luo, Aseem Saxena, David Hsu, Wee Sun Lee:
+LeTS-Drive: Driving in a Crowd by Learning from Tree Search.
+		Karen Bodie, Maximilian Brunner, Michael Pantic, Stefan Walser, Patrick Pfändler, Ueli Angst, Roland Siegwart, Juan I. Nieto:
+An Omnidirectional Aerial Manipulation Platform for Contact-Based Inspection.
+		Tianhe Yu, Gleb Shevchuk, Dorsa Sadigh, Chelsea Finn:
+Unsupervised Visuomotor Control through Distributional Planning Networks.
+		Walid Amanhoud, Mahdi Khoramshahi, Aude Billard:
+A Dynamical System Approach to Motion and Force Generation in Contact Tasks.
+		Mathew Halm, Michael Posa:
+Modeling and Analysis of Non-Unique Behaviors in Multiple Frictional Impacts.
+		Malayandi Palan, Gleb Shevchuk, Nicholas Charles Landolfi, Dorsa Sadigh:
+Learning Reward Functions by Integrating Human Demonstrations and Preferences.
+		Gokarna Sharma, Pavan Poudel, Ayan Dutta, Vala Zeinali, Tala. Talaei Khoei, Jong-Hoon Kim:
+A 2-Approximation Algorithm for the Online Tethered Coverage Problem.
+		Tom Jurgenson, Aviv Tamar:
+Harnessing Reinforcement Learning for Neural Motion Planning.
+		Devin Schwab, Jost Tobias Springenberg, Murilo Fernandes Martins, Michael Neunert, Thomas Lampe, Abbas Abdolmaleki, Tim Hertweck, Roland Hafner, Francesco Nori, Martin A. Riedmiller:
+Simultaneously Learning Vision and Feature-Based Control Policies for Real-World Ball-In-A-Cup.
+		Sam Kriegman, Stephanie Walker, Dylan S. Shah, Rebecca Kramer-Bottiglio, Josh Bongard:
+Automated Shapeshifting for Function Recovery in Damaged Robots.
+		Fabio Ramos, Rafael Possas, Dieter Fox:
+BayesSim: Adaptive Domain Randomization Via Probabilistic Inference for Robotics Simulators.
+		Sriram Siva, Maggie Wigness, John G. Rogers:
+Hao Zhang: Robot Adaptation to Unstructured Terrains by Joint Representation and Apprenticeship Learning.
+		Mayank Bansal, Alex Krizhevsky, Abhijit S. Ogale:
+ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst.
+		Yuquan Wang, Abderrahmane Kheddar:
+Impact-Friendly Robust Control Design with Task-Space Quadratic Optimization.
+		Nolan Wagener, Ching-An Cheng, Jacob Sacks, Byron Boots:
+An Online Learning Approach to Model Predictive Control.
+		Nitish Thatte, Nandagopal Srinivasan, Hartmut Geyer:
+Real-Time Reactive Trip Avoidance for Powered Transfemoral Prostheses.
+		Fan Wang, Kris Hauser:
+Robot Packing with Known Items and Nondeterministic Arrival Order.
+		João Moura, Vladimir Ivan, Mustafa Suphi Erden, Sethu Vijayakumar:
+Equivalence of the Projected Forward Dynamics and the Dynamically Consistent Inverse Solution.
+		Jonathan Jonker, Aleksandr Y. Aravkin, James V. Burke, Gianluigi Pillonetto, Sarah E. Webster:
+Robust Singular Smoothers for Tracking Using Low-Fidelity Data.
+		Bachir El Khadir, Jacob Varley, Vikas Sindhwani:
+Teleoperator Imitation with Continuous-Time Safety.
+		Péter Karkus, Xiao Ma, David Hsu, Leslie Pack Kaelbling, Wee Sun Lee, Tomás Lozano-Pérez:
+Differentiable Algorithm Networks for Composable Robot Learning.
+		Milos Prágr, Petr Cizek, Jan Bayer, Jan Faigl:
+Online Incremental Learning of the Terrain Traversal Cost in Autonomous Exploration.
+		David McNeill, Casey Kennington:
+Predicting Human Interpretations of Affect and Valence in a Social Robot.
+		Arun Lakshmanan, Andrew Patterson, Venanzio Cichella, Naira Hovakimyan:
+Proximity Queries for Absolutely Continuous Parametric Curves.
+		José-Luis Blanco-Claraco:
+A Modular Optimization Framework for Localization and Mapping.
+		Maani Ghaffari Jadidi, William Clark, Anthony M. Bloch, Ryan Eustice, Jessy W. Grizzle:
+Continuous Direct Sparse Visual Odometry from RGB-D Images.
+		Alessandro Zanardi, Andreas Aumiller, Julian G. Zilly, Andrea Censi, Emilio Frazzoli:
+Cross-Modal Learning Filters for RGB-Neuromorphic Wormhole Learning.
+		Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua B. Tenenbaum, Shuran Song:
+DensePhysNet: Learning Dense Physical Object Representations Via Multi-Step Dynamic Interactions.
+		Joseph Campbell, Simon Stepputtis, Heni Ben Amor:
+Probabilistic Multimodal Modeling for Human-Robot Interaction Tasks.
+		Mingyu Wang, Zijian Wang, John Talbot, J. Christian Gerdes, Mac Schwager:
+Game Theoretic Planning for Self-Driving Cars in Competitive Scenarios.
+		Xinke Deng, Arsalan Mousavian, Yu Xiang, Fei Xia, Timothy Bretl, Dieter Fox:
+PoseRBPF: A Rao-Blackwellized Particle Filter for6D Object Pose Estimation.
+		Mohak Bhardwaj, Sanjiban Choudhury, Byron Boots, Siddhartha S. Srinivasa:
+Leveraging Experience in Lazy Search.
+		Sean Vaskov, Shreyas Kousik, Hannah Larson, Fan Bu, James Robert Ward, Stewart Worrall, Matthew Johnson-Roberson, Ram Vasudevan:
+Towards Provably Not-At-Fault Control of Autonomous Robots in Arbitrary Dynamic Environments.
+		James M. Bern, Pol Banzet, Roi Poranne, Stelian Coros:
+Trajectory Optimization for Cable-Driven Soft Robot Locomotion.
+		Ankit Bhatia, Aaron M. Johnson, Matthew T. Mason:
+Direct Drive Hands: Force-Motion Transparency in Gripper Design.
+		Giorgos Mamakoukas, Maria L. Castano, Xiaobo Tan, Todd Murphey:
+Local Koopman Operators for Data-Driven Control of Robotic Systems.
+		Fereshteh Sadeghi:
+DIViS: Domain Invariant Visual Servoing for Collision-Free Goal Reaching.
+		Ashkan M. Jasour, Brian C. Williams:
+Risk Contours Map for Risk Bounded Motion Planning under Perception Uncertainties.
+		Mengyu Fu, Alan Kuntz, Oren Salzman, Ron Alterovitz:
+Toward Asymptotically-Optimal Inspection Planning Via Efficient Near-Optimal Graph Search.
+		Peter Zhi Xuan Li, Zhengdong Zhang, Sertac Karaman, Vivienne Sze:
+High-Throughput Computation of Shannon Mutual Information on Chip.
+		Yoonseon Oh, Roma Patel, Thao Nguyen, Baichuan Huang, Ellie Pavlick, Stefanie Tellex:
+Planning with State Abstractions for Non-Markovian Task Specifications.
+		Daniel Bruder, Brent Gillespie, C. David Remy, Ram Vasudevan:
+Modeling and Control of Soft Robots Using the Koopman Operator and Model Predictive Control.
+		Wennie Tabib, Kshitij Goel, John Yao, Mosam Dabhi, Curtis Boirum, Nathan Michael:
+Real-Time Information-Theoretic Exploration with Gaussian Mixture Model Maps.
+		Yiannis Kantaros, Brent Schlotfeldt, Nikolay Atanasov, George J. Pappas:
+Asymptotically Optimal Planning for Non-Myopic Multi-Robot Information Gathering.
+		Sandeep Chinchali, Apoorva Sharma, James Harrison, Amine Elhafsi, Daniel Kang, Evgenya Pergament, Eyal Cidon, Sachin Katti, Marco Pavone:
+Network Offloading Policies for Cloud Robotics: A Learning-Based Approach.
+		Brandon Araki, Kiran Vodrahalli, Thomas Leech, Cristian Ioan Vasile, Mark Donahue, Daniela Rus:
+Learning to Plan with Logical Automata.
+		Alexander Spitzer, Nathan Michael:
+Inverting Learned Dynamics Models for Aggressive Multirotor Control.
+		Kiril Solovey, Mauro Salazar, Marco Pavone:
+Scalable and Congestion-Aware Routing for Autonomous Mobility-On-Demand Via Frank-Wolfe Optimization.
+		Baxi Chong, Yasemin Ozkan Aydin, Guillaume Sartoretti, Jennifer M. Rieser, Chaohui Gong, Haosen Xing, Howie Choset, Daniel I. Goldman:
+A Hierarchical Geometric Framework to Design Locomotive Gaits for Highly Articulated Robots.
+		Daniel Rakita, Bilge Mutlu, Michael Gleicher:
+Remote Telemanipulation with Adapting Viewpoints in Visually Complex Environments.
+		Junhong Xu, Kai Yin, Lantao Liu:
+Reachable Space Characterization of Markov Decision Processes with Time Variability.
+		Ziyi Wang, Marcus Pereira, Evangelos A. Theodorou:
+Learning Deep Stochastic Optimal Control Policies Using Forward-Backward SDEs.
+		Muhammet Yunus Seker, Mert Imre, Justus H. Piater, Emre Ugur:
+Conditional Neural Movement Primitives.
+		Weizhe Chen, Lantao Liu:
+Pareto Monte Carlo Tree Search for Multi-Objective Informative Planning.
+		Avi Singh, Larry Yang, Chelsea Finn, Sergey Levine:
+End-To-End Robotic Reinforcement Learning without Reward Engineering.
+		Angelina Wang, Thanard Kurutach, Pieter Abbeel, Aviv Tamar:
+Learning Robotic Manipulation through Visual Planning and Acting.
+		Minae Kwon, Mengxi Li, Alexandre Bucquet, Dorsa Sadigh:
+Influencing Leading and Following in Human-Robot Teams.
+		Seyedmohammadhadi Sadati, Ali Shiva, Seyedeh Elnaz Naghibi, D. Caleb Rucker, Ludovic Renson, Christos Bergeles, Kaspar Althoefer, D. P. Thrishantha Nanayakkara, Helmut Hauser, Ian D. Walker:
+Reduced Order vs. Discretized Lumped System Models with Absolute and Relative States for Continuum Manipulators.
+		Tiago Mota, Mohan Sridharan:
+Commonsense Reasoning and Knowledge Acquisition to Guide Deep Learning on Robots.
+		Riccardo Bonalli, Abhishek Cauligi, Andrew Bylard, Thomas Lew, Marco Pavone:
+Trajectory Optimization on Manifolds: A Theoretically-Guaranteed Embedded Sequential Convex Programming Approach.
+		Jaskaran Singh Grover, Daniel Vedova, Nalini Jain, Matthew J. Travers, Howie Choset:
+Motion Planning, Design Optimization and Fabrication of Ferromagnetic Swimmers.
+		Przemyslaw A. Lasota, Julie A. Shah:
+Bayesian Estimator for Partial Trajectory Alignment.
+		Matteo Rubagotti, Tasbolat Taunyazov, Bukeikhan Omarali, Almas Shintemirov:
+Semi-Autonomous Robot Teleoperation with Obstacle Avoidance Via Model Predictive Control.
+		Barza Nisar, Philipp Foehn, Davide Falanga, Davide Scaramuzza:
+VIMO: Simultaneous Visual Inertial Model-Based Odometry and Force Estimation.
+		Atanas Mirchev, Baris Kayalibay, Maximilian Soelch, Patrick van der Smagt, Justin Bayer:
+Approximate Bayesian Inference in Spatial Environments.
+		Irvin Aloise, Bartolomeo Della Corte, Federico Nardi, Giorgio Grisetti:
+Systematic Handling of Heterogeneous Geometric Primitives in Graph-SLAM Optimization.
+		Ildar Farkhatdinov, Hannah Michalska, Alain Berthoz, Vincent Hayward:
+Idiothetic Verticality Estimation through Head Stabilization Strategy.
+a service of Schloss Dagstuhl - Leibniz Center for Informatics	homebrowsesearchabout

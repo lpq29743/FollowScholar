@@ -1,0 +1,182 @@
+		Aman Ahuja, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Reddy:
+Language-Agnostic Representation Learning for Product Search on E-Commerce Platforms. 7-15
+		Uchenna Akujuobi, Qiannan Zhang, Han Yufei, Xiangliang Zhang:
+Recurrent Attention Walk for Semi-supervised Classification. 16-24
+		Sambaran Bandyopadhyay, Lokesh N, Saley Vishal Vivek, M. Narasimha Murty:
+Outlier Resistant Unsupervised Deep Architectures for Attributed Network Embedding. 25-33
+		Ghazaleh Beigi, Ahmadreza Mosallanezhad, Ruocheng Guo, Hamidreza Alvari, Alexander Nou, Huan Liu:
+Privacy-Aware Recommendation with Private-Attribute Protection using Adversarial Learning. 34-42
+		Ayan Kumar Bhowmick, Koushik Meneni, Maximilien Danisch, Jean-Loup Guillaume, Bivas Mitra:
+LouvainNE: Hierarchical Louvain Method for High Quality and Scalable Network Embedding. 43-51
+		Alexander Bondarenko, Pavel Braslavski, Michael Völske, Rami Aly, Maik Fröbe, Alexander Panchenko, Chris Biemann, Benno Stein, Matthias Hagen:
+Comparative Web Search Questions. 52-60
+		Sebastian Bruch, Shuguang Han, Michael Bendersky, Marc Najork:
+A Stochastic Treatment of Learning to Rank Scoring Functions. 61-69
+		Qi Cao, Huawei Shen, Jinhua Gao, Bingzheng Wei, Xueqi Cheng:
+Popularity Prediction on Social Platforms with Coupled Graph Neural Networks. 70-78
+		David Carmel, Elad Haramaty, Arnon Lazerson, Liane Lewin-Eytan, Yoelle Maarek:
+Why Do People Buy Seemingly Irrelevant Items in Voice Product Search?: On the Relation between Product Relevance and Customer Satisfaction in eCommerce. 79-87
+		Jia Chen, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma:
+A Context-Aware Click Model for Web Search. 88-96
+		Suming J. Chen, Xuanhui Wang, Zhen Qin, Donald Metzler:
+Parameter Tuning in Personal Search Systems. 97-105
+		Yile Chen, Cheng Long, Gao Cong, Chenliang Li:
+Context-aware Deep Model for Joint Mobility and Time Prediction. 106-114
+		Uthsav Chitra, Christopher Musco:
+Analyzing the Impact of Filter Bubbles on Social Network Polarization. 115-123
+		Cuong Xuan Chu, Simon Razniewski, Gerhard Weikum:
+ENTYFI: Entity Typing in Fictional Texts. 124-132
+		Yimeng Dai, Jianzhong Qi, Rui Zhang:
+Joint Recognition of Names and Publications in Academic Homepages. 133-141
+		Abir De, Adish Singla, Utkarsh Upadhyay, Manuel Gomez-Rodriguez:
+Can A User Guess What Her Followers Want? 142-150
+		Shumin Deng, Ningyu Zhang, Jiaojian Kang, Yichi Zhang, Wei Zhang, Huajun Chen:
+Meta-Learning with Dynamic-Memory-Based Prototypical Network for Few-Shot Event Detection. 151-159
+		Tyler Derr, Yao Ma, Wenqi Fan, Xiaorui Liu, Charu C. Aggarwal, Jiliang Tang:
+Epidemic Graph Convolutional Network. 160-168
+		Negin Entezari, Saba A. Al-Sayouri, Amirali Darvishzadeh, Evangelos E. Papalexakis:
+All You Need Is Low (Rank): Defending Against Adversarial Attacks on Graphs. 169-177
+		Oluwaseyi Feyisetan, Borja Balle, Thomas Drake, Tom Diethe:
+Privacy- and Utility-Preserving Textual Analysis via Calibrated Multivariate Perturbations. 178-186
+		Jinlan Fu, Yi Li, Qi Zhang, Qinzhuo Wu, Renfeng Ma, Xuanjing Huang, Yu-Gang Jiang:
+Recurrent Memory Reasoning Network for Expert Finding in Community Question Answering. 187-195
+		Azin Ghazimatin, Oana Balalau, Rishiraj Saha Roy, Gerhard Weikum:
+PRINCE: Provider-side Interpretability with Counterfactual Explanations in Recommender Systems. 196-204
+		Lin Gong, Lu Lin, Weihao Song, Hongning Wang:
+JNET: Learning User Representations via Joint Network Embedding and Topic Embedding. 205-213
+		Tobias Grubenmann, Reynold C. K. Cheng, Laks V. S. Lakshmanan:
+TSA: A Truthful Mechanism for Social Advertising. 214-222
+		Yulong Gu, Zhuoye Ding, Shuaiqiang Wang, Dawei Yin:
+Hierarchical User Profiling for E-commerce Recommender Systems. 223-231
+		Ruocheng Guo, Jundong Li, Huan Liu:
+Learning Individual Causal Effects from Networked Observational Data. 232-240
+		Lei Han, Eddy Maddalena, Alessandro Checco, Cristina Sarasua, Ujwal Gadiraju, Kevin Roitero, Gianluca Demartini:
+Crowd Worker Strategies in Relevance Judgment Tasks. 241-249
+		Yun He, Yin Zhang, Weiwen Liu, James Caverlee:
+Consistency-Aware Recommendation for User-Generated Item List Continuation. 250-258
+		Christoph Hube, Maximilian Idahl, Besnik Fetahu:
+Debiasing Word Embeddings from Sentiment Associations in Names. 259-267
+		Shweta Jain, C. Seshadhri:
+The Power of Pivoting for Exact Clique Counting. 268-276
+		Da-Cheng Juan, Chun-Ta Lu, Zhen Li, Futang Peng, Aleksei Timofeev, Yi-Ting Chen, Yaxi Gao, Tom Duerig, Andrew Tomkins, Sujith Ravi:
+Ultra Fine-Grained Image Semantic Embedding. 277-285
+		Quyu Kong, Marian-Andrei Rizoiu, Lexing Xie:
+Modeling Information Cascades with Self-exciting Processes via Generalized Epidemic Models. 286-294
+		Raunak Kumar, Paul Liu, Moses Charikar, Austin R. Benson:
+Retrieving Top Weighted Triangles in Graphs. 295-303
+		Wenqiang Lei, Xiangnan He, Yisong Miao, Qingyun Wu, Richang Hong, Min-Yen Kan, Tat-Seng Chua:
+Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems. 304-312
+		Zeyu Li, Wei Cheng, Yang Chen, Haifeng Chen, Wei Wang:
+Interpretable Click-Through Rate Prediction through Hierarchical Attention. 313-321
+		Jiacheng Li, Yujie Wang, Julian J. McAuley:
+Time Interval Aware Self-Attention for Sequential Recommendation. 322-330
+		Pan Li, Alexander Tuzhilin:
+DDTCDR: Deep Dual Transfer Cross Domain Recommendation. 331-339
+		Ruirui Li, Jyun-Yu Jiang, Jiahao Liu Li, Chu-Cheng Hsieh, Wei Wang:
+Automatic Speaker Recognition with Limited Data. 340-348
+		Ruirui Li, Xian Wu, Wei Wang:
+Adversarial Learning to Compare: Self-Attentive Prospective Customer Recommendation in Location based Social Networks. 349-357
+		Qinghua Li, Cuiping Li, Hong Chen:
+Incremental Filter Pruning via Random Walk for Accelerating Deep Convolutional Neural Networks. 358-366
+		Wenqing Lin, Feng He, Faqiang Zhang, Xu Cheng, Hongyun Cai:
+Initialization for Network Embedding: A Graph Partition Approach. 367-374
+		Mingkai Lin, Wenzhong Li, Sanglu Lu:
+Balanced Influence Maximization in Attributed Social Network Based on Sampling. 375-383
+		Feng Liu, Huifeng Guo, Xutao Li, Ruiming Tang, Yunming Ye, Xiuqiang He:
+End-to-End Deep Reinforcement Learning based Recommendation with Supervised Embedding. 384-392
+		Dongsheng Luo, Jingchao Ni, Suhang Wang, Yuchen Bian, Xiong Yu, Xiang Zhang:
+Deep Multi-Graph Clustering via Attentive Cross-Graph Association. 393-401
+		Jie Ma, Jun Liu, Yufei Li, Xin Hu, Yudai Pan, Shen Sun, Qika Lin:
+Jointly Optimized Neural Coreference Resolution with Mutual Attention. 402-410
+		Qianwen Ma, Chunyuan Yuan, Wei Zhou, Jizhong Han, Songlin Hu:
+Beyond Statistical Relations: Integrating Knowledge Relations into Style Correlations for Multi-Label Music Style Classification. 411-419
+		Xin Mao, Wenting Wang, Huimin Xu, Man Lan, Yuanbin Wu:
+MRAEA: An Efficient and Robust Entity Alignment Approach for Cross-lingual Knowledge Graph. 420-428
+		Yu Meng, Maryam Karimzadehgan, Honglei Zhuang, Donald Metzler:
+Separate and Attend in Personal Email Search. 429-437
+		Congcong Miao, Ziyan Luo, Fengzhu Zeng, Jilong Wang:
+Predicting Human Mobility via Attentive Convolutional Network. 438-446
+		Noujan Pashanasangi, C. Seshadhri:
+Efficiently Counting Vertex Orbits of All 5-vertex Subgraphs, by EVOKE. 447-455
+		Yashoteja Prabhu, Aditya Kusupati, Nilesh Gupta, Manik Varma:
+Extreme Regression for Dynamic Search Advertising. 456-464
+		Jiarui Qin, Kan Ren, Yuchen Fang, Weinan Zhang, Yong Yu:
+Sequential Recommendation with Dual Side Neighbor-based Collaborative Relation Modeling. 465-473
+		Yunqi Qiu, Yuanzhuo Wang, Xiaolong Jin, Kun Zhang:
+Stepwise Reasoning for Multi-Relation Question Answering over Knowledge Graph with Weak Supervision. 474-482
+		Ryan A. Rossi, Nesreen K. Ahmed, Eunyee Koh, Sungchul Kim, Anup Rao, Yasin Abbasi-Yadkori:
+A Structural Graph Representation Learning Framework. 483-491
+		Tara Safavi, Adam Fourney, Robert Sim, Marcin Juraszek, Shane Williams, Ned Friend, Danai Koutra, Paul N. Bennett:
+Toward Activity Discovery in the Personal Web. 492-500
+		Yuta Saito, Suguru Yaginuma, Yuta Nishino, Hayato Sakata, Kazuhide Nakata:
+Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback. 501-509
+		Aravind Sankar, Xinyang Zhang, Adit Krishnan, Jiawei Han:
+Inf-VAE: A Variational Autoencoder Framework to Integrate Homophily and Influence in Diffusion Prediction. 510-518
+		Aravind Sankar, Yanhong Wu, Liang Gou, Wei Zhang, Hao Yang:
+DySAT: Deep Neural Representation Learning on Dynamic Graphs via Self-Attention Networks. 519-527
+		Ilya Shenbin, Anton Alekseev, Elena Tutubalina, Valentin Malykh, Sergey I. Nikolenko:
+RecVAE: A New Variational Autoencoder for Top-N Recommendations with Implicit Feedback. 528-536
+		Alexander Shishkin, Anastasia A. Bezzubtseva, Valentina Fedorova, Alexey Drutsa, Gleb Gusev:
+Text Recognition Using Anonymous CAPTCHA Answers. 537-545
+		Natalia Silberstein, Oren Somekh, Yair Koren, Michal Aharon, Dror Porat, Avi Shahar, Tingyi Wu:
+Ad Close Mitigation for Improved User Experience in Native Advertisements. 546-554
+		Harald Steck, Maria Dimakopoulou, Nickolai Riabov, Tony Jebara:
+ADMM SLIM: Sparse Recommendations for Many Users. 555-563
+		Lixin Su, Jiafeng Guo, Yixing Fan, Yanyan Lan, Xueqi Cheng:
+Label Distribution Augmented Maximum Likelihood Estimation for Reading Comprehension. 564-572
+		Lichao Sun, Albert Chen, Philip S. Yu, Wei Chen:
+Influence Maximization with Spontaneous User Adoption. 573-581
+		Changfeng Sun, Han Liu, Meng Liu, Zhaochun Ren, Tian Gan, Liqiang Nie:
+LARA: Attribute-to-feature Adversarial Learning for New-item Recommendation. 582-590
+		Shulong Tan, Zhixin Zhou, Zhaozhuo Xu, Ping Li:
+Fast Item Ranking under Neural Network based Measures. 591-599
+		Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang:
+Transferring Robustness for Graph Neural Network Against Poisoning Attacks. 600-608
+		Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li:
+HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems. 609-617
+		Mengting Wan, Jianmo Ni, Rishabh Misra, Julian J. McAuley:
+Addressing Marketing Bias in Product Recommendations. 618-626
+		Jianling Wang, Ziwei Zhu, James Caverlee:
+User Recommendation in Content Curation Platforms. 627-635
+		Jianling Wang, Kaize Ding, Ziwei Zhu, Yin Zhang, James Caverlee:
+Key Opinion Leaders in Recommendation Systems: Opinion Elicitation and Diffusion. 636-644
+		Jianling Wang, Raphael Louca, Diane Hu, Caitlin Cellier, James Caverlee, Liangjie Hong:
+Time to Shop for Valentine's Day: Shopping Occasions and Sequential Recommendation in E-commerce. 645-653
+		Alfan Farizki Wicaksono, Alistair Moffat:
+Metrics, User Models, and Satisfaction. 654-662
+		Zhiyong Wu, Ben Kao, Tien-Hsuan Wu, Pengcheng Yin, Qun Liu:
+PERQ: Predicting, Explaining, and Rectifying Failed Questions in KB-QA Systems. 663-671
+		Da Xu, Chuanwei Ruan, Evren Körpeoglu, Sushant Kumar, Kannan Achan:
+Product Knowledge Graph Embedding for E-commerce. 672-680
+		Da Xu, Chuanwei Ruan, Jason Cho, Evren Körpeoglu, Sushant Kumar, Kannan Achan:
+Knowledge-aware Complementary Product Representation Learning. 681-689
+		Ze Yang, Linjun Shou, Ming Gong, Wutao Lin, Daxin Jiang:
+Model Compression with Two-stage Multi-teacher Knowledge Distillation for Web Question Answering System. 690-698
+		Carl Yang, Jieyu Zhang, Haonan Wang, Sha Li, Myungwan Kim, Matt Walker, Yiou Xiao, Jiawei Han:
+Relation Learning on Social Networks with Multi-Modal Graph Edge Variational Autoencoders. 699-707
+		Jaemin Yoo, U Kang, Mauro Scanagatta, Giorgio Corani, Marco Zaffalon:
+Sampling Subgraphs with Guaranteed Treewidth for Accurate and Efficient Graphical Inference. 708-716
+		Hamed Zamani, W. Bruce Croft:
+Learning a Joint Search and Recommendation Model from User-Item Interactions. 717-725
+		Zuobai Zhang, Wanyue Xu, Zhongzhi Zhang:
+Nearly Linear Time Algorithm for Mean Hitting Times of Random Walks on a Graph. 726-734
+		Yuan Zhang, Xiaoran Xu, Hanning Zhou, Yan Zhang:
+Distilling Structured Knowledge into Embeddings for Explainable and Accurate Recommendation. 735-743
+		Wei Zhang, Hao Wei, Bunyamin Sisman, Xin Luna Dong, Christos Faloutsos, David Page:
+AutoBlock: A Hands-off Blocking Framework for Entity Matching. 744-752
+		Xuchao Zhang, Wei Cheng, Bo Zong, Yuncong Chen, Jianwu Xu, Ding Li, Haifeng Chen:
+Temporal Context-Aware Representation Learning for Question Routing. 753-761
+		Xing Zhao, Ziwei Zhu, Yin Zhang, James Caverlee:
+Improving the Estimation of Tail Ratings in Recommender System with Multi-Latent Representations. 762-770
+		Yukun Zheng, Jiaxin Mao, Yiqun Liu, Mark Sanderson, Min Zhang, Shaoping Ma:
+Investigating Examination Behavior in Mobile Search. 771-779
+		Tianshuo Zhou, Ziyang Li, Gong Cheng, Jun Wang, Yuang Wei:
+GREASE: A Generative Model for Relevance Search over Knowledge Graphs. 780-788
+		Yujia Zhou, Zhicheng Dou, Ji-Rong Wen:
+Enhancing Re-finding Behavior with External Memories for Personalized Search. 789-797
+		Xiaofeng Zhu, Diego Klabjan:
+Listwise Learning to Rank by Exploring Unique Ratings. 798-806
+		Nengjun Zhu, Jian Cao, Yanchi Liu, Yang Yang, Haochao Ying, Hui Xiong:
+Sequential Modeling of Hierarchical User Intention and Preference for Next-item Recommendation. 807-815
+		Lixin Zou, Long Xia, Pan Du, Zhuo Zhang, Ting Bai, Weidong Liu, Jian-Yun Nie, Dawei Yin:
+Pseudo Dyna-Q: A Reinforcement Learning Framework for Interactive Recommendation. 816-824

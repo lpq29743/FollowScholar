@@ -1,0 +1,30 @@
+/citations?hl=zh-TW&user=Ysjk8kkAAAAJ	Holger Schwenk	Research scientist, Facebook, and professor of Computer Science	28914
+/citations?hl=zh-TW&user=a0w5c0gAAAAJ	Ming Zhou (周明)	startup	23805
+/citations?hl=zh-TW&user=h0zfd-0AAAAJ	Llion Jones	Google	22037
+/citations?hl=zh-TW&user=vaSdahkAAAAJ	Caiming Xiong	Salesforce Research	10498
+/citations?hl=zh-TW&user=6NqRjRYAAAAJ	Barry Haddow	University of Edinburgh	10481
+/citations?hl=zh-TW&user=7jaFSlQAAAAJ	Meng Yang	Sun Yat-sen University	8209
+/citations?hl=zh-TW&user=0ARlbLAAAAAJ	Zhong Su	IBM Research	7919
+/citations?hl=zh-TW&user=x5lXo2YAAAAJ	Zhengdong Lu	startup	7769
+/citations?hl=zh-TW&user=D89tn7sAAAAJ	Rami Al-Rfou	Staff Research Scientist at Google AI	7498
+/citations?hl=zh-TW&user=CmzeVaEAAAAJ	Christopher Clark	University of Washington	7206
+/citations?hl=zh-TW&user=jgy4jCAAAAAJ	Haifeng Wang	Baidu	7059
+/citations?hl=zh-TW&user=QJX4mnQAAAAJ	Amir Saffari	Amazon, Cambridge UK	7057
+/citations?hl=zh-TW&user=f0t-8dgAAAAJ	Ranit Aharonov	IBM Research AI (previous: Rosetta Genomics)	6379
+/citations?hl=zh-TW&user=ocPXoIkAAAAJ	Jing Huang	JD	5581
+/citations?hl=zh-TW&user=KjvrNGMAAAAJ	Noam Slonim	Research Staff Member at IBM Research	5292
+/citations?hl=zh-TW&user=l8lvKOQAAAAJ	Chengqing Zong (宗成庆)	Institute of Automation, Chinese Academy of Sciences	5208
+/citations?hl=zh-TW&user=8P1Y_90AAAAJ	Abe Ittycheriah	Google	4682
+/citations?hl=zh-TW&user=H9buyroAAAAJ	Yinhan Liu	startup	4162
+/citations?hl=zh-TW&user=XI2CP68AAAAJ	Idan Szpektor	Google	3995
+/citations?hl=zh-TW&user=IwGLficAAAAJ	Yifan Peng	Cornell	3886
+/citations?hl=zh-TW&user=XUI4PMEAAAAJ	Sida I. Wang	Facebook AI	3798
+/citations?hl=zh-TW&user=dnZ8udEAAAAJ	Jacob Andreas	MIT	3566
+/citations?hl=zh-TW&user=BYXqAlwAAAAJ	Lei Li	ByteDance AI Lab	3531
+/citations?hl=zh-TW&user=seS0a8AAAAAJ	Mu Li	Tencent	3497
+/citations?hl=zh-TW&user=PU7e_VEAAAAJ	Nikhil Rasiwasia	Amazon, Snapdeal, Yahoo, UCSD, Google, Microsoft.	3437
+/citations?hl=zh-TW&user=kHrn6WsAAAAJ	Walter Chang	Principal Scientist, Adobe Research	3371
+/citations?hl=zh-TW&user=LG_E-4EAAAAJ	Weizhu Chen	Partner Science Manager in Microsoft	3329
+/citations?hl=zh-TW&user=HUpnUScAAAAJ	Shimei Pan	University of Maryland - Baltimore County	3135
+/citations?hl=zh-TW&user=ZIRJ6lIAAAAJ	Kenny Q. Zhu (朱其立)	Department of Computer Science & Engineering, Shanghai Jiao Tong University	3109
+/citations?hl=zh-TW&user=tlDABkgAAAAJ	Zhenzhong Lan	School of Engineering, Westlake University	3075

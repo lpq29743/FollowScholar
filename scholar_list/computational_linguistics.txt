@@ -1,0 +1,52 @@
+/citations?hl=zh-TW&user=1zmDOdwAAAAJ	Christopher D Manning	Professor of Computer Science and Linguistics, Stanford University	172618
+/citations?hl=zh-TW&user=664NOb0AAAAJ	Marti A Hearst	Professor, University of California, Berkeley	35128
+/citations?hl=zh-TW&user=qCdLtIoAAAAJ	Bo Pang	Google Inc.	30912
+/citations?hl=zh-TW&user=DxoenfgAAAAJ	Michael Collins	Professor of Computer Science, Columbia University; Google NYC	25483
+/citations?hl=zh-TW&user=71BFWc0AAAAJ	Philip Resnik	Professor, University of Maryland	20121
+/citations?hl=zh-TW&user=3j08YoAAAAAJ	Christopher Potts	Stanford	19014
+/citations?hl=zh-TW&user=lLBHtFUAAAAJ	Joakim Nivre	Professor of Computational Linguistics, Uppsala University	18925
+/citations?hl=zh-TW&user=3kDtybgAAAAJ	Marcus Rohrbach	Research Scientist, Facebook AI Research	17822
+/citations?hl=zh-TW&user=Z_kok3sAAAAJ	Mark Johnson	Professor of Language Sciences, Department of Computing, Macquarie University	16968
+/citations?hl=zh-TW&user=l-xu2w0AAAAJ	Marco Baroni	FAIR Research Scientist (Paris)	16166
+/citations?hl=zh-TW&user=xoyloJAAAAAJ	Steven Bird	University of California, Berkeley	15905
+/citations?hl=zh-TW&user=wjBD1dkAAAAJ	Timothy Baldwin	School of Computing and Information Systems, The University of Melbourne	15755
+/citations?hl=zh-TW&user=VGdVdjwAAAAJ	Graeme Hirst	Professor of Computer Science, University of Toronto	15720
+/citations?hl=zh-TW&user=i86O0SAAAAAJ	Roger Levy	Associate Professor of Brain & Cognitive Sciences, MIT	14617
+/citations?hl=zh-TW&user=kSuqts0AAAAJ	Eneko Agirre	University of the Basque Country	13924
+/citations?hl=zh-TW&user=gZOV9kMAAAAJ	Alexandra Birch	University of Edinburgh	13663
+/citations?hl=zh-TW&user=wzQIH8kAAAAJ	Lauri Karttunen	Adjunct Professor of Linguistics, Stanford University	13510
+/citations?hl=zh-TW&user=FABZCeAAAAAJ	Hwee Tou Ng	National University of Singapore	13463
+/citations?hl=zh-TW&user=9cb0uoAAAAAJ	Johanna Moore	Professor of Artificial Intelligence and Head of School of Informatics, University of Edinburgh	12486
+/citations?hl=zh-TW&user=sXM8J5EAAAAJ	Steven Bethard	Associate Professor, University of Arizona	11447
+/citations?hl=zh-TW&user=DfXsKZ4AAAAJ	Preslav Nakov	Principal Scientist, Qatar Computing Research Institute (QCRI), HBKU	11061
+/citations?hl=zh-TW&user=-y6SIhQAAAAJ	Mona Diab	Professor of Computer Science, George Washington University	10169
+/citations?hl=zh-TW&user=2HhiGzcAAAAJ	Qun Liu	Noah's Ark Lab, Huawei	10168
+/citations?hl=zh-TW&user=Wb_lnjAAAAAJ	Jacob Eisenstein	Google Research	9346
+/citations?hl=zh-TW&user=xBvFANIAAAAJ	Chris Brockett	Principal Data Scientist, Microsoft Research AI	8677
+/citations?hl=zh-TW&user=BT4XTP4AAAAJ	Jordan Boyd-Graber	Associate Professor, University of Maryland	8228
+/citations?hl=zh-TW&user=s0_rS0kAAAAJ	Michael Strube	Heidelberg Institute for Theoretical Studies gGmbH	8086
+/citations?hl=zh-TW&user=SCoVoOYAAAAJ	Anna Korhonen	Professor, Computer Science and Linguistics, University of Cambridge	7867
+/citations?hl=zh-TW&user=CeNz_twAAAAJ	James R. Curran	School of Information Technologies, University of Sydney	7620
+/citations?hl=zh-TW&user=iIiVrrQAAAAJ	Julia Hockenmaier	Associate Professor, University of Illinois at Urbana-Champaign (UIUC)	7549
+/citations?hl=zh-TW&user=-lbtnAgAAAAJ	Frank Keller	University of Edinburgh	7406
+/citations?hl=zh-TW&user=4UyniXYAAAAJ	Vincent Ng	Professor of Computer Science, University of Texas at Dallas	7165
+/citations?hl=zh-TW&user=DN8QtscAAAAJ	Mohit Bansal	Professor, Computer Science, UNC Chapel Hill	6613
+/citations?hl=zh-TW&user=66pwIBcAAAAJ	Diana Inkpen	University of Ottawa (Computer Science)	6382
+/citations?hl=zh-TW&user=TNr_OWMAAAAJ	Colin Cherry	Google Research	6106
+/citations?hl=zh-TW&user=ZnKtf4YAAAAJ	Gerald Penn	Professor of Computer Science, University of Toronto	6040
+/citations?hl=zh-TW&user=cXa9QOYAAAAJ	Amanda Stent	Bloomberg LP	5898
+/citations?hl=zh-TW&user=9XIbOO8AAAAJ	Serguei Pakhomov	University of Minnesota	5571
+/citations?hl=zh-TW&user=RvBDhSwAAAAJ	Sujian LI	Peking University	5539
+/citations?hl=zh-TW&user=tXe1lgkAAAAJ	Mark Stevenson	Sheffield University	4879
+/citations?hl=zh-TW&user=TP_JZm8AAAAJ	Jason Baldridge	Research Scientist, Google	4859
+/citations?hl=zh-TW&user=NTTQbJsAAAAJ	Matteo Negri	Fondazione Bruno Kessler	4818
+/citations?hl=zh-TW&user=9r_f1w4AAAAJ	Emily M. Bender	Professor, Dept of Linguistics, University of Washington	4740
+/citations?hl=zh-TW&user=3cozMf4AAAAJ	Nathan Schneider	Georgetown University	4696
+/citations?hl=zh-TW&user=vAx7VsoAAAAJ	Marcos Zampieri	Rochester Institute of Technology	4430
+/citations?hl=zh-TW&user=AdFeG5cAAAAJ	Liang Huang	Oregon State University; Distinguished Scientist, Baidu Research USA	4337
+/citations?hl=zh-TW&user=kLqCYLMAAAAJ	Danushka Bollegala	Professor, The University of Liverpool	3921
+/citations?hl=zh-TW&user=Dk7iM5sAAAAJ	Qin Lu	Department of Computing, Hong Kong Polytechnic University	3847
+/citations?hl=zh-TW&user=9FP2fokAAAAJ	Anette Frank	Professor of Computational Linguistics, Heidelberg University	3714
+/citations?hl=zh-TW&user=MFi65f4AAAAJ	Jey Han Lau	Computing and Information Systems, The University of Melbourne	3457
+/citations?hl=zh-TW&user=5nGlwIQAAAAJ	Barbara Plank	Associate Professor in Natural Language Processing, ITU	3108
+/citations?hl=zh-TW&user=sGFFr5kAAAAJ	David Jurgens	Assistant Professor in the School of Information, University of Michigan	2903

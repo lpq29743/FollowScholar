@@ -1,0 +1,173 @@
+/citations?hl=zh-TW&user=JicYPdAAAAAJ	Geoffrey Hinton	University of Toronto & Engineering Fellow, Google	437974
+/citations?hl=zh-TW&user=kukA0LcAAAAJ	Yoshua Bengio	Professor of computer science, University of Montreal, Mila, IVADO, CIFAR	391642
+/citations?hl=zh-TW&user=UZ5wscMAAAAJ	Andrew Zisserman	University of Oxford	250257
+/citations?hl=zh-TW&user=x04W_mMAAAAJ	Ilya Sutskever	Co-Founder and Chief Scientist of OpenAI	235164
+/citations?hl=zh-TW&user=vtegaJgAAAAJ	vapnik	Professor of Columbia, Fellow of NEC Labs America 	231315
+/citations?hl=zh-TW&user=yxUduqMAAAAJ	Michael I. Jordan	UCB	208176
+/citations?hl=zh-TW&user=DhtAFkwAAAAJ	Kaiming He	Research Scientist, Facebook AI Research (FAIR)	196459
+/citations?hl=zh-TW&user=WLN3QrAAAAAJ	Yann LeCun	Chief AI Scientist at Facebook & Silver Professor at the Courant Institute, New York University	192969
+/citations?hl=zh-TW&user=W8VIEZgAAAAJ	Ross Girshick	Research Scientist, Facebook AI Research (FAIR)	176282
+/citations?hl=zh-TW&user=mG4imMEAAAAJ	Andrew Ng	Stanford University	173153
+/citations?hl=zh-TW&user=DZ-fHPgAAAAJ	Bernhard Schölkopf	Director, Max Planck Institute for Intelligent Systems	168386
+/citations?hl=zh-TW&user=TwMib_QAAAAJ	Luc Van Gool	professor computer vision ETH Zurich & KU Leuven	144079
+/citations?hl=zh-TW&user=Tb0ZrYwAAAAJ	Alex Smola	Amazon Web Services	137364
+/citations?hl=zh-TW&user=rDfyQnIAAAAJ	Li Fei-Fei	Professor of Computer Science, Stanford University	125268
+/citations?hl=zh-TW&user=gsr-K3ADUvAC	Christopher M. Bishop	Distinguished Scientist, Microsoft Research, Cambridge, UK	123589
+/citations?hl=zh-TW&user=ITZ1e7MAAAAJ	Ruslan Salakhutdinov	CMU	113672
+/citations?hl=zh-TW&user=3QeF7mAAAAAJ	Christian Szegedy	Google Research	111495
+/citations?hl=zh-TW&user=km6CP8cAAAAJ	Aaron Courville	Université de Montréal	108226
+/citations?hl=zh-TW&user=NkzyCvUAAAAJ	Oriol Vinyals	Research Scientist at Google DeepMind	107092
+/citations?hl=zh-TW&user=SLMkts8AAAAJ	Chih-Jen Lin	Professor of Computer Science, National Taiwan University	102595
+/citations?hl=zh-TW&user=j29kMCwAAAAJ	Pietro Perona	California Institute of Technology	98740
+/citations?hl=zh-TW&user=8OYE6iEAAAAJ	David Blei	Professor of Statistics and Computer Science, Columbia University	96625
+/citations?hl=zh-TW&user=yyIoQu4AAAAJ	Diederik P. Kingma	Research Scientist, Google Brain	94825
+/citations?hl=zh-TW&user=oBu8kMMAAAAJ	Tomas Mikolov	CVUT	92472
+/citations?hl=zh-TW&user=jplQac8AAAAJ	Klaus-Robert Müller	TU Berlin	87951
+/citations?hl=zh-TW&user=vfT6-XIAAAAJ	Quoc V. Le	Research Scientist, Google Brain	83846
+/citations?hl=zh-TW&user=yILa1y0AAAAJ	Andrew McCallum	Distinguished Professor of Computer Science, University of Massachusetts Amherst	82684
+/citations?hl=zh-TW&user=Q_kKkIUAAAAJ	Jure Leskovec	Professor of Computer Science, Stanford University	82265
+/citations?hl=zh-TW&user=lMkTx0EAAAAJ	Jason Weston	Facebook	80889
+/citations?hl=zh-TW&user=GgQ9GEkAAAAJ	Rob Fergus	Research Scientist, DeepMind. Professor of Computer Science, New York University	79618
+/citations?hl=zh-TW&user=1iE2ykkAAAAJ	John Shawe-Taylor	UCL	79597
+/citations?hl=zh-TW&user=ORr4XJYAAAAJ	Serge Belongie	Professor of Computer Science, Cornell University and Cornell Tech	79432
+/citations?hl=zh-TW&user=L60tuywAAAAJ	Rama Chellappa	Johns Hopkins University	76588
+/citations?hl=zh-TW&user=a8Y2OJMAAAAJ	Piotr Dollár	Facebook AI Research	75518
+/citations?hl=zh-TW&user=p9-ohHsAAAAJ	Ming-Hsuan Yang	Professor, University of California at Merced; Research Scientist, Google	73676
+/citations?hl=zh-TW&user=-8DNE4UAAAAJ	David Silver	Google DeepMind	70986
+/citations?hl=zh-TW&user=wfGiqXEAAAAJ	Dumitru Erhan	Staff Research Scientist, Google Brain	70583
+/citations?hl=zh-TW&user=5tk1PV8AAAAJ	Thorsten Joachims	Professor of Computer Science, Cornell University	70267
+/citations?hl=zh-TW&user=6C8rf-0AAAAJ	Hermann Ney	RWTH Aachen University	69710
+/citations?hl=zh-TW&user=x5bC-UwAAAAJ	Jonathon Shlens	Google Research	69179
+/citations?hl=zh-TW&user=0RAmmIAAAAAJ	Kyunghyun Cho	New York University	69011
+/citations?hl=zh-TW&user=U_IVY50AAAAJ	Corinna Cortes	Google Research, NY	66836
+/citations?hl=zh-TW&user=tvUH3WMAAAAJ	Sepp Hochreiter	Institute for Machine Learning, Johannes Kepler University Linz	66034
+/citations?hl=zh-TW&user=0uTu7fYAAAAJ	Zoubin Ghahramani	Professor, University of Cambridge, and Distinguished Researcher, Google	65880
+/citations?hl=zh-TW&user=MxxZkEcAAAAJ	Kevin Murphy	Research Scientist, Google	64661
+/citations?hl=zh-TW&user=0VAe-TQAAAAJ	Thomas Brox	Professor at the University of Freiburg and Amazon Scholar	62971
+/citations?hl=zh-TW&user=z76PBfYAAAAJ	Bernt Schiele	Professor, Max Planck Institute for Informatics	62640
+/citations?hl=zh-TW&user=RwlJNLcAAAAJ	Dacheng Tao	The University of Sydney	60993
+/citations?hl=zh-TW&user=TKvd_Z4AAAAJ	Kai Chen	Google Inc.	59239
+/citations?hl=zh-TW&user=rSVIHasAAAAJ	Zhi-Hua Zhou	Nanjing University	58179
+/citations?hl=zh-TW&user=MnfzuPYAAAAJ	Tom Mitchell	Founders University Professor of Machine Learning, Carnegie Mellon University	58024
+/citations?hl=zh-TW&user=vtwH6GkAAAAJ	Pieter Abbeel	UC Berkeley	57363
+/citations?hl=zh-TW&user=OGGu384AAAAJ	Gaël Varoquaux	Research director, INRIA	56992
+/citations?hl=zh-TW&user=T04c3fwAAAAJ	Dragomir Anguelov	Distinguished Researcher, Waymo	55559
+/citations?hl=zh-TW&user=I1EvjZsAAAAJ	Matei Zaharia	Stanford DAWN Lab and Databricks	55449
+/citations?hl=zh-TW&user=SToCbu8AAAAJ	Wei-Ying Ma	Tsinghua University	53927
+/citations?hl=zh-TW&user=jEANvfgAAAAJ	Scott Reed	Research Scientist, Google DeepMind	50544
+/citations?hl=zh-TW&user=bRT7t28AAAAJ	Andrea Vedaldi	University of Oxford	50162
+/citations?hl=zh-TW&user=MeKi5_AAAAAJ	Bertrand Thirion	Inria	49438
+/citations?hl=zh-TW&user=9B8PoXUAAAAJ	Deva Ramanan	Associate Professor, Robotics Institute, Carnegie Mellon University	49026
+/citations?hl=zh-TW&user=fhxshS0AAAAJ	Alexandre Gramfort	INRIA	48918
+/citations?hl=zh-TW&user=8200InoAAAAJ	Max Welling	Professor Machine Learning, University of Amsterdam	48808
+/citations?hl=zh-TW&user=6GDfcqEAAAAJ	Laurens van der Maaten	Research Director, Facebook AI Research	47772
+/citations?hl=zh-TW&user=DpLFv4gAAAAJ	Carlos Guestrin	Amazon Professor of Machine Learning, University of Washington	47624
+/citations?hl=zh-TW&user=jeOFRDsAAAAJ	Ali Farhadi	Associate Professor, Computer Science and Engineering, University of Washington	47537
+/citations?hl=zh-TW&user=Y-nyLGIAAAAJ	Stan Z. Li	Westlake University & CAS Institute of Automation	46955
+/citations?hl=zh-TW&user=PJQNw9oAAAAJ	Fabian Pedregosa	Google	46427
+/citations?hl=zh-TW&user=c646VbAAAAAJ	Mehdi Mirza	DeepMind	46168
+/citations?hl=zh-TW&user=Vs-MdPcAAAAJ	Samy Bengio	Research Scientist, Google Research, Brain Team	45776
+/citations?hl=zh-TW&user=MOgfm8oAAAAJ	David Warde-Farley	Senior Research Scientist, DeepMind	45502
+/citations?hl=zh-TW&user=cXQciMEAAAAJ	Daniel Cremers	Technical University of Munich	44747
+/citations?hl=zh-TW&user=s1PgoeUAAAAJ	Nitish Srivastava	Research Scientist, Apple	43941
+/citations?hl=zh-TW&user=FZbrL2YAAAAJ	Licheng Jiao	Professor of Xidian University, IEEE Fellow	43727
+/citations?hl=zh-TW&user=htPVdRMAAAAJ	Timothy P. Lillicrap	Senior Research Scientist, Google DeepMind	42988
+/citations?hl=zh-TW&user=XD_01h8AAAAJ	Kunal Talwar	Apple	42666
+/citations?hl=zh-TW&user=WBCKQMsAAAAJ	Pascal Vincent	Facebook AI Research	42661
+/citations?hl=zh-TW&user=U89FHq4AAAAJ	Hugo Larochelle	Google Brain & Mila	42375
+/citations?hl=zh-TW&user=ZeJjFQMAAAAJ	C. Lawrence Zitnick	Facebook AI Research	42349
+/citations?hl=zh-TW&user=C0EKzrUAAAAJ	Mathieu Blondel	Google	41208
+/citations?hl=zh-TW&user=LFiqVpwAAAAJ	John Langford	Microsoft Research New York	40973
+/citations?hl=zh-TW&user=8R35rCwAAAAJ	Sergey Levine	UC Berkeley, Google	40947
+/citations?hl=zh-TW&user=EemUE4gAAAAJ	Zhifeng Chen	Google Inc.	40819
+/citations?hl=zh-TW&user=-ltRSM0AAAAJ	Evan Shelhamer	DeepMind	40783
+/citations?hl=zh-TW&user=feX1fWAAAAAJ	Li-Jia Li	Adjunct Professor, School of Medicine, Stanford University	40473
+/citations?hl=zh-TW&user=P3ER6nYAAAAJ	Alexandre Passos	Google research	40378
+/citations?hl=zh-TW&user=aqgFQqMAAAAJ	Carl Edward Rasmussen	Professor of Machine Learning, University of Cambridge	39689
+/citations?hl=zh-TW&user=Nq0dVMcAAAAJ	Dzmitry Bahdanau	Mcgill	39528
+/citations?hl=zh-TW&user=a7VNhCIAAAAJ	Dimitris N. Metaxas	Distinguished Professor of Computer Science, Rutgers University	39314
+/citations?hl=zh-TW&user=LurWtuYAAAAJ	Tong Zhang	HKUST	39127
+/citations?hl=zh-TW&user=MlZq4XwAAAAJ	Yiming Yang	Professor, Carnegie Mellon University	38704
+/citations?hl=zh-TW&user=p9RsPG4AAAAJ	Raymond Mooney	Professor of Computer Science, University of Texas at Austin	38658
+/citations?hl=zh-TW&user=jyxO2akAAAAJ	Raquel Urtasun	Professor, University of Toronto. Chief Scientist, Uber ATG	38328
+/citations?hl=zh-TW&user=ygpxbK8AAAAJ	Maja Pantic	Professor, Imperial College London / AI Scientific Research Lead, Facebook London	37864
+/citations?hl=zh-TW&user=xBv5ZfkAAAAJ	Inderjit S. Dhillon	Vice President/Distinguished Scientist at Amazon	37720
+/citations?hl=zh-TW&user=5pKTRxEAAAAJ	Eric Xing	CMU	37487
+/citations?hl=zh-TW&user=8ys-38kAAAAJ	William W. Cohen	Google AI	37327
+/citations?hl=zh-TW&user=y-nUzMwAAAAJ	Yee Whye Teh	Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind	37011
+/citations?hl=zh-TW&user=T3hAyLkAAAAJ	Thomas Hofmann	Professor of Computer Science, ETH Zurich	36898
+/citations?hl=zh-TW&user=l8WuQJgAAAAJ	Andrej Karpathy	Computer Science PhD student, Stanford University	36327
+/citations?hl=zh-TW&user=6dskOSUAAAAJ	Christopher Olah	Research Scientist, OpenAI	35643
+/citations?hl=zh-TW&user=N_YNMIMAAAAJ	Carsten Rother	Professor University Heidelberg / Germany	35502
+/citations?hl=zh-TW&user=3pyzQQ8AAAAJ	Pushmeet Kohli	DeepMind	35493
+/citations?hl=zh-TW&user=KCiDjbkAAAAJ	Lyle Ungar	University of Pennsylvania	35351
+/citations?hl=zh-TW&user=wlqqttEAAAAJ	Jaime Carbonell	Professor of Computer Science, Carnegie Mellon University	35237
+/citations?hl=zh-TW&user=NCtKHnQAAAAJ	Josef Sivic	CVUT	34761
+/citations?hl=zh-TW&user=MVgfQZUAAAAJ	Yang Wang	Research Scientist, Siemens Corporate Research	34345
+/citations?hl=zh-TW&user=rLdfJ1gAAAAJ	Volodymyr Mnih	DeepMind	33983
+/citations?hl=zh-TW&user=O7MZStwAAAAJ	Sherjil Ozair	PhD Student, University of Montreal	33069
+/citations?hl=zh-TW&user=Nhi0I8cAAAAJ	Shaogang Gong	Queen Mary University of London	32981
+/citations?hl=zh-TW&user=_BPdgV0AAAAJ	Tsung-Yi Lin	Research Scientist, Google Brain	32829
+/citations?hl=zh-TW&user=qnwjcfAAAAAJ	Peter Stone	Professor of Computer Science, The University of Texas at Austin	32608
+/citations?hl=zh-TW&user=E-bpPWgAAAAJ	Dan Roth	Professor of Computer Science, University of Pennsylvania	31789
+/citations?hl=zh-TW&user=ajIYB6wAAAAJ	Christopher Meek	Principle Researcher, Microsoft Research	31779
+/citations?hl=zh-TW&user=QLLFowsAAAAJ	Xiaofei He	Professor of Computer Science, Zhejiang University	31308
+/citations?hl=zh-TW&user=W2DsnAkAAAAJ	Chris Dyer	DeepMind, Carnegie Mellon	31012
+/citations?hl=zh-TW&user=ZhGL6WcAAAAJ	Lawrence Carin	Provost, King Abdullah University of Science & Technology (KAUST)	30466
+/citations?hl=zh-TW&user=9qY7NPEAAAAJ	Kristina Toutanova	Google Research	29653
+/citations?hl=zh-TW&user=bmZbi_UNs-oC	Rahul Sukthankar	Google Research	28844
+/citations?hl=zh-TW&user=Nh832fgAAAAJ	Tie-Yan Liu	Assistant Managing Director, Microsoft Research Asia; IEEE Fellow	28657
+/citations?hl=zh-TW&user=kg4bCpgAAAAJ	Vladlen Koltun	Intel	28164
+/citations?hl=zh-TW&user=qXwJkr8AAAAJ	Kenton Lee	Google	27884
+/citations?hl=zh-TW&user=_WnkXlkAAAAJ	Xavier Glorot	DeepMind	27375
+/citations?hl=zh-TW&user=TjdFs3EAAAAJ	Noah A. Smith	University of Washington; Allen Institute for Artificial Intelligence	27320
+/citations?hl=zh-TW&user=ACjYGPUAAAAJ	Liang-Chieh Chen	Research Scientist, Google LA	27012
+/citations?hl=zh-TW&user=M5YT8IoAAAAJ	Zhihua Zhang	Professor of Computer Science, Shanghai Jiao Tong University	26767
+/citations?hl=zh-TW&user=9xDADY4AAAAJ	Kate Saenko	Boston University & MIT-IBM Watson AI Lab	26766
+/citations?hl=zh-TW&user=Ljk2BvIAAAAJ	Chunhua Shen	School of Computer Science, The University of Adelaide	26622
+/citations?hl=zh-TW&user=eSPY8LwAAAAJ	Razvan Pascanu	Research Scientist at Google DeepMind	26388
+/citations?hl=zh-TW&user=dOad5HoAAAAJ	Alec Radford	OpenAI	26348
+/citations?hl=zh-TW&user=UedS9LQAAAAJ	Wei Wang	UCLA	26259
+/citations?hl=zh-TW&user=hqTu-QcAAAAJ	Xiaojin Zhu	Professor in Computer Science at University of Wisconsin-Madison	25833
+/citations?hl=zh-TW&user=vzxDyJoAAAAJ	Deng Cai	Professor of Computer Science, Zhejiang University	25773
+/citations?hl=zh-TW&user=ROILf3EAAAAJ	Phillip Isola	Assistant Professor, MIT	25698
+/citations?hl=zh-TW&user=Jp6Mz1sAAAAJ	Kristen Grauman	Professor of Computer Science, University of Texas at Austin	25331
+/citations?hl=zh-TW&user=9oz-dvgAAAAJ	Zhuowen Tu	Professor, Cognitive Science, Computer Science&Engineering, UC San Diego	25239
+/citations?hl=zh-TW&user=n1DQMIsAAAAJ	Hongyuan Zha	The Chinese University of Hong Kong, Shenzhen	25124
+/citations?hl=zh-TW&user=0yDoR0AAAAAJ	Stefan Roth	Professor of Computer Science, TU Darmstadt	24860
+/citations?hl=zh-TW&user=jWWx33IAAAAJ	Antoine Bordes	Director / Facebook AI	24851
+/citations?hl=zh-TW&user=lH1PdF8AAAAJ	Stefano Soatto	Professor of Computer Science, UCLA	24001
+/citations?hl=zh-TW&user=nEsOOx8AAAAJ	Dit-Yan Yeung	Chair Professor and Head of CSE Department, HKUST, Hong Kong	23954
+/citations?hl=zh-TW&user=T9AzhwcAAAAJ	Jieping Ye	University of Michigan & Beike	23947
+/citations?hl=zh-TW&user=GiCqMFkAAAAJ	Ming-Wei Chang	Google Research	23927
+/citations?hl=zh-TW&user=SrVnrPcAAAAJ	Andreas Geiger	MPI	23775
+/citations?hl=zh-TW&user=7t4jbPQAAAAJ	J. Andrew Bagnell	Carnegie Mellon University	23427
+/citations?hl=zh-TW&user=aM3i_9oAAAAJ	Nicholas Roy	MIT	22873
+/citations?hl=zh-TW&user=J0l7wWwAAAAJ	Daniel D. Lee	Cornell Tech	22829
+/citations?hl=zh-TW&user=P9FclNEAAAAJ	Jan Kautz	Vice President of Research, NVIDIA Research	22811
+/citations?hl=zh-TW&user=ktwwLjsAAAAJ	Mehryar Mohri	Head, Learning Theory Team, Google Research	22757
+/citations?hl=zh-TW&user=QvAC0OEAAAAJ	Wei Fan	Tencent Medical AI Lab	22730
+/citations?hl=zh-TW&user=-P9LwcgAAAAJ	Gao Huang	Assistant Professor, Tsinghua University	22673
+/citations?hl=zh-TW&user=fpJHNQ8AAAAJ	Niki Parmar	Senior Research Scientist, Google Brain	22252
+/citations?hl=zh-TW&user=Bx9WGD6lBFEC	Julien Mairal	Inria	22129
+/citations?hl=zh-TW&user=2oB4nAIAAAAJ	Feiping Nie	Northwestern Polytechnical University	22011
+/citations?hl=zh-TW&user=CS5uNscAAAAJ	Rong Jin	Alibaba Group	21861
+/citations?hl=zh-TW&user=CHO-UV8AAAAJ	Olivier Bousquet	Google	21144
+/citations?hl=zh-TW&user=VuWl-KUAAAAJ	Ed H. Chi	Google Research / Google Brain	20944
+/citations?hl=zh-TW&user=mH-ZOQEAAAAJ	Daniel C. Alexander	UCL	20594
+/citations?hl=zh-TW&user=fWd88tEAAAAJ	Hartwig Adam	Director of Engineering, Google AI	20574
+/citations?hl=zh-TW&user=MXvC7tkAAAAJ	Irwin King	The Chinese University of Hong Kong	20446
+/citations?hl=zh-TW&user=grQ_GBgAAAAJ	Ryan P. Adams	Princeton University	20104
+/citations?hl=zh-TW&user=GL9M37YAAAAJ	Changshui Zhang	Dept. Automation, Tsinghua University, Beijing, China	20045
+/citations?hl=zh-TW&user=TanjFwoAAAAJ	Zhouchen Lin	Professor, Peking University; Fellow of IEEE & IAPR; ex-VP of Samsung Research	19976
+/citations?hl=zh-TW&user=ZnT-QpMAAAAJ	Nathan Srebro	Professor, TTIC and University of Chicago	19857
+/citations?hl=zh-TW&user=xnOKRZ4AAAAJ	Kyoung Mu Lee	Professor,  Department of Electrical and Computer Engineering, Seoul National University	19783
+/citations?hl=zh-TW&user=yNNIKJsAAAAJ	Sander Dieleman	Research Scientist, DeepMind	19702
+/citations?hl=zh-TW&user=_bs7PqgAAAAJ	Dhruv Batra	Georgia Tech and Facebook AI Research	19659
+/citations?hl=zh-TW&user=r3q68rcAAAAJ	Andrea Montanari	Professor of Electrical Engineering and Statistics, Stanford University	19427
+/citations?hl=zh-TW&user=Wy89g4IAAAAJ	Cho-Jui Hsieh	University of California, Los Angeles	19075
+/citations?hl=zh-TW&user=AjxoEpIAAAAJ	Wei Liu	Tencent	18821
+/citations?hl=zh-TW&user=GkYIrlIAAAAJ	Masashi Sugiyama	The University of Tokyo	18716
+/citations?hl=zh-TW&user=pouyVyUAAAAJ	Percy Liang	Associate Professor of Computer Science, Stanford University	18671
+/citations?hl=zh-TW&user=kRJkDakAAAAJ	Armand Joulin	Research Scientist, Facebook AI Research	18569
+/citations?hl=zh-TW&user=IT-vb_kAAAAJ	Matthew Richardson	Microsoft Research	18282

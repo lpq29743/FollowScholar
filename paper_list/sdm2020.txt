@@ -1,0 +1,151 @@
+		Akihiro Yamaguchi, Shigeru Maya, Kohei Maruchi, Ken Ueno:
+LTSpAUC: Learning Time-series Shapelets for Optimizing Partial AUC. 1-9
+		Erik Scharwächter, Emmanuel Müller:
+Two-Sample Testing for Event Impacts in Time Series. 10-18
+		Yang Li, Buyue Qian, Xianli Zhang, Hui Liu:
+Knowledge guided diagnosis prediction via graph spatial-temporal network. 19-27
+		Tyler Wilson, Pang-Ning Tan, Lifeng Luo:
+Convolutional Methods for Predictive Modeling of Geospatial Data. 28-36
+		Suhas Thejaswi, Aristides Gionis:
+Pattern detection in large temporal graphs using algebraic fingerprints. 37-45
+		Suwen Lin, Xian Wu, Gonzalo J. Martínez, Nitesh V. Chawla:
+Filling Missing Values on Wearable-Sensory Time Series Data. 46-54
+		Julia Lasserre, Abdul-Saboor Sheikh, Evgenii Koriagin, Urs Bergmann, Roland Vollgraf, Reza Shirvany:
+Meta-Learning for Size and Fit Recommendation in Fashion. 55-63
+		Zhiwei Liu, Mengting Wan, Stephen Guo, Kannan Achan, Philip S. Yu:
+BasConv: Aggregating Heterogeneous Interactions for Basket Recommendation with Graph Convolutional Neural Network. 64-72
+		Hengrui Zhang, Julian J. McAuley:
+Stacked Mixed-Order Graph Convolutional Networks for Collaborative Filtering. 73-81
+		Rui Ding, Guibing Guo, Xiaochun Yang, Bowei Chen, Zhirong Liu, Xiuqiang He:
+BiGAN: Collaborative Filtering with Bidirectional Generative Adversarial Networks. 82-90
+		Xunqiang Jiang, Binbin Hu, Yuan Fang, Chuan Shi:
+Multiplex Memory Network for Collaborative Filtering. 91-99
+		Buru Chang, Yookyung Koh, Donghyeon Park, Jaewoo Kang:
+Content-Aware Successive Point-of-Interest Recommendation. 100-108
+		Zahra Ghafoori, Christopher Leckie:
+Deep Multi-sphere Support Vector Data Description. 109-117
+		Adrian Englhardt, Holger Trittenbach, Dennis Vetter, Klemens Böhm:
+Finding the Sweet Spot: Batch Selection for One-Class Active Learning. 118-126
+		Vincent Vercruyssen, Wannes Meert, Jesse Davis:
+"Now you see it, now you don't!" Detecting Suspicious Pattern Absences in Continuous Time Series. 127-135
+		Li Zhang, Yifeng Gao, Jessica Lin:
+Semantic Discord: Finding Unusual Local Patterns for Time Series. 136-144
+		Adrian Englhardt, Klemens Böhm:
+Exploring the Unknown - Query Synthesis in One-Class Active Learning. 145-153
+		Mehadi Hassen, Philip K. Chan:
+Learning a Neural-network-based Representation for Open Set Recognition. 154-162
+		Chi-Cheng Chiu, Pin-Yen Lin, Chih-Jen Lin:
+Two-variable Dual Coordinate Descent Methods for Linear SVM with/without the Bias Term. 163-171
+		Naoto Ohsaka, Tomoya Sakai, Akihiro Yabe:
+A Predictive Optimization Framework for Hierarchical Demand Matching. 172-180
+		Hung-Yi Chou, Pin-Yen Lin, Chih-Jen Lin:
+Dual Coordinate-Descent Methods for Linear One-Class SVM and SVDD. 181-189
+		Xinyan Li, Qilong Gu, Yingxue Zhou, Tiancong Chen, Arindam Banerjee:
+Hessian based analysis of SGD for Deep Nets: Dynamics and Generalization. 190-198
+		Peng Xu, Fred Roosta, Michael W. Mahoney:
+Second-order Optimization for Non-convex Machine Learning: an Empirical Study. 199-207
+		Hongyuan You, Furkan Kocayusufoglu, Ambuj K. Singh:
+DANR: Discrepancy-aware Network Regularization. 208-216
+		Guiliang Liu, Xu Li, Mingming Sun, Ping Li:
+An Advantage Actor-Critic Algorithm with Confidence Exploration for Open Information Extraction. 217-225
+		Rong Zhang, Qifei Zhou, Bo Wu, Weiping Li, Tong Mo:
+What Do Questions Exactly Ask? MFAE: Duplicate Question Identification with Multi-Fusion Asking Emphasis. 226-234
+		Bo Yang, Kejun Huang, Nicholas D. Sidiropoulos:
+Identifying Potential Investors with Data Driven Approaches. 235-243
+		Gianni Costa, Riccardo Ortale:
+Document Clustering Meets Topic Modeling with Word Embeddings. 244-252
+		Guruprasad Nayak, Rahul Ghosh, Xiaowei Jia, Varun Mithal, Vipin Kumar:
+Semi-supervised Classification using Attention-based Regularization on Coarse-resolution Data. 253-261
+		Tomoki Ito, Kota Tsubouchi, Hiroki Sakaji, Tatsuo Yamashita, Kiyoshi Izumi:
+SSNN: Sentiment Shift Neural Network. 262-270
+		Ruocheng Guo, Jundong Li, Huan Liu:
+Counterfactual Evaluation of Treatment Assignment Functions with Networked Observational Data. 271-279
+		Hongjing Zhang, S. S. Ravi, Ian Davidson:
+A Graph-Based Approach for Active Learning in Regression. 280-288
+		Charu C. Aggarwal, Yao Li, Philip S. Yu:
+On Supervised Change Detection in Graph Streams. 289-297
+		Aritra Ghosh, Saayan Mitra, Somdeb Sarkhel, Viswanathan Swaminathan:
+Optimal Bidding Strategy without Exploration in Real-time Bidding. 298-306
+		Wentao Wang, Suhang Wang, Wenqi Fan, Zitao Liu, Jiliang Tang:
+Global-and-Local Aware Data Generation for the Class Imbalance Problem. 307-315
+		Jay S. Stanley III, Scott Gigante, Guy Wolf, Smita Krishnaswamy:
+Harmonic Alignment. 316-324
+		Ricky Laishram, Ahmet Erdem Sariyüce, Tina Eliassi-Rad, Ali Pinar, Sucheta Soundarajan:
+Residual Core Maximization: An Efficient Algorithm for Maximizing the Size of the k-Core. 325-333
+		Yi He, Sheng Chen, Thu Nguyen, Bruce A. Wade, Xindong Wu:
+Deep Matrix Tri-Factorization: Mining Vertex-wise Interactions in Multi-Space Attributed Graphs. 334-342
+		Christian Bauckhage, Rafet Sifa, Stefan Wrobel:
+Adiabatic Quantum Computing for Max-Sum Diversification. 343-351
+		Wenqi Fan, Yao Ma, Han Xu, Xiaorui Liu, Jianping Wang, Qing Li, Jiliang Tang:
+Deep Adversarial Canonical Correlation Analysis. 352-360
+		Yan Zhang, Zhao Zhang, Zheng Zhang, Mingbo Zhao, Li Zhang, Zhengjun Zha, Meng Wang:
+Deep Self-representative Concept Factorization Network for Representation Learning. 361-369
+		Fan Yang, Ninghao Liu, Mengnan Du, Kaixiong Zhou, Shuiwang Ji, Xia Hu:
+Deep Neural Networks with Knowledge Instillation. 370-378
+		Xin Dai, Xiangnan Kong, Xinyue Liu, John Boaz Lee, Constance M. Moore:
+Dual-Attention Recurrent Networks for Affine Registration of Neuroimaging Data. 379-387
+		Siwu Liu, Ji Hwan Park, Shinjae Yoo:
+Efficient and Effective Graph Convolution Networks. 388-396
+		Rafael Rêgo Drumond, Lukas Brinkmeyer, Josif Grabocka, Lars Schmidt-Thieme:
+HIDRA: Head Initialization across Dynamic targets for Robust Architectures. 397-405
+		Yuta Saito, Hayato Sakata, Kazuhide Nakata:
+Cost-Effective and Stable Policy Optimization Algorithm for Uplift Modeling with Multiple Treatments. 406-414
+		Ulf Johansson, Tuwe Löfström:
+Well-calibrated and specialized probability estimation trees. 415-423
+		James R. Foulds, Rashidul Islam, Kamrun Naher Keya, Shimei Pan:
+Bayesian Modeling of Intersectional Fairness: The Variance of Bias. 424-432
+		Fattaneh Jabbari, Gregory F. Cooper:
+An Instance-Specific Algorithm for Learning the Structure of Causal Bayesian Networks Containing Latent Variables. 433-441
+		Sara Alaee, Alireza Abdoli, Christian R. Shelton, Amy C. Murillo, Alec C. Gerry, Eamonn J. Keogh:
+Features or Shape? Tackling the False Dichotomy of Time Series Classification. 442-450
+		Jingzheng Tu, Guoxian Yu, Jun Wang, Carlotta Domeniconi, Xiangliang Zhang:
+Attention-Aware Answers of the Crowd. 451-459
+		Timothy LaRock, Vahan Nanumyan, Ingo Scholtes, Giona Casiraghi, Tina Eliassi-Rad, Frank Schweitzer:
+HYPA: Efficient Detection of Path Anomalies in Time Series Data on Networks. 460-468
+		Yinghua Zhang, Yu Zhang, Ying Wei, Kun Bai, Yangqiu Song, Qiang Yang:
+Fisher Deep Domain Adaptation. 469-477
+		Lu Cheng, Ruocheng Guo, K. Selçuk Candan, Huan Liu:
+Representation Learning for Imbalanced Cross-Domain Classification. 478-486
+		Anasua Mitra, Priyesh Vijayan, Srinivasan Parthasarathy, Balaraman Ravindran:
+A Unified Non-Negative Matrix Factorization Framework for Semi Supervised Learning on Graphs. 487-495
+		Lutz Oettershagen, Nils M. Kriege, Christopher Morris, Petra Mutzel:
+Temporal Graph Kernels for Classifying Dissemination Processes. 496-504
+		Charles H. Martin, Michael W. Mahoney:
+Heavy-Tailed Universality Predicts Trends in Test Accuracies for Very Large Pre-Trained Deep Neural Networks. 505-513
+		Fenglong Ma, Yaqing Wang, Jing Gao, Houping Xiao, Jing Zhou:
+Rare Disease Prediction by Generating Quality-Assured Electronic Health Records. 514-522
+		Yitao Li, Umar Islambekov, Cuneyt Gurcan Akcora, Ekaterina Smirnova, Yulia R. Gel, Murat Kantarcioglu:
+Dissecting Ethereum Blockchain Analytics: What We Learn from Topology and Geometry of the Ethereum Graph? 523-531
+		Arka Daw, R. Quinn Thomas, Cayelan C. Carey, Jordan S. Read, Alison P. Appling, Anuj Karpatne:
+Physics-Guided Architecture (PGA) of Neural Networks for Quantifying Uncertainty in Lake Temperature Modeling. 532-540
+		Scott Freitas, Andrew Wicker, Duen Horng (Polo) Chau, Joshua Neil:
+D2M: Dynamic Defense and Modeling of Adversarial Movement in Networks. 541-549
+		Rongrong Tao, Baojian Zhou, Feng Chen, David Mares, Patrick Butler, Naren Ramakrishnan, Ryan Kennedy:
+Detecting Media Self-Censorship without Explicit Training Data. 550-558
+		Nikhil Muralidhar, Jie Bu, Ze Cao, Long He, Naren Ramakrishnan, Danesh K. Tafti, Anuj Karpatne:
+PhyNet: Physics Guided Neural Networks for Particle Drag Force Prediction in Assembly. 559-567
+		Ryuta Matsuno, Aristides Gionis:
+Improved mixing time for k-subgraph sampling. 568-576
+		Ekta Gujral, Georgios Theocharous, Evangelos E. Papalexakis:
+SPADE: Streaming PARAFAC2 DEcomposition for Large Datasets. 577-585
+		Junning Deng, Bo Kang, Jefrey Lijffijt, Tijl De Bie:
+Explainable Subgraphs with Surprising Densities: A Subgroup Discovery Approach. 586-594
+		Wenyi Xiao, Huan Zhao, Vincent W. Zheng, Yangqiu Song:
+Vertex-reinforced Random Walk for Network Embedding. 595-603
+		Changgee Chang, Jihwan Oh, Qi Long:
+GRIA: Graphical Regularization for Integrative Analysis. 604-612
+		Zeinab S. Jalali, Weixiang Wang, Myunghwan Kim, Hema Raghavan, Sucheta Soundarajan:
+On the Information Unfairness of Social Networks. 613-521
+		Shigeru Maya, Akihiro Yamaguchi, Kaneharu Nishino, Ken Ueno:
+Lag-Aware Multivariate Time-Series Segmentation. 622-630
+		John Boaz Lee, Xiangnan Kong, Constance M. Moore, Nesreen K. Ahmed:
+Deep Parametric Model for Discovering Group-cohesive Functional Brain Regions. 631-639
+		Chieh Wu, Zulqarnain Khan, Stratis Ioannidis, Jennifer G. Dy:
+Deep Kernel Learning for Clustering. 640-648
+		Guangyi Zhang, Aristides Gionis:
+Maximizing diversity over clustered data. 649-657
+		Xiaoqiang Yan, Yiqiao Mao, Shizhe Hu, Yangdong Ye:
+Heterogeneous Dual-Task Clustering with Visual-Textual Information. 658-666
+		Yorgos Tsitsikas, Evangelos E. Papalexakis:
+NSVD: Normalized Singular Value Deviation Reveals Number of Latent Factors in Tensor Decomposition. 667-675
+a service of Schloss Dagstuhl - Leibniz Center for Informatics	homebrowsesearchabout

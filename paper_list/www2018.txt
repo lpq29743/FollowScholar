@@ -1,0 +1,380 @@
+		Rajan Vaish, Shirish Goyal, Amin Saberi, Sharad Goel:
+Creating Crowdsourced Research Talks at Scale. 1-11
+		Chenglin Miao, Qi Li, Lu Su, Mengdi Huai, Wenjun Jiang, Jing Gao:
+Attack under Disguise: An Intelligent Data Poisoning Attack Mechanism in Crowdsourcing. 13-22
+		Jie Yang, Thomas Drake, Andreas C. Damianou, Yoelle Maarek:
+Leveraging Crowdsourcing Data for Deep Active Learning An Application: Learning Intents in Alexa. 23-32
+		Xiao Ma, Megan Cackett, Leslie Park, Eric Chien, Mor Naaman:
+Web-Based VR Experiments Powered by the Crowd. 33-43
+		Mário Almeida, Muhammad Bilal, Alessandro Finamore, Ilias Leontiadis, Yan Grunenberger, Matteo Varvello, Jeremy Blackburn:
+CHIMP: Crowdsourcing Human Inputs for Mobile Phones. 45-54
+		Evgeny Krivosheev, Fabio Casati, Boualem Benatallah:
+Crowd-based Multi-Predicate Screening of Papers in Literature Reviews. 55-64
+		Himel Dev, Chase Geigle, Qingtao Hu, Jiahui Zheng, Hari Sundaram:
+The Size Conundrum: Why Online Knowledge Markets Can Fail at Scale. 65-75
+		Sunil Mohan, Nicolas Fiorini, Sun Kim, Zhiyong Lu:
+A Fast Deep Learning Model for Textual Relevance in Biomedical Information Retrieval. 77-86
+		Bin Zou, Vasileios Lampos, Ingemar J. Cox:
+Multi-Task Learning Improves Disease Models from Web Search. 87-96
+		Junxiang Wang, Liang Zhao:
+Multi-instance Domain Adaptation for Vaccine Adverse Event Detection. 97-106
+		Emma Pierson, Tim Althoff, Jure Leskovec:
+Modeling Individual Cyclic Variation in Human Behavior. 107-116
+		Shaika Chowdhury, Chenwei Zhang, Philip S. Yu:
+Multi-Task Pharmacovigilance Mining from Social Media Posts. 117-126
+		Payam Karisani, Eugene Agichtein:
+Did You Really Just Have a Heart Attack?: Towards Robust Detection of Personal Health Mentions in Social Media. 137-146
+		Chikara Hashimoto, Manabu Sassano:
+Detecting Absurd Conversations from Intelligent Assistant Logs by Exploiting User Feedback Utterances. 147-156
+		Xiang Li, Ben Kao, Siqiang Luo, Martin Ester:
+ROSC: Robust Spectral Clustering on Multi-scale Data. 157-166
+		Guanjie Zheng, Fuzheng Zhang, Zihan Zheng, Yang Xiang, Nicholas Jing Yuan, Xing Xie, Zhenhui Li:
+DRN: A Deep Reinforcement Learning Framework for News Recommendation. 167-176
+		Huijun Wu, Chen Wang, Jie Yin, Kai Lu, Liming Zhu:
+Sharing Deep Neural Network Models with Interpretation. 177-186
+		Haowen Xu, Wenxiao Chen, Nengwen Zhao, Zeyan Li, Jiahao Bu, Zhihan Li, Ying Liu, Youjian Zhao, Dan Pei, Yang Feng, Jie Chen, Zhaogang Wang, Honglin Qiao:
+Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications. 187-196
+		Diego Perino, Matteo Varvello, Claudio Soriente:
+ProxyTorrent: Untangling the Free HTTP(S) Proxy Ecosystem. 197-206
+		Timothy Libert:
+An Automated Approach to Auditing Disclosure of Third-Party Data Collection in Website Privacy Policies. 207-216
+		Yuxi Wu, Panya Gupta, Miranda Wei, Yasemin Acar, Sascha Fahl, Blase Ur:
+Your Secrets Are Safe: How Browsers' Explanations Impact Misconceptions About Private Browsing Mode. 217-226
+		Oleksii Starov, Yuchen Zhou, Xiao Zhang, Najmeh Miramirkhani, Nick Nikiforakis:
+Betrayed by Your Dashboard: Discovering Malicious Campaigns via Web Analytics. 227-236
+		Sajjad Arshad, Seyed Ali Mirheidari, Tobias Lauinger, Bruno Crispo, Engin Kirda, William K. Robertson:
+Large-Scale Analysis of Style Injection by Relative Path Overwrite. 237-246
+		Abner Mendoza, Phakpoom Chinprutthiwong, Guofei Gu:
+Uncovering HTTP Header Inconsistencies and the Impact on Desktop/Mobile Websites. 247-256
+		Najmeh Miramirkhani, Timothy Barron, Michael Ferdman, Nick Nikiforakis:
+Panning for gold.com: Understanding the Dynamics of Domain Dropcatching. 257-266
+		Rahat Masood, Dinusha Vatsalan, Muhammad Ikram, Mohamed Ali Kâafar:
+Incognito: A Method for Obfuscating Web Data. 267-276
+		Martin Dittus, Joss Wright, Mark Graham:
+Platform Criminalism: The 'Last-Mile' Geography of the Darknet Market Supply Chain. 277-286
+		Yang Zhang, Mathias Humbert, Tahleen A. Rahman, Cheng-Te Li, Jun Pang, Michael Backes:
+Tagvisor: A Privacy Advisor for Sharing Hashtags. 287-296
+		I Luk Kim, Weihang Wang, Yonghwi Kwon, Yunhui Zheng, Yousra Aafer, Weijie Meng, Xiangyu Zhang:
+AdBudgetKiller: Online Advertising Budget Draining Attack. 297-307
+		Alejandro Gómez-Boix, Pierre Laperdrix, Benoit Baudry:
+Hiding in the Crowd: an Analysis of the Effectiveness of Browser Fingerprinting at Large Scale. 309-318
+		Bharat Srinivasan, Athanasios Kountouras, Najmeh Miramirkhani, Monjur Alam, Nick Nikiforakis, Manos Antonakakis, Mustaque Ahamad:
+Exposing Search and Advertisement Abuse Tactics and Infrastructure of Technical Support Scammers. 319-328
+		Pedro Moreno-Sanchez, Navin Modi, Raghuvir Songhela, Aniket Kate, Sonia Fahmy:
+Mind Your Credit: Assessing the Health of the Ripple Credit Network. 329-338
+		Young Bae Jeon, Minchul Kim, Hyunsoo Kim, Hyoungshick Kim, Jun Ho Huh, Ji Won Yoon:
+I'm Listening to your Location! Inferring User Location with Acoustic Side Channels. 339-348
+		Klaudia Krawiecka, Arseny Kurnikov, Andrew Paverd, Mohammad Mannan, N. Asokan:
+SafeKeeper: Protecting Web Passwords using Trusted Execution Environments. 349-358
+		Yupeng Gu, Yizhou Sun, Yanen Li, Yang Yang:
+RaRE: Social Rank Regulated Large-scale Network Embedding. 359-368
+		Cameron Musco, Christopher Musco, Charalampos E. Tsourakakis:
+Minimizing Polarization and Disagreement in Social Networks. 369-378
+		Abhimanyu Das, Sreenivas Gollapudi, Anthony Kim, Debmalya Panigrahi, Chaitanya Swamy:
+Minimizing Latency in Online Ride and Delivery Services. 379-388
+		Abram N. Magner, Jithin K. Sreedharan, Ananth Y. Grama, Wojciech Szpankowski:
+TIMES: Temporal Information Maximally Extracted from Structures. 389-398
+		Yizhou Zhang, Yun Xiong, Xiangnan Kong, Shanshan Li, Jinhong Mi, Yangyong Zhu:
+Deep Collective Classification in Heterogeneous Information Networks. 399-408
+		Minji Yoon, Woojeong Jin, U Kang:
+Fast and Accurate Random Walk with Restart on Dynamic Graphs with Guarantees. 409-418
+		Marian-Andrei Rizoiu, Swapnil Mishra, Quyu Kong, Mark James Carman, Lexing Xie:
+SIR-Hawkes: Linking Epidemic Models and Hawkes Processes to Model Diffusions in Finite Populations. 419-428
+		Yongzheng Jia, Xue Liu, Wei Xu:
+When Online Dating Meets Nash Social Welfare: Achieving Efficiency and Fairness. 429-438
+		Nate Veldt, David F. Gleich, Anthony Wirth:
+A Correlation Clustering Framework for Community Detection. 439-448
+		Talya Eden, Shweta Jain, Ali Pinar, Dana Ron, C. Seshadhri:
+Provable and Practical Approximations for the Degree Distribution using Sublinear Graph Samples. 449-458
+		Sofia Maria Nikolakaki, Charalampos Mavroforakis, Alina Ene, Evimaria Terzi:
+Mining Tours and Paths in Activity Networks. 459-468
+		Jingchao Ni, Shiyu Chang, Xiao Liu, Wei Cheng, Haifeng Chen, Dongkuan Xu, Xiang Zhang:
+Co-Regularized Deep Multi-Network Embedding. 469-478
+		Linchuan Xu, Xiaokai Wei, Jiannong Cao, Philip S. Yu:
+On Exploring Semantic Meanings of Links for Embedding Social Networks. 479-488
+		Xiaofeng Yang, Deepak Ajwani, Wolfgang Gatterbauer, Patrick K. Nicholson, Mirek Riedewald, Alessandra Sala:
+Any-k: Anytime Top-k Tree Pattern Retrieval in Labeled Graphs. 489-498
+		Chenyi Zhuang, Qiang Ma:
+Dual Graph Convolutional Networks for Graph-Based Semi-Supervised Classification. 499-508
+		Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang:
+SIDE: Representation Learning in Signed Directed Networks. 509-518
+		Arlei Silva, Ambuj K. Singh, Ananthram Swami:
+Spectral Algorithms for Temporal Graph Cuts. 519-528
+		Srishti Gupta, Abhinav Khattar, Arpit Gogia, Ponnurangam Kumaraguru, Tanmoy Chakraborty:
+Collective Classification of Spam Campaigners on Twitter: A Hierarchical Meta-Path Based Approach. 529-538
+		Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Emmanuel Müller:
+VERSE: Versatile Graph Embeddings from Similarity Measures. 539-548
+		Abir De, Sourangshu Bhattacharya, Niloy Ganguly:
+Demarcating Endogenous and Exogenous Opinion Diffusion Process on Social Networks. 549-558
+		Chen Avin, Avi Cohen, Pierre Fraigniaud, Zvi Lotker, David Peleg:
+Preferential Attachment as a Unique Equilibrium. 559-568
+		Haim Mendelson, Ken Moon:
+Modeling Success and Engagement for the App Economy. 569-578
+		T.-H. Hubert Chan, Arnaud Guerqin, Mauro Sozio:
+Fully Dynamic k-Center Clustering. 579-587
+		Maximilien Danisch, Oana Balalau, Mauro Sozio:
+Listing k-cliques in Sparse Real-World Graphs. 589-598
+		Weiren Yu, Fan Wang:
+Fast Exact CoSimRank Search on Evolving and Static Graphs. 599-608
+		Ricky Laishram, Ahmet Erdem Sariyüce, Tina Eliassi-Rad, Ali Pinar, Sucheta Soundarajan:
+Measuring and Improving the Core Resilience of Networks. 609-618
+		Huda Nassar, Nate Veldt, Shahin Mohammadi, Ananth Grama, David F. Gleich:
+Low Rank Spectral Network Alignment. 619-628
+		Manish Raghavan, Ashton Anderson, Jon M. Kleinberg:
+Mapping the Invocation Structure of Online Political Interaction. 629-638
+		Zhiyong Cheng, Ying Ding, Lei Zhu, Mohan S. Kankanhalli:
+Aspect-Aware Latent Factor Model: Rating Prediction with Ratings and Reviews. 639-648
+		Wenhui Yu, Huidi Zhang, Xiangnan He, Xu Chen, Li Xiong, Zheng Qin:
+Aesthetic-based Clothing Recommendation. 649-658
+		Tomasz Kusmierczyk, Manuel Gomez-Rodriguez:
+On the Causal Effect of Badges. 659-668
+		Surabhi Punjabi, Priyanka Bhatt:
+Robust Factorization Machines for User Response Prediction. 669-678
+		Vivek Sembium, Rajeev Rastogi, Lavanya Sita Tekumalla, Atul Saroop:
+Bayesian Models for Product Size Recommendations. 679-687
+		Dawen Liang, Rahul G. Krishnan, Matthew D. Hoffman, Tony Jebara:
+Variational Autoencoders for Collaborative Filtering. 689-698
+		Alexander Peysakhovich, Dean Eckles:
+Learning Causal Effects From Many Randomized Experiments Using Regularized Instrumental Variables. 699-707
+		Chuxu Zhang, Chao Huang, Lu Yu, Xiangliang Zhang, Nitesh V. Chawla:
+Camel: Content-Aware and Meta-path Augmented Metric Learning for Author Identification. 709-718
+		Moshe Lichman, Padhraic Smyth:
+Prediction of Sparse User-Item Consumption Rates with Zero-Inflated Poisson Regression. 719-728
+		Yi Tay, Luu Anh Tuan, Siu Cheung Hui:
+Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking. 729-739
+		Dongsheng Li, Chao Chen, Qin Lv, Hansu Gu, Tun Lu, Li Shang, Ning Gu, Stephen M. Chu:
+AdaError: An Adaptive Learning Rate Method for Matrix Approximation-based Collaborative Filtering. 741-751
+		Brit Youngmann, Elad Yom-Tov:
+Anxiety and Information Seeking: Evidence From Large-Scale Mouse Tracking. 753-762
+		Zhenpeng Chen, Xuan Lu, Wei Ai, Huoran Li, Qiaozhu Mei, Xuanzhe Liu:
+Through a Gender Lens: Learning Usage Patterns of Emojis from Large-Scale Android Users. 763-772
+		Yichao Lu, Ruihai Dong, Barry Smyth:
+Coevolutionary Recommendation Model: Mutual Learning between Ratings and Reviews. 773-782
+		Youngnam Lee, Sang-Wook Kim, Sunju Park, Xing Xie:
+How to Impute Missing Ratings?: Claims, Solution, and Its Application to Collaborative Filtering. 783-792
+		Gael Lederrey, Robert West:
+When Sheep Shop: Measuring Herding Effects in Product Ratings with Natural Experiments. 793-802
+		Takeshi Kurashima, Tim Althoff, Jure Leskovec:
+Modeling Interdependent and Periodic Real-World Action Sequences. 803-812
+		Ben Miroglio, David Zeber, Jofish Kaye, Rebecca Weiss:
+The Effect of Ad Blocking on User Engagement with the Web. 813-821
+		Nabeel Gillani, Ann Yuan, Martin Saveski, Soroush Vosoughi, Deb Roy:
+Me, My Echo Chamber, and I: Introspection on Social Media Polarization. 823-831
+		Daizong Ding, Mi Zhang, Xudong Pan, Duocai Wu, Pearl Pu:
+Geographical Feature Extraction for Entities in Location-based Social Networks. 833-842
+		Anna Samoilenko, Florian Lemmerich, Maria Zens, Mohsen Jadidi, Mathieu Génois, Markus Strohmaier:
+(Don't) Mention the War: A Comparison of Wikipedia and Britannica Articles on National Histories. 843-852
+		Emmanouil Krasanakis, Eleftherios Spyromitros Xioufis, Symeon Papadopoulos, Yiannis Kompatsiaris:
+Adaptive Sensitive Reweighting to Mitigate Bias in Fairness-aware Classification. 853-862
+		Shan Jiang, Le Chen, Alan Mislove, Christo Wilson:
+On Ridesharing Competition and Accessibility: Evidence from Uber, Lyft, and Taxi. 863-872
+		Allen Yilun Lin, Joshua Ford, Eytan Adar, Brent J. Hecht:
+VizByWiki: Mining Data Visualizations from the Web to Enrich News Articles. 873-882
+		Eric Malmi, Aristides Gionis, Arno Solin:
+Computationally Inferred Genealogical Networks Uncover Long-Term Trends in Assortative Mating. 883-892
+		Haewoon Kwak, Jisun An, Joni Salminen, Soon-Gyo Jung, Bernard J. Jansen:
+What We Read, What We Search: Media Attention and Public Attention Among 193 Countries. 893-902
+		Nina Grgic-Hlaca, Elissa M. Redmiles, Krishna P. Gummadi, Adrian Weller:
+Human Perceptions of Fairness in Algorithmic Decision Making: A Case Study of Criminal Risk Prediction. 903-912
+		Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, Michael Mathioudakis:
+Political Discourse on Social Media: Echo Chambers, Gatekeepers, and the Price of Bipartisanship. 913-922
+		Ana-Andreea Stoica, Christopher J. Riederer, Augustin Chaintreau:
+Algorithmic Glass Ceiling in Social Networks: The effects of social recommendations on network diversity. 923-932
+		Srijan Kumar, William L. Hamilton, Jure Leskovec, Dan Jurafsky:
+Community Interaction and Conflict on the Web. 933-943
+		Chenhao Tan, Hao Peng, Noah A. Smith:
+"You are no Jack Kennedy": On Media Selection of Highlights from Presidential Debates. 945-954
+		Ronald E. Robertson, David Lazer, Christo Wilson:
+Auditing the Personalization and Composition of Politically-Related Search Engine Results Pages. 955-965
+		Yang Yang, Zongtao Liu, Chenhao Tan, Fei Wu, Yueting Zhuang, Yafeng Li:
+To Stay or to Leave: Churn Prediction for Urban Migrants in the Initial Period. 967-976
+		Xiaoshi Zhong, Erik Cambria:
+Time Expression Recognition Using a Constituent-based Tagging Scheme. 983-992
+		Yashoteja Prabhu, Anil Kag, Shrutendra Harsola, Rahul Agrawal, Manik Varma:
+Parabel: Partitioned Label Trees for Extreme Classification with Application to Dynamic Search Advertising. 993-1002
+		Maja R. Rudolph, David M. Blei:
+Dynamic Embeddings for Language Evolution. 1003-1011
+		Patrick Ernst, Amy Siu, Gerhard Weikum:
+HighLife: Higher-arity Fact Harvesting. 1013-1022
+		Qiao Liu, Haibin Zhang, Yifu Zeng, Ziqi Huang, Zufeng Wu:
+Content Attention Model for Aspect Based Sentiment Analysis. 1023-1032
+		Tobias Grubenmann, Abraham Bernstein, Dmitry Moor, Sven Seuken:
+Financing the Web of Data with Delayed-Answer Auctions. 1033-1042
+		Giorgio Stefanoni, Boris Motik, Egor V. Kostylev:
+Estimating the Cardinality of Conjunctive Queries over RDF Data Using Graph Summarisation. 1043-1052
+		Abdalghani Abujabal, Rishiraj Saha Roy, Mohamed Yahya, Gerhard Weikum:
+Never-Ending Learning for Open-Domain Question Answering over Knowledge Bases. 1053-1062
+		Hao Peng, Jianxin Li, Yu He, Yaopeng Liu, Mengjiao Bao, Lihong Wang, Yangqiu Song, Qiang Yang:
+Large-Scale Hierarchical Text Classification with Recursively Regularized Deep Graph-CNN. 1063-1072
+		Kaja Zupanc, Jesse Davis:
+Estimating Rule Quality for Knowledge Base Completion with the Relationship between Coverage Assumption. 1073-1081
+		Thijs Scheepers, Evangelos Kanoulas, Efstratios Gavves:
+Improving Word Embedding Compositionality using Lexicographic Definitions. 1083-1093
+		Ruslan R. Fayzrakhmanov, Emanuel Sallinger, Ben Spencer, Tim Furche, Georg Gottlob:
+Browserless Web Data Extraction: Challenges and Opportunities. 1095-1104
+		Tian Shi, Kyeongpil Kang, Jaegul Choo, Chandan K. Reddy:
+Short-Text Topic Modeling via Non-negative Matrix Factorization Enriched with Local Word-Context Correlations. 1105-1114
+		Jonathan Lajus, Fabian M. Suchanek:
+Are All People Married?: Determining Obligatory Attributes in Knowledge Bases. 1115-1124
+		Jacob Levy Abitbol, Márton Karsai, Jean-Philippe Magué, Jean-Pierre Chevrot, Eric Fleury:
+Socioeconomic Dependencies of Linguistic Patterns in Twitter: a Multivariate Analysis. 1125-1134
+		Chenwei Ran, Wei Shen, Jianyong Wang:
+An Attention Factor Graph Model for Tweet Entity Linking. 1135-1144
+		Yunhao Jiao, Cheng Li, Fei Wu, Qiaozhu Mei:
+Find the Conversation Killers: A Predictive Study of Thread-ending Posts. 1145-1154
+		Olaf Hartig, Jorge Pérez:
+Semantics and Complexity of GraphQL. 1155-1164
+		Yequan Wang, Aixin Sun, Jialong Han, Ying Liu, Xiaoyan Zhu:
+Sentiment Analysis by Capsules. 1165-1174
+		Larry González, Aidan Hogan:
+Modelling Dynamics in Semantic Web Knowledge Graphs with Formal Concept Analysis. 1175-1184
+		Richong Zhang, Junpeng Li, Jiajie Mei, Yongyi Mao:
+Scalable Instance Reconstruction in Knowledge Bases via Relatedness Affiliated Embedding. 1185-1194
+		Andrew T. Schneider, Arjun Mukherjee, Eduard C. Dragut:
+Leveraging Social Media Signals for Record Linkage. 1195-1204
+		Yue Zhang, Arti Ramesh, Jennifer Golbeck, Dhanya Sridhar, Lise Getoor:
+A Structured Approach to Understanding Recovery and Relapse in AA. 1205-1214
+		Riccardo Porrini, Matteo Palmonari, Isabel F. Cruz:
+Facet Annotation Using Reference Knowledge Bases. 1215-1224
+		Abhimanyu Dubey, Esteban Moro, Manuel Cebrián, Iyad Rahwan:
+MemeSequencer: Sparse Matching for Embedding Image Macros. 1225-1235
+		Bang Liu, Ting Zhang, Fred X. Han, Di Niu, Kunfeng Lai, Yu Xu:
+Matching Natural Language Sentences with Hierarchical Sentence Factorization. 1237-1246
+		Kuldeep Singh, Arun Sethupat Radhakrishna, Andreas Both, Saeedeh Shekarpour, Ioanna Lytra, Ricardo Usbeck, Akhilesh Vyas, Akmal Khikmatullaev, Dharmen Punjani, Christoph Lange, Maria-Esther Vidal, Jens Lehmann, Sören Auer:
+Why Reinvent the Wheel: Let's Build Question Answering Systems Together. 1247-1256
+		Meng Qu, Xiang Ren, Yu Zhang, Jiawei Han:
+Weakly-supervised Relation Extraction by Pattern-enhanced Embedding Learning. 1257-1266
+		Marius Pasca:
+Finding Needles in an Encyclopedic Haystack: Detecting Classes Among Wikipedia Articles. 1267-1276
+		Wei Zhang, Wen Wang, Jun Wang, Hongyuan Zha:
+User-guided Hierarchical Attention Network for Multi-modal Social Image Popularity Prediction. 1277-1286
+		Ehsan Kamalloo, Davood Rafiei:
+A Coherent Unsupervised Model for Toponym Resolution. 1287-1296
+		Nicolas Tempelmeier, Elena Demidova, Stefan Dietze:
+Inferring Missing Categorical Information in Noisy and Sparse Web Markup. 1297-1306
+		Matteo Cannaviccio, Denilson Barbosa, Paolo Merialdo:
+Towards Annotating Relational Data on the Web with Language Models. 1307-1316
+		Shikhar Vashishth, Prince Jain, Partha P. Talukdar:
+CESI: Canonicalizing Open Knowledge Bases using Embeddings and Side Information. 1317-1327
+		Patrick Hummel, Uri Nadav:
+Bid-Limited Targeting. 1329-1338
+		Qingpeng Cai, Aris Filos-Ratsikas, Pingzhong Tang, Yiwei Zhang:
+Reinforcement Mechanism Design for e-commerce. 1339-1348
+		Junwei Pan, Jian Xu, Alfonso Lobos Ruiz, Wenliang Zhao, Shengjun Pan, Yu Sun, Quan Lu:
+Field-weighted Factorization Machines for Click-Through Rate Prediction in Display Advertising. 1349-1357
+		Vahab S. Mirrokni, Renato Paes Leme, Rita Ren, Song Zuo:
+Dynamic Mechanism Design in the Field. 1359-1368
+		Alessandro Epasto, Mohammad Mahdian, Vahab S. Mirrokni, Song Zuo:
+Incentive-Aware Learning for Large Markets. 1369-1378
+		Yakov Babichenko, Oren Dean, Moshe Tennenholtz:
+Incentive-Compatible Diffusion. 1379-1388
+		Lily Hu, Yiling Chen:
+A Short-term Intervention for Long-term Fairness in the Labor Market. 1389-1398
+		Florin Constantin, Christopher Harris, Samuel Ieong, Aranyak Mehta, Xi Tan:
+Optimizing Ad Refresh In Mobile App Advertising. 1399-1408
+		Weili Chen, Zibin Zheng, Jiahui Cui, Edith C. H. Ngai, Peilin Zheng, Yuren Zhou:
+Detecting Ponzi Schemes on Ethereum: Towards Healthier Blockchain Technology. 1409-1418
+		Sébastien Lahaie, Andrés Muñoz Medina, Balasubramanian Sivan, Sergei Vassilvitskii:
+Testing Incentive Compatibility in Display Ad Auctions. 1419-1428
+		Amy Greenwald, Takehiro Oyakawa, Vasilis Syrgkanis:
+Simple vs Optimal Contests with Convex Costs. 1429-1438
+		Chen Luo, Anshumali Shrivastava:
+Arrays of (locality-sensitive) Count Estimators (ACE): Anomaly Detection on the Edge. 1439-1448
+		John P. Rula, James Newman, Fabián E. Bustamante, Arash Molavi Kakhki, David R. Choffnes:
+Mile High WiFi: A First Look At In-Flight Internet Connectivity. 1449-1458
+		Jie Feng, Yong Li, Chao Zhang, Funing Sun, Fanchao Meng, Ang Guo, Depeng Jin:
+DeepMove: Predicting Human Mobility with Attentional Recurrent Networks. 1459-1468
+		Yun Ma, Ziniu Hu, Yunxin Liu, Tao Xie, Xuanzhe Liu:
+Aladdin: Automating Release of Deep-Link APIs on Android. 1469-1478
+		Panagiotis Papadopoulos, Nicolas Kourtellis, Evangelos P. Markatos:
+The Cost of Digital Advertisement: Comparing User and Advertiser Views. 1479-1489
+		Aravindh Raman, Gareth Tyson, Nishanth Sastry:
+Facebook (A)Live?: Are Live Social Broadcasts Really Broadcasts? 1491-1500
+		Zhiyuan Lin, Tim Althoff, Jure Leskovec:
+I'll Be Back: On the Multiple Lives of Users of a Mobile Activity Tracking Application. 1501-1511
+		Xin Wang, Wenwu Zhu, Chun Chen, Martin Ester:
+Joint User- and Event- Driven Stable Social Event Organization. 1513-1522
+		Fuli Feng, Xiangnan He, Yiqun Liu, Liqiang Nie, Tat-Seng Chua:
+Learning on Partial-Order Hypergraphs. 1523-1532
+		Mengyang Liu, Yiqun Liu, Jiaxin Mao, Cheng Luo, Min Zhang, Shaoping Ma:
+"Satisfaction with Failure" or "Unsatisfied Success": Investigating the Relationship between Search Success and User Satisfaction. 1533-1542
+		Xiang Wang, Xiangnan He, Fuli Feng, Liqiang Nie, Tat-Seng Chua:
+TEM: Tree-enhanced Embedding Model for Explainable Recommendation. 1543-1552
+		Shuo Zhang, Krisztian Balog:
+Ad Hoc Table Retrieval using Semantic Similarity. 1553-1562
+		Bin Wu, Chenyan Xiong, Maosong Sun, Zhiyuan Liu:
+Query Suggestion with Feedback Memory Network. 1563-1571
+		Vineeth Rakesh, Weicong Ding, Aman Ahuja, Nikhil Rao, Yifan Sun, Chandan K. Reddy:
+A Sparse Topic Model for Extracting Aspect-Specific Summaries from Online Reviews. 1573-1582
+		Chong Chen, Min Zhang, Yiqun Liu, Shaoping Ma:
+Neural Attentional Rating Regression with Review-level Explanations. 1583-1592
+		Chun-Ta Lu, Lifang He, Hao Ding, Bokai Cao, Philip S. Yu:
+Learning from Multi-View Multi-Way Data via Structural Factorization Machines. 1593-1602
+		Xin Luo, Ye Wu, Xin-Shun Xu:
+Scalable Supervised Discrete Hashing for Large-Scale Search. 1603-1612
+		Zemin Liu, Vincent W. Zheng, Zhou Zhao, Hongxia Yang, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying:
+Subgraph-augmented Path Embedding for Semantic User Search on Heterogeneous Social Network. 1613-1622
+		Denghao Ma, Yueguo Chen, Kevin Chen-Chuan Chang, Xiaoyong Du, Chuanfei Xu, Yi Chang:
+Leveraging Fine-Grained Wikipedia Categories for Entity Search. 1623-1632
+		Xiao Lin, Wenpeng Zhang, Min Zhang, Wenwu Zhu, Jian Pei, Peilin Zhao, Junzhou Huang:
+Online Compact Convexified Factorization Machine. 1633-1642
+		Jundong Li, Jiliang Tang, Yilin Wang, Yali Wan, Yi Chang, Huan Liu:
+Understanding and Predicting Delay in Reciprocal Relations. 1643-1652
+		Hongshen Chen, Zhaochun Ren, Jiliang Tang, Yihong Eric Zhao, Dawei Yin:
+Hierarchical Variational Memory Network for Dialogue Generation. 1653-1662
+		Sanket Kumar Singh, Davood Rafiei:
+Strategies for Geographical Scoping and Improving a Gazetteer. 1663-1672
+		Ning Su, Yiqun Liu, Zhao Li, Yuli Liu, Min Zhang, Shaoping Ma:
+Detecting Crowdturfing "Add to Favorites" Activities in Online Shopping. 1673-1682
+		Yashar Moshfeghi, Frank E. Pollick:
+Search Process as Transitions Between Neural States. 1683-1692
+		Ziyu Yao, Daniel S. Weld, Wei-Peng Chen, Huan Sun:
+StaQC: A Systematically Mined Question-Code Dataset from Stack Overflow. 1693-1703
+		Branislav Kveton, S. Muthukrishnan, Hoa T. Vu, Yikun Xian:
+Finding Subcube Heavy Hitters in Analytics Data Streams. 1705-1714
+		Gary Ren, Xiaochuan Ni, Manish Malik, Qifa Ke:
+Conversational Query Understanding Using Sequence to Sequence Modeling. 1715-1724
+		Daniel Agun, Jinjin Shao, Shiyu Ji, Stefano Tessaro, Tao Yang:
+Privacy and Efficiency Tradeoffs for Multiword Top K Search with Linear Additive Rank Scoring. 1725-1734
+		Shangsong Liang, Ilya Markov, Zhaochun Ren, Maarten de Rijke:
+Manifold Learning for Rank Aggregation. 1735-1744
+		Nir Grinberg:
+Identifying Modes of User Engagement with Online News and Their Relationship to Information Gain in Text. 1745-1754
+		Maarten Wijnants, Robin Marx, Peter Quax, Wim Lamotte:
+HTTP/2 Prioritization and its Impact on Web Performance. 1755-1764
+		Kijung Shin, Mahdi Shafiei, Myunghwan Kim, Aastha Jain, Hema Raghavan:
+Discovering Progression Stages in Trillion-Scale Behavior Logs. 1765-1774
+		Chantat Eksombatchai, Pranav Jindal, Jerry Zitao Liu, Yuchen Liu, Rahul Sharma, Charles Sugnet, Mark Ulrich, Jure Leskovec:
+Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time. 1775-1784
+		Hong Huang, Bo Zhao, Hao Zhao, Zhou Zhuang, Zhenxuan Wang, Xiaoming Yao, Xinggang Wang, Hai Jin, Xiaoming Fu:
+A Cross-Platform Consumer Behavior Analysis of Large-Scale Mobile Shopping Data. 1785-1794
+		Yixuan Cao, Hongwei Li, Ping Luo, Jiaquan Yao:
+Towards Automatic Numerical Cross-Checking: Extracting Formulas from Text. 1795-1804
+		Bijaya Adhikari, Parikshit Sondhi, Wenke Zhang, Mohit Sharma, B. Aditya Prakash:
+Mining E-Commerce Query Relations using Customer Interaction Networks. 1805-1814
+		Yusan Lin, Peifeng Yin, Wang-Chien Lee:
+Modeling Dynamic Competition on Crowdfunding Markets. 1815-1824
+		Eunjo Lee, Jiyoung Woo, Hyoungshick Kim, Huy Kang Kim:
+No Silk Road for Online Gamers!: Using Social Network Analysis to Unveil Black Markets in Online Games. 1825-1834
+		Hongwei Wang, Fuzheng Zhang, Xing Xie, Minyi Guo:
+DKN: Deep Knowledge-Aware Network for News Recommendation. 1835-1844
+		Sergio Pastrana, Daniel R. Thomas, Alice Hutchings, Richard Clayton:
+CrimeBB: Enabling Cybercrime Research on Underground Forums at Scale. 1845-1854
+		Hongchang Gao, Deguang Kong, Miao Lu, Xiao Bai, Jian Yang:
+Attention Convolutional Neural Network for Advertiser-level Click-through Rate Forecasting. 1855-1864
+		Navneet Potti, James B. Wendt, Qi Zhao, Sandeep Tata, Marc Najork:
+Hidden in Plain Sight: Classifying Emails Using Embedded Image Contents. 1865-1874
+		Conglong Li, David G. Andersen, Qiang Fu, Sameh Elnikety, Yuxiong He:
+Better Caching in Search Advertising Systems with Rapid Refresh Predictions. 1875-1884
+		Zachary Nichols, Adam Stein:
+Attribution Inference for Digital Advertising using Inhomogeneous Poisson Models. 1885-1892
+		Ning Ye, Ariel Fuxman, Vivek Ramavajjala, Sergey Nazarov, J. Patrick McGregor, Sujith Ravi:
+PhotoReply: Automatically Suggesting Conversational Responses to Photos. 1893-1899
+		Washington Luiz, Felipe Viegas, Rafael Odon de Alencar, Fernando Mourão, Thiago Salles, Dárlinton B. F. Carvalho, Marcos André Gonçalves, Leonardo C. da Rocha:
+A Feature-Oriented Sentiment Rating for Mobile App Reviews. 1909-1918
+		Su Yan, Wei Lin, Tianshu Wu, Daorui Xiao, Xu Zheng, Bo Wu, Kaipeng Liu:
+Beyond Keywords and Relevance: A Personalized Ad Retrieval Framework in E-Commerce Sponsored Search. 1919-1928
+		Selin Chun, Daejin Choi, Jinyoung Han, Huy Kang Kim, Taekyoung Kwon:
+Unveiling a Socio-Economic System in a Virtual World: A Case Study of an MMORPG. 1929-1938
+		Jun Feng, Heng Li, Minlie Huang, Shichen Liu, Wenwu Ou, Zhirong Wang, Xiaoyan Zhu:
+Learning to Collaborate: Multi-Scenario Ranking via Multi-Agent Reinforcement Learning. 1939-1948
