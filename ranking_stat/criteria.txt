@@ -1,0 +1,37 @@
+
+
+1. Best
+2. Top in the world, Top in the region (definitely yes)
+3. Not sure
+4. Definitely not
+
+
+
+NLP
+
+12.5k 5, 6k 10, 3.5k 15, 2k 20
+
+all 2, 20k 3, 15k 4, 5k 5, 4k 10, 1.5k 15
+
+
+
+ML
+
+12 w 3, 3.5w 10
+
+20w 2, 9w 3, 3.5w 5, 2w 20
+
+
+
+DM
+
+3.5w 10, 3w 15, 2.5w 30
+
+10.5w 1, 8.5w 3, 7w 4, 3w 10, 2.5 w 20
+
+
+
+1. Top is top
+2. not is not
+3. 200 is ok
+4. out of 200 is not not ok
