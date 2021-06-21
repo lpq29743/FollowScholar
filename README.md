@@ -6,12 +6,12 @@ A tool for obtaining the list of top scholars on a specific research topic as we
 
 - [Features](#features)
   - [Get scholar list](#get-scholar-list)
-  - [Get citation statistics of scholars](#get_citation_statistics_of_scholars)
-  - [Get conference statistics of scholars](#get_conference_statistics_of_scholars)
-  - [Get affiliation statistics of scholars](#get_affiliation_statistics_of_scholars)
-  - [Get statistics of scholars](#get_statistics_of_scholars)
-  - [Get ranking results of scholars](get_ranking_results_of_scholars)
-- [To-do List](#to-do_list)
+  - [Get citation statistics of scholars](#get-citation-statistics-of-scholars)
+  - [Get conference statistics of scholars](#get-conference-statistics-of-scholars)
+  - [Get affiliation statistics of scholars](#get-affiliation-statistics-of-scholars)
+  - [Get statistics of scholars](#get-statistics-of-scholars)
+  - [Get ranking results of scholars](#get-ranking-results-of-scholars)
+- [To-do List](#to-do-list)
 
 ### Features
 
