@@ -52,7 +52,7 @@ After obtaining the scholar list with the specified label, we then can get the c
 python get_citation_stat.py --label natural_language_processing
 ```
 
-The obtained citation statistics are saved at the folder `citation_stat`.
+The obtained citation statistics are saved at the folder `citation_stat`. Same as getting scholar list, we are not planning to update it due to the time cost of getting the citation information from Google Scholar.
 
 #### Get conference statistics of scholars
 
