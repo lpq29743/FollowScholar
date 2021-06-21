@@ -33,7 +33,7 @@ class ConfStat:
         all_dict = self.merge(all_dict, self.get_dm_ir_conf())
         all_dict = self.merge(all_dict, self.get_robotics_conf())
         sort_all_dict = dict(sorted(all_dict.items(), key=lambda item: item[1], reverse=True))
-        f = open('conf/all.txt', 'w')
+        f = open('conf_stat/all.txt', 'w')
         for k, v in sort_all_dict.items():
             f.write('%s\t%s\n' % (k, v))
 
@@ -43,7 +43,7 @@ class ConfStat:
         
         # ICML, ICLR, NEUIPS
         for conf in ['icml2020', 'icml2019', 'icml2018', 'iclr2020', 'iclr2019', 'iclr2018', 'neuips2019', 'neuips2018']:
-            fname = 'accept_list/' + conf + '.txt'
+            fname = 'paper_list/' + conf + '.txt'
             print(fname)
             f = open(fname, 'r')
             lines = f.readlines()
@@ -60,7 +60,7 @@ class ConfStat:
                         people_dict[name] = 1
 
         sort_people_dict = dict(sorted(people_dict.items(), key=lambda item: item[1], reverse=True))
-        f = open('conf/machine_learning_conf.txt', 'w')
+        f = open('conf_stat/machine_learning_conf.txt', 'w')
         for name, num in sort_people_dict.items():
             f.write('%s\t%s\n' % (name, num)) 
         f.close()
@@ -74,7 +74,7 @@ class ConfStat:
 
         # CVPR, ICCV, ECCV
         for conf in ['cvpr2020', 'cvpr2019', 'cvpr2018', 'iccv2019', 'eccv2020', 'eccv2018']:
-            fname = 'accept_list/' + conf + '.txt'
+            fname = 'paper_list/' + conf + '.txt'
             print(fname)
             f = open(fname, 'r')
             lines = f.readlines()
@@ -91,7 +91,7 @@ class ConfStat:
                         people_dict[name] = 1
         
         sort_people_dict = dict(sorted(people_dict.items(), key=lambda item: item[1], reverse=True))
-        f = open('conf/computer_vision_conf.txt', 'w')
+        f = open('conf_stat/computer_vision_conf.txt', 'w')
         for name, num in sort_people_dict.items():
             f.write('%s\t%s\n' % (name, num)) 
         f.close()
@@ -104,7 +104,7 @@ class ConfStat:
         people_dict = {}
         # ACL, EMNLP, NAACL, COLING
         for conf in ['acl2020', 'acl2019', 'acl2018', 'emnlp2020', 'emnlp2019', 'emnlp2018', 'naacl2019', 'naacl2018', 'coling2020', 'coling2018']:
-            fname = 'accept_list/' + conf + '.txt'
+            fname = 'paper_list/' + conf + '.txt'
             print(fname)
             f = open(fname, 'r')
             lines = f.readlines()
@@ -121,7 +121,7 @@ class ConfStat:
                         people_dict[name] = 1
         
         sort_people_dict = dict(sorted(people_dict.items(), key=lambda item: item[1], reverse=True))
-        f = open('conf/natural_language_processing_conf.txt', 'w')
+        f = open('conf_stat/natural_language_processing_conf.txt', 'w')
         for name, num in sort_people_dict.items():
             f.write('%s\t%s\n' % (name, num)) 
         f.close()
@@ -135,7 +135,7 @@ class ConfStat:
 
         # SIGKDD, ICDE, WSDM, CIKM, ICDM, SDM, WWW
         for conf in ['kdd2020', 'kdd2019', 'kdd2018', 'icde2020', 'icde2019', 'icde2018', 'wsdm2020', 'wsdm2019', 'wsdm2018', 'cikm2020', 'cikm2019', 'cikm2018', 'icdm2020', 'icdm2019', 'icdm2018', 'sdm2020', 'sdm2019', 'sdm2018', 'www2020', 'www2019', 'www2018']:
-            fname = 'accept_list/' + conf + '.txt'
+            fname = 'paper_list/' + conf + '.txt'
             print(fname)
             f = open(fname, 'r')
             lines = f.readlines()
@@ -152,7 +152,7 @@ class ConfStat:
                         people_dict[name] = 1
 
         # SIGIR 2020
-        fname = 'accept_list/sigir2020.txt'
+        fname = 'paper_list/sigir2020.txt'
         print(fname)
         f = open(fname, 'r')
         lines = f.readlines()
@@ -170,7 +170,7 @@ class ConfStat:
                     people_dict[name] = 1
 
         # SIGIR 2019
-        fname = 'accept_list/sigir2019.txt'
+        fname = 'paper_list/sigir2019.txt'
         print(fname)
         f = open(fname, 'r')
         lines = f.readlines()
@@ -187,7 +187,7 @@ class ConfStat:
                     people_dict[name] = 1
         
         # SIGIR 2018
-        fname = 'accept_list/sigir2018.txt'
+        fname = 'paper_list/sigir2018.txt'
         print(fname)
         f = open(fname, 'r')
         lines = f.readlines()
@@ -205,7 +205,7 @@ class ConfStat:
                     people_dict[name] = 1
         
         sort_people_dict = dict(sorted(people_dict.items(), key=lambda item: item[1], reverse=True))
-        f = open('conf/data_mining_and_information_retrieval_conf.txt', 'w')
+        f = open('conf_stat/data_mining_and_information_retrieval_conf.txt', 'w')
         for name, num in sort_people_dict.items():
             f.write('%s\t%s\n' % (name, num)) 
         f.close()
@@ -219,7 +219,7 @@ class ConfStat:
 
         # RSS, ICRA, IROS
         for conf in ['rss2019', 'rss2018', 'icra2020', 'icra2019', 'icra2018', 'iros2020', 'iros2019', 'iros2018']:
-            fname = 'accept_list/' + conf + '.txt'
+            fname = 'paper_list/' + conf + '.txt'
             print(fname)
             f = open(fname, 'r')
             lines = f.readlines()
@@ -236,7 +236,7 @@ class ConfStat:
                         people_dict[name] = 1
         
         sort_people_dict = dict(sorted(people_dict.items(), key=lambda item: item[1], reverse=True))
-        f = open('conf/robotics_conf.txt', 'w')
+        f = open('conf_stat/robotics_conf.txt', 'w')
         for name, num in sort_people_dict.items():
             f.write('%s\t%s\n' % (name, num)) 
         f.close()
