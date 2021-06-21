@@ -11,7 +11,6 @@ parser.add_argument('--label', type=str, required=True, help='label')
 
 def get_citation_stat(label):
     start = time.clock()
-    label = self.label
     base_url = 'https://scholar.google.com'
     if os.path.exists('citation_stat/' + label + '_citation.txt'):
         fr = open('citation_stat/' + label + '_citation.txt', 'r')
