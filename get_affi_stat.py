@@ -51,7 +51,7 @@ class AffiStat:
         region_dict = {}
         country_dict = {}
         for _, scholar_line in scholar_dict.items():
-            f.write(scholar_line)
+            f.write('%s\n' % scholar_line.strip())
             items = scholar_line.strip().split('\t')
             affiliation = items[2].lower()
             citation = citation_dict[items[0]]
@@ -91,7 +91,7 @@ class AffiStat:
                     country_dict[country] = (1, citation)
             else:
                 # affi_dict[affiliation] = (1, [items[2].lower()])
-                print('%s for %s cannot be found' % (affiliation, items[2].lower()))
+                print('%s for %s cannot be found' % (affiliation, items))
         print('%s scholars from %s affiliations are found!' % (len(scholar_dict), len(affi_dict)))
         del region_dict['unk']
         del country_dict['unk']

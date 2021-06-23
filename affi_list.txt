@@ -34,6 +34,7 @@ openai	nam	us	i
 alibaba	asi	cn	i
 ucla	nam	us	a
 ucl	eur	gb	a
+bristol	eur	gb	a
 adobe	nam	us	i
 inria	eur	fr	a
 ucsd	nam	us	a
@@ -66,6 +67,7 @@ qcri	mea	qa	a
 ttic	nam	us	a
 kyoto	asi	jp	a
 monash	ocn	au	a
+unsw	ocn	au	a
 sfu	nam	us	a
 zhejiang	asi	cn	a
 tu darmstadt	eur	de	a
@@ -76,6 +78,8 @@ princeton	nam	us	a
 neu	nam	us	a
 mcgill	nam	us	a
 kaist	asi	kr	a
+korea	asi	kr	a
+yonsei	asi	kr	a
 rutgers	nam	us	a
 cvut	eur	cz	a
 boston	nam	us	a
@@ -83,12 +87,14 @@ uwaterloo	nam	ca	a
 tau	mea	il	a
 smu	asi	sg	a
 sheffield	eur	gb	a
+glasgow	eur	gb	a
 purdue	nam	us	a
 sysu	asi	cn	a
 uci	nam	us	a
 snu	asi	kr	a
 heidelberg	eur	de	a
 twu	asi	tw	a
+nctu	asi	tw	a
 saarland	eur	de	a
 hust	asi	cn	a
 huji	mea	il	a
@@ -122,6 +128,7 @@ arizona	nam	us	a
 hku	asi	hk	a
 upc	eur	es	a
 unimore	eur	it	a
+polimi	eur	it	a
 zurich	eur	ch	a
 trento	eur	it	a
 upv	eur	es	a
@@ -176,15 +183,18 @@ xiamen	asi	cn	a
 wpi	nam	us	a
 wvu	nam	us	a
 vu amsterdam	eur	nl	a
+tudelft	eur	nl	a
 utrecht	eur	nl	a
 vienna	eur	at	a
 ottawa	nam	ca	a
 uoregon	nam	us	a
 helsinki	eur	fi	a
+aalto	eur	fi	a
 uchicago	nam	us	a
 ucsb	nam	us	a
 birmingham	eur	gb	a
 udc	eur	es	a
+ud	nam	us	a
 uber	nam	us	i
 tu graz	eur	at	a
 sorbonne	eur	fr	a
@@ -203,13 +213,16 @@ liverpool	eur	gb	a
 nankai	asi	cn	a
 lund	eur	se	a
 athens	eur	gr	a
-manchester	asi	gb	a
+manchester	eur	gb	a
+leeds	eur	gb	a
+york	nam	ca	a
 macquarie	ocn	au	a
 linköping	eur	se	a
 utdallas	nam	us	a
 stavanger	eur	no	a
 uestc	asi	cn	a
 temple	nam	us	a
+iowa	nam	us	a
 gw	nam	us	a
 cnam	eur	fr	a
 uniweimar	eur	de	a
@@ -225,12 +238,13 @@ nui	eur	ie	a
 leipzig	eur	de	a
 kcl	eur	gb	a
 jilin	asi	cn	a
-intel	nam	us	a
+intel	nam	us	i
 ulisboa	eur	pt	a
 jku	eur	at	a
 iitd	asi	in	a
 iisc	asi	in	a
 idsia	eur	ch	a
+bern	eur	ch	a
 hpi	eur	de	a
 harvard	nam	us	a
 georgetown	nam	us	a
@@ -254,3 +268,14 @@ crete	eur	gr	a
 osu	nam	us	a
 aist	asi	jp	a
 xiaomi	asi	cn	i
+kuaishou	asi	cn	i
+wustl	nam	us	a
+pitt	nam	us	a
+ucdavis	nam	us	a
+malaya	asi	my	a
+rmit	ocn	au	a
+wa	ocn	au	a
+kit	eur	de	a
+emory	nam	us	a
+rice	nam	us	a
+iu	nam	us	a

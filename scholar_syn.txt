@@ -68,4 +68,6 @@ ChengXiang Zhai	Chengxiang Zhai
 Tang Jie	Jie Tang
 Marti A Hearst	Marti A. Hearst
 Jun'ichi Tsujii	Junichi Tsujii
-Partha P. Talukdar	Partha Talukdar 
+Partha P. Talukdar	Partha Talukdar
+Larry S. Davis	Larry Davis
+Ross B. Girshick	Ross Girshick

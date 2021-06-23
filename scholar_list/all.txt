@@ -684,7 +684,162 @@
 /citations?hl=zh-TW&user=Bpd76vcAAAAJ	Pradeep Dasigi	Allen Institute for AI (AI2)
 /citations?hl=zh-TW&user=9uWuZkUAAAAJ	Niket Tandon	Research Scientist, Allen Institute for AI
 /citations?hl=zh-TW&user=9Kls8jYAAAAJ	Marianna Apidianaki	University of Helsinki
-/citations?hl=zh-TW&user=8lmWWD0AAAAJ	Derry Wijaya	Boston University/citations?hl=zh-TW&user=1zmDOdwAAAAJ	Christopher D Manning	Professor of Computer Science and Linguistics, Stanford University	172618
+/citations?hl=zh-TW&user=8lmWWD0AAAAJ	Derry Wijaya	Boston University
+/citations?hl=zh-TW&user=8ZpV-lkAAAAJ	Ariel D. Procaccia	Harvard University
+/citations?hl=zh-TW&user=YOVZiJkAAAAJ	Milind Tambe	Harvard University
+/citations?hl=zh-TW&user=hwQtFB0AAAAJ	Finale Doshi-Velez	Harvard University
+/citations?hl=zh-TW&user=JUn8PgwAAAAJ	David C. Parkes	Harvard University
+/citations?hl=zh-TW&user=j-MBXNMAAAAJ	Yaron Singer	Harvard University
+/citations?hl=zh-TW&user=tEk4qo8AAAAJ	Yisong Yue	Caltech
+/citations?hl=zh-TW&user=KGMaP18AAAAJ	Chenhao Tan	University of Chicago
+/citations?hl=zh-TW&user=VusVB38AAAAJ	Amin Karbasi	Yale
+/citations?hl=zh-TW&user=juRk4lQAAAAJ	Vincent Conitzer	Duke University
+/citations?hl=zh-TW&user=Mq89JAcAAAAJ	Hongdong Li	Australian National University
+/citations?hl=zh-TW&user=cHia5p0AAAAJ	Richard Hartley	Australian National University
+/citations?hl=zh-TW&user=YvdzeM8AAAAJ	Stephen Gould	Professor at Australian National University
+/citations?hl=zh-TW&user=EU3snBgAAAAJ	Lina Yao	Associate Professor of Computer Science, University of New South Wales (UNSW)
+/citations?hl=zh-TW&user=ssb0yjUAAAAJ	Haris Aziz	UNSW Sydney - Scientia Associate Professor
+/citations?hl=zh-TW&user=P2mG6rcAAAAJ	Leonid Sigal	Associate Professor, University of British Columbia
+/citations?hl=zh-TW&user=d4yNzXIAAAAJ	Frank Wood	University of British Columbia
+/citations?hl=zh-TW&user=YYT8-7kAAAAJ	Jia Pan	Computer Science, The University of Hong Kong
+/citations?hl=zh-TW&user=j-HrYREAAAAJ	Nicola Gatti	Politecnico di Milano
+/citations?hl=zh-TW&user=ga230VoAAAAJ	Junchi Yan	Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=Qzss0GEAAAAJ	Weinan Zhang	Associate Professor, Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=QZVQEWAAAAAJ	Cewu Lu	Research Professor of Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=-84M1m0AAAAJ	Yong Yu	Professor, Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=yDEavdMAAAAJ	Xiaokang Yang	Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=H6vHKJoAAAAJ	Hai Zhao	Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=oTU0v5IAAAAJ	Rui Wang	Associate Professor of Computer Science, Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=MBuqhZUAAAAJ	Yanyan Shen	Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=1smFmxAAAAAJ	Liqing Zhang	Professor, Department of Computer Science, Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=H_7_oVcAAAAJ	Yaohui Jin	Shanghai Jiao Tong University
+/citations?hl=zh-TW&user=xdgxRiEAAAAJ	Marcello Restelli	Politecnico di Milano
+/citations?hl=zh-TW&user=FJ-huxgAAAAJ	Alan L. Yuille	Professor of Cognitive Science and Computer Science, Johns Hopkins University
+/citations?hl=zh-TW&user=5JlEyTAAAAAJ	Leonidas J. Guibas	Stanford
+/citations?hl=zh-TW&user=lRSD7PQAAAAJ	Rongrong Ji	Xiamen University
+/citations?hl=zh-TW&user=CcbnBvgAAAAJ	Jiebo Luo	Professor of Computer Science, University of Rochester
+/citations?hl=zh-TW&user=kPxa2w0AAAAJ	Philip H. S. Torr	Oxford
+/citations?hl=zh-TW&user=voxznZAAAAAJ	Xiaodan Liang	Associate Professor, Sun Yat-sen University
+/citations?hl=zh-TW&user=nFhLmFkAAAAJ	Yu-Wing Tai	Kuaishou
+/citations?hl=zh-TW&user=eUtEs6YAAAAJ	Matthias Nießner	TUM
+/citations?hl=zh-TW&user=3B2c31wAAAAJ	Alexander G. Schwing	UIUC
+/citations?hl=zh-TW&user=lZQRrrkAAAAJ	Wenguan Wang	ETH Zurich
+/citations?hl=zh-TW&user=R0bnqaAAAAAJ	Zhe L. Lin	Adobe
+/citations?hl=zh-TW&user=n-B0jr4AAAAJ	Mathieu Salzmann	EPFL
+/citations?hl=zh-TW&user=AerkT0YAAAAJ	Chen Qian	Sensetime
+/citations?hl=zh-TW&user=K1LjZxcAAAAJ	Boxin Shi	Peking University
+/citations?hl=zh-TW&user=-gZ-BdwAAAAJ	Kazuki Irie	IDSIA
+/citations?hl=zh-TW&user=nHhtvqkAAAAJ	Timothy M. Hospedales	University of Edinburgh; Samsung AI Research
+/citations?hl=zh-TW&user=oPFCNk4AAAAJ	Manmohan Chandraker	UCSD
+/citations?hl=zh-TW&user=NFeigSoAAAAJ	Hao Li	UCB
+/citations?hl=zh-TW&user=PeMuphgAAAAJ	Xiaoyong Shen	CUHK
+/citations?hl=zh-TW&user=N6czCoUAAAAJ	Jianfei Cai	Monash University
+/citations?hl=zh-TW&user=ATkNLcQAAAAJ	Ian D. Reid	University of Adelaide
+/citations?hl=zh-TW&user=DAn1pA4AAAAJ	Lin Ma	Meituan
+/citations?hl=zh-TW&user=h-JEcQ8AAAAJ	Yun Fu	NEU
+/citations?hl=zh-TW&user=NS8RkccAAAAJ	Li Liu	startup
+/citations?hl=zh-TW&user=TFsE4BIAAAAJ	Federico Tombari	TUM
+/citations?hl=zh-TW&user=lc45xlcAAAAJ	Ziwei Liu	NTU
+/citations?hl=zh-TW&user=eUbmKwYAAAAJ	Bingbing Ni	SJTU
+/citations?hl=zh-TW&user=rVsGTeEAAAAJ	Bernard Ghanem	KAUST
+/citations?hl=zh-TW&user=pp848fYAAAAJ	Jia-Bin Huang	Assistant Professor, Virginia Tech
+/citations?hl=zh-TW&user=YG0DFyYAAAAJ	Hanwang Zhang	NTU
+/citations?hl=zh-TW&user=qL9Csv0AAAAJ	Yunchao Wu	UTS
+/citations?hl=zh-TW&user=Svk4ntYAAAAJ	Peng Wang	UCLA
+/citations?hl=zh-TW&user=tjEfgsEAAAAJ	Qixiang Ye	University of Chinese Academy of Sciences, University of Maryland
+/citations?hl=zh-TW&user=aKXe1FEAAAAJ	Qi Wu	University of Adelaide
+/citations?hl=zh-TW&user=7hNKrPsAAAAJ	Gim Hee Lee	NUS
+/citations?hl=zh-TW&user=vD-ezyQAAAAJ	Fan Zhu	startup
+/citations?hl=zh-TW&user=yuB-cfoAAAAJ	Xiangyu Zhang	Startup
+/citations?hl=zh-TW&user=OpXMNnMAAAAJ	Gerard Pons-Moll	MPI
+/citations?hl=zh-TW&user=2A2Bx2UAAAAJ	Guanbin Li	SYSU
+/citations?hl=zh-TW&user=TkVHKDgAAAAJ	Jianming Zhang	Adobe
+/citations?hl=zh-TW&user=1Cv6Sf4AAAAJ	Varun Jampani	Google
+/citations?hl=zh-TW&user=lLMX9hcAAAAJ	Qifeng Chen	HKUST
+/citations?hl=zh-TW&user=j7uL6VEAAAAJ	Kalyan Sunkavalli	Adobe
+/citations?hl=zh-TW&user=J1vMnRgAAAAJ	Qingming Huang	CAS
+/citations?hl=zh-TW&user=kzoVUPYAAAAJ	Nassir Navab	TUM
+/citations?hl=zh-TW&user=ZudEhvcAAAAJ	Guosheng Lin	NTU
+/citations?hl=zh-TW&user=dE-2UtsAAAAJ	Yanwei Pang	Tianjin
+/citations?hl=zh-TW&user=k8rlJ8AAAAAJ	Tatsuya Harada	UTokyo
+/citations?hl=zh-TW&user=JD-5DKcAAAAJ	Yinqiang Zheng	UTokyo
+/citations?hl=zh-TW&user=pViZYwIAAAAJ	Xiaohui Shen	Bytedance
+/citations?hl=zh-TW&user=7Yc6yssAAAAJ	Ting Yao	Microsoft
+/citations?hl=zh-TW&user=yveq40QAAAAJ	Ruigang Yang	Baidu
+/citations?hl=zh-TW&user=LXuWMF4AAAAJ	Song Bai	Bytedance
+/citations?hl=zh-TW&user=gvCMrqsAAAAJ	Feiyue Huang	Tencent
+/citations?hl=zh-TW&user=pamL_rIAAAAJ	Qixing Huang	UT Austin
+/citations?hl=zh-TW&user=lv9ZeVUAAAAJ	Boqing Gong	Google
+/citations?hl=zh-TW&user=BghVDhgAAAAJ	Thomas A. Funkhouser	Princeton
+/citations?hl=zh-TW&user=e5AJDrEAAAAJ	Chi-Wing Fu	CUHK
+/citations?hl=zh-TW&user=KilQqKYAAAAJ	Rynson W. H. Lau	CityU
+/citations?hl=zh-TW&user=W-FGd_UAAAAJ	Tieniu Tan	CAS
+/citations?hl=zh-TW&user=BJdigYsAAAAJ	Gang Yu	Tencent
+/citations?hl=zh-TW&user=hqNhUCYAAAAJ	Juan Carlos Niebles	Stanford
+/citations?hl=zh-TW&user=1wzEtxcAAAAJ	Errui Ding	Tencent
+/citations?hl=zh-TW&user=nVgPQpoAAAAJ	Dong Wang	Dalian University of Technology
+/citations?hl=zh-TW&user=WKO_1VYAAAAJ	Jimmy S. J. Ren	Sensetime
+/citations?hl=zh-TW&user=fddAbqsAAAAJ	Yuchao Dai	Northwestern Polytechnical University
+/citations?hl=zh-TW&user=CMsNjGIAAAAJ	Jinshan Pan	njust
+/citations?hl=zh-TW&user=gnR4zf8AAAAJ	Tomás Pajdla	Associate professor, Czech Technical University in Prague
+/citations?hl=zh-TW&user=F7PtrL8AAAAJ	Yongxin Yang	University of Edinburgh
+/citations?hl=zh-TW&user=0i-Nzv0AAAAJ	Yu-Kun Lai	Cardiff University
+/citations?hl=zh-TW&user=UbFrXTsAAAAJ	Lior Wolf	Tel Aviv University
+/citations?hl=zh-TW&user=E1vVpg4AAAAJ	Xiaowei Zhou	Zhejiang University
+/citations?hl=zh-TW&user=k9TsUVsAAAAJ	Lu Yuan	Microsoft
+/citations?hl=zh-TW&user=cuJ3QG8AAAAJ	Zhen Lei	CAS
+/citations?hl=zh-TW&user=1c9oQNMAAAAJ	Rui Zhao	Sensetime
+/citations?hl=zh-TW&user=NByrsK0AAAAJ	Yixin Chen	Professor, Computer Science Department, Washington University
+/citations?hl=zh-TW&user=ptI-HHkAAAAJ	Yevgeniy Vorobeychik	Washington University in Saint Louis
+/citations?hl=zh-TW&user=JfGT-1kAAAAJ	Heng Huang	Pitt
+/citations?hl=zh-TW&user=xIJHTUwAAAAJ	Volker Tresp	LMU
+/citations?hl=zh-TW&user=gz74XOYAAAAJ	Jesse Davis	KU Leuven
+/citations?hl=zh-TW&user=Pd8-ju0AAAAJ	Stefanie Tellex	Brown University
+/citations?hl=zh-TW&user=9UERvVEAAAAJ	George Dimitri Konidaris	Brown University
+/citations?hl=zh-TW&user=4GTpCxcAAAAJ	Yong Jae Lee	Associate Professor of Computer Science, UC Davis
+/citations?hl=zh-TW&user=OxL9Wn8AAAAJ	Dima Damen	Associate Professor, University of Bristol
+/citations?hl=zh-TW&user=rSNBJJIAAAAJ	Frans A. Oliehoek	Associate Professor at Delft University of Technology
+/citations?hl=zh-TW&user=IBjMKHQAAAAJ	Craig Macdonald	School of Computing Science, University of Glasgow
+/citations?hl=zh-TW&user=hKfga9oAAAAJ	Chee Seng Chan	University of Malaya, Malaysia
+/citations?hl=zh-TW&user=EiLdZ_YAAAAJ	Tongliang Liu	University of Sydney
+/citations?hl=zh-TW&user=6BmiCJIAAAAJ	Mingming Gong	The University of Melbourne
+/citations?hl=zh-TW&user=rJMOlVsAAAAJ	Ivor W. Tsang	University of Technology Sydney
+/citations?hl=zh-TW&user=WyqGF10AAAAJ	Tat-Jun Chin	The University of Adelaide
+/citations?hl=zh-TW&user=vmAe35UAAAAJ	Simon Lucey	Professor, University of Adelaide
+/citations?hl=zh-TW&user=h6O9vYkAAAAJ	Qinfeng Shi	Professor, University of Adelaide
+/citations?hl=zh-TW&user=Pl8m7hMAAAAJ	Guodong Long	Associate Professor, Australian AI Institute, University of Technology Sydney
+/citations?hl=zh-TW&user=B6lBmqEAAAAJ	Chengqi Zhang	University of Technology Sydney
+/citations?hl=zh-TW&user=XFtCe08AAAAJ	Jing Jiang	University of Technology Sydney
+/citations?hl=zh-TW&user=ujsYC98AAAAJ	James Bailey	University of Melbourne
+/citations?hl=zh-TW&user=mxS6eHYAAAAJ	Jianzhong Qi	The University of Melbourne
+/citations?hl=zh-TW&user=Y2xu62UAAAAJ	Lingqiao Liu	University of Adelaide
+/citations?hl=zh-TW&user=E0TtOWAAAAAJ	Gustavo Carneiro	University of Adelaide
+/citations?hl=zh-TW&user=J2pGGuAAAAAJ	Wray L. Buntine	Monash University
+/citations?hl=zh-TW&user=JJsBmhYAAAAJ	Hongzhi Yin	University of Queensland
+/citations?hl=zh-TW&user=iAWMsgEAAAAJ	Zi Huang	University of Queensland
+/citations?hl=zh-TW&user=OFlBSEEAAAAJ	J. Shane Culpepper	RMIT University
+/citations?hl=zh-TW&user=X589yaIAAAAJ	Ajmal Mian	The University of Western Australia
+/citations?hl=zh-TW&user=65bIT4oAAAAJ	Tamim Asfour	Karlsruhe Institute of Technology (KIT)
+/citations?hl=zh-TW&user=RaBZafQAAAAJ	Jaewoo Kang	Korea University
+/citations?hl=zh-TW&user=9RhFbpwAAAAJ	Yen-Yu Lin	National Chiao Tung University
+/citations?hl=zh-TW&user=3BX3vWcAAAAJ	Eugene Agichtein	Emory University
+/citations?hl=zh-TW&user=YUrxwrkAAAAJ	Frank Hutter	Professor of Computer Science, University of Freiburg, Germany
+/citations?hl=zh-TW&user=2mv2dDkAAAAJ	Joschka Boedecker	University of Freiburg
+/citations?hl=zh-TW&user=SGT23RAAAAAJ	Anshumali Shrivastava	Rice University
+/citations?hl=zh-TW&user=tI-oUmsAAAAJ	Ashok Veeraraghavan	Rice University
+/citations?hl=zh-TW&user=jikMhF4AAAAJ	Mehmet Remzi Dogar	University of Leeds
+/citations?hl=zh-TW&user=Vpr6s3sAAAAJ	Jaakko Lehtinen	Aalto University
+/citations?hl=zh-TW&user=w_XDRRsAAAAJ	Paolo Favaro	University of Bern
+/citations?hl=zh-TW&user=1F2czKYAAAAJ	Seon Joo Kim	Yonsei University
+/citations?hl=zh-TW&user=zEtk0QsAAAAJ	Kwanghoon Sohn	Yonsei University
+/citations?hl=zh-TW&user=M4a3VyYAAAAJ	Zuzana Kukelova	Assistant Professor, Czech Technical University in Prague
+/citations?hl=zh-TW&user=Gv1QGSMAAAAJ	Michael S. Brown	York University
+/citations?hl=zh-TW&user=1BUByMcAAAAJ	Xiaozhong Liu	School of Informatics and Computing, Indiana University
+/citations?hl=zh-TW&user=8bQRH5YAAAAJ	David J. Crandall	Indiana University
+/citations?hl=zh-TW&user=LZIPfCkAAAAJ	Meng Jiang	University of Notre Dame
+/citations?hl=zh-TW&user=hDLBEhkAAAAJ	Nitesh V. Chawla	University of Notre Dame
+/citations?hl=zh-TW&user=BCxFU0EAAAAJ	Tianbao Yang	University of Iowa
+/citations?hl=zh-TW&user=1zmDOdwAAAAJ	Christopher D Manning	Professor of Computer Science and Linguistics, Stanford University	172618
 /citations?hl=zh-TW&user=Kt1bjZoAAAAJ	Bing Liu	Distinguished Professor, University of Illinois at Chicago	72142
 /citations?hl=zh-TW&user=qIL9dWUAAAAJ	Hinrich Schütze	University of Munich	56208
 /citations?hl=zh-TW&user=uZg9l58AAAAJ	Dan Jurafsky	Professor of Linguistics and Computer Science, Stanford University	51286
@@ -975,7 +1130,6 @@
 /citations?hl=zh-TW&user=FjCbjDYAAAAJ	Fei Wang	Associate Professor at Cornell University	15407
 /citations?hl=zh-TW&user=zr22WkQAAAAJ	Qiaozhu Mei	Professor, University of Michigan	15017
 /citations?hl=zh-TW&user=WtzKMWAAAAAJ	Jiliang Tang	Michigan State University	15009
-/citations?hl=zh-TW&user=B6lBmqEAAAAJ	Chengqi Zhang	Nanjing University	14524
 /citations?hl=zh-TW&user=TVSNq_wAAAAJ	Qinghua Hu	Professor of Computer Science, Tianjin University	13353
 /citations?hl=zh-TW&user=Q9h02J0AAAAJ	Enhong Chen	University of Science and Technology of China	12576
 /citations?hl=zh-TW&user=wUsI0cAAAAAJ	Christopher Leckie	Professor, Computing and Information Systems, The University of Melbourne	11368

@@ -57,7 +57,7 @@ george washington university	gw
 washington university in st. louis	wustl
 washington university in saint louis	wustl
 university of washington	uw
-washington university	uw
+washington university	wustl
 university of pennsylvania	upenn
 university of michigan	umich
 university of maryland	umd
@@ -89,6 +89,7 @@ university of texas at arlington	uta
 university of texas at el paso	utep
 university of arkansas	uark
 university of alabama	ua
+indiana university	iu
 virginia tech	vt
 west virginia university	wvu
 toyota technological institute at chicago	ttic
@@ -213,6 +214,7 @@ sapienza university of roma	uniroma
 sapienza, university of roma	uniroma
 sapienza university of rome	uniroma
 politecnico di torino	polito
+politecnico di milano	polimi
 instituto superior técnico	ulisboa
 instituto superior tecnico	ulisboa
 universidade de lisboa	ulisboa
@@ -250,6 +252,8 @@ university of sydney	usyd
 university of technology sydney	uts
 university of technology, sydney	uts
 university of south australia	unisa
+university of new south wales	unsw
+western australia	wa
 national university of singapore	nus
 nanyang technological university	ntu
 singapore management university	smu
@@ -290,3 +294,4 @@ national university of defence technology	nudt
 national taiwan university	twu
 national central university	ncu
 national taipei university of technology	ntut
+national chiao tung university	nctu
