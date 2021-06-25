@@ -89,7 +89,7 @@
 /citations?hl=zh-TW&user=LurWtuYAAAAJ	Tong Zhang	HKUST	39127
 /citations?hl=zh-TW&user=MlZq4XwAAAAJ	Yiming Yang	Professor, Carnegie Mellon University	38704
 /citations?hl=zh-TW&user=p9RsPG4AAAAJ	Raymond Mooney	Professor of Computer Science, University of Texas at Austin	38658
-/citations?hl=zh-TW&user=jyxO2akAAAAJ	Raquel Urtasun	Professor, University of Toronto. Chief Scientist, Uber ATG	38328
+/citations?hl=zh-TW&user=jyxO2akAAAAJ	Raquel Urtasun	Professor, University of Toronto. Chief Scientist	38328
 /citations?hl=zh-TW&user=ygpxbK8AAAAJ	Maja Pantic	Professor, Imperial College London / AI Scientific Research Lead, Facebook London	37864
 /citations?hl=zh-TW&user=xBv5ZfkAAAAJ	Inderjit S. Dhillon	Vice President/Distinguished Scientist at Amazon	37720
 /citations?hl=zh-TW&user=5pKTRxEAAAAJ	Eric Xing	CMU	37487

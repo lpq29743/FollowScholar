@@ -72,11 +72,11 @@
 /citations?hl=zh-TW&user=DV8z8DYAAAAJ	Mitesh M. Khapra	Indian Institute of Technology Madras
 /citations?hl=zh-TW&user=NU2aHWUAAAAJ	Ruihong Huang	Assistant Professor, Computer Science & Engineering Department, Texas A&M University
 /citations?hl=zh-TW&user=kz2aIc8AAAAJ	Franck Dernoncourt	Research Scientist, Adobe Research (MIT PhD)
-/citations?hl=zh-TW&user=rrrbjMMAAAAJ	Masaaki Nagata	NTT Corporation
+/citations?hl=zh-TW&user=rrrbjMMAAAAJ	Masaaki Nagata	Industry
 /citations?hl=zh-TW&user=KjQBe8oAAAAJ	Derek F. Wong	Associate Professor, Department of Computer and Information Science, University of Macau
 /citations?hl=zh-TW&user=DvVelLcAAAAJ	Deyu Zhou	Professor, School of computer science and engineering, SEU
 /citations?hl=zh-TW&user=0SZVO0sAAAAJ	Fangzhao Wu	Microsoft Research Asia
-/citations?hl=zh-TW&user=u1s2HN4AAAAJ	Yi Yang	Startup
+/citations?hl=zh-TW&user=u1s2HN4AAAAJ	Yi Yang	industry
 /citations?hl=zh-TW&user=alDxINIAAAAJ	Jian-Guang Lou	Microsoft Research Asia
 /citations?hl=zh-TW&user=tmK5EPEAAAAJ	Jonathan May	University of Southern California, Information Sciences Institute
 /citations?hl=zh-TW&user=nNeD95EAAAAJ	Marek Rei	Lecturer, Imperial College London
@@ -208,7 +208,7 @@
 /citations?hl=zh-TW&user=v474hP4AAAAJ	Nan Du	Google Brain
 /citations?hl=zh-TW&user=K-isjagAAAAJ	He He	New York University
 /citations?hl=zh-TW&user=jqOFBGoAAAAJ	Ekaterina Shutova	ILLC, University of Amsterdam
-/citations?hl=zh-TW&user=g2uay50AAAAJ	Tao Lei	startup
+/citations?hl=zh-TW&user=g2uay50AAAAJ	Tao Lei	industry
 /citations?hl=zh-TW&user=jkV6H1gAAAAJ	Iz Beltagy	Allen Institute for Artificial Intelligence
 /citations?hl=zh-TW&user=eKw69rcAAAAJ	Tiancheng Zhao	Carnegie Mellon University
 /citations?hl=zh-TW&user=bjFPXksAAAAJ	Richong Zhang	Associate Professor of Computer Science, Beihang University
@@ -292,7 +292,7 @@
 /citations?hl=zh-TW&user=CcbnBvgAAAAJ	Jiebo Luo	Professor of Computer Science, University of Rochester
 /citations?hl=zh-TW&user=kPxa2w0AAAAJ	Philip H. S. Torr	Oxford
 /citations?hl=zh-TW&user=voxznZAAAAAJ	Xiaodan Liang	Associate Professor, Sun Yat-sen University
-/citations?hl=zh-TW&user=nFhLmFkAAAAJ	Yu-Wing Tai	Kuaishou
+/citations?hl=zh-TW&user=nFhLmFkAAAAJ	Yu-Wing Tai	industry
 /citations?hl=zh-TW&user=eUtEs6YAAAAJ	Matthias Nießner	TUM
 /citations?hl=zh-TW&user=3B2c31wAAAAJ	Alexander G. Schwing	UIUC
 /citations?hl=zh-TW&user=lZQRrrkAAAAJ	Wenguan Wang	ETH Zurich
@@ -309,7 +309,7 @@
 /citations?hl=zh-TW&user=ATkNLcQAAAAJ	Ian D. Reid	University of Adelaide
 /citations?hl=zh-TW&user=DAn1pA4AAAAJ	Lin Ma	Meituan
 /citations?hl=zh-TW&user=h-JEcQ8AAAAJ	Yun Fu	NEU
-/citations?hl=zh-TW&user=NS8RkccAAAAJ	Li Liu	startup
+/citations?hl=zh-TW&user=NS8RkccAAAAJ	Li Liu	industry
 /citations?hl=zh-TW&user=TFsE4BIAAAAJ	Federico Tombari	TUM
 /citations?hl=zh-TW&user=lc45xlcAAAAJ	Ziwei Liu	NTU
 /citations?hl=zh-TW&user=eUbmKwYAAAAJ	Bingbing Ni	SJTU
@@ -321,8 +321,8 @@
 /citations?hl=zh-TW&user=tjEfgsEAAAAJ	Qixiang Ye	University of Chinese Academy of Sciences, University of Maryland
 /citations?hl=zh-TW&user=aKXe1FEAAAAJ	Qi Wu	University of Adelaide
 /citations?hl=zh-TW&user=7hNKrPsAAAAJ	Gim Hee Lee	NUS
-/citations?hl=zh-TW&user=vD-ezyQAAAAJ	Fan Zhu	startup
-/citations?hl=zh-TW&user=yuB-cfoAAAAJ	Xiangyu Zhang	Startup
+/citations?hl=zh-TW&user=vD-ezyQAAAAJ	Fan Zhu	industry
+/citations?hl=zh-TW&user=yuB-cfoAAAAJ	Xiangyu Zhang	industry
 /citations?hl=zh-TW&user=OpXMNnMAAAAJ	Gerard Pons-Moll	MPI
 /citations?hl=zh-TW&user=2A2Bx2UAAAAJ	Guanbin Li	SYSU
 /citations?hl=zh-TW&user=TkVHKDgAAAAJ	Jianming Zhang	Adobe
@@ -412,3 +412,5 @@
 /citations?hl=zh-TW&user=LZIPfCkAAAAJ	Meng Jiang	University of Notre Dame
 /citations?hl=zh-TW&user=hDLBEhkAAAAJ	Nitesh V. Chawla	University of Notre Dame
 /citations?hl=zh-TW&user=BCxFU0EAAAAJ	Tianbao Yang	University of Iowa
+/citations?hl=zh-TW&user=vyteiT4AAAAJ	Yaron Lipman	Weizmann Institute
+/citations?hl=zh-TW&user=GWmahLMAAAAJ	Yuji Matsumoto	Team Leader, RIKEN Center for Advanced Intelligence Project

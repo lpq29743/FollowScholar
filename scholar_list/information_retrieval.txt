@@ -42,7 +42,7 @@
 /citations?hl=zh-TW&user=1z918TYAAAAJ	Krisztian Balog	Professor of Computer Science, University of Stavanger	5654
 /citations?hl=zh-TW&user=ybfAUpsAAAAJ	Anthony Tomasic	Consultant, Carnegie Mellon University	5310
 /citations?hl=zh-TW&user=DJon7w4AAAAJ	Alessandro Sordoni	Microsoft Research	5287
-/citations?hl=zh-TW&user=tDajnHEAAAAJ	Bin Wang	Xiaomi Inc.	4859
+/citations?hl=zh-TW&user=tDajnHEAAAAJ	Bin Wang	Industry	4859
 /citations?hl=zh-TW&user=6HNd_9gAAAAJ	Xuanhui Wang	Google	4121
 /citations?hl=zh-TW&user=mNfCP3gAAAAJ	Yanyan Lan	Chinese Academy of Sciences	4020
 /citations?hl=zh-TW&user=y7tlR6UAAAAJ	Kareem Darwish	Qatar Computing Research Institute, Qatar Foundation	3816

@@ -3,7 +3,7 @@ microsoft	nam	us	i
 fb	nam	us	i
 cmu	nam	us	a
 deepmind	eur	gb	i
-startup	unk	unk	unk
+industry	unk	unk	unk
 mit	nam	us	a
 stanford	nam	us	a
 ucb	nam	us	a
@@ -72,6 +72,7 @@ sfu	nam	us	a
 zhejiang	asi	cn	a
 tu darmstadt	eur	de	a
 technion	mea	il	a
+weizmann	mea	il	a
 soochow	asi	cn	a
 msu	nam	us	a
 princeton	nam	us	a
@@ -117,6 +118,7 @@ tianjin	asi	cn	a
 bupt	asi	cn	a
 bonn	eur	gb	a
 osaka	asi	jp	a
+riken	asi	jp	a
 njust	asi	cn	a
 hw	eur	gb	a
 sensetime	asi	cn	i
@@ -195,7 +197,6 @@ ucsb	nam	us	a
 birmingham	eur	gb	a
 udc	eur	es	a
 ud	nam	us	a
-uber	nam	us	i
 tu graz	eur	at	a
 sorbonne	eur	fr	a
 shandong	asi	cn	a
@@ -232,7 +233,6 @@ hamburg	eur	de	a
 postech	asi	kr	a
 polito	eur	it	a
 paderborn	eur	de	a
-ntt	asi	jp	i
 northwestern	nam	us	a
 nui	eur	ie	a
 leipzig	eur	de	a
@@ -248,11 +248,9 @@ bern	eur	ch	a
 hpi	eur	de	a
 harvard	nam	us	a
 georgetown	nam	us	a
-dji	asi	cn	i
 dfki	eur	de	a
 dalian	asi	cn	a
 uab	nam	us	a
-huggingface	nam	us	i
 caltech	nam	us	a
 brown	nam	us	a
 bocconi	eur	it	a
@@ -267,8 +265,6 @@ hec montréal	nam	ca	a
 crete	eur	gr	a
 osu	nam	us	a
 aist	asi	jp	a
-xiaomi	asi	cn	i
-kuaishou	asi	cn	i
 wustl	nam	us	a
 pitt	nam	us	a
 ucdavis	nam	us	a

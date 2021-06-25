@@ -417,3 +417,5 @@
 /citations?hl=zh-TW&user=LZIPfCkAAAAJ	2707	2307	24	24	41	41	2011	258
 /citations?hl=zh-TW&user=hDLBEhkAAAAJ	37718	25899	68	53	193	165	2004	3459
 /citations?hl=zh-TW&user=BCxFU0EAAAAJ	5075	4169	37	35	89	83	2010	520
+/citations?hl=zh-TW&user=vyteiT4AAAAJ	7769	4145	43	40	66	60	2005	525
+/citations?hl=zh-TW&user=GWmahLMAAAAJ	16958	4925	56	32	279	95	1988	444

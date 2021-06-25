@@ -34,7 +34,7 @@
 /citations?hl=zh-TW&user=OlzpVykAAAAJ	Brian Williams	Professor of Aeronautics and Astronautics, Massachusetts Institute of Technology
 /citations?hl=zh-TW&user=U89FHq4AAAAJ	Hugo Larochelle	Google Brain & Mila	42375
 /citations?hl=zh-TW&user=PbfkKLcAAAAJ	Andrew Moore	Dean, School of Computer Science, Carnegie Mellon	42203
-/citations?hl=zh-TW&user=Nq0dVMcAAAAJ	Dzmitry Bahdanau	startup	39528
+/citations?hl=zh-TW&user=Nq0dVMcAAAAJ	Dzmitry Bahdanau	industry	39528
 /citations?hl=zh-TW&user=p9RsPG4AAAAJ	Raymond Mooney	Professor of Computer Science, University of Texas at Austin	38658
 /citations?hl=zh-TW&user=IUZgJogAAAAJ	Daniel Weld	University of Washington	38076
 /citations?hl=zh-TW&user=y-nUzMwAAAAJ	Yee Whye Teh	Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind	37011
@@ -100,7 +100,7 @@
 /citations?hl=zh-TW&user=D7jDk7gAAAAJ	Wenyu Liu	Huazhong University of Science and Technology	12640
 /citations?hl=zh-TW&user=fCFwERYAAAAJ	Stephen F. Smith	Research Professor of Robotics, Carnegie Mellon University	12600
 /citations?hl=zh-TW&user=sYTUOu8AAAAJ	Byoung-Tak Zhang	Professor of Computer Science, Cognitive Science, and Brain Science, Seoul National University	12134
-/citations?hl=zh-TW&user=HwDTzQEAAAAJ	Jonathan Masci	startup	11988
+/citations?hl=zh-TW&user=HwDTzQEAAAAJ	Jonathan Masci	industry	11988
 /citations?hl=zh-TW&user=XSforroAAAAJ	Yann N. Dauphin	Google AI	11773
 /citations?hl=zh-TW&user=SIayDoQAAAAJ	Yarin Gal	Associate Professor, University of Oxford	11579
 /citations?hl=zh-TW&user=uFHCIM0AAAAJ	Min-Ling Zhang	Professor, School of Computer Science and Engineering, Southeast University, China	11335

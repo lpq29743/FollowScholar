@@ -1,5 +1,5 @@
 /citations?hl=zh-TW&user=1zmDOdwAAAAJ	Christopher D Manning	Professor of Computer Science and Linguistics, Stanford University	172618
-/citations?hl=zh-TW&user=FaOcyfMAAAAJ	Richard Socher	startup	82724
+/citations?hl=zh-TW&user=FaOcyfMAAAAJ	Richard Socher	industry	82724
 /citations?hl=zh-TW&user=yILa1y0AAAAJ	Andrew McCallum	Distinguished Professor of Computer Science, University of Massachusetts Amherst	82684
 /citations?hl=zh-TW&user=Kt1bjZoAAAAJ	Bing Liu	Distinguished Professor, University of Illinois at Chicago	72142
 /citations?hl=zh-TW&user=qIL9dWUAAAAJ	Hinrich Schütze	University of Munich	56208
@@ -37,8 +37,8 @@
 /citations?hl=zh-TW&user=zyMJ1V0AAAAJ	Liu Ting	Harbin Institute of Technology	18396
 /citations?hl=zh-TW&user=IT-vb_kAAAAJ	Matthew Richardson	Microsoft Research	18282
 /citations?hl=zh-TW&user=VvdtcWcAAAAJ	Dekang Lin	Senior Staff Research Scientist, Google	17997
-/citations?hl=zh-TW&user=W8zwlYQAAAAJ	Jamie Kiros	Co-Founder, Startup	17831
-/citations?hl=zh-TW&user=6IXPMJ0AAAAJ	Ryan McDonald	startup	17677
+/citations?hl=zh-TW&user=W8zwlYQAAAAJ	Jamie Kiros	Co-Founder, industry	17831
+/citations?hl=zh-TW&user=6IXPMJ0AAAAJ	Ryan McDonald	industry	17677
 /citations?hl=zh-TW&user=7jNkTbYAAAAJ	Mark Dredze	Johns Hopkins University	17463
 /citations?hl=zh-TW&user=BsgVJ-EAAAAJ	Roberto Navigli	Full Professor @ Sapienza University of Rome	17186
 /citations?hl=zh-TW&user=aTySmnAAAAAJ	Kishore Papineni	Google	17049
@@ -131,7 +131,7 @@
 /citations?hl=zh-TW&user=AgC7dTQAAAAJ	Eiichiro SUMITA	NICT (National Institute of Information and Communications Technology)	7491
 /citations?hl=zh-TW&user=ZMelBa0AAAAJ	Nigel Collier	Professor of Natural Language Processing, University of Cambridge	7483
 /citations?hl=zh-TW&user=VmIFG0EAAAAJ	Simone Paolo Ponzetto	Professor of Information Systems, University of Mannheim	7443
-/citations?hl=zh-TW&user=PwU16JEAAAAJ	Jiwei Li	startup	7410
+/citations?hl=zh-TW&user=PwU16JEAAAAJ	Jiwei Li	industry	7410
 /citations?hl=zh-TW&user=wIujAJoAAAAJ	Benjamin Van Durme	Johns Hopkins University; Microsoft Semantic Machines	7232
 /citations?hl=zh-TW&user=6hA7WmUAAAAJ	Yue Zhang	Westlake University	7227
 /citations?hl=zh-TW&user=FKUc3vsAAAAJ	Ivan Titov	University of Edinburgh	7167
@@ -187,7 +187,7 @@
 /citations?hl=zh-TW&user=TP_JZm8AAAAJ	Jason Baldridge	Research Scientist, Google	4859
 /citations?hl=zh-TW&user=CIZwXAcAAAAJ	Partha Talukdar	Google Research and IISc Bangalore	4854
 /citations?hl=zh-TW&user=lVhoKNcAAAAJ	Yang Liu	Professor of Computer Science, Tsinghua University	4852
-/citations?hl=zh-TW&user=tDajnHEAAAAJ	Bin Wang	AI Lab, Xiaomi Inc.	4849
+/citations?hl=zh-TW&user=tDajnHEAAAAJ	Bin Wang	Industry	4849
 /citations?hl=zh-TW&user=NTTQbJsAAAAJ	Matteo Negri	Fondazione Bruno Kessler	4818
 /citations?hl=zh-TW&user=xCYHonIAAAAJ	Jonathan Berant	Associate Professor, Tel-Aviv University, Research Scientist, Allen Institute for AI	4799
 /citations?hl=zh-TW&user=AvH7tJwAAAAJ	Chris Quirk	Researcher, Microsoft Research	4754

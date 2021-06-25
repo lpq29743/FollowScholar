@@ -89,7 +89,7 @@
 /citations?hl=zh-TW&user=LurWtuYAAAAJ	Tong Zhang	HKUST	39127
 /citations?hl=zh-TW&user=MlZq4XwAAAAJ	Yiming Yang	Professor, Carnegie Mellon University	38704
 /citations?hl=zh-TW&user=p9RsPG4AAAAJ	Raymond Mooney	Professor of Computer Science, University of Texas at Austin	38658
-/citations?hl=zh-TW&user=jyxO2akAAAAJ	Raquel Urtasun	Professor, University of Toronto. Chief Scientist, Uber ATG	38328
+/citations?hl=zh-TW&user=jyxO2akAAAAJ	Raquel Urtasun	Professor, University of Toronto. Chief Scientist	38328
 /citations?hl=zh-TW&user=ygpxbK8AAAAJ	Maja Pantic	Professor, Imperial College London / AI Scientific Research Lead, Facebook London	37864
 /citations?hl=zh-TW&user=xBv5ZfkAAAAJ	Inderjit S. Dhillon	Vice President/Distinguished Scientist at Amazon	37720
 /citations?hl=zh-TW&user=5pKTRxEAAAAJ	Eric Xing	CMU	37487
@@ -171,15 +171,15 @@
 /citations?hl=zh-TW&user=pouyVyUAAAAJ	Percy Liang	Associate Professor of Computer Science, Stanford University	18671
 /citations?hl=zh-TW&user=kRJkDakAAAAJ	Armand Joulin	Research Scientist, Facebook AI Research	18569
 /citations?hl=zh-TW&user=IT-vb_kAAAAJ	Matthew Richardson	Microsoft Research	18282
-/citations?hl=zh-TW&user=ALVSZAYAAAAJ	Jian Sun	startup	191843
+/citations?hl=zh-TW&user=ALVSZAYAAAAJ	Jian Sun	industry	191843
 /citations?hl=zh-TW&user=iYN86KEAAAAJ	Ian Goodfellow	Apple	138005
 /citations?hl=zh-TW&user=L7lMQkQAAAAJ	Karen Simonyan	Google DeepMind	96045
-/citations?hl=zh-TW&user=FaOcyfMAAAAJ	Richard Socher	startup	82724
-/citations?hl=zh-TW&user=GQWTo4MAAAAJ	Li Deng	startup	57006
+/citations?hl=zh-TW&user=FaOcyfMAAAAJ	Richard Socher	industry	82724
+/citations?hl=zh-TW&user=GQWTo4MAAAAJ	Li Deng	industry	57006
 /citations?hl=zh-TW&user=1ScWJOoAAAAJ	Chris Pal	Professor, Polytechnique Montréal	54587
 /citations?hl=zh-TW&user=0nPi5YYAAAAJ	Pierre Sermanet	Research Scientist, Google	39308
 /citations?hl=zh-TW&user=fmSHtE8AAAAJ	Honglak Lee	University of Michigan	36118
-/citations?hl=zh-TW&user=yOcNQVgAAAAJ	Andrew Rabinovich	Startup	35381
+/citations?hl=zh-TW&user=yOcNQVgAAAAJ	Andrew Rabinovich	industry	35381
 /citations?hl=zh-TW&user=36ofBJgAAAAJ	Soumith Chintala	Facebook AI Research	33975
 /citations?hl=zh-TW&user=tJ_PrzgAAAAJ	Abdelrahman Mohamed	Research scientist, Facebook AI Research	29184
 /citations?hl=zh-TW&user=ID9QePIAAAAJ	Kurt Keutzer	Professor of the Graduate School, EECS, University of California, Berkeley	29099
@@ -187,7 +187,7 @@
 /citations?hl=zh-TW&user=h0a5q3QAAAAJ	Vincent Lepetit	TU Graz	27474
 /citations?hl=zh-TW&user=W5WbqgoAAAAJ	Xiaodong He (何晓冬)	JD	25589
 /citations?hl=zh-TW&user=HXowq5YAAAAJ	Michael Maire	University of Chicago	25421
-/citations?hl=zh-TW&user=y5zkBeMAAAAJ	Kai Yu	startup	25164
+/citations?hl=zh-TW&user=y5zkBeMAAAAJ	Kai Yu	industry	25164
 /citations?hl=zh-TW&user=Jq8ZS5kAAAAJ	Simon Osindero	Senior Staff Scientist @ DeepMind	24280
 /citations?hl=zh-TW&user=gFtI-8QAAAAJ	Yu Qiao	Professor of Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences	24099
 /citations?hl=zh-TW&user=LFyg0tAAAAAJ	Nal Kalchbrenner	Google Brain Amsterdam	23353
@@ -195,7 +195,7 @@
 /citations?hl=zh-TW&user=Fykyo9gAAAAJ	Nuno Vasconcelos	Professor of Electrical and Computer Engineering, University of California San Diego	21928
 /citations?hl=zh-TW&user=z84rLjoAAAAJ	Ling Shao	MBZUAI	21858
 /citations?hl=zh-TW&user=z5SPCmgAAAAJ	Jingdong Wang	Microsoft Research	21560
-/citations?hl=zh-TW&user=6GdwHssAAAAJ	George Papandreou	Startup	21083
+/citations?hl=zh-TW&user=6GdwHssAAAAJ	George Papandreou	industry	21083
 /citations?hl=zh-TW&user=E0iCaa4AAAAJ	Song Han	Massachusetts Institute of Technology	20059
 /citations?hl=zh-TW&user=7OTD-LEAAAAJ	Zhuang Liu	PhD student at UC Berkeley	19050
 /citations?hl=zh-TW&user=NMhRWkIAAAAJ	Gang Wang	Alibaba Damo Academy	18227
@@ -218,7 +218,7 @@
 /citations?hl=zh-TW&user=rEYarG0AAAAJ	Junjie Yan	SenseTime Group Limited	11219
 /citations?hl=zh-TW&user=83HL5FwAAAAJ	Thomas Kipf	Research Scientist, Google Brain	11170
 /citations?hl=zh-TW&user=DQOT0OMAAAAJ	Hailin Jin	Senior Principal Scientist, Adobe Research	10807
-/citations?hl=zh-TW&user=WuJckpkAAAAJ	Vijay Badrinarayanan	startup	10095
+/citations?hl=zh-TW&user=WuJckpkAAAAJ	Vijay Badrinarayanan	industry	10095
 /citations?hl=zh-TW&user=rBVA5tcAAAAJ	Mohit Iyyer	Assistant Professor, University of Massachusetts Amherst	10081
 /citations?hl=zh-TW&user=Y2GtJkAAAAAJ	Saining Xie	Research Scientist, Facebook AI Research (FAIR)	10046
 /citations?hl=zh-TW&user=PRrGVmoAAAAJ	Wei Cheng	Senior Research Staff Member, NEC Laboratories America (Ph.D, UNC-Chapel Hill)	10004
@@ -232,19 +232,19 @@
 /citations?hl=zh-TW&user=20Y73oIAAAAJ	Lichan Hong	Google Brain	9015
 /citations?hl=zh-TW&user=n4QjVfoAAAAJ	Xiang Zhang	Research Scientist, Google	8654
 /citations?hl=zh-TW&user=GwKF9rMAAAAJ	Jimei Yang	Senior Research Scientist, Adobe Research	8513
-/citations?hl=zh-TW&user=vTWuk1gAAAAJ	Rupesh Kumar Srivastava	startup	8220
+/citations?hl=zh-TW&user=vTWuk1gAAAAJ	Rupesh Kumar Srivastava	industry	8220
 /citations?hl=zh-TW&user=A6yjdJAAAAAJ	Bing Xiang	Amazon	8166
 /citations?hl=zh-TW&user=8ipao8MAAAAJ	Jake Zhao	New York University	8049
 /citations?hl=zh-TW&user=7oLbhAwAAAAJ	Mingli Song	Full Professor of Computer Science, Zhejiang University	7950
 /citations?hl=zh-TW&user=bGn0uacAAAAJ	Xiaojuan Qi	Assistant Professor, The University of Hong Kong	7916
 /citations?hl=zh-TW&user=pTvhQDQAAAAJ	Shubho Sengupta	Facebook AI Research	7877
-/citations?hl=zh-TW&user=x5lXo2YAAAAJ	Zhengdong Lu	startup	7769
+/citations?hl=zh-TW&user=x5lXo2YAAAAJ	Zhengdong Lu	industry	7769
 /citations?hl=zh-TW&user=vAIECxgAAAAJ	Yefeng Zheng	Tencent, Shenzhen, China	7762
 /citations?hl=zh-TW&user=v1CRzeAAAAAJ	Ramakrishna Vedantam	Research Scientist, Facebook AI Research	7699
-/citations?hl=zh-TW&user=SeGmqkIAAAAJ	Eugenio Culurciello	Startup	7672
-/citations?hl=zh-TW&user=PwU16JEAAAAJ	Jiwei Li	startup	7427
+/citations?hl=zh-TW&user=SeGmqkIAAAAJ	Eugenio Culurciello	industry	7672
+/citations?hl=zh-TW&user=PwU16JEAAAAJ	Jiwei Li	industry	7427
 /citations?hl=zh-TW&user=OtA9SwIAAAAJ	Dinh Phung	Professor, Monash University	7376
-/citations?hl=zh-TW&user=xhvzHFAAAAAJ	Jiwon Kim	Startup	7332
+/citations?hl=zh-TW&user=xhvzHFAAAAAJ	Jiwon Kim	industry	7332
 /citations?hl=zh-TW&user=D4JkWxf-8fwC	Georgios Tzimiropoulos	Associate Professor, Queen Mary University of London	7285
 /citations?hl=zh-TW&user=1fsmwB8AAAAJ	Ruoming Pang	Google Brain	7108
 /citations?hl=zh-TW&user=7qXxyJkAAAAJ	Zhilin Yang	Carnegie Mellon University	7047
@@ -264,7 +264,7 @@
 /citations?hl=zh-TW&user=ADMVEmsAAAAJ	Leon A. Gatys	Apple Inc.	5971
 /citations?hl=zh-TW&user=VxpypngAAAAJ	Kihyuk Sohn	Research Scientist, Google	5907
 /citations?hl=zh-TW&user=1rhBlUEAAAAJ	Weihong Deng	Professor, Beijing University of Posts and Telecommunications	5878
-/citations?hl=zh-TW&user=DM-L3Z4AAAAJ	Sasank Chilamkurthy	startup	5849
+/citations?hl=zh-TW&user=DM-L3Z4AAAAJ	Sasank Chilamkurthy	industry	5849
 /citations?hl=zh-TW&user=xf1T870AAAAJ	Elisa Ricci	University of Trento	5817
 /citations?hl=zh-TW&user=B8wslVsAAAAJ	Shixiang Gu	Senior Research Scientist, Google Brain	5723
 /citations?hl=zh-TW&user=wVIG7l8AAAAJ	Dennis DeCoste	Apple	5688
@@ -286,16 +286,16 @@
 /citations?hl=zh-TW&user=6POeyBoAAAAJ	Mingxing Tan	Google Brain	4737
 /citations?hl=zh-TW&user=ngVttWUAAAAJ	Rui Chen	Samsung Research	4695
 /citations?hl=zh-TW&user=_moJlrIAAAAJ	Xiang Ren	Assistant Professor of Computer Science, USC	4669
-/citations?hl=zh-TW&user=_bhjsJgAAAAJ	Yu Wang	Startup	4626
+/citations?hl=zh-TW&user=_bhjsJgAAAAJ	Yu Wang	industry	4626
 /citations?hl=zh-TW&user=KSvkraAAAAAJ	Sheng Li	Google	4606
 /citations?hl=zh-TW&user=iRUO1ckAAAAJ	Yue Cao	Senior Researcher, Microsoft Research Asia	4558
-/citations?hl=zh-TW&user=xfskSZEAAAAJ	Xinchen Yan	Uber	4542
+/citations?hl=zh-TW&user=xfskSZEAAAAJ	Xinchen Yan	Industry	4542
 /citations?hl=zh-TW&user=8suupocAAAAJ	Xiaojun Chang	Faculty of Information Technology, Monash University	4522
 /citations?hl=zh-TW&user=GEehwv8AAAAJ	Nils Thuerey	Technical University of Munich	4494
 /citations?hl=zh-TW&user=CWOixywAAAAJ	Sharan Narang	Research Engineer, Google Brain	4432
 /citations?hl=zh-TW&user=1VI_oYUAAAAJ	Zhiding Yu	Senior Research Scientist, NVIDIA Research	4388
 /citations?hl=zh-TW&user=0W63ivcAAAAJ	Yoram Bachrach	DeepMind	4336
-/citations?hl=zh-TW&user=s2lG0X0AAAAJ	Takeru Miyato	Startup	4322
+/citations?hl=zh-TW&user=s2lG0X0AAAAJ	Takeru Miyato	industry	4322
 /citations?hl=zh-TW&user=OROjmc8AAAAJ	Cheng Deng	Xidian University	4302
 /citations?hl=zh-TW&user=aLHWnHsAAAAJ	Asli Celikyilmaz	Principal Researcher, Microsoft Research	4250
 /citations?hl=zh-TW&user=E64XWyMAAAAJ	Zhe Gan	Senior Researcher, Microsoft	4205
@@ -308,9 +308,9 @@
 /citations?hl=zh-TW&user=snDpfA0AAAAJ	Fuxin Li	Oregon State University	4023
 /citations?hl=zh-TW&user=PsKlNzUAAAAJ	Dmitriy Serdyuk	Ph.D. student at MILA, University of Montreal	4008
 /citations?hl=zh-TW&user=QSTd1oUAAAAJ	Yixuan Li	University of Wisconsin-Madison	3984
-/citations?hl=zh-TW&user=w8qPxSUAAAAJ	Roland Vollgraf	startup	3964
+/citations?hl=zh-TW&user=w8qPxSUAAAAJ	Roland Vollgraf	industry	3964
 /citations?hl=zh-TW&user=ri1sE34AAAAJ	Sainbayar Sukhbaatar	Research Scientist, Facebook AI Research	3930
-/citations?hl=zh-TW&user=RKp9_nQAAAAJ	Hongcheng Wang	startup	3921
+/citations?hl=zh-TW&user=RKp9_nQAAAAJ	Hongcheng Wang	industry	3921
 /citations?hl=zh-TW&user=EEMm7hwAAAAJ	Lingxi Xie	Senior Researcher, Huawei	3870
 /citations?hl=zh-TW&user=RCTeTV0AAAAJ	Tomasz Malisiewicz	Sr. Research Scientist at Amazon Robotics AI	3842
 /citations?hl=zh-TW&user=-CLCMk4AAAAJ	Jiahui Yu	Research Scientist, Google Brain	3827
@@ -338,7 +338,7 @@
 /citations?hl=zh-TW&user=wIV5UK4AAAAJ	Zhourong Chen	Google Research	3347
 /citations?hl=zh-TW&user=wotfaAgAAAAJ	Kanishka Rao	Software Engineer, Google	3329
 /citations?hl=zh-TW&user=tpXiQkYAAAAJ	Xu Sun	Associate Professor, Peking University	3326
-/citations?hl=zh-TW&user=78vU1IUAAAAJ	Weilin Huang	startup	3312
+/citations?hl=zh-TW&user=78vU1IUAAAAJ	Weilin Huang	industry	3312
 /citations?hl=zh-TW&user=8VY7ZDcAAAAJ	Xianglong Liu	Beihang University	3269
 /citations?hl=zh-TW&user=hW9fwNYAAAAJ	Jean-François Lalonde	Université Laval	3220
 /citations?hl=zh-TW&user=nCmKPM4AAAAJ	Yong Xu	Senior Research Scientist, Tencent America, Bellevue, USA	3215
@@ -347,9 +347,9 @@
 /citations?hl=zh-TW&user=JOvBjKMAAAAJ	Yi Li	Google Brain	3169
 /citations?hl=zh-TW&user=XfBr0_wAAAAJ	Vinh Nguyen	Deep Learning @NVIDIA	3166
 /citations?hl=zh-TW&user=rYsjwZgAAAAJ	Miltiadis Allamanis	Microsoft Research	3159
-/citations?hl=zh-TW&user=D2H5EFEAAAAJ	Thomas Wolf	Chief Science Officer at HuggingFace	3144
+/citations?hl=zh-TW&user=D2H5EFEAAAAJ	Thomas Wolf	Industry	3144
 /citations?hl=zh-TW&user=iS_jP_3dpD8J	Damien Teney	EPFL	3115
-/citations?hl=zh-TW&user=t7XE42UAAAAJ	Balázs Hidasi	startup	3092
+/citations?hl=zh-TW&user=t7XE42UAAAAJ	Balázs Hidasi	industry	3092
 /citations?hl=zh-TW&user=obpl7GQAAAAJ	Hanjun Dai	Google Brain	3009
 /citations?hl=zh-TW&user=bh-uRFMAAAAJ	Trevor Darrell	Professor of Computer Science, UC Berkeley	141942
 /citations?hl=zh-TW&user=gLnCTgIAAAAJ	Juergen Schmidhuber	IDSIA	125757
@@ -420,7 +420,7 @@
 /citations?hl=zh-TW&user=D7jDk7gAAAAJ	Wenyu Liu	Huazhong University of Science and Technology	12640
 /citations?hl=zh-TW&user=fCFwERYAAAAJ	Stephen F. Smith	Research Professor of Robotics, Carnegie Mellon University	12600
 /citations?hl=zh-TW&user=sYTUOu8AAAAJ	Byoung-Tak Zhang	Professor of Computer Science, Cognitive Science, and Brain Science, Seoul National University	12134
-/citations?hl=zh-TW&user=HwDTzQEAAAAJ	Jonathan Masci	startup	11988
+/citations?hl=zh-TW&user=HwDTzQEAAAAJ	Jonathan Masci	industry	11988
 /citations?hl=zh-TW&user=XSforroAAAAJ	Yann N. Dauphin	Google AI	11773
 /citations?hl=zh-TW&user=SIayDoQAAAAJ	Yarin Gal	Associate Professor, University of Oxford	11579
 /citations?hl=zh-TW&user=uFHCIM0AAAAJ	Min-Ling Zhang	Professor, School of Computer Science and Engineering, Southeast University, China	11335
@@ -503,11 +503,11 @@
 /citations?hl=zh-TW&user=DV8z8DYAAAAJ	Mitesh M. Khapra	Indian Institute of Technology Madras
 /citations?hl=zh-TW&user=NU2aHWUAAAAJ	Ruihong Huang	Assistant Professor, Computer Science & Engineering Department, Texas A&M University
 /citations?hl=zh-TW&user=kz2aIc8AAAAJ	Franck Dernoncourt	Research Scientist, Adobe Research (MIT PhD)
-/citations?hl=zh-TW&user=rrrbjMMAAAAJ	Masaaki Nagata	NTT Corporation
+/citations?hl=zh-TW&user=rrrbjMMAAAAJ	Masaaki Nagata	Industry
 /citations?hl=zh-TW&user=KjQBe8oAAAAJ	Derek F. Wong	Associate Professor, Department of Computer and Information Science, University of Macau
 /citations?hl=zh-TW&user=DvVelLcAAAAJ	Deyu Zhou	Professor, School of computer science and engineering, SEU
 /citations?hl=zh-TW&user=0SZVO0sAAAAJ	Fangzhao Wu	Microsoft Research Asia
-/citations?hl=zh-TW&user=u1s2HN4AAAAJ	Yi Yang	Startup
+/citations?hl=zh-TW&user=u1s2HN4AAAAJ	Yi Yang	industry
 /citations?hl=zh-TW&user=alDxINIAAAAJ	Jian-Guang Lou	Microsoft Research Asia
 /citations?hl=zh-TW&user=tmK5EPEAAAAJ	Jonathan May	University of Southern California, Information Sciences Institute
 /citations?hl=zh-TW&user=nNeD95EAAAAJ	Marek Rei	Lecturer, Imperial College London
@@ -638,7 +638,7 @@
 /citations?hl=zh-TW&user=JNhNacoAAAAJ	Wayne Xin Zhao	Professor, Renmin University of China
 /citations?hl=zh-TW&user=K-isjagAAAAJ	He He	New York University
 /citations?hl=zh-TW&user=jqOFBGoAAAAJ	Ekaterina Shutova	ILLC, University of Amsterdam
-/citations?hl=zh-TW&user=g2uay50AAAAJ	Tao Lei	startup
+/citations?hl=zh-TW&user=g2uay50AAAAJ	Tao Lei	industry
 /citations?hl=zh-TW&user=jkV6H1gAAAAJ	Iz Beltagy	Allen Institute for Artificial Intelligence
 /citations?hl=zh-TW&user=eKw69rcAAAAJ	Tiancheng Zhao	Carnegie Mellon University
 /citations?hl=zh-TW&user=bjFPXksAAAAJ	Richong Zhang	Associate Professor of Computer Science, Beihang University
@@ -720,7 +720,7 @@
 /citations?hl=zh-TW&user=CcbnBvgAAAAJ	Jiebo Luo	Professor of Computer Science, University of Rochester
 /citations?hl=zh-TW&user=kPxa2w0AAAAJ	Philip H. S. Torr	Oxford
 /citations?hl=zh-TW&user=voxznZAAAAAJ	Xiaodan Liang	Associate Professor, Sun Yat-sen University
-/citations?hl=zh-TW&user=nFhLmFkAAAAJ	Yu-Wing Tai	Kuaishou
+/citations?hl=zh-TW&user=nFhLmFkAAAAJ	Yu-Wing Tai	industry
 /citations?hl=zh-TW&user=eUtEs6YAAAAJ	Matthias Nießner	TUM
 /citations?hl=zh-TW&user=3B2c31wAAAAJ	Alexander G. Schwing	UIUC
 /citations?hl=zh-TW&user=lZQRrrkAAAAJ	Wenguan Wang	ETH Zurich
@@ -737,7 +737,7 @@
 /citations?hl=zh-TW&user=ATkNLcQAAAAJ	Ian D. Reid	University of Adelaide
 /citations?hl=zh-TW&user=DAn1pA4AAAAJ	Lin Ma	Meituan
 /citations?hl=zh-TW&user=h-JEcQ8AAAAJ	Yun Fu	NEU
-/citations?hl=zh-TW&user=NS8RkccAAAAJ	Li Liu	startup
+/citations?hl=zh-TW&user=NS8RkccAAAAJ	Li Liu	industry
 /citations?hl=zh-TW&user=TFsE4BIAAAAJ	Federico Tombari	TUM
 /citations?hl=zh-TW&user=lc45xlcAAAAJ	Ziwei Liu	NTU
 /citations?hl=zh-TW&user=eUbmKwYAAAAJ	Bingbing Ni	SJTU
@@ -749,8 +749,8 @@
 /citations?hl=zh-TW&user=tjEfgsEAAAAJ	Qixiang Ye	University of Chinese Academy of Sciences, University of Maryland
 /citations?hl=zh-TW&user=aKXe1FEAAAAJ	Qi Wu	University of Adelaide
 /citations?hl=zh-TW&user=7hNKrPsAAAAJ	Gim Hee Lee	NUS
-/citations?hl=zh-TW&user=vD-ezyQAAAAJ	Fan Zhu	startup
-/citations?hl=zh-TW&user=yuB-cfoAAAAJ	Xiangyu Zhang	Startup
+/citations?hl=zh-TW&user=vD-ezyQAAAAJ	Fan Zhu	industry
+/citations?hl=zh-TW&user=yuB-cfoAAAAJ	Xiangyu Zhang	industry
 /citations?hl=zh-TW&user=OpXMNnMAAAAJ	Gerard Pons-Moll	MPI
 /citations?hl=zh-TW&user=2A2Bx2UAAAAJ	Guanbin Li	SYSU
 /citations?hl=zh-TW&user=TkVHKDgAAAAJ	Jianming Zhang	Adobe
@@ -839,6 +839,8 @@
 /citations?hl=zh-TW&user=LZIPfCkAAAAJ	Meng Jiang	University of Notre Dame
 /citations?hl=zh-TW&user=hDLBEhkAAAAJ	Nitesh V. Chawla	University of Notre Dame
 /citations?hl=zh-TW&user=BCxFU0EAAAAJ	Tianbao Yang	University of Iowa
+/citations?hl=zh-TW&user=vyteiT4AAAAJ	Yaron Lipman	Weizmann Institute
+/citations?hl=zh-TW&user=GWmahLMAAAAJ	Yuji Matsumoto	Team Leader, RIKEN Center for Advanced Intelligence Project
 /citations?hl=zh-TW&user=1zmDOdwAAAAJ	Christopher D Manning	Professor of Computer Science and Linguistics, Stanford University	172618
 /citations?hl=zh-TW&user=Kt1bjZoAAAAJ	Bing Liu	Distinguished Professor, University of Illinois at Chicago	72142
 /citations?hl=zh-TW&user=qIL9dWUAAAAJ	Hinrich Schütze	University of Munich	56208
@@ -866,8 +868,8 @@
 /citations?hl=zh-TW&user=lLBHtFUAAAAJ	Joakim Nivre	Professor of Computational Linguistics, Uppsala University	18925
 /citations?hl=zh-TW&user=zyMJ1V0AAAAJ	Liu Ting	Harbin Institute of Technology	18396
 /citations?hl=zh-TW&user=VvdtcWcAAAAJ	Dekang Lin	Senior Staff Research Scientist, Google	17997
-/citations?hl=zh-TW&user=W8zwlYQAAAAJ	Jamie Kiros	Co-Founder, Startup	17831
-/citations?hl=zh-TW&user=6IXPMJ0AAAAJ	Ryan McDonald	startup	17677
+/citations?hl=zh-TW&user=W8zwlYQAAAAJ	Jamie Kiros	Co-Founder, industry	17831
+/citations?hl=zh-TW&user=6IXPMJ0AAAAJ	Ryan McDonald	industry	17677
 /citations?hl=zh-TW&user=7jNkTbYAAAAJ	Mark Dredze	Johns Hopkins University	17463
 /citations?hl=zh-TW&user=BsgVJ-EAAAAJ	Roberto Navigli	Full Professor @ Sapienza University of Rome	17186
 /citations?hl=zh-TW&user=aTySmnAAAAAJ	Kishore Papineni	Google	17049
@@ -1008,7 +1010,7 @@
 /citations?hl=zh-TW&user=TP_JZm8AAAAJ	Jason Baldridge	Research Scientist, Google	4859
 /citations?hl=zh-TW&user=CIZwXAcAAAAJ	Partha Talukdar	Google Research and IISc Bangalore	4854
 /citations?hl=zh-TW&user=lVhoKNcAAAAJ	Yang Liu	Professor of Computer Science, Tsinghua University	4852
-/citations?hl=zh-TW&user=tDajnHEAAAAJ	Bin Wang	AI Lab, Xiaomi Inc.	4849
+/citations?hl=zh-TW&user=tDajnHEAAAAJ	Bin Wang	Industry	4849
 /citations?hl=zh-TW&user=NTTQbJsAAAAJ	Matteo Negri	Fondazione Bruno Kessler	4818
 /citations?hl=zh-TW&user=xCYHonIAAAAJ	Jonathan Berant	Associate Professor, Tel-Aviv University, Research Scientist, Allen Institute for AI	4799
 /citations?hl=zh-TW&user=AvH7tJwAAAAJ	Chris Quirk	Researcher, Microsoft Research	4754
@@ -1061,7 +1063,7 @@
 /citations?hl=zh-TW&user=u5LmeasAAAAJ	Yunyao Li	Principal Research Staff Member, IBM Research --- Almaden	3269
 /citations?hl=zh-TW&user=XfqR3yYAAAAJ	Qi Zhang (张奇)	Professor of Computer Science, Fudan University	3231
 /citations?hl=zh-TW&user=Ysjk8kkAAAAJ	Holger Schwenk	Research scientist, Facebook, and professor of Computer Science	28914
-/citations?hl=zh-TW&user=a0w5c0gAAAAJ	Ming Zhou (周明)	startup	23805
+/citations?hl=zh-TW&user=a0w5c0gAAAAJ	Ming Zhou (周明)	industry	23805
 /citations?hl=zh-TW&user=h0zfd-0AAAAJ	Llion Jones	Google	22037
 /citations?hl=zh-TW&user=vaSdahkAAAAJ	Caiming Xiong	Salesforce Research	10498
 /citations?hl=zh-TW&user=6NqRjRYAAAAJ	Barry Haddow	University of Edinburgh	10481
@@ -1076,7 +1078,7 @@
 /citations?hl=zh-TW&user=KjvrNGMAAAAJ	Noam Slonim	Research Staff Member at IBM Research	5292
 /citations?hl=zh-TW&user=l8lvKOQAAAAJ	Chengqing Zong (宗成庆)	Institute of Automation, Chinese Academy of Sciences	5208
 /citations?hl=zh-TW&user=8P1Y_90AAAAJ	Abe Ittycheriah	Google	4682
-/citations?hl=zh-TW&user=H9buyroAAAAJ	Yinhan Liu	startup	4162
+/citations?hl=zh-TW&user=H9buyroAAAAJ	Yinhan Liu	industry	4162
 /citations?hl=zh-TW&user=XI2CP68AAAAJ	Idan Szpektor	Google	3995
 /citations?hl=zh-TW&user=IwGLficAAAAJ	Yifan Peng	Cornell	3886
 /citations?hl=zh-TW&user=XUI4PMEAAAAJ	Sida I. Wang	Facebook AI	3798
@@ -1259,7 +1261,7 @@
 /citations?hl=zh-TW&user=XPAkzTEAAAAJ	Jiaya Jia	Professor, CUHK	31062
 /citations?hl=zh-TW&user=yV7LaW8AAAAJ	Ron Kimmel	Professor of Computer Science, Technion, Israel 	30053
 /citations?hl=zh-TW&user=bqL73OkAAAAJ	Abhinav Gupta	Associate Professor, Robotics Institute, Carnegie Mellon University	29828
-/citations?hl=zh-TW&user=8Cph5uQAAAAJ	Patrick Pérez	startup	29588
+/citations?hl=zh-TW&user=8Cph5uQAAAAJ	Patrick Pérez	industry	29588
 /citations?hl=zh-TW&user=559LF80AAAAJ	Chen Change Loy	Nanyang Technological University	28796
 /citations?hl=zh-TW&user=xKOEaRoAAAAJ	Svetlana Lazebnik	University of Illinois at Urbana-Champaign	28572
 /citations?hl=zh-TW&user=vjZrDKQAAAAJ	James Hays	Georgia Tech	28302
@@ -1274,7 +1276,7 @@
 /citations?hl=zh-TW&user=8kA3eDwAAAAJ	James M. Rehg	Professor of Computer Science, Georgia Institute of Technology	24468
 /citations?hl=zh-TW&user=6CIDtZQAAAAJ	Jian Yang	Prof. of Computer Science, Nanjing University of Science and Technology	24296
 /citations?hl=zh-TW&user=tNtjSewAAAAJ	Nicu Sebe	University of Trento	24143
-/citations?hl=zh-TW&user=a2KklUoAAAAJ	Matthew Zeiler	startup	24100
+/citations?hl=zh-TW&user=a2KklUoAAAAJ	Matthew Zeiler	industry	24100
 /citations?hl=zh-TW&user=D3nE0agAAAAJ	Huchuan Lu	dalian university of technology	23849
 /citations?hl=zh-TW&user=VpB8NZ8AAAAJ	Fatih Porikli	Australian National University	23531
 /citations?hl=zh-TW&user=vVx2v20AAAAJ	Xilin Chen	Institute of Computing Technology, Chinese Academy of Sciences	23386
@@ -1307,7 +1309,7 @@
 /citations?hl=zh-TW&user=-DYvinwAAAAJ	Santosh Kumar Divvala	Allenai, UW	17286
 /citations?hl=zh-TW&user=hI9NRDkAAAAJ	Changsheng Xu	Professor, Institute of Automation, Chinese Academy of Sciences	17276
 /citations?hl=zh-TW&user=nMGZ2ZQAAAAJ	Anton van den Hengel	University of Adelaide	17262
-/citations?hl=zh-TW&user=y3xgouMAAAAJ	Menglong Zhu	Director of Machine Learning, DJI	17228
+/citations?hl=zh-TW&user=y3xgouMAAAAJ	Menglong Zhu	Industry	17228
 /citations?hl=zh-TW&user=bEG3ZrwAAAAJ	James Philbin	Google	17185
 /citations?hl=zh-TW&user=6sWGL5wAAAAJ	Tom Drummond	Professor of Engineering, Monash University	16971
 /citations?hl=zh-TW&user=eWbZJlMAAAAJ	Florian Schroff	Google Inc.	16791
@@ -1339,7 +1341,7 @@
 /citations?hl=zh-TW&user=Bl9FSL0AAAAJ	Greg Mori	Simon Fraser University	14694
 /citations?hl=zh-TW&user=kQisE-gAAAAJ	Georgia Gkioxari	UC Berkeley, Facebook AI Research	14630
 /citations?hl=zh-TW&user=Nav8m8gAAAAJ	Liang Lin	Professor, School of Data and Computer Science, Sun Yat-Sen University, China	14567
-/citations?hl=zh-TW&user=O7A6nYMAAAAJ	Yichen Wei	startup	14130
+/citations?hl=zh-TW&user=O7A6nYMAAAAJ	Yichen Wei	industry	14130
 /citations?hl=zh-TW&user=j7MW4iYAAAAJ	Ce Liu	Research Scientist, Google Research	14090
 /citations?hl=zh-TW&user=0uKdbscAAAAJ	Cees Snoek	Professor, University of Amsterdam	14038
 /citations?hl=zh-TW&user=mwsxrm4AAAAJ	Jianping Shi	SenseTime Group Limited	13983
@@ -1351,7 +1353,7 @@
 /citations?hl=zh-TW&user=dzOd2hgAAAAJ	Philipp Krähenbühl	UT Austin	13469
 /citations?hl=zh-TW&user=Bii0w1oAAAAJ	Xiaoming Liu	MSU Foundation Professor, Computer Science and Engineering, Michigan State University	13450
 /citations?hl=zh-TW&user=DxQiCiIAAAAJ	Ahmed Elgammal	Rutgers University	13421
-/citations?hl=zh-TW&user=7SgUlggAAAAJ	Gang Hua	startup	13198
+/citations?hl=zh-TW&user=7SgUlggAAAAJ	Gang Hua	industry	13198
 /citations?hl=zh-TW&user=WZfM0qsAAAAJ	Matthew Brown	Research Scientist, Google	13169
 /citations?hl=zh-TW&user=ByBLlEwAAAAJ	Jinhui Tang	Nanjing University of Science and Technology	13166
 /citations?hl=zh-TW&user=BN2Ze-QAAAAJ	Hongsheng Li	Assistant Professor at The Chinese University of Hong Kong	13153
@@ -1362,7 +1364,7 @@
 /citations?hl=zh-TW&user=yA4rb60AAAAJ	Tinghui Zhou	PhD student, UC Berkeley	12728
 /citations?hl=zh-TW&user=0JRtCV4AAAAJ	Jianxin Wu	Professor, Nanjing University	12607
 /citations?hl=zh-TW&user=Gsw2iUEAAAAJ	Joost van de Weijer	Computer Vision Center, UAB	12562
-/citations?hl=zh-TW&user=7jTNT1IAAAAJ	Ali Borji	startup	12461
+/citations?hl=zh-TW&user=7jTNT1IAAAAJ	Ali Borji	industry	12461
 /citations?hl=zh-TW&user=UIhXQ64AAAAJ	Alexandre Alahi	Assistant Professor, EPFL	12458
 /citations?hl=zh-TW&user=aCQjyp0AAAAJ	João F. Henriques	Visual Geometry Group, University of Oxford	12399
 /citations?hl=zh-TW&user=xfRtWTIAAAAJ	George Toderici	Google, Inc.	12334
