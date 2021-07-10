@@ -219,7 +219,6 @@
 /citations?hl=zh-TW&user=GMzzRRUAAAAJ	Dahua Lin	The Chinese University of Hong Kong	12048
 /citations?hl=zh-TW&user=_cUfvYQAAAAJ	Wenjun Zeng	Sr. Principal Research Manager, Microsoft Research Asia	11862
 /citations?hl=zh-TW&user=SH_-B_AAAAAJ	Jifeng Dai	Executive Research Director, SenseTime Research	11861
-/citations?hl=zh-TW&user=Yigl1swAAAAJ	Chong-Wah Ngo	Singapore Management University	11748
 /citations?hl=zh-TW&user=LHTI1W8AAAAJ	Cristian Sminchisescu	Professor, Lund University	11617
 /citations?hl=zh-TW&user=mvvgDvcAAAAJ	Richard Bowden	Professor of Computer Vision and Machine Learning, University of Surrey	11556
 /citations?hl=zh-TW&user=0EKXSXgAAAAJ	Peter Wonka	King Abdullah University of Science and Technology (KAUST)	11462
@@ -239,3 +238,4 @@
 /citations?hl=zh-TW&user=DQOT0OMAAAAJ	Hailin Jin	Senior Principal Scientist, Adobe Research	10807
 /citations?hl=zh-TW&user=wCxzFrMAAAAJ	Yasutaka Furukawa	Associate Professor of Computing Science at Simon Fraser University	10792
 /citations?hl=zh-TW&user=gMBvzGoAAAAJ	Xin Li	West Virginia University	10785
+/citations?hl=zh-TW&user=HM39HrUAAAAJ	Chong-Wah Ngo	Singapore Management University	11748

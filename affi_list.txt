@@ -275,3 +275,5 @@ kit	eur	de	a
 emory	nam	us	a
 rice	nam	us	a
 iu	nam	us	a
+shanghaitech	asi	cn	a
+uta	nam	us	a

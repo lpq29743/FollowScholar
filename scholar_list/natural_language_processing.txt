@@ -19,7 +19,6 @@
 /citations?hl=zh-TW&user=Qrd7FCoAAAAJ	Julia Hirschberg	Columbia University	25704
 /citations?hl=zh-TW&user=W5WbqgoAAAAJ	Xiaodong He (何晓冬)	JD	25589
 /citations?hl=zh-TW&user=DxoenfgAAAAJ	Michael Collins	Professor of Computer Science, Columbia University; Google NYC	25483
-/citations?hl=zh-TW&user=d7PTaOYAAAAJ	Kevin Knight	Professor, University of Southern California	25297
 /citations?hl=zh-TW&user=duusroUAAAAJ	Jakob Uszkoreit	Google, Inc.	25280
 /citations?hl=zh-TW&user=mWS1pY4AAAAJ	Minlie Huang	computer science, Tsinghua University	25144
 /citations?hl=zh-TW&user=ujDhg2sAAAAJ	Kathleen McKeown	Columbia University	23999
@@ -246,3 +245,4 @@
 /citations?hl=zh-TW&user=NAdlsUgAAAAJ	Saizheng Zhang	University of Montreal	3285
 /citations?hl=zh-TW&user=u5LmeasAAAAJ	Yunyao Li	Principal Research Staff Member, IBM Research --- Almaden	3269
 /citations?hl=zh-TW&user=XfqR3yYAAAAJ	Qi Zhang (张奇)	Professor of Computer Science, Fudan University	3231
+/citations?hl=zh-TW&user=oQnyyGkAAAAJ	Kevin Knight	Professor, University of Southern California	25297

@@ -71,3 +71,14 @@ Jun'ichi Tsujii	Junichi Tsujii
 Partha P. Talukdar	Partha Talukdar
 Larry S. Davis	Larry Davis
 Ross B. Girshick	Ross Girshick
+Goran Glavas	Goran Glavaš
+Richard S. Zemel	Richard Zemel
+Tommi S. Jaakkola	Tommi Jaakkola
+Roger B. Grosse	Roger Grosse
+Francis R. Bach	Francis Bach
+J. Zico Kolter	Zico Kolter
+David P. Woodruff	David Woodruff
+Sham M Kakade	Sham M. Kakade
+Vahab S. Mirrokni	Vahab Mirrokni
+Richard E Turner	Richard E. Turner
+Csaba Szepesvári	Csaba Szepesvari

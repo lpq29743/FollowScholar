@@ -43,6 +43,7 @@ print('Removing scholars:')
 for scholar in previous_list:
     if scholar not in new_list:
         print(scholar, end=', ')
+print()
 print('Adding scholars:')
 for scholar in new_list:
     if scholar not in previous_list:

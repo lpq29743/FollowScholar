@@ -70,7 +70,6 @@
 /citations?hl=zh-TW&user=27eupmsAAAAJ	Michael Kaess	Associate Research Professor, Carnegie Mellon University	9189
 /citations?hl=zh-TW&user=y4E4buEAAAAJ	Sangbae Kim	Professor of Mechanical Engineering, MIT	9072
 /citations?hl=zh-TW&user=rQoKPUsAAAAJ	George Kantor	Senior Systems Scientist, Carnegie Mellon University	8833
-/citations?hl=zh-TW&user=32o8MkcAAAAJ	Gordon Cheng	Technical University of Munich	8774
 /citations?hl=zh-TW&user=EMDboA4AAAAJ	Yan Duan	Embodied Intelligence, UC Berkeley	8263
 /citations?hl=zh-TW&user=TDSmCKgAAAAJ	Michael Milford	QUT	7902
 /citations?hl=zh-TW&user=B76dD7YAAAAJ	Peter Welinder	OpenAI	7765
@@ -110,3 +109,4 @@
 /citations?hl=zh-TW&user=NdOqlPQAAAAJ	Farshad Khorrami	Professor of Electrical and Computer Engineering, NYU	4968
 /citations?hl=zh-TW&user=t3l8q6gAAAAJ	Francesco Nori	Head of the robotics lab, Deepmind	4961
 /citations?hl=zh-TW&user=rq-9xAkAAAAJ	Nicolas Mansard	CNRS	4915
+/citations?hl=zh-TW&user=km_K9awAAAAJ	Gordon Cheng	Technical University of Munich	8774

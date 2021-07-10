@@ -242,7 +242,6 @@
 /citations?hl=zh-TW&user=9PLqulwAAAAJ	Ludovic Denoyer	Facebook - FAIR / Attached Professor at Sorbonne Universités
 /citations?hl=zh-TW&user=uxRWFhoAAAAJ	Nikolaos Aletras	University of Sheffield
 /citations?hl=zh-TW&user=YtqXSzMAAAAJ	Wei Wu	Head of Meituan NLP
-/citations?hl=zh-TW&user=5t495QgAAAAJ	Pontus Stenetorp	Lecturer, University College London
 /citations?hl=zh-TW&user=45DAXkwAAAAJ	Soroush Vosoughi	Assistant Professor of Computer Science, Dartmouth
 /citations?hl=zh-TW&user=IRTtnAIAAAAJ	Marjan Ghazvininejad	Research Scientist, FAIR (Facebook AI Research)
 /citations?hl=zh-TW&user=yxWtZLAAAAAJ	Sarath Chandar	Assistant Professor @ Polytechnique Montreal and Mila. Canada CIFAR AI Chair.
@@ -414,3 +413,54 @@
 /citations?hl=zh-TW&user=BCxFU0EAAAAJ	Tianbao Yang	University of Iowa
 /citations?hl=zh-TW&user=vyteiT4AAAAJ	Yaron Lipman	Weizmann Institute
 /citations?hl=zh-TW&user=GWmahLMAAAAJ	Yuji Matsumoto	Team Leader, RIKEN Center for Advanced Intelligence Project
+/citations?hl=zh-TW&user=MsRp7g0AAAAJ	Yan Song	CUHK
+/citations?hl=zh-TW&user=ukdqC6IAAAAJ	Xiaojiang Liu	Tencent
+/citations?hl=zh-TW&user=5gi3Pm0AAAAJ	Kewei Tu	ShanghaiTech University
+/citations?hl=zh-TW&user=IAL_F04AAAAJ	Asif Ekbal	Department of Computer Science and Engineering, IIT Patna, India
+/citations?hl=zh-TW&user=9zeEI-cAAAAJ	Shimon Whiteson	University of Oxford
+/citations?hl=zh-TW&user=Xl4E0CsAAAAJ	Le Song	Georgia Institute of Technology
+/citations?hl=zh-TW&user=axsP38wAAAAJ	Jun Zhu	Tsinghua
+/citations?hl=zh-TW&user=ogXTOZ4AAAAJ	Stefano Ermon	Stanford
+/citations?hl=zh-TW&user=DZ3S--MAAAAJ	Mihaela van der Schaar	University of Cambridge
+/citations?hl=zh-TW&user=HSx0BgQAAAAJ	Zhaoran Wang	Assistant Professor at Northwestern University
+/citations?hl=zh-TW&user=79k7bGEAAAAJ	Nicolas Heess	Deepmind
+/citations?hl=zh-TW&user=XEx1fZkAAAAJ	Qiang Liu	UT Austin
+/citations?hl=zh-TW&user=xaQuPloAAAAJ	Dale Schuurmans	Research Scientist, Google Brain / Professor, University of Alberta
+/citations?hl=zh-TW&user=hlWhzU8AAAAJ	Volkan Cevher	EPFL
+/citations?hl=zh-TW&user=GU9HgNAAAAAJ	Quanquan Gu	UCLA
+/citations?hl=zh-TW&user=xgQd1qgAAAAJ	Roger Grosse	Assistant Professor, University of Toronto
+/citations?hl=zh-TW&user=iBeDoRAAAAAJ	Richard Zemel	Professor of Computer Science, University of Toronto
+/citations?hl=zh-TW&user=Ao4gtsYAAAAJ	Tommi Jaakkola	MIT
+/citations?hl=zh-TW&user=6PJWcFEAAAAJ	Francis Bach	Inria
+/citations?hl=zh-TW&user=k7NgVSUAAAAJ	Zhuoran Yang	Princeton
+/citations?hl=zh-TW&user=VZHxoh8AAAAJ	Liwei Wang	Peking
+/citations?hl=zh-TW&user=m3eDp7kAAAAJ	Jinwoo Shin	KAIST
+/citations?hl=zh-TW&user=jxwlCUUAAAAJ	Pin-Yu Chen	IBM
+/citations?hl=zh-TW&user=HOkcy00AAAAJ	Gang Niu	RIKEN
+/citations?hl=zh-TW&user=i38QlUwAAAAJ	Tengyu Ma	Stanford
+/citations?hl=zh-TW&user=LXwCIisAAAAJ	Mingyuan Zhou	Associate Professor, University of Texas at Austin
+/citations?hl=zh-TW&user=UXh1I6UAAAAJ	Zico Kolter	CMU
+/citations?hl=zh-TW&user=kMmxbbIAAAAJ	David Woodruff	CMU
+/citations?hl=zh-TW&user=wb-DKCIAAAAJ	Sham M. Kakade	UW
+/citations?hl=zh-TW&user=opbZfw0AAAAJ	Vahab Mirrokni	Google
+/citations?hl=zh-TW&user=DgLEyZgAAAAJ	Richard E. Turner	Professor, University of Cambridge
+/citations?hl=zh-TW&user=RP4Qx3QAAAAJ	Sung Ju Hwang	KAIST
+/citations?hl=zh-TW&user=-3zYIjQAAAAJ	Jascha Sohl-Dickstein	Google
+/citations?hl=zh-TW&user=2efgcS0AAAAJ	Jiajun Wu	Stanford
+/citations?hl=zh-TW&user=BEBccCQAAAAJ	José Miguel Hernández-Lobato	University of Cambridge
+/citations?hl=zh-TW&user=t5zdD_IAAAAJ	Martha White	University of Alberta
+/citations?hl=zh-TW&user=RUP4S68AAAAJ	Sanjeev Arora	Princeton
+/citations?hl=zh-TW&user=TIKl_foAAAAJ	Bo Dai	Google
+/citations?hl=zh-TW&user=KmSuVtgAAAAJ	Tom Goldstein	University of Maryland
+/citations?hl=zh-TW&user=X7KrguAAAAAJ	Junzhou Huang	Associate Professor of Computer Science and Engineering at University of Texas at Arlington
+/citations?hl=zh-TW&user=GR_DsT0AAAAJ	Jason D. Lee	Princeton
+/citations?hl=zh-TW&user=Lncr-VoAAAAJ	Mohammad Norouzi	Google
+/citations?hl=zh-TW&user=jrazNCQAAAAJ	Michal Valko	Deepmind
+/citations?hl=zh-TW&user=bEcLezcAAAAJ	Animashree Anandkumar	California Institute of Technology and NVIDIA
+/citations?hl=zh-TW&user=HaN8b2YAAAAJ	Emma Brunskill	Stanford
+/citations?hl=zh-TW&user=ZLpO3XQAAAAJ	David Duvenaud	Assistant Professor, University of Toronto
+/citations?hl=zh-TW&user=pGh242UAAAAJ	Peter Richtárik	KAUST
+/citations?hl=zh-TW&user=zvC19mQAAAAJ	Csaba Szepesvari	Deepmind
+/citations?hl=zh-TW&user=gtglwgYAAAAJ	Lei Chen	HKUST
+/citations?hl=zh-TW&user=DQHL47oAAAAJ	Lu Qin	University of Technology, Sydney
+/citations?hl=zh-TW&user=GuQ9bpAAAAAJ	Dawei Yin	Baidu

@@ -20,7 +20,7 @@ class ScholarStat:
             items = line.strip().split('\t')
             self.name_convert_dict[items[0]] = items[1]
         for line in wrong_info_f.readlines():
-            self.wrong_info_list.append(line.strip())
+            self.wrong_info_list.append(line.strip().split('\t')[0])
 
     def get_conf_dict(self, conf_fname):
         conf_f = open(conf_fname, 'r')
@@ -53,6 +53,7 @@ class ScholarStat:
             scholar_citation_f = open('citation_stat/' + scholar_label + '_citation.txt', 'r')
             scholar_lines = scholar_f.readlines()
             scholar_citation_lines = scholar_citation_f.readlines()
+            assert len(scholar_lines) == len(scholar_citation_lines), scholar_label
             for scholar_line, scholar_citation_line in zip(scholar_lines, scholar_citation_lines):
                 items = scholar_line.strip().split('\t')
                 name = items[1]
